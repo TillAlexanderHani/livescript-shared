@@ -16,7 +16,7 @@ import hashlib
 import time
 import re
 import logging
-from dotenv import load_dotenv
+# # from dotenv import load_dotenv
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 
 # Load environment variables
 
-# # load_dotenv() # # 
+# # load_dotenv() 
 mistral_api_key = os.getenv("MISTRAL_API_KEY")
 email_from = os.getenv("EMAIL_FROM") 
 email_to = os.getenv("EMAIL_TO")
