@@ -1,0 +1,6 @@
+.gitignore
+.env
+downloads/
+transcripts/
+processed.json
+
