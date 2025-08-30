@@ -11,14 +11,16 @@ on:
   push:
     branches: [ main ]
     paths: 
-      - 'fixed_working_code_1.py'
+      - 'podcast_pipeline_github.py'
       - '.github/workflows/main.yml'
+
 permissions:
   contents: write
+
 jobs:
   process-podcasts:
     runs-on: ubuntu-latest
-    timeout-minutes: 90  # Increased timeout
+    timeout-minutes: 120  # Increased timeout for stability
     
     steps:
     - name: Checkout code
@@ -36,6 +38,14 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y ffmpeg
         
+    - name: Cache Python dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+        
     - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
@@ -49,14 +59,14 @@ jobs:
       run: |
         mkdir -p downloads transcripts
     
-    # Debug step - Check if secrets are available
-    - name: Debug environment variables
+    - name: Validate environment variables
       run: |
         echo "Checking environment variables..."
-        if [ -z "$MISTRAL_API_KEY" ]; then echo "❌ MISTRAL_API_KEY is missing"; else echo "✅ MISTRAL_API_KEY is set"; fi
-        if [ -z "$EMAIL_FROM" ]; then echo "❌ EMAIL_FROM is missing"; else echo "✅ EMAIL_FROM is set"; fi
-        if [ -z "$EMAIL_TO" ]; then echo "❌ EMAIL_TO is missing"; else echo "✅ EMAIL_TO is set"; fi
-        if [ -z "$EMAIL_PASSWORD" ]; then echo "❌ EMAIL_PASSWORD is missing"; else echo "✅ EMAIL_PASSWORD is set"; fi
+        if [ -z "$MISTRAL_API_KEY" ]; then echo "❌ MISTRAL_API_KEY is missing"; exit 1; else echo "✅ MISTRAL_API_KEY is set"; fi
+        if [ -z "$EMAIL_FROM" ]; then echo "❌ EMAIL_FROM is missing"; exit 1; else echo "✅ EMAIL_FROM is set"; fi
+        if [ -z "$EMAIL_TO" ]; then echo "❌ EMAIL_TO is missing"; exit 1; else echo "✅ EMAIL_TO is set"; fi
+        if [ -z "$EMAIL_PASSWORD" ]; then echo "❌ EMAIL_PASSWORD is missing"; exit 1; else echo "✅ EMAIL_PASSWORD is set"; fi
+        echo "All environment variables validated successfully!"
       env:
         MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
@@ -70,29 +80,44 @@ jobs:
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
       run: |
-        python fixed_working_code_1.py
+        python podcast_pipeline_github.py
         
-    - name: Upload artifacts (transcripts)
+    - name: Upload processing logs
       uses: actions/upload-artifact@v4
       if: always()
       with:
-        name: transcripts-${{ github.run_number }}
-        path: transcripts/
+        name: processing-logs-${{ github.run_number }}
+        path: |
+          processed.json
+          emailed.json
         retention-days: 30
         
-    - name: Commit processed episodes log
+    - name: Commit state files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        
+        # Check if there are changes to commit
+        if git diff --quiet && git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+        
+        # Add state files if they exist and have changes
         if [ -f processed.json ]; then
           git add processed.json
-          git diff --staged --quiet || git commit -m "Update processed episodes [skip ci]"
-          git push origin main
         fi
         if [ -f emailed.json ]; then
           git add emailed.json
-          git diff --staged --quiet || git commit -m "Update emailed episodes [skip ci]"
+        fi
+        
+        # Only commit if there are staged changes
+        if ! git diff --staged --quiet; then
+          git commit -m "Update processing state files [skip ci]"
           git push origin main
+          echo "State files updated successfully"
+        else
+          echo "No state changes to commit"
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
