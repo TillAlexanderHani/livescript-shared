@@ -11,7 +11,7 @@ on:
   push:
     branches: [ main ]
     paths: 
-      - 'podcastlive_shared.py'
+      - 'podcast_pipeline_github1.py'
       - '.github/workflows/main.yml'
 
 permissions:
@@ -80,7 +80,7 @@ jobs:
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
       run: |
-        python podcastlive_shared.py
+        python podcast_pipeline_github1.py
         
     - name: Upload processing logs
       uses: actions/upload-artifact@v4
