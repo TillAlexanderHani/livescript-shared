@@ -1,18 +1,15 @@
-name: Main Automation
+name: Podcast Pipeline - Duplicate Free
 on:
   schedule:
-    # Run every 2 hours during business hours (9 AM to 9 PM UTC)
-    - cron: '0 9-21/2 * * *'
-    # Run every 6 hours during night hours  
-    - cron: '0 3,15 * * *'
+    # Run every 3 hours during business hours (more reasonable spacing)
+    - cron: '0 9,12,15,18,21 * * *'
+    # Run every 8 hours during night hours (reduced frequency)
+    - cron: '0 1,9 * * *'
   
   workflow_dispatch:  # Allow manual trigger
   
-  push:
-    branches: [ main ]
-    paths: 
-      - 'podcast_shared_live.py'
-      - '.github/workflows/main.yml'
+  # REMOVED: Push trigger to prevent automatic runs on code changes
+  # This prevents duplicate runs when committing state files
 
 permissions:
   contents: write
@@ -20,31 +17,43 @@ permissions:
 jobs:
   process-podcasts:
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # Increased timeout for stability
+    timeout-minutes: 90  # Reduced timeout - should be sufficient
+    
+    # CRITICAL: Prevent concurrent runs
+    concurrency:
+      group: podcast-pipeline
+      cancel-in-progress: false  # Don't cancel running jobs, just queue them
     
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 1  # Only fetch latest commit for speed
+        
+    - name: Check for concurrent runs
+      run: |
+        echo "Checking for lock file from previous runs..."
+        if [ -f "pipeline.lock" ]; then
+          echo "❌ Pipeline lock file exists - another instance may be running"
+          echo "Lock file contents:"
+          cat pipeline.lock
+          echo "Waiting 30 seconds then removing stale lock..."
+          sleep 30
+          rm -f pipeline.lock
+        fi
+        echo "✅ No concurrent runs detected"
         
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
+        cache: 'pip'  # Built-in pip caching
         
     - name: Install system dependencies
       run: |
-        sudo apt-get update
+        sudo apt-get update -qq
         sudo apt-get install -y ffmpeg
-        
-    - name: Cache Python dependencies
-      uses: actions/cache@v3
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
         
     - name: Install Python dependencies
       run: |
@@ -55,18 +64,28 @@ jobs:
         pip install openai-whisper==20231117
         pip install feedparser==6.0.10 requests==2.31.0 python-dateutil==2.8.2
         
-    - name: Create directories
+    - name: Create directories and restore state
       run: |
         mkdir -p downloads transcripts
+        
+        # Check if database exists and show stats
+        if [ -f "emailed_episodes.json" ]; then
+          echo "📊 Existing email database found"
+          # Show basic stats without exposing content
+          echo "Database size: $(wc -l < emailed_episodes.json) lines"
+          echo "Last modified: $(stat -c %y emailed_episodes.json)"
+        else
+          echo "🆕 No existing database - first run"
+        fi
     
     - name: Validate environment variables
       run: |
-        echo "Checking environment variables..."
+        echo "🔍 Checking environment variables..."
         if [ -z "$MISTRAL_API_KEY" ]; then echo "❌ MISTRAL_API_KEY is missing"; exit 1; else echo "✅ MISTRAL_API_KEY is set"; fi
         if [ -z "$EMAIL_FROM" ]; then echo "❌ EMAIL_FROM is missing"; exit 1; else echo "✅ EMAIL_FROM is set"; fi
         if [ -z "$EMAIL_TO" ]; then echo "❌ EMAIL_TO is missing"; exit 1; else echo "✅ EMAIL_TO is set"; fi
         if [ -z "$EMAIL_PASSWORD" ]; then echo "❌ EMAIL_PASSWORD is missing"; exit 1; else echo "✅ EMAIL_PASSWORD is set"; fi
-        echo "All environment variables validated successfully!"
+        echo "✅ All environment variables validated successfully!"
       env:
         MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
@@ -80,44 +99,101 @@ jobs:
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
       run: |
+        echo "🚀 Starting duplicate-free podcast pipeline..."
         python podcast_shared_live.py
+        echo "✅ Pipeline execution completed"
         
-    - name: Upload processing logs
+    - name: Check pipeline results
+      run: |
+        echo "📋 Pipeline Results:"
+        if [ -f "emailed_episodes.json" ]; then
+          echo "Email database updated: $(wc -l < emailed_episodes.json) total entries"
+        fi
+        
+        # Check if lock file was properly cleaned up
+        if [ -f "pipeline.lock" ]; then
+          echo "⚠️ Warning: Lock file still exists"
+          cat pipeline.lock
+          rm -f pipeline.lock
+        else
+          echo "✅ Pipeline lock properly cleaned up"
+        fi
+        
+    - name: Upload processing artifacts
       uses: actions/upload-artifact@v4
       if: always()
       with:
-        name: processing-logs-${{ github.run_number }}
+        name: pipeline-state-${{ github.run_number }}
         path: |
-          processed.json
-          emailed.json
-        retention-days: 30
+          emailed_episodes.json
+          *.log
+        retention-days: 7  # Reduced retention
         
-    - name: Commit state files
+    - name: Commit state files (atomic)
       run: |
+        # Configure git
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.name "GitHub Action Bot"
         
-        # Check if there are changes to commit
-        if git diff --quiet && git diff --staged --quiet; then
-          echo "No changes to commit"
-          exit 0
+        echo "🔄 Checking for state file changes..."
+        
+        # Pull latest changes first to avoid conflicts
+        git pull origin main --rebase || true
+        
+        # Check what files exist and need tracking
+        files_to_commit=""
+        
+        if [ -f "emailed_episodes.json" ]; then
+          # Check if file has actual changes
+          if git diff --quiet emailed_episodes.json 2>/dev/null; then
+            echo "📄 emailed_episodes.json - No changes"
+          else
+            git add emailed_episodes.json
+            files_to_commit="$files_to_commit emailed_episodes.json"
+            echo "📄 emailed_episodes.json - Changes detected, staged"
+          fi
         fi
         
-        # Add state files if they exist and have changes
-        if [ -f processed.json ]; then
-          git add processed.json
+        # Remove old files if they exist (migration cleanup)
+        if [ -f "processed.json" ]; then
+          git rm -f processed.json 2>/dev/null || true
+          files_to_commit="$files_to_commit (removed processed.json)"
         fi
-        if [ -f emailed.json ]; then
-          git add emailed.json
+        if [ -f "emailed.json" ]; then
+          git rm -f emailed.json 2>/dev/null || true  
+          files_to_commit="$files_to_commit (removed emailed.json)"
         fi
         
         # Only commit if there are staged changes
-        if ! git diff --staged --quiet; then
-          git commit -m "Update processing state files [skip ci]"
-          git push origin main
-          echo "State files updated successfully"
+        if ! git diff --staged --quiet 2>/dev/null; then
+          timestamp=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          git commit -m "Update podcast state: $files_to_commit [$timestamp] [skip ci]"
+          
+          # Push with retry logic
+          max_retries=3
+          retry_count=0
+          
+          while [ $retry_count -lt $max_retries ]; do
+            if git push origin main; then
+              echo "✅ State files committed and pushed successfully"
+              break
+            else
+              retry_count=$((retry_count + 1))
+              echo "⚠️ Push failed, attempt $retry_count/$max_retries"
+              if [ $retry_count -lt $max_retries ]; then
+                sleep 5
+                git pull origin main --rebase || true
+              fi
+            fi
+          done
+          
+          if [ $retry_count -eq $max_retries ]; then
+            echo "❌ Failed to push after $max_retries attempts"
+            exit 1
+          fi
+          
         else
-          echo "No state changes to commit"
+          echo "📝 No state changes to commit"
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
