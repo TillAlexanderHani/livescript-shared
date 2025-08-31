@@ -1,78 +1,59 @@
 name: Podcast Pipeline - Zero Duplicates
 on:
   schedule:
-    # Run 4 times daily with safe spacing to prevent race conditions
-    - cron: '0 6 * * *'   # 6 AM UTC
-    - cron: '0 12 * * *'  # 12 PM UTC
-    - cron: '0 18 * * *'  # 6 PM UTC
-    - cron: '0 0 * * *'   # 12 AM UTC
+    # Run every 3 hours during day, every 6 hours at night
+    - cron: '0 6 * * *'   # 6 AM UTC (start of day)
+    - cron: '0 9 * * *'   # 9 AM UTC (+3h)
+    - cron: '0 12 * * *'  # 12 PM UTC (+3h)
+    - cron: '0 15 * * *'  # 3 PM UTC (+3h)
+    - cron: '0 18 * * *'  # 6 PM UTC (+3h)
+    - cron: '0 21 * * *'  # 9 PM UTC (+3h)
+    - cron: '0 0 * * *'   # 12 AM UTC (+3h, then switch to 6h for night)
+    - cron: '0 3 * * *'   # 3 AM UTC (+3h, end of night cycle)
   
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
   contents: write
 
+# CRITICAL FIX: Move concurrency to workflow level to prevent multiple workflows
+concurrency:
+  group: podcast-pipeline-global-singleton
+  cancel-in-progress: false  # Queue runs instead of canceling
+
 jobs:
   process-podcasts:
     runs-on: ubuntu-latest
     timeout-minutes: 120  # Increased timeout for safety
     
-    # CRITICAL: Absolute prevention of concurrent runs
-    concurrency:
-      group: podcast-pipeline-singleton
-      cancel-in-progress: false  # Never cancel - queue instead
-    
     steps:
-    - name: 🔒 Acquire Global Lock
-      run: |
-        echo "🔍 Checking for any existing pipeline processes..."
-        
-        # Create a timestamp-based lock to prevent GitHub Actions race conditions
-        LOCK_TIME=$(date +%s)
-        LOCK_FILE="github-action.lock"
-        
-        # Check if lock file exists and is recent (less than 3 hours)
-        if [ -f "$LOCK_FILE" ]; then
-          LOCK_AGE=$(($(date +%s) - $(stat -c %s "$LOCK_FILE")))
-          if [ $LOCK_AGE -lt 10800 ]; then
-            echo "❌ Recent GitHub Actions lock found (${LOCK_AGE}s old)"
-            echo "Another pipeline may be running. Exiting to prevent duplicates."
-            exit 1
-          else
-            echo "🧹 Removing stale GitHub Actions lock (${LOCK_AGE}s old)"
-            rm -f "$LOCK_FILE"
-          fi
-        fi
-        
-        # Create new lock
-        echo "$LOCK_TIME" > "$LOCK_FILE"
-        echo "✅ GitHub Actions lock acquired: $LOCK_TIME"
-
     - name: 📥 Checkout Repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 1
         
-    - name: 🔍 Check Application Lock
+    - name: 🔍 Check for Recent Runs (Safety Net)
       run: |
-        echo "🔍 Checking for application-level lock file..."
-        if [ -f "pipeline.lock" ]; then
-          echo "⚠️ Application lock file exists"
-          echo "Lock file contents:"
-          cat pipeline.lock || echo "Could not read lock file"
+        echo "🔍 Additional safety check for recent pipeline activity..."
+        
+        # Check if database was modified very recently (within 30 minutes)
+        if [ -f "emailed_episodes.json" ]; then
+          LAST_MODIFIED=$(stat -c %Y emailed_episodes.json 2>/dev/null || echo 0)
+          CURRENT_TIME=$(date +%s)
+          TIME_DIFF=$((CURRENT_TIME - LAST_MODIFIED))
           
-          # Check age of lock file
-          LOCK_AGE=$(($(date +%s) - $(stat -c %s "pipeline.lock")))
-          if [ $LOCK_AGE -lt 7200 ]; then
-            echo "❌ Recent application lock (${LOCK_AGE}s old) - another process running"
-            exit 1
+          if [ $TIME_DIFF -lt 1800 ]; then  # 30 minutes
+            echo "⚠️ Database was modified ${TIME_DIFF} seconds ago"
+            echo "This suggests another pipeline may have run very recently"
+            echo "Skipping this run to prevent potential duplicates"
+            exit 0  # Exit cleanly without error
           else
-            echo "🧹 Removing stale application lock (${LOCK_AGE}s old)"
-            rm -f "pipeline.lock"
+            echo "✅ Database last modified ${TIME_DIFF} seconds ago - safe to proceed"
           fi
+        else
+          echo "🆕 No existing database - first run"
         fi
-        echo "✅ No active application locks detected"
         
     - name: 🐍 Set up Python Environment
       uses: actions/setup-python@v4
@@ -163,6 +144,9 @@ jobs:
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        # Add run identification for logging
+        GITHUB_RUN_ID: ${{ github.run_id }}
+        GITHUB_RUN_NUMBER: ${{ github.run_number }}
       run: |
         echo "🚀 STARTING BULLETPROOF PODCAST PIPELINE"
         echo "📋 Configuration:"
@@ -170,6 +154,8 @@ jobs:
         echo "  • Episodes per feed: 2 maximum" 
         echo "  • Duplicate prevention: BULLETPROOF"
         echo "  • Processing delays: Increased for safety"
+        echo "  • Run ID: ${{ github.run_id }}"
+        echo "  • Run Number: ${{ github.run_number }}"
         echo ""
         
         ### Run the pipeline
@@ -191,19 +177,14 @@ jobs:
           echo "❌ No database file found after pipeline execution"
         fi
         
-        # Check if lock file was properly cleaned up
+        # Check for any remaining lock files (shouldn't exist with proper concurrency)
         if [ -f "pipeline.lock" ]; then
           echo "⚠️ WARNING: Application lock file still exists after pipeline"
           cat pipeline.lock
           rm -f pipeline.lock
           echo "🧹 Cleaned up remaining lock file"
         else
-          echo "✅ Application lock properly cleaned up"
-        fi
-        
-        # Check GitHub Actions lock
-        if [ -f "github-action.lock" ]; then
-          echo "✅ GitHub Actions lock still active (will be cleaned up at end)"
+          echo "✅ No application locks found"
         fi
         
     - name: 📦 Archive Processing Results
@@ -317,20 +298,13 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
-    - name: 🔓 Release Global Lock
-      if: always()
-      run: |
-        echo "🔓 RELEASING GITHUB ACTIONS LOCK"
-        rm -f "github-action.lock" 2>/dev/null || true
-        rm -f "pipeline.lock" 2>/dev/null || true
-        echo "✅ All locks released"
-        
     - name: 📋 Final Status Report
       if: always()
       run: |
         echo ""
         echo "🏁 FINAL PIPELINE STATUS:"
         echo "  • Workflow run: ${{ github.run_number }}"
+        echo "  • Run ID: ${{ github.run_id }}"
         echo "  • Trigger: ${{ github.event_name }}"
         echo "  • Completed at: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
         echo "  • Duplicate prevention: BULLETPROOF ✅"
