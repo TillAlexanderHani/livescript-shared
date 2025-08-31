@@ -108,21 +108,7 @@ jobs:
           echo "  Last modified: $(stat -c %y emailed_episodes.json)"
           
           # Extract key statistics without exposing sensitive data
-          EPISODE_COUNT=$(python3 -c "
-import json
-try:
-    with open('emailed_episodes.json', 'r') as f:
-        data = json.load(f)
-        episodes = data.get('episodes', {})
-        unique_ids = set()
-        for ep in episodes.values():
-            proc_id = ep.get('processing_id')
-            if proc_id:
-                unique_ids.add(proc_id)
-        print(f'Total keys: {len(episodes)}, Unique episodes: {len(unique_ids)}')
-except Exception as e:
-    print(f'Error: {e}')
-")
+          EPISODE_COUNT=$(python3 -c "import json; data=json.load(open('emailed_episodes.json')); episodes=data.get('episodes',{}); unique_ids=set(ep.get('processing_id') for ep in episodes.values() if ep.get('processing_id')); print(f'Total keys: {len(episodes)}, Unique episodes: {len(unique_ids)}')" 2>/dev/null || echo "Error reading database")
           echo "  Database stats: $EPISODE_COUNT"
         else
           echo "🆕 NO EXISTING DATABASE - This is the first run"
