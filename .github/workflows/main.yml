@@ -173,7 +173,7 @@ jobs:
         echo ""
         
         ### Run the pipeline
-        python podcast_shared_live.py
+        python podcast_shared_live_2.py
         
         echo ""
         echo "✅ PIPELINE EXECUTION COMPLETED"
