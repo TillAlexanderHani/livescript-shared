@@ -184,21 +184,7 @@ jobs:
         
         # Check if database was updated
         if [ -f "emailed_episodes.json" ]; then
-          CURRENT_STATS=$(python3 -c "
-import json
-try:
-    with open('emailed_episodes.json', 'r') as f:
-        data = json.load(f)
-        episodes = data.get('episodes', {})
-        unique_ids = set()
-        for ep in episodes.values():
-            proc_id = ep.get('processing_id')
-            if proc_id:
-                unique_ids.add(proc_id)
-        print(f'Keys: {len(episodes)}, Unique: {len(unique_ids)}, Version: {data.get(\"version\", \"unknown\")}')
-except Exception as e:
-    print(f'Error reading database: {e}')
-")
+          CURRENT_STATS=$(python3 -c "import json; data=json.load(open('emailed_episodes.json')); episodes=data.get('episodes',{}); unique_ids=set(ep.get('processing_id') for ep in episodes.values() if ep.get('processing_id')); print(f'Keys: {len(episodes)}, Unique: {len(unique_ids)}, Version: {data.get(\"version\", \"unknown\")}')" 2>/dev/null || echo "Error reading database")
           echo "  Database stats: $CURRENT_STATS"
           echo "  Last modified: $(stat -c %y emailed_episodes.json)"
         else
