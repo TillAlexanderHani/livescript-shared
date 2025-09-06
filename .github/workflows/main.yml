@@ -56,7 +56,6 @@ jobs:
         echo "pipeline_action=run" >> $GITHUB_OUTPUT
         echo "Creating run marker: $GITHUB_RUN_ID"
         echo "$GITHUB_RUN_ID" > .github_run_marker
-      id: duplicate_check
         
     - name: Setup Python Environment
       if: steps.duplicate_check.outputs.pipeline_action == 'run'
