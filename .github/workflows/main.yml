@@ -247,18 +247,18 @@ jobs:
           
           if [ -f "emailed_episodes.json" ]; then
             python3 -c "
-import json
-try:
-    with open('emailed_episodes.json', 'r') as f:
-        data = json.load(f)
-    episodes = data.get('episodes', {})
-    urls = set(ep.get('url', '') for ep in episodes.values() if isinstance(ep, dict))
-    print(f'Total records: {len(episodes)}')
-    print(f'Unique URLs: {len(urls)}')
-    print(f'Database integrity: {\"GOOD\" if len(episodes) == len(urls) else \"POTENTIAL DUPLICATES\"}')
-except:
-    print('Database status: ERROR')
-" || echo "Database analysis failed"
+            import json
+            try:
+                with open('emailed_episodes.json', 'r') as f:
+                    data = json.load(f)
+                episodes = data.get('episodes', {})
+                urls = set(ep.get('url', '') for ep in episodes.values() if isinstance(ep, dict))
+                print(f'Total records: {len(episodes)}')
+                print(f'Unique URLs: {len(urls)}')
+                print(f'Database integrity: {\"GOOD\" if len(episodes) == len(urls) else \"POTENTIAL DUPLICATES\"}')
+            except:
+                print('Database status: ERROR')
+            " || echo "Database analysis failed"
           fi
         fi
         
