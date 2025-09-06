@@ -157,7 +157,7 @@ except Exception as e:
         echo ""
         
         # Execute the pipeline with error handling
-        if python podcast_shared_live_4.py; then
+        if python podcast_shared_live_5.py; then
           echo ""
           echo "✅ PIPELINE COMPLETED SUCCESSFULLY"
         else
