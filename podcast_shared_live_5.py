@@ -28,48 +28,48 @@ logger = logging.getLogger(__name__)
 
 # Configuration
 RSS_FEEDS = {
-     "Goldman Sachs The Markets": "https://feeds.megaphone.fm/GLD9322922848",
-     "At Any Rate Podcast": "https://feed.podbean.com/atanyrate/feed.xml",
-     "NatWest Currency Exchange": "https://feeds.buzzsprout.com/2109661.rss", 
-     "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)": "https://treasurycast.libsyn.com/rss",
-     "Under the Banyan Tree (HSBC Global Research)": "https://feeds.acast.com/public/shows/64db93c01796c400110e0ce3",
-     "The Macro Brief (HSBC Global Research)": "https://feeds.acast.com/public/shows/6476e27317ed970011e62580",
-     "Thoughts on the Market": "https://rss.art19.com/thoughts-on-the-market",
-     "Global Data Pod": "https://feed.podbean.com/globaldatapod/feed.xml",
-     "Goldman Sachs Exchanges": "https://feeds.megaphone.fm/GLD9218176758",
-     "UBS On-Air Market Moves": "https://secure.ubs.com/us/en/wealth-management/misc/researchpodcast/_jcr_content/mainpar/toplevelgrid/col1/responsivepodcast_28.itunes.xml",
-     "UBS On-Air In the Now": "https://www.ubs.com/us/en/wealth-management/insights/podcasts/_jcr_content/root/contentarea/mainpar/toplevelgrid_1112494256/col_1/tabteaser/tabteasersplit_1791896752/innergrid_208717120/col_1/responsivepodcast_co.rss20.xml?campID=RSS",
-     "CNBC - The Exchange": "https://feeds.simplecast.com/tc4zxWgX",
-     "BlackRock - The Bid": "https://rss.art19.com/the-bid",
-     "Invest Like the Best": "https://feeds.libsyn.com/85372/rss",
-     "The Emerging Markets Equities Podcast (Aberdeen)": "https://feeds.buzzsprout.com/1632829.rss",
-     "Latin America Today (WLRN)": "https://www.wlrn.org/podcast/latin-america-report/rss.xml",
-     "Macro Bytes (LATAM Focus)": "https://feeds.buzzsprout.com/1572577.rss",
-     "MoneyChisme - Latino Financial Education": "https://feeds.buzzsprout.com/2042300.rss",
-     "Radio Ambulante": "https://feeds.feedburner.com/radioambulante",
-     "Horizontes de Latinoamérica (S&P Global)": "https://feeds.buzzsprout.com/2374938.rss",
-     "The GlobalCapital Podcast": "https://feeds.buzzsprout.com/1811593.rss",
-     "Standard Chartered Macro Bytes": "https://feeds.buzzsprout.com/1572577.rss",
-     "PGIM Fixed Income": "https://feeds.buzzsprout.com/1943383.rss",
-     "Eurizon Podcast": "https://feeds.buzzsprout.com/2032072.rss",
-     "Citi GPS: Global Perspectives & Solutions": "https://feeds.buzzsprout.com/2019492.rss",
-     "Barings Streaming Income": "https://feeds.buzzsprout.com/796658.rss",
-     "PGIM Fixed Income Podcast": "https://feeds.buzzsprout.com/1943383.rss",
-     "Financial Times Behind the Money (Macro)": "https://rss.acast.com/behindthemoney",
-     "INSEAD Emerging Markets Podcast": "https://feeds.buzzsprout.com/1833434.rss",
-     "Asia Climate Finance Podcast": "https://feeds.buzzsprout.com/1951932.rss",
-     "LATAM Stocks Podcast": "https://latamstocks.buzzsprout.com/rss.xml",
-     "Latin America in Focus (AS/COA)": "https://feeds.buzzsprout.com/2360149.rss",
-     "The LatinNews Podcast": "https://feeds.buzzsprout.com/2374942.rss",
-     "AQ Podcast – Americas Quarterly": "https://americasquarterly.org/podcast-feed/",
-     "Macro Trading Floor": "https://feeds.megaphone.fm/ALFINVESTMENTSTRATEGYBV2974145286",
-     "Macro Bytes": "https://feeds.buzzsprout.com/1572577.rss",
-     "Planet Money": "https://feeds.npr.org/510289/podcast.xml",
-     "The Economics Show": "https://feeds.acast.com/public/shows/the-economics-show-with-soumaya-keynes",
-     "Macro Voices": "https://feed.podbean.com/macrovoices/feed.xml",
-     "Macro Hive Conversations": "https://macrohive.libsyn.com/rss",
-     "McKeany-Flavell Hot Commodity Podcast": "https://feed.podbean.com/mckeanyflavell/feed.xml",
-     "The HC Commodities Podcast": "https://feeds.simplecast.com/QXaWSc4o",
+    "Goldman Sachs The Markets": "https://feeds.megaphone.fm/GLD9322922848",
+    "At Any Rate Podcast": "https://feed.podbean.com/atanyrate/feed.xml",
+    "NatWest Currency Exchange": "https://feeds.buzzsprout.com/2109661.rss", 
+    "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)": "https://treasurycast.libsyn.com/rss",
+    "Under the Banyan Tree (HSBC Global Research)": "https://feeds.acast.com/public/shows/64db93c01796c400110e0ce3",
+    "The Macro Brief (HSBC Global Research)": "https://feeds.acast.com/public/shows/6476e27317ed970011e62580",
+    "Thoughts on the Market": "https://rss.art19.com/thoughts-on-the-market",
+    "Global Data Pod": "https://feed.podbean.com/globaldatapod/feed.xml",
+    "Goldman Sachs Exchanges": "https://feeds.megaphone.fm/GLD9218176758",
+    "UBS On-Air Market Moves": "https://secure.ubs.com/us/en/wealth-management/misc/researchpodcast/_jcr_content/mainpar/toplevelgrid/col1/responsivepodcast_28.itunes.xml",
+    "UBS On-Air In the Now": "https://www.ubs.com/us/en/wealth-management/insights/podcasts/_jcr_content/root/contentarea/mainpar/toplevelgrid_1112494256/col_1/tabteaser/tabteasersplit_1791896752/innergrid_208717120/col_1/responsivepodcast_co.rss20.xml?campID=RSS",
+    "CNBC - The Exchange": "https://feeds.simplecast.com/tc4zxWgX",
+    "BlackRock - The Bid": "https://rss.art19.com/the-bid",
+    "Invest Like the Best": "https://feeds.libsyn.com/85372/rss",
+    "The Emerging Markets Equities Podcast (Aberdeen)": "https://feeds.buzzsprout.com/1632829.rss",
+    "Latin America Today (WLRN)": "https://www.wlrn.org/podcast/latin-america-report/rss.xml",
+    "Macro Bytes (LATAM Focus)": "https://feeds.buzzsprout.com/1572577.rss",
+    "MoneyChisme - Latino Financial Education": "https://feeds.buzzsprout.com/2042300.rss",
+    "Radio Ambulante": "https://feeds.feedburner.com/radioambulante",
+    "Horizontes de Latinoamérica (S&P Global)": "https://feeds.buzzsprout.com/2374938.rss",
+    "The GlobalCapital Podcast": "https://feeds.buzzsprout.com/1811593.rss",
+    "Standard Chartered Macro Bytes": "https://feeds.buzzsprout.com/1572577.rss",
+    "PGIM Fixed Income": "https://feeds.buzzsprout.com/1943383.rss",
+    "Eurizon Podcast": "https://feeds.buzzsprout.com/2032072.rss",
+    "Citi GPS: Global Perspectives & Solutions": "https://feeds.buzzsprout.com/2019492.rss",
+    "Barings Streaming Income": "https://feeds.buzzsprout.com/796658.rss",
+    "PGIM Fixed Income Podcast": "https://feeds.buzzsprout.com/1943383.rss",
+    "Financial Times Behind the Money (Macro)": "https://rss.acast.com/behindthemoney",
+    "INSEAD Emerging Markets Podcast": "https://feeds.buzzsprout.com/1833434.rss",
+    "Asia Climate Finance Podcast": "https://feeds.buzzsprout.com/1951932.rss",
+    "LATAM Stocks Podcast": "https://latamstocks.buzzsprout.com/rss.xml",
+    "Latin America in Focus (AS/COA)": "https://feeds.buzzsprout.com/2360149.rss",
+    "The LatinNews Podcast": "https://feeds.buzzsprout.com/2374942.rss",
+    "AQ Podcast – Americas Quarterly": "https://americasquarterly.org/podcast-feed/",
+    "Macro Trading Floor": "https://feeds.megaphone.fm/ALFINVESTMENTSTRATEGYBV2974145286",
+    "Macro Bytes": "https://feeds.buzzsprout.com/1572577.rss",
+    "Planet Money": "https://feeds.npr.org/510289/podcast.xml",
+    "The Economics Show": "https://feeds.acast.com/public/shows/the-economics-show-with-soumaya-keynes",
+    "Macro Voices": "https://feed.podbean.com/macrovoices/feed.xml",
+    "Macro Hive Conversations": "https://macrohive.libsyn.com/rss",
+    "McKeany-Flavell Hot Commodity Podcast": "https://feed.podbean.com/mckeanyflavell/feed.xml",
+    "The HC Commodities Podcast": "https://feeds.simplecast.com/QXaWSc4o",
 }
 
 DOWNLOAD_DIR = "downloads"
@@ -84,7 +84,7 @@ RETRY_DELAY = 5
 class PodcastProcessor:
     def __init__(self):
         self.setup_directories()
-        self.emailed_urls = self.load_emailed_urls()
+        self.emailed_urls, self.emailed_titles = self.load_emailed_urls()
         self.new_episodes = 0
 
     def setup_directories(self):
@@ -93,36 +93,38 @@ class PodcastProcessor:
             Path(dir_name).mkdir(exist_ok=True)
 
     def load_emailed_urls(self):
-        """Load emailed URLs - URL-based approach"""
+        """Load emailed URLs - handle both old and new format"""
         try:
             if not os.path.exists(EMAILED_DB_FILE):
-                return set()
+                return set(), set()
             
             with open(EMAILED_DB_FILE, 'r') as f:
                 data = json.load(f)
                 
-            # Extract URLs from database
             urls = set()
+            titles = set()
+            
             if isinstance(data, dict):
                 episodes = data.get("episodes", {})
                 for episode_data in episodes.values():
-                    if isinstance(episode_data, dict) and "url" in episode_data:
-                        urls.add(episode_data["url"])
-                        
-            logger.info(f"Loaded {len(urls)} unique URLs from database")
-            return urls
+                    if isinstance(episode_data, dict):
+                        if "url" in episode_data:
+                            urls.add(episode_data["url"])
+                        elif "title" in episode_data:
+                            titles.add(episode_data["title"])
+                            
+            logger.info(f"Loaded {len(urls)} URLs + {len(titles)} titles from database")
+            return urls, titles
             
         except Exception as e:
             logger.error(f"Error loading emailed URLs: {e}")
-            return set()
+            return set(), set()
 
     def save_emailed_atomically(self, episode_url, title, feed_name):
         """Save emailed episode atomically - ONLY called AFTER successful email"""
         try:
-            # Create unique episode ID based on URL
             episode_id = hashlib.sha256(episode_url.encode()).hexdigest()[:16]
             
-            # Load existing data or create new
             existing_data = {}
             if os.path.exists(EMAILED_DB_FILE):
                 try:
@@ -131,13 +133,11 @@ class PodcastProcessor:
                 except:
                     pass
             
-            # Ensure proper structure
             if not isinstance(existing_data, dict):
                 existing_data = {}
             if "episodes" not in existing_data:
                 existing_data["episodes"] = {}
                 
-            # Add new episode
             existing_data["version"] = "3.0"
             existing_data["last_updated"] = datetime.now().isoformat()
             existing_data["episodes"][episode_id] = {
@@ -148,18 +148,16 @@ class PodcastProcessor:
                 'episode_id': episode_id
             }
             
-            # Atomic write using temporary file
             temp_file = EMAILED_DB_FILE + '.tmp'
             with open(temp_file, 'w') as f:
                 json.dump(existing_data, f, indent=2)
                 f.flush()
                 os.fsync(f.fileno())
             
-            # Atomic move
             shutil.move(temp_file, EMAILED_DB_FILE)
             
-            # Update in-memory set
             self.emailed_urls.add(episode_url)
+            self.emailed_titles.add(title)
             
             logger.info(f"SUCCESSFULLY MARKED AS EMAILED: {title}")
             return True
@@ -168,9 +166,10 @@ class PodcastProcessor:
             logger.error(f"Error in atomic save: {e}")
             return False
 
-    def is_already_emailed(self, episode_url):
-        """Check if episode URL was already emailed"""
-        return episode_url in self.emailed_urls
+    def is_already_emailed(self, episode_url, episode_title=None):
+        """Check if episode was already emailed (URL or title)"""
+        return (episode_url in self.emailed_urls or 
+                (episode_title and episode_title in self.emailed_titles))
 
     def is_recent_episode(self, published_date, max_days=5):
         """Check if episode is recent"""
@@ -186,36 +185,29 @@ class PodcastProcessor:
         """Extract provider/publisher information from feed data"""
         provider = None
         
-        # Check feed-level publisher/author information
         if hasattr(feed_data, 'feed'):
             feed_info = feed_data.feed
             
-            # Try various fields that might contain provider info
             for field in ['publisher', 'author', 'managingEditor', 'webMaster', 'copyright']:
                 if hasattr(feed_info, field) and getattr(feed_info, field):
                     provider = getattr(feed_info, field)
                     break
             
-            # Check iTunes-specific tags
             if hasattr(feed_info, 'tags'):
                 for tag in feed_info.tags:
                     if 'itunes' in tag.get('term', '').lower() and 'author' in tag.get('term', '').lower():
                         provider = tag.get('label', '')
                         break
         
-        # Clean up provider name
         if provider:
-            # Remove email addresses and common suffixes
             provider = re.sub(r'\s*\([^)]*\)', '', provider)
             provider = re.sub(r'[<>].*?[<>]', '', provider)
             provider = re.sub(r'@.*', '', provider)
             provider = provider.strip()
             
-            # If it's too long, take first part
             if len(provider) > 50:
                 provider = provider.split(',')[0].split('-')[0].strip()
         
-        # Fallback to known mappings
         provider_mappings = {
             'Macro Hive Conversations': 'Macro Hive',
             'Gavekal Research - All': 'Gavekal Research',
@@ -469,10 +461,8 @@ Error generating automated summary."""
         provider = episode_info.get('provider', '')
         audio_url = episode_info.get('url', '')
         
-        # Format provider display
         provider_display = f" ({provider})" if provider else ""
         
-        # HTML email
         html_body = f"""
 <!DOCTYPE html>
 <html>
@@ -617,7 +607,6 @@ Error generating automated summary."""
 </html>
 """
         
-        # Text email
         text_body = f"""{title}
 
 {episode_info.get('feed', 'Unknown')}{provider_display} • {formatted_date}
@@ -668,13 +657,11 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
 
     def find_audio_url(self, entry):
         """Find audio URL from entry"""
-        # Check enclosures first
         if hasattr(entry, 'enclosures') and entry.enclosures:
             for enclosure in entry.enclosures:
                 if 'audio' in enclosure.get('type', ''):
                     return enclosure.url
         
-        # Check links
         if hasattr(entry, 'links'):
             for link in entry.links:
                 if 'audio' in link.get('type', ''):
@@ -690,26 +677,21 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
         logger.info(f"Processing: {title}")
         logger.info(f"Audio URL: {audio_url[:100]}...")
         
-        # Generate unique filename using timestamp to avoid collisions
         timestamp = int(time.time() * 1000)
         audio_file = os.path.join(DOWNLOAD_DIR, f"temp_{timestamp}.mp3")
         
         try:
-            # Download
             if not self.download_audio(audio_url, audio_file):
                 logger.error(f"Failed to download: {title}")
                 return False
             
-            # Transcribe
             transcript = self.transcribe_audio(audio_file)
             if not transcript:
                 logger.error(f"Failed to transcribe: {title}")
                 return False
             
-            # Generate summary
             summary = self.get_mistral_summary(transcript, title) or self.get_fallback_summary(transcript)
             
-            # Episode info
             episode_info = {
                 'title': title,
                 'published': published,
@@ -718,26 +700,21 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                 'provider': provider
             }
             
-            # Send email FIRST
             if self.send_email(title, summary, published, episode_info):
-                # CRITICAL FIX: Only mark as emailed AFTER successful email delivery
                 if self.save_emailed_atomically(audio_url, title, feed_name):
                     logger.info(f"SUCCESS: Processed and emailed: {title}")
                     return True
                 else:
                     logger.error(f"Failed to save email record for: {title}")
-                    # Even if saving fails, email was sent, so return True to avoid re-sending
                     return True
             else:
                 logger.error(f"Failed to send email for: {title}")
-                # CRITICAL: Do NOT mark as emailed if email failed
                 return False
                 
         except Exception as e:
             logger.error(f"Error processing episode {title}: {e}")
             return False
         finally:
-            # Clean up
             if os.path.exists(audio_file):
                 os.remove(audio_file)
 
@@ -751,39 +728,33 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                 logger.warning(f"No episodes found for {feed_name}")
                 return 0
             
-            # Extract provider information from feed
             provider = self.extract_provider(feed, feed_name)
             logger.info(f"Provider detected: {provider or 'Unknown'}")
             
             episodes_processed = 0
             
-            # Process only the most recent episode to prevent mass duplicates
-            for entry in feed.entries[:1]:  # Only check 1 episode per feed
+            for entry in feed.entries[:1]:
                 title = entry.title
                 published = entry.get('published', 'Unknown')
                 
-                # Skip if not recent (5 days max)
                 if not self.is_recent_episode(published, max_days=5):
                     logger.info(f"Skipping old episode (>5 days): {title}")
                     continue
                 
-                # Find audio URL
                 audio_url = self.find_audio_url(entry)
                 if not audio_url:
                     logger.warning(f"No audio URL found for: {title}")
                     continue
                 
-                # CRITICAL: Check duplicate BEFORE processing using URL
-                if self.is_already_emailed(audio_url):
-                    logger.info(f"DUPLICATE PREVENTED: Already emailed URL: {title}")
+                if self.is_already_emailed(audio_url, title):
+                    logger.info(f"DUPLICATE PREVENTED: Already emailed: {title}")
                     continue
                 
                 logger.info(f"NEW EPISODE DETECTED: {title}")
                 
-                # Process the episode
                 if self.process_episode(entry, audio_url, feed_name, provider):
                     episodes_processed += 1
-                    time.sleep(5)  # Delay for safety
+                    time.sleep(5)
                 else:
                     logger.warning(f"Failed to process: {title}")
             
@@ -795,24 +766,21 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
 
     def _format_summary_html(self, summary):
         """Format summary for HTML email - clean sections only"""
-        # Remove any extra formatting that might be in the summary
         summary = re.sub(r'---+', '', summary)
         summary = re.sub(r'\n\s*\n', '\n', summary)
         
-        # Split into sections
         sections = re.split(r'(\*\*[^*]+\*\*)', summary)
         formatted_html = ''
         
         i = 0
         while i < len(sections):
-            if i % 2 == 1:  # Section title
+            if i % 2 == 1:
                 section_title = sections[i].replace('**', '').strip()
                 formatted_html += f'<div class="section-title">{section_title}</div>'
                     
-            elif sections[i].strip():  # Content
+            elif sections[i].strip():
                 content = sections[i].strip()
                 
-                # Process bullet points
                 if content.startswith('•') or '\n•' in content:
                     lines = content.split('\n')
                     list_items = []
@@ -829,7 +797,6 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                     else:
                         content = f'<p>{content}</p>'
                 else:
-                    # Regular paragraph
                     content = f'<p>{content}</p>'
                 
                 formatted_html += f'<div class="content-block">{content}</div>'
@@ -840,25 +807,22 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
 
     def _format_summary_text(self, summary):
         """Format summary for text email - clean format"""
-        # Remove any extra formatting that might be in the summary
         summary = re.sub(r'---+', '', summary)
         summary = re.sub(r'\n\s*\n', '\n', summary)
         
-        # Split into sections and process
         sections = re.split(r'(\*\*[^*]+\*\*)', summary)
         formatted_text = ''
         
         i = 0
         while i < len(sections):
-            if i % 2 == 1:  # Section title
+            if i % 2 == 1:
                 section_title = sections[i].replace('**', '').strip()
                 formatted_text += f'{section_title}\n'
                 formatted_text += '=' * len(section_title) + '\n\n'
                     
-            elif sections[i].strip():  # Content
+            elif sections[i].strip():
                 content = sections[i].strip()
                 
-                # Process bullet points
                 if content.startswith('•') or '\n•' in content:
                     lines = content.split('\n')
                     for line in lines:
@@ -867,13 +831,12 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                             clean_text = line[1:].strip()
                             if clean_text:
                                 formatted_text += f'  • {clean_text}\n'
-                        elif line:  # Non-bullet line
+                        elif line:
                             formatted_text += f'{line}\n'
                 else:
-                    # Regular paragraph
                     formatted_text += f'{content}\n'
                 
-                formatted_text += '\n'  # Add spacing between sections
+                formatted_text += '\n'
             
             i += 1
         
@@ -884,7 +847,6 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
         """Global pipeline lock to prevent multiple instances"""
         lock_file = Path(LOCK_FILE)
         try:
-            # Create lock file
             with open(lock_file, 'w') as f:
                 f.write(f"PID: {os.getpid()}\nStarted: {datetime.now().isoformat()}")
             
@@ -892,7 +854,6 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
             yield
             
         finally:
-            # Remove lock file
             if lock_file.exists():
                 lock_file.unlink()
             logger.info("Pipeline lock released")
@@ -900,11 +861,10 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
     def run(self):
         """Main execution method with PROPER duplicate prevention"""
         
-        # Check if another instance is running - with stale lock detection
         if os.path.exists(LOCK_FILE):
             try:
                 lock_age = time.time() - os.path.getmtime(LOCK_FILE)
-                if lock_age > 3600:  # 1 hour - stale lock
+                if lock_age > 3600:
                     logger.warning(f"Removing stale lock file (age: {lock_age/3600:.1f} hours)")
                     os.remove(LOCK_FILE)
                 else:
@@ -931,7 +891,6 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                 episodes_count = self.process_feed(feed_name, feed_url)
                 self.new_episodes += episodes_count
                 
-                # Rate limiting between feeds
                 time.sleep(10)
             
             duration = datetime.now() - start_time
@@ -949,7 +908,6 @@ def main():
         return processor.run()
     except Exception as e:
         logger.error(f"Critical pipeline error: {e}")
-        # Clean up lock file in case of unexpected error
         if os.path.exists(LOCK_FILE):
             os.remove(LOCK_FILE)
         return 0
