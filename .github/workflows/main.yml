@@ -91,36 +91,36 @@ jobs:
           
           # Count episodes processed in last 4 hours as sanity check
           python3 -c "
-import json
-from datetime import datetime, timedelta
-try:
-    with open('emailed_episodes.json', 'r') as f:
-        data = json.load(f)
-    episodes = data.get('episodes', {})
-    
-    recent_count = 0
-    cutoff = datetime.now() - timedelta(hours=4)
-    
-    for ep in episodes.values():
-        if isinstance(ep, dict) and 'emailed' in ep:
-            try:
-                emailed_time = datetime.fromisoformat(ep['emailed'].replace('Z', ''))
-                if emailed_time > cutoff:
-                    recent_count += 1
-            except:
-                pass
-    
-    print(f'Episodes in last 4 hours: {recent_count}')
-    # If more than 20 episodes in 4 hours, something is very wrong
-    if recent_count > 20:
-        print('ERROR: Too many recent episodes - possible duplicate issue')
-        exit(1)
-    else:
-        print('Episode count looks normal')
-        
-except Exception as e:
-    print(f'Database check error: {e}')
-"
+          import json
+          from datetime import datetime, timedelta
+          try:
+              with open('emailed_episodes.json', 'r') as f:
+                  data = json.load(f)
+              episodes = data.get('episodes', {})
+              
+              recent_count = 0
+              cutoff = datetime.now() - timedelta(hours=4)
+              
+              for ep in episodes.values():
+                  if isinstance(ep, dict) and 'emailed' in ep:
+                      try:
+                          emailed_time = datetime.fromisoformat(ep['emailed'].replace('Z', ''))
+                          if emailed_time > cutoff:
+                              recent_count += 1
+                      except:
+                          pass
+              
+              print(f'Episodes in last 4 hours: {recent_count}')
+              # If more than 20 episodes in 4 hours, something is very wrong
+              if recent_count > 20:
+                  print('ERROR: Too many recent episodes - possible duplicate issue')
+                  exit(1)
+              else:
+                  print('Episode count looks normal')
+                  
+          except Exception as e:
+              print(f'Database check error: {e}')
+          "
         else
           echo "No database - first run"
         fi
