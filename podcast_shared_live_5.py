@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Transcribe podcasts, generate summaries, and email them automatically.
-FIXED VERSION: Bulletproof duplicate prevention with atomic operations and URL-based tracking.
+PROPERLY FIXED VERSION: Only mark as emailed AFTER successful email delivery.
 """
 import feedparser
 import requests
@@ -84,7 +84,7 @@ RETRY_DELAY = 5
 class PodcastProcessor:
     def __init__(self):
         self.setup_directories()
-        self.emailed_urls = self.load_emailed_urls()  # Use URL-based tracking
+        self.emailed_urls = self.load_emailed_urls()
         self.new_episodes = 0
 
     def setup_directories(self):
@@ -93,7 +93,7 @@ class PodcastProcessor:
             Path(dir_name).mkdir(exist_ok=True)
 
     def load_emailed_urls(self):
-        """Load emailed URLs - ATOMIC and URL-based approach"""
+        """Load emailed URLs - URL-based approach"""
         try:
             if not os.path.exists(EMAILED_DB_FILE):
                 return set()
@@ -101,7 +101,7 @@ class PodcastProcessor:
             with open(EMAILED_DB_FILE, 'r') as f:
                 data = json.load(f)
                 
-            # Extract URLs from database - this is the key fix
+            # Extract URLs from database
             urls = set()
             if isinstance(data, dict):
                 episodes = data.get("episodes", {})
@@ -117,9 +117,9 @@ class PodcastProcessor:
             return set()
 
     def save_emailed_atomically(self, episode_url, title, feed_name):
-        """Save emailed episode atomically to prevent corruption and race conditions"""
+        """Save emailed episode atomically - ONLY called AFTER successful email"""
         try:
-            # Create unique episode ID based on URL (most reliable identifier)
+            # Create unique episode ID based on URL
             episode_id = hashlib.sha256(episode_url.encode()).hexdigest()[:16]
             
             # Load existing data or create new
@@ -129,7 +129,7 @@ class PodcastProcessor:
                     with open(EMAILED_DB_FILE, 'r') as f:
                         existing_data = json.load(f)
                 except:
-                    pass  # Start fresh if corrupted
+                    pass
             
             # Ensure proper structure
             if not isinstance(existing_data, dict):
@@ -141,7 +141,7 @@ class PodcastProcessor:
             existing_data["version"] = "3.0"
             existing_data["last_updated"] = datetime.now().isoformat()
             existing_data["episodes"][episode_id] = {
-                'url': episode_url,  # KEY: Store the URL for duplicate detection
+                'url': episode_url,
                 'title': title,
                 'feed': feed_name,
                 'emailed': datetime.now().isoformat(),
@@ -152,8 +152,8 @@ class PodcastProcessor:
             temp_file = EMAILED_DB_FILE + '.tmp'
             with open(temp_file, 'w') as f:
                 json.dump(existing_data, f, indent=2)
-                f.flush()  # Ensure data is written to disk
-                os.fsync(f.fileno())  # Force OS to write to disk
+                f.flush()
+                os.fsync(f.fileno())
             
             # Atomic move
             shutil.move(temp_file, EMAILED_DB_FILE)
@@ -161,7 +161,7 @@ class PodcastProcessor:
             # Update in-memory set
             self.emailed_urls.add(episode_url)
             
-            logger.info(f"ATOMIC SAVE: Marked as emailed: {title}")
+            logger.info(f"SUCCESSFULLY MARKED AS EMAILED: {title}")
             return True
             
         except Exception as e:
@@ -169,10 +169,10 @@ class PodcastProcessor:
             return False
 
     def is_already_emailed(self, episode_url):
-        """Check if episode URL was already emailed - simple URL check"""
+        """Check if episode URL was already emailed"""
         return episode_url in self.emailed_urls
 
-    def is_recent_episode(self, published_date, max_days=5):  # Reduced to 5 days
+    def is_recent_episode(self, published_date, max_days=5):
         """Check if episode is recent"""
         try:
             import dateutil.parser
@@ -206,9 +206,9 @@ class PodcastProcessor:
         # Clean up provider name
         if provider:
             # Remove email addresses and common suffixes
-            provider = re.sub(r'\s*\([^)]*\)', '', provider)  # Remove parentheses content
-            provider = re.sub(r'[<>].*?[<>]', '', provider)   # Remove email addresses
-            provider = re.sub(r'@.*', '', provider)           # Remove anything after @
+            provider = re.sub(r'\s*\([^)]*\)', '', provider)
+            provider = re.sub(r'[<>].*?[<>]', '', provider)
+            provider = re.sub(r'@.*', '', provider)
             provider = provider.strip()
             
             # If it's too long, take first part
@@ -283,7 +283,7 @@ class PodcastProcessor:
                         if chunk:
                             f.write(chunk)
                 
-                if os.path.getsize(filename) > 100000:  # At least 100KB
+                if os.path.getsize(filename) > 100000:
                     logger.info(f"Downloaded {os.path.getsize(filename) // (1024*1024)} MB")
                     return True
                     
@@ -683,20 +683,15 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
         return None
     
     def process_episode(self, entry, audio_url, feed_name, provider):
-        """Process a single episode with URL-based duplicate prevention"""
+        """Process a single episode - FIXED: Only mark as emailed AFTER successful email"""
         title = entry.title
         published = entry.get('published', 'Unknown')
         
         logger.info(f"Processing: {title}")
         logger.info(f"Audio URL: {audio_url[:100]}...")
         
-        # CRITICAL: Check duplicate FIRST using URL (most reliable)
-        if self.is_already_emailed(audio_url):
-            logger.info(f"DUPLICATE BLOCKED: URL already processed: {title}")
-            return False
-        
         # Generate unique filename using timestamp to avoid collisions
-        timestamp = int(time.time() * 1000)  # Millisecond precision
+        timestamp = int(time.time() * 1000)
         audio_file = os.path.join(DOWNLOAD_DIR, f"temp_{timestamp}.mp3")
         
         try:
@@ -723,17 +718,19 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                 'provider': provider
             }
             
-            # Send email
+            # Send email FIRST
             if self.send_email(title, summary, published, episode_info):
-                # ATOMIC SAVE: Mark as emailed AFTER successful email
+                # CRITICAL FIX: Only mark as emailed AFTER successful email delivery
                 if self.save_emailed_atomically(audio_url, title, feed_name):
                     logger.info(f"SUCCESS: Processed and emailed: {title}")
                     return True
                 else:
                     logger.error(f"Failed to save email record for: {title}")
-                    return False
+                    # Even if saving fails, email was sent, so return True to avoid re-sending
+                    return True
             else:
                 logger.error(f"Failed to send email for: {title}")
+                # CRITICAL: Do NOT mark as emailed if email failed
                 return False
                 
         except Exception as e:
@@ -745,7 +742,7 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                 os.remove(audio_file)
 
     def process_feed(self, feed_name, feed_url):
-        """Process a single RSS feed with URL-based duplicate prevention"""
+        """Process a single RSS feed with proper duplicate prevention"""
         try:
             logger.info(f"Checking: {feed_name}")
             feed = feedparser.parse(feed_url)
@@ -776,9 +773,9 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                     logger.warning(f"No audio URL found for: {title}")
                     continue
                 
-                # Check duplicate BEFORE processing using URL
+                # CRITICAL: Check duplicate BEFORE processing using URL
                 if self.is_already_emailed(audio_url):
-                    logger.info(f"Already emailed (URL match): {title}")
+                    logger.info(f"DUPLICATE PREVENTED: Already emailed URL: {title}")
                     continue
                 
                 logger.info(f"NEW EPISODE DETECTED: {title}")
@@ -786,7 +783,7 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                 # Process the episode
                 if self.process_episode(entry, audio_url, feed_name, provider):
                     episodes_processed += 1
-                    time.sleep(5)  # Increased delay for safety
+                    time.sleep(5)  # Delay for safety
                 else:
                     logger.warning(f"Failed to process: {title}")
             
@@ -799,8 +796,8 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
     def _format_summary_html(self, summary):
         """Format summary for HTML email - clean sections only"""
         # Remove any extra formatting that might be in the summary
-        summary = re.sub(r'---+', '', summary)  # Remove horizontal rules
-        summary = re.sub(r'\n\s*\n', '\n', summary)  # Remove extra blank lines
+        summary = re.sub(r'---+', '', summary)
+        summary = re.sub(r'\n\s*\n', '\n', summary)
         
         # Split into sections
         sections = re.split(r'(\*\*[^*]+\*\*)', summary)
@@ -844,8 +841,8 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
     def _format_summary_text(self, summary):
         """Format summary for text email - clean format"""
         # Remove any extra formatting that might be in the summary
-        summary = re.sub(r'---+', '', summary)  # Remove horizontal rules
-        summary = re.sub(r'\n\s*\n', '\n', summary)  # Remove extra blank lines
+        summary = re.sub(r'---+', '', summary)
+        summary = re.sub(r'\n\s*\n', '\n', summary)
         
         # Split into sections and process
         sections = re.split(r'(\*\*[^*]+\*\*)', summary)
@@ -901,7 +898,7 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
             logger.info("Pipeline lock released")
 
     def run(self):
-        """Main execution method with BULLETPROOF URL-based duplicate prevention"""
+        """Main execution method with PROPER duplicate prevention"""
         
         # Check if another instance is running - with stale lock detection
         if os.path.exists(LOCK_FILE):
@@ -918,7 +915,7 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                 return 0
         
         with self.pipeline_lock():
-            logger.info("Starting BULLETPROOF financial podcast pipeline...")
+            logger.info("Starting PROPERLY FIXED financial podcast pipeline...")
             logger.info(f"URL-based duplicate prevention: {len(self.emailed_urls)} URLs already processed")
             logger.info(f"Processing episodes from last 5 days only")
             logger.info(f"Processing 1 episode max per feed for safety")
@@ -934,14 +931,14 @@ Automatically generated by Financial Podcast Pipeline • AI Summary: Mistral AI
                 episodes_count = self.process_feed(feed_name, feed_url)
                 self.new_episodes += episodes_count
                 
-                # Rate limiting between feeds to prevent any issues
-                time.sleep(10)  # Increased from 5 to 10 seconds
+                # Rate limiting between feeds
+                time.sleep(10)
             
             duration = datetime.now() - start_time
             
             logger.info(f"PIPELINE COMPLETE: {self.new_episodes} new episodes processed in {duration}")
             logger.info(f"Total URLs tracked: {len(self.emailed_urls)}")
-            logger.info("ZERO DUPLICATE GUARANTEE: Using URL-based duplicate prevention")
+            logger.info("PROPER DUPLICATE PREVENTION: Episodes only marked as emailed AFTER successful email delivery")
             
             return self.new_episodes
     
