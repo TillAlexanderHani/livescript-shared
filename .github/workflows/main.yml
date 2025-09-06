@@ -30,6 +30,7 @@ jobs:
         fetch-depth: 1
         
     - name: Smart Duplicate Prevention
+      id: duplicate_check
       run: |
         echo "INTELLIGENT DUPLICATE PREVENTION"
         
@@ -55,7 +56,6 @@ jobs:
         echo "pipeline_action=run" >> $GITHUB_OUTPUT
         echo "Creating run marker: $GITHUB_RUN_ID"
         echo "$GITHUB_RUN_ID" > .github_run_marker
-      id: duplicate_check
         
     - name: Setup Python Environment
       if: steps.duplicate_check.outputs.pipeline_action == 'run'
@@ -148,6 +148,7 @@ except Exception as e:
         
     - name: Execute Pipeline with Bulletproof Logic
       if: steps.duplicate_check.outputs.pipeline_action == 'run'
+      id: pipeline_execution
       env:
         MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
@@ -172,7 +173,6 @@ except Exception as e:
           rm -f pipeline.lock *.tmp 2>/dev/null || true
           exit 1
         fi
-      id: pipeline_execution
         
     - name: Database Validation and Commit
       if: steps.duplicate_check.outputs.pipeline_action == 'run'
