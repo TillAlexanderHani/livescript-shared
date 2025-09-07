@@ -1,1 +1,20 @@
-
+{
+  "episodes": {
+    "8d934543f3bf65ec": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD3122124560.mp3?updated=1757101215",
+      "title": "What the Weak Jobs Report Means For Markets",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2025-09-07T13:27:40.790157",
+      "episode_id": "8d934543f3bf65ec"
+    },
+    "88165ec8e57985da": {
+      "url": "https://mcdn.podbean.com/mf/web/bgtv2f8am86zwh9e/AARFXMW_05SEP25ad9d3.mp3",
+      "title": "Global FX and Rates: Yield curve steepening, payrolls and FX hedge ratios",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-09-07T13:31:18.540213",
+      "episode_id": "88165ec8e57985da"
+    }
+  },
+  "version": "3.0",
+  "last_updated": "2025-09-07T13:31:18.540201"
+}
