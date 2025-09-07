@@ -1,14 +1,3 @@
-- name: Debug Environment
-  run: |
-    echo "=== ENVIRONMENT DEBUG ==="
-    echo "Current directory:"
-    pwd
-    echo "Files in current directory:"
-    ls -la
-    echo "Python working directory check:"
-    python -c "import os; print(f'Python CWD: {os.getcwd()}'); print(f'Files: {os.listdir(\".\")}')"
-    echo "=== END DEBUG ==="
-
 name: Podcast Pipeline - Fast & Simple
 on:
   schedule:
@@ -72,6 +61,17 @@ jobs:
         pip install "numpy<2.0" torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
         pip install openai-whisper==20231117 feedparser==6.0.10 requests==2.31.0 python-dateutil==2.8.2
         
+    - name: Debug Environment
+      run: |
+        echo "=== ENVIRONMENT DEBUG ==="
+        echo "Current directory:"
+        pwd
+        echo "Files in current directory:"
+        ls -la
+        echo "Python working directory check:"
+      python -c "import os; print(f'Python CWD: {os.getcwd()}'); print(f'Files: {os.listdir(\".\")}')"
+        echo "=== END DEBUG ==="
+
     - name: Run Pipeline
       if: steps.duplicate_check.outputs.action == 'run'
       env:
