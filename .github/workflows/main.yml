@@ -117,33 +117,64 @@ jobs:
         echo "=== COMMIT DEBUG ==="
         echo "File before commit:"
         ls -la emailed_episodes.json
-        wc -c emailed_episodes.json
+        echo "File size: $(wc -c < emailed_episodes.json) bytes"
         
-        echo "Git status:"
+        echo "First 20 lines of file:"
+        head -20 emailed_episodes.json
+        
+        echo "Git status before pull:"
         git status
         
-        echo "Git diff:"
-        git diff emailed_episodes.json || echo "No diff output"
-        
         # Pull latest changes first to avoid conflicts
+        echo "Pulling latest changes..."
         git pull origin main --rebase || true
         
-        if [ -f "emailed_episodes.json" ] && ! git diff --quiet emailed_episodes.json 2>/dev/null; then
-          # Validate JSON before committing
-          if python -c "import json; data=json.load(open('emailed_episodes.json')); print(f'Episodes: {len(data.get(\"episodes\", {}))}')" 2>/dev/null; then
-            git add emailed_episodes.json
-            echo "File staged, committing..."
-            git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-            echo "Pushing..."
-            git push
-            echo "✅ Database committed successfully"
+        echo "Git status after pull:"
+        git status
+        
+        echo "Git diff check:"
+        if git diff --quiet emailed_episodes.json 2>/dev/null; then
+          echo "Git says: NO CHANGES detected"
+        else
+          echo "Git says: CHANGES detected"
+        fi
+        
+        # Force add and commit if file has content
+        if [ -f "emailed_episodes.json" ]; then
+          FILE_SIZE=$(wc -c < emailed_episodes.json)
+          if [ $FILE_SIZE -gt 50 ]; then  # File has real content
+            echo "File has $FILE_SIZE bytes - forcing commit"
+            
+            # Validate JSON
+            if python -c "import json; data=json.load(open('emailed_episodes.json')); print(f'Episodes: {len(data.get(\"episodes\", {}))}')" 2>/dev/null; then
+              echo "JSON is valid, adding file..."
+              git add emailed_episodes.json
+              
+              echo "Git status after add:"
+              git status
+              
+              if git diff --staged --quiet; then
+                echo "❌ No staged changes - something is wrong"
+                echo "Forcing add with -f flag..."
+                git add -f emailed_episodes.json
+              fi
+              
+              echo "Committing..."
+              git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')] [episodes: $(python -c "import json; print(len(json.load(open('emailed_episodes.json')).get('episodes', {})))" 2>/dev/null || echo 'unknown')]" || echo "Commit failed"
+              
+              echo "Pushing..."
+              git push || echo "Push failed"
+              echo "✅ Commit attempt completed"
+            else
+              echo "❌ Invalid JSON - not committing"
+              echo "JSON validation error output:"
+              python -c "import json; json.load(open('emailed_episodes.json'))" 2>&1 || true
+            fi
           else
-            echo "❌ Invalid JSON - not committing"
+            echo "📝 File too small ($FILE_SIZE bytes) - not committing"
           fi
         else
-          echo "📝 No changes to commit (file unchanged or missing)"
-          echo "Current file content:"
-          cat emailed_episodes.json | head -10
+          echo "❌ No JSON file found"
         fi
         echo "=== END COMMIT DEBUG ==="
       env:
