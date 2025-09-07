@@ -1,10 +1,10 @@
 name: Podcast Pipeline - Fast & Simple
 on:
   schedule:
-    - cron: '0 6 * * *'   # 6 AM UTC 
-    - cron: '0 12 * * *'  # 12 PM UTC 
-    - cron: '0 18 * * *'  # 6 PM UTC 
-    - cron: '0 0 * * *'   # 12 AM UTC 
+    - cron: '0 6 * * *'   # 6 AM UTC (fixed typo)
+    - cron: '0 12 * * *'  # 12 PM UTC (fixed typo)
+    - cron: '0 18 * * *'  # 6 PM UTC (fixed typo)
+    - cron: '0 0 * * *'   # 12 AM UTC (fixed typo)
   
   workflow_dispatch:
 
@@ -13,7 +13,7 @@ permissions:
 
 concurrency:
   group: podcast-pipeline-singleton
-  cancel-in-progress: true
+  cancel-in-progress: false  # Changed to false to queue runs instead of canceling
 
 jobs:
   process-podcasts:
@@ -61,17 +61,28 @@ jobs:
         pip install "numpy<2.0" torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
         pip install openai-whisper==20231117 feedparser==6.0.10 requests==2.31.0 python-dateutil==2.8.2
         
-    - name: Debug Environment
+    - name: Initialize JSON Database
+      if: steps.duplicate_check.outputs.action == 'run'
       run: |
-        echo "=== ENVIRONMENT DEBUG ==="
-        echo "Current directory:"
-        pwd
-        echo "Files in current directory:"
-        ls -la
-        echo "Python working directory check:"
-        python -c "import os; print(f'Python CWD: {os.getcwd()}'); print(f'Files: {os.listdir(\".\")}')"
-        echo "=== END DEBUG ==="
-
+        # Fix corrupted JSON file
+        if [ -f "emailed_episodes.json" ]; then
+          FILE_SIZE=$(wc -c < emailed_episodes.json)
+          if [ $FILE_SIZE -lt 10 ]; then
+            echo "Fixing corrupted JSON file ($FILE_SIZE bytes)"
+            echo '{"episodes": {}, "version": "1.0"}' > emailed_episodes.json
+          fi
+        else
+          echo "Creating new JSON database"
+          echo '{"episodes": {}, "version": "1.0"}' > emailed_episodes.json
+        fi
+        echo "JSON file ready:"
+        cat emailed_episodes.json
+        
+    - name: Setup Directories
+      if: steps.duplicate_check.outputs.action == 'run'
+      run: |
+        mkdir -p downloads transcripts
+        
     - name: Run Pipeline
       if: steps.duplicate_check.outputs.action == 'run'
       env:
@@ -83,23 +94,56 @@ jobs:
         echo "Starting pipeline..."
         python podcast_shared_live_5.py
         
+    - name: Verify Results
+      if: steps.duplicate_check.outputs.action == 'run'
+      run: |
+        echo "=== POST-PIPELINE VERIFICATION ==="
+        if [ -f "emailed_episodes.json" ]; then
+          echo "JSON file size: $(wc -c < emailed_episodes.json) bytes"
+          echo "JSON file lines: $(wc -l < emailed_episodes.json)"
+          echo "File is valid JSON:"
+          python -c "import json; json.load(open('emailed_episodes.json')); print('✅ Valid JSON')" || echo "❌ Invalid JSON"
+        else
+          echo "❌ No JSON file found after pipeline"
+        fi
+        echo "=== END VERIFICATION ==="
+        
     - name: Commit Changes
       if: steps.duplicate_check.outputs.action == 'run'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        if [ -f "emailed_episodes.json" ] && ! git diff --quiet emailed_episodes.json; then
-          git add emailed_episodes.json
-          git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+        # Pull latest changes first to avoid conflicts
+        git pull origin main --rebase || true
+        
+        if [ -f "emailed_episodes.json" ] && ! git diff --quiet emailed_episodes.json 2>/dev/null; then
+          # Validate JSON before committing
+          if python -c "import json; json.load(open('emailed_episodes.json'))" 2>/dev/null; then
+            git add emailed_episodes.json
+            git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+            echo "✅ Database committed successfully"
+          else
+            echo "❌ Invalid JSON - not committing"
+          fi
+        else
+          echo "📝 No changes to commit"
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
-    - name: Status
+    - name: Cleanup & Status
       if: always()
       run: |
         echo "Run complete: ${{ steps.duplicate_check.outputs.action || 'unknown' }}"
         echo "Manual runs always execute"
-        rm -f pipeline.lock *.tmp downloads/* 2>/dev/null || true
+        
+        # Cleanup temporary files
+        rm -f pipeline.lock *.tmp 2>/dev/null || true
+        rm -rf downloads/* transcripts/* 2>/dev/null || true
+        
+        # Final status
+        if [ -f "emailed_episodes.json" ]; then
+          echo "Final database size: $(wc -c < emailed_episodes.json) bytes"
+        fi
