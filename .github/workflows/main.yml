@@ -13,12 +13,12 @@ permissions:
 
 concurrency:
   group: podcast-pipeline-singleton
-  cancel-in-progress: false  # Changed to false to queue runs instead of canceling
+  cancel-in-progress: false  # Queue runs instead of canceling
 
 jobs:
   process-podcasts:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 360  # 6 hours maximum (GitHub limit)
     
     steps:
     - uses: actions/checkout@v4
@@ -75,13 +75,6 @@ jobs:
           echo "Creating new JSON database"
           echo '{"episodes": {}, "version": "1.0"}' > emailed_episodes.json
         fi
-        echo "JSON file ready:"
-        cat emailed_episodes.json
-        
-    - name: Setup Directories
-      if: steps.duplicate_check.outputs.action == 'run'
-      run: |
-        mkdir -p downloads transcripts
         
     - name: Run Pipeline
       if: steps.duplicate_check.outputs.action == 'run'
@@ -91,22 +84,9 @@ jobs:
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
       run: |
+        mkdir -p downloads transcripts
         echo "Starting pipeline..."
         python podcast_shared_live_5.py
-        
-    - name: Verify Results
-      if: steps.duplicate_check.outputs.action == 'run'
-      run: |
-        echo "=== POST-PIPELINE VERIFICATION ==="
-        if [ -f "emailed_episodes.json" ]; then
-          echo "JSON file size: $(wc -c < emailed_episodes.json) bytes"
-          echo "JSON file lines: $(wc -l < emailed_episodes.json)"
-          echo "File is valid JSON:"
-          python -c "import json; json.load(open('emailed_episodes.json')); print('✅ Valid JSON')" || echo "❌ Invalid JSON"
-        else
-          echo "❌ No JSON file found after pipeline"
-        fi
-        echo "=== END VERIFICATION ==="
         
     - name: Commit Changes
       if: steps.duplicate_check.outputs.action == 'run'
@@ -114,83 +94,31 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        echo "=== COMMIT DEBUG ==="
-        echo "File before commit:"
-        ls -la emailed_episodes.json
-        echo "File size: $(wc -c < emailed_episodes.json) bytes"
-        
-        echo "First 20 lines of file:"
-        head -20 emailed_episodes.json
-        
-        echo "Git status before pull:"
-        git status
-        
         # Pull latest changes first to avoid conflicts
-        echo "Pulling latest changes..."
         git pull origin main --rebase || true
         
-        echo "Git status after pull:"
-        git status
-        
-        echo "Git diff check:"
-        if git diff --quiet emailed_episodes.json 2>/dev/null; then
-          echo "Git says: NO CHANGES detected"
-        else
-          echo "Git says: CHANGES detected"
-        fi
-        
-        # Force add and commit if file has content
         if [ -f "emailed_episodes.json" ]; then
           FILE_SIZE=$(wc -c < emailed_episodes.json)
           if [ $FILE_SIZE -gt 50 ]; then  # File has real content
-            echo "File has $FILE_SIZE bytes - forcing commit"
-            
-            # Validate JSON
-            if python -c "import json; data=json.load(open('emailed_episodes.json')); print(f'Episodes: {len(data.get(\"episodes\", {}))}')" 2>/dev/null; then
-              echo "JSON is valid, adding file..."
+            # Validate JSON before committing
+            if python -c "import json; json.load(open('emailed_episodes.json'))" 2>/dev/null; then
               git add emailed_episodes.json
-              
-              echo "Git status after add:"
-              git status
-              
-              if git diff --staged --quiet; then
-                echo "❌ No staged changes - something is wrong"
-                echo "Forcing add with -f flag..."
-                git add -f emailed_episodes.json
-              fi
-              
-              echo "Committing..."
-              git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')] [episodes: $(python -c "import json; print(len(json.load(open('emailed_episodes.json')).get('episodes', {})))" 2>/dev/null || echo 'unknown')]" || echo "Commit failed"
-              
-              echo "Pushing..."
-              git push || echo "Push failed"
-              echo "✅ Commit attempt completed"
+              git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+              git push
+              echo "✅ Database updated successfully"
             else
               echo "❌ Invalid JSON - not committing"
-              echo "JSON validation error output:"
-              python -c "import json; json.load(open('emailed_episodes.json'))" 2>&1 || true
             fi
           else
-            echo "📝 File too small ($FILE_SIZE bytes) - not committing"
+            echo "📝 File too small - no real updates"
           fi
-        else
-          echo "❌ No JSON file found"
         fi
-        echo "=== END COMMIT DEBUG ==="
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
-    - name: Cleanup & Status
+    - name: Status
       if: always()
       run: |
         echo "Run complete: ${{ steps.duplicate_check.outputs.action || 'unknown' }}"
         echo "Manual runs always execute"
-        
-        # Cleanup temporary files
-        rm -f pipeline.lock *.tmp 2>/dev/null || true
-        rm -rf downloads/* transcripts/* 2>/dev/null || true
-        
-        # Final status
-        if [ -f "emailed_episodes.json" ]; then
-          echo "Final database size: $(wc -c < emailed_episodes.json) bytes"
-        fi
+        rm -f pipeline.lock *.tmp downloads/* transcripts/* 2>/dev/null || true
