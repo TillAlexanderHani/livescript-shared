@@ -1,3 +1,14 @@
+- name: Debug Environment
+  run: |
+    echo "=== ENVIRONMENT DEBUG ==="
+    echo "Current directory:"
+    pwd
+    echo "Files in current directory:"
+    ls -la
+    echo "Python working directory check:"
+    python -c "import os; print(f'Python CWD: {os.getcwd()}'); print(f'Files: {os.listdir(\".\")}')"
+    echo "=== END DEBUG ==="
+
 name: Podcast Pipeline - Fast & Simple
 on:
   schedule:
