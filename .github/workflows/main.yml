@@ -114,22 +114,38 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
+        echo "=== COMMIT DEBUG ==="
+        echo "File before commit:"
+        ls -la emailed_episodes.json
+        wc -c emailed_episodes.json
+        
+        echo "Git status:"
+        git status
+        
+        echo "Git diff:"
+        git diff emailed_episodes.json || echo "No diff output"
+        
         # Pull latest changes first to avoid conflicts
         git pull origin main --rebase || true
         
         if [ -f "emailed_episodes.json" ] && ! git diff --quiet emailed_episodes.json 2>/dev/null; then
           # Validate JSON before committing
-          if python -c "import json; json.load(open('emailed_episodes.json'))" 2>/dev/null; then
+          if python -c "import json; data=json.load(open('emailed_episodes.json')); print(f'Episodes: {len(data.get(\"episodes\", {}))}')" 2>/dev/null; then
             git add emailed_episodes.json
+            echo "File staged, committing..."
             git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            echo "Pushing..."
             git push
             echo "✅ Database committed successfully"
           else
             echo "❌ Invalid JSON - not committing"
           fi
         else
-          echo "📝 No changes to commit"
+          echo "📝 No changes to commit (file unchanged or missing)"
+          echo "Current file content:"
+          cat emailed_episodes.json | head -10
         fi
+        echo "=== END COMMIT DEBUG ==="
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
