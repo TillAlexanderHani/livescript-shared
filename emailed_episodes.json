@@ -83,8 +83,78 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2025-09-07T14:26:09.348538",
       "episode_id": "c0a88313e0a1c2fa"
+    },
+    "1b24c2cc96a0140a": {
+      "url": "https://traffic.megaphone.fm/CLS5430101548.mp3?updated=1757069423",
+      "title": "Sean Feeney - Reinventing the Restaurant Business - [Invest Like the Best, CLASSICS]",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-09-07T14:51:10.402262",
+      "episode_id": "1b24c2cc96a0140a"
+    },
+    "373f1f17d421004e": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/17797350-raving-headlines-roaring-markets.mp3",
+      "title": "Raving headlines, roaring markets",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-09-07T14:58:26.923188",
+      "episode_id": "373f1f17d421004e"
+    },
+    "a211b370300cadfd": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/68b7341ab4b4b9b3d2976cf3/media.mp3",
+      "title": "Chevron prepares to take on ExxonMobil",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-09-07T15:03:48.821601",
+      "episode_id": "a211b370300cadfd"
+    },
+    "8783b14e2a8ad846": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV7694997090.mp3",
+      "title": "Cracks In The US Labor Market - What Next?",
+      "feed": "Macro Trading Floor",
+      "emailed": "2025-09-07T15:11:25.055958",
+      "episode_id": "8783b14e2a8ad846"
+    },
+    "c7ab4d5ffc970c3a": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8436152050.mp3?t=podcast&e=nx-s1-5532144&p=510289&d=1536&size=24578177",
+      "title": "What happens to central banks under pressure?",
+      "feed": "Planet Money",
+      "emailed": "2025-09-07T15:16:33.628647",
+      "episode_id": "c7ab4d5ffc970c3a"
+    },
+    "37c17fe10d171618": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/68b96c962d913bd3302ba9c9/media.mp3",
+      "title": "Fed independence? Here\u2019s why you should worry. With Peter Conti-Brown",
+      "feed": "The Economics Show",
+      "emailed": "2025-09-07T15:22:45.658660",
+      "episode_id": "37c17fe10d171618"
+    },
+    "ff44c030c21911cd": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/cudpx7x6nuqrgt4i/MacroVoices-2025-09-08-Jim-Bianco.mp3",
+      "title": "MacroVoices #496 Jim Bianco: The Post Covid Economy",
+      "feed": "Macro Voices",
+      "emailed": "2025-09-07T15:35:36.846687",
+      "episode_id": "ff44c030c21911cd"
+    },
+    "8b66183a12dfd90c": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_GALLO1.mp3?dest-id=1929056",
+      "title": "Ep. 324: Alberto Gallo on Western Debt Crisis, Real Assets and US Surprises",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-09-07T15:41:47.541470",
+      "episode_id": "8b66183a12dfd90c"
+    },
+    "eb868efde73cc56f": {
+      "url": "https://mcdn.podbean.com/mf/web/vgwx2rwt6dzm2xcc/Podcast_09-05-25.mp3",
+      "title": "Pre-heat for upcoming WASDE: Corn, soybeans & sugar outlook",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2025-09-07T15:46:37.581723",
+      "episode_id": "eb868efde73cc56f"
+    },
+    "fbb57cca18c501ac": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/9d7d5d8c-3870-4e5d-9544-5e2131ad20e0/audio/664f3d71-534b-42e3-9fd3-bf740941b1ee/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Commodities: A View from Wall St with Shaia Hosseinzadeh",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2025-09-07T15:57:50.233535",
+      "episode_id": "fbb57cca18c501ac"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-07T14:26:09.348527"
+  "last_updated": "2025-09-07T15:57:50.233525"
 }
