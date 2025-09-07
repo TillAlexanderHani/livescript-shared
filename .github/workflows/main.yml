@@ -8,6 +8,12 @@ on:
     - cron: '0 0 * * *'   # 12 AM UTC 
   
   workflow_dispatch:
+    inputs:
+      force_run:
+        description: 'Force run even if recent (bypass duplicate prevention)'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -34,20 +40,34 @@ jobs:
       run: |
         echo "INTELLIGENT DUPLICATE PREVENTION"
         
-        # Method 1: Check for recent successful pipeline completion
+        # Always run if manual trigger with force flag
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force_run }}" = "true" ]; then
+          echo "FORCE RUN requested - bypassing all duplicate prevention"
+          echo "pipeline_action=run" >> $GITHUB_OUTPUT
+          exit 0
+        fi
+        
+        # Always run manual triggers without force flag (but with normal safety checks)
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "MANUAL TRIGGER - proceeding with normal execution"
+          echo "pipeline_action=run" >> $GITHUB_OUTPUT
+          exit 0
+        fi
+        
+        # For scheduled runs, check for recent completion
         if [ -f "emailed_episodes.json" ]; then
           LAST_MODIFIED=$(stat -c %Y emailed_episodes.json 2>/dev/null || echo 0)
           CURRENT_TIME=$(date +%s)
           TIME_DIFF=$((CURRENT_TIME - LAST_MODIFIED))
           
-          # Only skip if VERY recent (30 minutes) - this indicates another run just finished
+          # Only skip scheduled runs if VERY recent (30 minutes)
           if [ $TIME_DIFF -lt 1800 ]; then
             echo "Database modified ${TIME_DIFF} seconds ago ($(($TIME_DIFF / 60)) minutes)"
-            echo "Another pipeline completed very recently - skipping to prevent immediate duplicate"
+            echo "Another scheduled run completed very recently - skipping to prevent duplicate"
             echo "pipeline_action=skip" >> $GITHUB_OUTPUT
             exit 0
           else
-            echo "Last run was $((TIME_DIFF / 3600)) hours ago - proceeding normally"
+            echo "Last run was $((TIME_DIFF / 3600)) hours ago - proceeding with scheduled run"
           fi
         fi
         
@@ -159,6 +179,10 @@ jobs:
         echo "EXECUTING PODCAST PIPELINE"
         echo "Run ID: $GITHUB_RUN_ID"
         echo "Timestamp: $(date -u)"
+        echo "Trigger: ${{ github.event_name }}"
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "Manual run - Force flag: ${{ inputs.force_run }}"
+        fi
         
         # Clean up any stale files
         rm -f pipeline.lock *.tmp 2>/dev/null || true
@@ -200,7 +224,15 @@ jobs:
               
               # Create commit with run info
               timestamp=$(date -u '+%Y-%m-%d %H:%M UTC')
-              git commit -m "Update podcast database [$timestamp] [run:${{ github.run_number }}]"
+              trigger_info="${{ github.event_name }}"
+              if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+                trigger_info="manual"
+                if [ "${{ inputs.force_run }}" = "true" ]; then
+                  trigger_info="manual-forced"
+                fi
+              fi
+              
+              git commit -m "Update podcast database [$timestamp] [run:${{ github.run_number }}] [trigger:$trigger_info]"
               
               # Simple, reliable push
               max_attempts=2
@@ -237,11 +269,15 @@ jobs:
         echo "Run Number: ${{ github.run_number }}"
         echo "Run ID: ${{ github.run_id }}"
         echo "Trigger: ${{ github.event_name }}"
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "Force Run: ${{ inputs.force_run }}"
+        fi
         echo "Timestamp: $(date -u)"
         echo "Action: ${{ steps.duplicate_check.outputs.pipeline_action || 'unknown' }}"
         
         if [ "${{ steps.duplicate_check.outputs.pipeline_action }}" = "skip" ]; then
-          echo "Status: SKIPPED (recent run detected)"
+          echo "Status: SKIPPED (recent scheduled run detected)"
+          echo "Note: Manual runs are never skipped unless forced"
         else
           echo "Status: EXECUTED"
           
@@ -263,5 +299,6 @@ jobs:
         fi
         
         echo "=================="
-        echo "DUPLICATE PREVENTION: ACTIVE"
+        echo "DUPLICATE PREVENTION: ACTIVE (scheduled runs only)"
+        echo "MANUAL RUNS: ALWAYS ALLOWED"
         echo "ZERO DUPLICATE GUARANTEE: ENABLED"
