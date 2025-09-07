@@ -69,7 +69,7 @@ jobs:
         echo "Files in current directory:"
         ls -la
         echo "Python working directory check:"
-      python -c "import os; print(f'Python CWD: {os.getcwd()}'); print(f'Files: {os.listdir(\".\")}')"
+        python -c "import os; print(f'Python CWD: {os.getcwd()}'); print(f'Files: {os.listdir(\".\")}')"
         echo "=== END DEBUG ==="
 
     - name: Run Pipeline
