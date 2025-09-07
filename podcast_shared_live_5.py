@@ -30,6 +30,17 @@ logger = logging.getLogger(__name__)
 RSS_FEEDS = {
     "Goldman Sachs The Markets": "https://feeds.megaphone.fm/GLD9322922848",
     "At Any Rate Podcast": "https://feed.podbean.com/atanyrate/feed.xml",
+    "NatWest Currency Exchange": "https://feeds.buzzsprout.com/2109661.rss", 
+    "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)": "https://treasurycast.libsyn.com/rss",
+    "Under the Banyan Tree (HSBC Global Research)": "https://feeds.acast.com/public/shows/64db93c01796c400110e0ce3",
+    "The Macro Brief (HSBC Global Research)": "https://feeds.acast.com/public/shows/6476e27317ed970011e62580",
+    "Thoughts on the Market": "https://rss.art19.com/thoughts-on-the-market",
+    "Global Data Pod": "https://feed.podbean.com/globaldatapod/feed.xml",
+    "Goldman Sachs Exchanges": "https://feeds.megaphone.fm/GLD9218176758",
+    "UBS On-Air Market Moves": "https://secure.ubs.com/us/en/wealth-management/misc/researchpodcast/_jcr_content/mainpar/toplevelgrid/col1/responsivepodcast_28.itunes.xml",
+    "UBS On-Air In the Now": "https://www.ubs.com/us/en/wealth-management/insights/podcasts/_jcr_content/root/contentarea/mainpar/toplevelgrid_1112494256/col_1/tabteaser/tabteasersplit_1791896752/innergrid_208717120/col_1/responsivepodcast_co.rss20.xml?campID=RSS",
+    "CNBC - The Exchange": "https://feeds.simplecast.com/tc4zxWgX",
+    "BlackRock - The Bid": "https://rss.art19.com/the-bid",
 }
 
 DOWNLOAD_DIR = "downloads"
