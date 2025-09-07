@@ -1,304 +1,94 @@
-name: Podcast Pipeline - Bulletproof Zero Duplicates
+name: Podcast Pipeline - Fast & Simple
 on:
   schedule:
-    # Keep your original 4 times per day - this is NOT the problem
     - cron: '0 6 * * *'   # 6 AM UTC 
     - cron: '0 12 * * *'  # 12 PM UTC 
     - cron: '0 18 * * *'  # 6 PM UTC 
     - cron: '0 0 * * *'   # 12 AM UTC 
   
   workflow_dispatch:
-    inputs:
-      force_run:
-        description: 'Force run even if recent (bypass duplicate prevention)'
-        required: false
-        default: false
-        type: boolean
 
 permissions:
   contents: write
 
-# PROPER concurrency control - this is the real fix
 concurrency:
   group: podcast-pipeline-singleton
-  cancel-in-progress: true  # This was your main problem - was set to false
+  cancel-in-progress: true
 
 jobs:
   process-podcasts:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 120
     
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 1
         
-    - name: Smart Duplicate Prevention
+    - name: Quick Duplicate Check
       id: duplicate_check
       run: |
-        echo "INTELLIGENT DUPLICATE PREVENTION"
-        
-        # Always run if manual trigger with force flag
-        if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force_run }}" = "true" ]; then
-          echo "FORCE RUN requested - bypassing all duplicate prevention"
-          echo "pipeline_action=run" >> $GITHUB_OUTPUT
-          exit 0
-        fi
-        
-        # Always run manual triggers without force flag (but with normal safety checks)
-        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-          echo "MANUAL TRIGGER - proceeding with normal execution"
-          echo "pipeline_action=run" >> $GITHUB_OUTPUT
-          exit 0
-        fi
-        
-        # For scheduled runs, check for recent completion
-        if [ -f "emailed_episodes.json" ]; then
+        # Skip only if very recent (20 minutes) and not manual
+        if [ "${{ github.event_name }}" != "workflow_dispatch" ] && [ -f "emailed_episodes.json" ]; then
           LAST_MODIFIED=$(stat -c %Y emailed_episodes.json 2>/dev/null || echo 0)
           CURRENT_TIME=$(date +%s)
           TIME_DIFF=$((CURRENT_TIME - LAST_MODIFIED))
           
-          # Only skip scheduled runs if VERY recent (30 minutes)
-          if [ $TIME_DIFF -lt 1800 ]; then
-            echo "Database modified ${TIME_DIFF} seconds ago ($(($TIME_DIFF / 60)) minutes)"
-            echo "Another scheduled run completed very recently - skipping to prevent duplicate"
-            echo "pipeline_action=skip" >> $GITHUB_OUTPUT
+          if [ $TIME_DIFF -lt 1200 ]; then
+            echo "Recent run detected - skipping"
+            echo "action=skip" >> $GITHUB_OUTPUT
             exit 0
-          else
-            echo "Last run was $((TIME_DIFF / 3600)) hours ago - proceeding with scheduled run"
           fi
         fi
         
-        # Method 2: Check for currently running processes (belt and suspenders)
-        # This catches the edge case where multiple Actions somehow start simultaneously
-        echo "pipeline_action=run" >> $GITHUB_OUTPUT
-        echo "Creating run marker: $GITHUB_RUN_ID"
-        echo "$GITHUB_RUN_ID" > .github_run_marker
+        echo "action=run" >> $GITHUB_OUTPUT
         
-    - name: Setup Python Environment
-      if: steps.duplicate_check.outputs.pipeline_action == 'run'
+    - name: Setup Python
+      if: steps.duplicate_check.outputs.action == 'run'
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
         cache: 'pip'
         
-    - name: Install Dependencies
-      if: steps.duplicate_check.outputs.pipeline_action == 'run'
+    - name: Install Dependencies (Minimal)
+      if: steps.duplicate_check.outputs.action == 'run'
       run: |
         sudo apt-get update -qq
-        sudo apt-get install -y ffmpeg
+        sudo apt-get install -y ffmpeg --no-install-recommends
         
-        python -m pip install --upgrade pip
-        pip install "numpy<2.0"
-        pip install torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-        pip install openai-whisper==20231117
-        pip install feedparser==6.0.10 requests==2.31.0 python-dateutil==2.8.2
+        pip install --upgrade pip
+        pip install "numpy<2.0" torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+        pip install openai-whisper==20231117 feedparser==6.0.10 requests==2.31.0 python-dateutil==2.8.2
         
-    - name: Database Health Check
-      if: steps.duplicate_check.outputs.pipeline_action == 'run'
-      run: |
-        echo "DATABASE HEALTH CHECK:"
-        
-        if [ -f "emailed_episodes.json" ]; then
-          # Validate JSON structure
-          if ! python3 -c "import json; json.load(open('emailed_episodes.json'))" 2>/dev/null; then
-            echo "CORRUPTED DATABASE DETECTED - Backing up and resetting"
-            cp emailed_episodes.json "emailed_episodes_backup_$(date +%Y%m%d_%H%M%S).json"
-            echo '{"version": "3.0", "episodes": {}}' > emailed_episodes.json
-          fi
-          
-          # Count episodes processed in last 4 hours as sanity check
-          python3 -c "
-          import json
-          from datetime import datetime, timedelta
-          try:
-              with open('emailed_episodes.json', 'r') as f:
-                  data = json.load(f)
-              episodes = data.get('episodes', {})
-              
-              recent_count = 0
-              cutoff = datetime.now() - timedelta(hours=4)
-              
-              for ep in episodes.values():
-                  if isinstance(ep, dict) and 'emailed' in ep:
-                      try:
-                          emailed_time = datetime.fromisoformat(ep['emailed'].replace('Z', ''))
-                          if emailed_time > cutoff:
-                              recent_count += 1
-                      except:
-                          pass
-              
-              print(f'Episodes in last 4 hours: {recent_count}')
-              # If more than 20 episodes in 4 hours, something is very wrong
-              if recent_count > 20:
-                  print('ERROR: Too many recent episodes - possible duplicate issue')
-                  exit(1)
-              else:
-                  print('Episode count looks normal')
-                  
-          except Exception as e:
-              print(f'Database check error: {e}')
-          "
-        else
-          echo "No database - first run"
-        fi
-        
-    - name: Environment Validation
-      if: steps.duplicate_check.outputs.pipeline_action == 'run'
-      run: |
-        MISSING=""
-        [ -z "$MISTRAL_API_KEY" ] && MISSING="$MISSING MISTRAL_API_KEY"
-        [ -z "$EMAIL_FROM" ] && MISSING="$MISSING EMAIL_FROM"
-        [ -z "$EMAIL_TO" ] && MISSING="$MISSING EMAIL_TO"
-        [ -z "$EMAIL_PASSWORD" ] && MISSING="$MISSING EMAIL_PASSWORD"
-        
-        if [ -n "$MISSING" ]; then
-          echo "Missing environment variables:$MISSING"
-          exit 1
-        fi
-        
-        echo "Environment validation passed"
+    - name: Run Pipeline
+      if: steps.duplicate_check.outputs.action == 'run'
       env:
         MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-        
-    - name: Execute Pipeline with Bulletproof Logic
-      if: steps.duplicate_check.outputs.pipeline_action == 'run'
-      id: pipeline_execution
-      env:
-        MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
-        EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-        EMAIL_TO: ${{ secrets.EMAIL_TO }}
-        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-        GITHUB_RUN_ID: ${{ github.run_id }}
       run: |
-        echo "EXECUTING PODCAST PIPELINE"
-        echo "Run ID: $GITHUB_RUN_ID"
-        echo "Timestamp: $(date -u)"
-        echo "Trigger: ${{ github.event_name }}"
-        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-          echo "Manual run - Force flag: ${{ inputs.force_run }}"
-        fi
+        echo "Starting pipeline..."
+        python podcast_shared_live_5.py
         
-        # Clean up any stale files
-        rm -f pipeline.lock *.tmp 2>/dev/null || true
-        
-        # Execute with proper error handling
-        if timeout 7200 python podcast_shared_live_5.py; then  # 2 hour timeout
-          echo "PIPELINE COMPLETED SUCCESSFULLY"
-          echo "new_episodes_processed=true" >> $GITHUB_OUTPUT
-        else
-          echo "PIPELINE FAILED OR TIMED OUT"
-          # Clean up on failure
-          rm -f pipeline.lock *.tmp 2>/dev/null || true
-          exit 1
-        fi
-        
-    - name: Database Validation and Commit
-      if: steps.duplicate_check.outputs.pipeline_action == 'run'
+    - name: Commit Changes
+      if: steps.duplicate_check.outputs.action == 'run'
       run: |
-        echo "DATABASE COMMIT PROCESS"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         
-        git config --local user.email "podcast-pipeline@github.actions"
-        git config --local user.name "Podcast Pipeline"
-        
-        # Pull latest changes first
-        git pull origin main --rebase || {
-          echo "Resolving rebase conflicts"
-          git reset --hard origin/main
-        }
-        
-        if [ -f "emailed_episodes.json" ]; then
-          # Final validation
-          if python3 -c "import json; data=json.load(open('emailed_episodes.json')); print(f'Valid JSON with {len(data.get(\"episodes\", {}))} episodes')" 2>/dev/null; then
-            
-            if git diff --quiet emailed_episodes.json; then
-              echo "No database changes to commit"
-            else
-              echo "Committing database changes"
-              git add emailed_episodes.json
-              
-              # Create commit with run info
-              timestamp=$(date -u '+%Y-%m-%d %H:%M UTC')
-              trigger_info="${{ github.event_name }}"
-              if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-                trigger_info="manual"
-                if [ "${{ inputs.force_run }}" = "true" ]; then
-                  trigger_info="manual-forced"
-                fi
-              fi
-              
-              git commit -m "Update podcast database [$timestamp] [run:${{ github.run_number }}] [trigger:$trigger_info]"
-              
-              # Simple, reliable push
-              max_attempts=2
-              for attempt in $(seq 1 $max_attempts); do
-                if git push origin main; then
-                  echo "Database changes pushed successfully"
-                  break
-                elif [ $attempt -eq $max_attempts ]; then
-                  echo "Failed to push after $max_attempts attempts"
-                  exit 1
-                else
-                  echo "Push failed, retrying..."
-                  sleep 5
-                  git pull origin main --rebase
-                fi
-              done
-            fi
-          else
-            echo "Invalid JSON detected - not committing corrupted data"
-            git checkout -- emailed_episodes.json
-          fi
+        if [ -f "emailed_episodes.json" ] && ! git diff --quiet emailed_episodes.json; then
+          git add emailed_episodes.json
+          git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
-    - name: Cleanup and Status Report
+    - name: Status
       if: always()
       run: |
-        # Cleanup
-        rm -f pipeline.lock *.tmp downloads/* .github_run_marker 2>/dev/null || true
-        
-        echo "EXECUTION SUMMARY"
-        echo "=================="
-        echo "Run Number: ${{ github.run_number }}"
-        echo "Run ID: ${{ github.run_id }}"
-        echo "Trigger: ${{ github.event_name }}"
-        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-          echo "Force Run: ${{ inputs.force_run }}"
-        fi
-        echo "Timestamp: $(date -u)"
-        echo "Action: ${{ steps.duplicate_check.outputs.pipeline_action || 'unknown' }}"
-        
-        if [ "${{ steps.duplicate_check.outputs.pipeline_action }}" = "skip" ]; then
-          echo "Status: SKIPPED (recent scheduled run detected)"
-          echo "Note: Manual runs are never skipped unless forced"
-        else
-          echo "Status: EXECUTED"
-          
-          if [ -f "emailed_episodes.json" ]; then
-            python3 -c "
-            import json
-            try:
-                with open('emailed_episodes.json', 'r') as f:
-                    data = json.load(f)
-                episodes = data.get('episodes', {})
-                urls = set(ep.get('url', '') for ep in episodes.values() if isinstance(ep, dict))
-                print(f'Total records: {len(episodes)}')
-                print(f'Unique URLs: {len(urls)}')
-                print(f'Database integrity: {\"GOOD\" if len(episodes) == len(urls) else \"POTENTIAL DUPLICATES\"}')
-            except:
-                print('Database status: ERROR')
-            " || echo "Database analysis failed"
-          fi
-        fi
-        
-        echo "=================="
-        echo "DUPLICATE PREVENTION: ACTIVE (scheduled runs only)"
-        echo "MANUAL RUNS: ALWAYS ALLOWED"
-        echo "ZERO DUPLICATE GUARANTEE: ENABLED"
+        echo "Run complete: ${{ steps.duplicate_check.outputs.action || 'unknown' }}"
+        echo "Manual runs always execute"
+        rm -f pipeline.lock *.tmp downloads/* 2>/dev/null || true
