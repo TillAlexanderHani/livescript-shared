@@ -1,10 +1,12 @@
 name: Podcast Pipeline - Fast & Simple
 on:
   schedule:
-    - cron: '0 6 * * *'   # 6 AM UTC (fixed typo)
-    - cron: '0 12 * * *'  # 12 PM UTC (fixed typo)
-    - cron: '0 18 * * *'  # 6 PM UTC (fixed typo)
-    - cron: '0 0 * * *'   # 12 AM UTC (fixed typo)
+    # London-optimized schedule: 4h during day, 5h during night
+    - cron: '0 7 * * *'   # 8 AM London time (7 AM UTC)
+    - cron: '0 11 * * *'  # 12 PM London time (11 AM UTC) 
+    - cron: '0 15 * * *'  # 4 PM London time (3 PM UTC)
+    - cron: '0 19 * * *'  # 8 PM London time (7 PM UTC)
+    - cron: '0 2 * * *'   # 3 AM London time (2 AM UTC) - night run
   
   workflow_dispatch:
 
@@ -26,20 +28,40 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 1
         
-    - name: Quick Duplicate Check
+    - name: Smart Duplicate Check
       id: duplicate_check
       run: |
-        # Skip only if very recent (20 minutes) and not manual
-        if [ "${{ github.event_name }}" != "workflow_dispatch" ] && [ -f "emailed_episodes.json" ]; then
+        # Manual runs ALWAYS proceed
+        if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+          echo "Manual run - proceeding without checks"
+          echo "action=run" >> $GITHUB_OUTPUT
+          exit 0
+        fi
+        
+        # For scheduled runs, check more intelligently
+        if [ -f "emailed_episodes.json" ]; then
+          # Check if file is just a skeleton (likely corrupted or new)
+          FILE_SIZE=$(wc -c < emailed_episodes.json)
+          if [ $FILE_SIZE -lt 100 ]; then
+            echo "JSON file is minimal ($FILE_SIZE bytes) - allowing run"
+            echo "action=run" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # Only skip if VERY recent modification (5 minutes instead of 20)
           LAST_MODIFIED=$(stat -c %Y emailed_episodes.json 2>/dev/null || echo 0)
           CURRENT_TIME=$(date +%s)
           TIME_DIFF=$((CURRENT_TIME - LAST_MODIFIED))
           
-          if [ $TIME_DIFF -lt 1200 ]; then
-            echo "Recent run detected - skipping"
+          if [ $TIME_DIFF -lt 300 ]; then
+            echo "Very recent run detected ($TIME_DIFF seconds ago) - skipping"
             echo "action=skip" >> $GITHUB_OUTPUT
             exit 0
           fi
+          
+          echo "Last run was $TIME_DIFF seconds ago - proceeding"
+        else
+          echo "No existing database - proceeding with first run"
         fi
         
         echo "action=run" >> $GITHUB_OUTPUT
@@ -71,10 +93,20 @@ jobs:
             echo "Fixing corrupted JSON file ($FILE_SIZE bytes)"
             echo '{"episodes": {}, "version": "1.0"}' > emailed_episodes.json
           fi
+          
+          # Validate JSON structure
+          if ! python -c "import json; json.load(open('emailed_episodes.json'))" 2>/dev/null; then
+            echo "Fixing invalid JSON structure"
+            echo '{"episodes": {}, "version": "1.0"}' > emailed_episodes.json
+          fi
         else
           echo "Creating new JSON database"
           echo '{"episodes": {}, "version": "1.0"}' > emailed_episodes.json
         fi
+        
+        # Show current database stats
+        EPISODE_COUNT=$(python -c "import json; data=json.load(open('emailed_episodes.json')); print(len(data.get('episodes', {})))" 2>/dev/null || echo "0")
+        echo "Current database contains $EPISODE_COUNT processed episodes"
         
     - name: Run Pipeline
       if: steps.duplicate_check.outputs.action == 'run'
@@ -85,8 +117,12 @@ jobs:
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
       run: |
         mkdir -p downloads transcripts
-        echo "Starting pipeline..."
+        echo "Starting pipeline at $(date -u '+%Y-%m-%d %H:%M UTC')..."
+        
+        # Run the pipeline
         python podcast_shared_live_5.py
+        
+        echo "Pipeline completed at $(date -u '+%Y-%m-%d %H:%M UTC')"
         
     - name: Commit Changes
       if: steps.duplicate_check.outputs.action == 'run'
@@ -99,26 +135,48 @@ jobs:
         
         if [ -f "emailed_episodes.json" ]; then
           FILE_SIZE=$(wc -c < emailed_episodes.json)
+          echo "Database file size: $FILE_SIZE bytes"
+          
           if [ $FILE_SIZE -gt 50 ]; then  # File has real content
             # Validate JSON before committing
             if python -c "import json; json.load(open('emailed_episodes.json'))" 2>/dev/null; then
-              git add emailed_episodes.json
-              git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-              git push
-              echo "✅ Database updated successfully"
+              # Check if there are actual changes
+              if git diff --quiet emailed_episodes.json; then
+                echo "No changes to commit - database unchanged"
+              else
+                git add emailed_episodes.json
+                git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')] - Run type: ${{ github.event_name }}"
+                git push
+                echo "Database updated and committed successfully"
+              fi
             else
-              echo "❌ Invalid JSON - not committing"
+              echo "Invalid JSON detected - not committing corrupted data"
             fi
           else
-            echo "📝 File too small - no real updates"
+            echo "Database file too small - likely corrupted, not committing"
           fi
+        else
+          echo "Database file missing - nothing to commit"
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
-    - name: Status
+    - name: Status Report
       if: always()
       run: |
-        echo "Run complete: ${{ steps.duplicate_check.outputs.action || 'unknown' }}"
-        echo "Manual runs always execute"
+        echo "=== WORKFLOW SUMMARY ==="
+        echo "Trigger: ${{ github.event_name }}"
+        echo "Action taken: ${{ steps.duplicate_check.outputs.action || 'unknown' }}"
+        echo "Run time: $(date -u '+%Y-%m-%d %H:%M UTC')"
+        
+        if [ "${{ steps.duplicate_check.outputs.action }}" == "skip" ]; then
+          echo "Run was SKIPPED due to recent activity"
+          echo "To force a run, use 'Run workflow' button (manual dispatch)"
+        else
+          echo "Run was EXECUTED"
+        fi
+        
+        # Clean up temporary files
         rm -f pipeline.lock *.tmp downloads/* transcripts/* 2>/dev/null || true
+        
+        echo "=== END SUMMARY ==="
