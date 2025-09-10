@@ -209,8 +209,50 @@
       "feed": "Horizontes de Latinoam\u00e9rica (S&P Global)",
       "emailed": "2025-09-09T18:47:32.831189",
       "episode_id": "2d5b86294c65e662"
+    },
+    "8d2f02ff82267fb2": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/551d26b3-1a97-473a-a293-82f474e5de4c.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Can AI Make Healthcare Less Expensive?",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-09-10T19:06:05.637024",
+      "episode_id": "8d2f02ff82267fb2"
+    },
+    "4457a60c64f7aada": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250910-details-matter.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Details matter'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-10T19:07:55.063050",
+      "episode_id": "4457a60c64f7aada"
+    },
+    "d4e48250cfd78077": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/e0ac819c-87f2-4a70-aec4-db0e35f0bd05/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=e0ac819c-87f2-4a70-aec4-db0e35f0bd05&feed=tc4zxWgX",
+      "title": "Oracles Wild Numbers, Klarna Starts Trading, and Novo\u2019s Next Move 9/10/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-10T19:15:44.543753",
+      "episode_id": "d4e48250cfd78077"
+    },
+    "270ab20d11ef0a9c": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/68c080eaf7970b080fb51ecf/media.mp3",
+      "title": "How the diamond industry lost its sparkle",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-09-10T19:22:56.680215",
+      "episode_id": "270ab20d11ef0a9c"
+    },
+    "d0cc490cb36cd8fb": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5214492477.mp3?t=podcast&e=nx-s1-5534485&p=510289&d=1731&size=27697825",
+      "title": "Asking for a friend \u2026 which jobs are safe from AI?",
+      "feed": "Planet Money",
+      "emailed": "2025-09-10T19:29:44.711227",
+      "episode_id": "d0cc490cb36cd8fb"
+    },
+    "bc5eaa316bde11a7": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/fd0bd3b5-93c2-4418-ad1d-3bc8b470be09/audio/f8aa0bb7-ca9b-4878-8563-f5f0e07f9742/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Planning for the Unplannable with Savvas Manousos",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2025-09-10T19:39:39.294684",
+      "episode_id": "bc5eaa316bde11a7"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-09T18:47:32.831176"
+  "last_updated": "2025-09-10T19:39:39.294673"
 }
