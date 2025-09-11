@@ -28,39 +28,12 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 1
         
-    - name: Smart Duplicate Check
+    - name: Run Check
       id: duplicate_check
       run: |
-        # Manual runs ALWAYS proceed
-        if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
-          echo "Manual run - proceeding without checks"
-          echo "action=run" >> $GITHUB_OUTPUT
-          exit 0
-        fi
-        
-        # For scheduled runs, be much more permissive
-        echo "Scheduled run detected - checking for genuine duplicates only"
-        
-        if [ -f "emailed_episodes.json" ]; then
-          FILE_SIZE=$(wc -c < emailed_episodes.json)
-          LAST_MODIFIED=$(stat -c %Y emailed_episodes.json 2>/dev/null || echo 0)
-          CURRENT_TIME=$(date +%s)
-          TIME_DIFF=$((CURRENT_TIME - LAST_MODIFIED))
-          
-          echo "Database file: $FILE_SIZE bytes, modified $TIME_DIFF seconds ago"
-          
-          # Only skip if EXTREMELY recent (2 minutes) - likely concurrent run
-          if [ $TIME_DIFF -lt 120 ]; then
-            echo "EXTREMELY recent run detected ($TIME_DIFF seconds ago) - likely concurrent execution"
-            echo "action=skip" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-          
-          echo "Sufficient time gap ($TIME_DIFF seconds) - proceeding with scheduled run"
-        else
-          echo "No existing database - proceeding with first run"
-        fi
-        
+        # All runs proceed - duplicate prevention handled by Python code
+        echo "Proceeding with ${{ github.event_name }} run"
+        echo "Time: $(date -u '+%Y-%m-%d %H:%M UTC')"
         echo "action=run" >> $GITHUB_OUTPUT
         
     - name: Setup Python
