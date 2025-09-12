@@ -307,8 +307,36 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2025-09-11T21:24:46.251666",
       "episode_id": "994aea558e1cf562"
+    },
+    "dc3da7eb14d68057": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD7825922273.mp3",
+      "title": "Sentiment Check on Tech",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2025-09-12T07:15:27.067305",
+      "episode_id": "dc3da7eb14d68057"
+    },
+    "e538556f49b076ef": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/68c3bd44ac97a487dfd7fe87/media.mp3",
+      "title": "US rate cuts & spending gluts",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-09-12T07:18:46.734952",
+      "episode_id": "e538556f49b076ef"
+    },
+    "50e1e502cdda4a9e": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250912-price-perception-problems.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Price perception problems'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-12T07:20:40.560138",
+      "episode_id": "50e1e502cdda4a9e"
+    },
+    "1bb68892a8b1f301": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/68c0495502dac152356ca930/media.mp3",
+      "title": "China and the limits of its \u2018engineering state\u2019. With Dan Wang",
+      "feed": "The Economics Show",
+      "emailed": "2025-09-12T07:31:04.992217",
+      "episode_id": "1bb68892a8b1f301"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-11T21:24:46.251655"
+  "last_updated": "2025-09-12T07:31:04.992203"
 }
