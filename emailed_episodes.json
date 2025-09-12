@@ -349,8 +349,29 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2025-09-12T15:36:22.316564",
       "episode_id": "a9afe43a0a29a9e8"
+    },
+    "dd8599d72e6aebbf": {
+      "url": "https://mcdn.podbean.com/mf/web/nj6xthjcts4cpr9a/AAR_Global_Rates_ECB_and_BoE.mp3",
+      "title": "Global Rates: ECB and BoE meetings, French spreads and Dutch indexation",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-09-12T19:14:17.153494",
+      "episode_id": "dd8599d72e6aebbf"
+    },
+    "a8c38f6f7d124d5a": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250912%20-%20Washington%20Weekly%20Podcast.mp3",
+      "title": "Washington Weekly Podcast: Government Funding, Private Sector equity stakes, & more",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-12T19:18:17.966555",
+      "episode_id": "a8c38f6f7d124d5a"
+    },
+    "be0cf46f18e30af2": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/17833782-colombia-s-european-tour-as-em-issuers-enjoy-rampant-markets.mp3",
+      "title": "Colombia's European tour as EM issuers enjoy rampant markets",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-09-12T19:25:04.626755",
+      "episode_id": "be0cf46f18e30af2"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-12T15:36:22.316552"
+  "last_updated": "2025-09-12T19:25:04.626743"
 }
