@@ -370,8 +370,50 @@
       "feed": "The GlobalCapital Podcast",
       "emailed": "2025-09-12T19:25:04.626755",
       "episode_id": "be0cf46f18e30af2"
+    },
+    "4d777062ad9ff6f1": {
+      "url": "https://mcdn.podbean.com/mf/web/dx2fq9i2g9guf7g5/AAR_US_Rates_Yield_curve.mp3",
+      "title": "US Rates: Yield curve bull flattens ahead of September FOMC",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-09-13T02:45:14.032250",
+      "episode_id": "4d777062ad9ff6f1"
+    },
+    "df4ea133495260da": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/c47770f8-5ad7-4b53-a076-143196be02c4.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "How Cybersecurity Is Reshaping Portfolios",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-09-13T02:47:03.905868",
+      "episode_id": "df4ea133495260da"
+    },
+    "d46d2f2c47853ad4": {
+      "url": "https://mcdn.podbean.com/mf/web/rtvnw6dy5cs73f2h/09122025_MMTVuse.mp3",
+      "title": "Global Data Pod Weekender: And if not now, when?",
+      "feed": "Global Data Pod",
+      "emailed": "2025-09-13T02:55:16.582938",
+      "episode_id": "d46d2f2c47853ad4"
+    },
+    "aba1aa0529715d25": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/3c1a6d51-ff9b-4435-a133-9c01a45f6763/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=3c1a6d51-ff9b-4435-a133-9c01a45f6763&feed=tc4zxWgX",
+      "title": "The Exchange 9/12/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-13T03:05:01.230862",
+      "episode_id": "aba1aa0529715d25"
+    },
+    "262eb79902779cc7": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443",
+      "title": "The U.S. now owns a big chunk of Intel. That\u2019s a huge deal.",
+      "feed": "Planet Money",
+      "emailed": "2025-09-13T03:14:30.171158",
+      "episode_id": "262eb79902779cc7"
+    },
+    "dec9959fa503d9f1": {
+      "url": "https://mcdn.podbean.com/mf/web/kd978aarhgqea2f3/Podcast_09-12-25.mp3",
+      "title": "September WASDE: What's driving prices?",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2025-09-13T03:19:56.594437",
+      "episode_id": "dec9959fa503d9f1"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-12T19:25:04.626743"
+  "last_updated": "2025-09-13T03:19:56.594426"
 }
