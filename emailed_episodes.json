@@ -419,8 +419,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-15T03:07:56.585722",
       "episode_id": "2998099727187b93"
+    },
+    "fa31ad01eeb4dcc5": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250915-the-fed-and-the-future.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'The Fed and the future'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-15T07:17:38.749572",
+      "episode_id": "fa31ad01eeb4dcc5"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-15T03:07:56.585711"
+  "last_updated": "2025-09-15T07:17:38.749559"
 }
