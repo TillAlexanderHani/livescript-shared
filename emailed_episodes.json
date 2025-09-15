@@ -426,8 +426,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-15T07:17:38.749572",
       "episode_id": "fa31ad01eeb4dcc5"
+    },
+    "b9b21e1b3a8e05e9": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250915%20-%20Top%20of%20the%20Morning.mp3",
+      "title": "Top of the Morning: CIO Strategy Snapshot - All eyes on the Fed",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-15T19:16:49.253844",
+      "episode_id": "b9b21e1b3a8e05e9"
+    },
+    "dc1295b564e03a3e": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/88e29062-a9a5-489a-bcf3-358dcad25f15/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=88e29062-a9a5-489a-bcf3-358dcad25f15&feed=tc4zxWgX",
+      "title": "The SPAC is back, The Fed & Financials & no more quarterly reports? 9/15/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-15T19:25:54.654778",
+      "episode_id": "dc1295b564e03a3e"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-15T07:17:38.749559"
+  "last_updated": "2025-09-15T19:25:54.654767"
 }
