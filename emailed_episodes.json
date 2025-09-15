@@ -412,8 +412,15 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2025-09-13T03:19:56.594437",
       "episode_id": "dec9959fa503d9f1"
+    },
+    "2998099727187b93": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250914%20-%20Ahead%20of%20the%20curve.mp3",
+      "title": "Ahead of the curve with Ulrike Hoffmann-Burchardi",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-15T03:07:56.585722",
+      "episode_id": "2998099727187b93"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-13T03:19:56.594426"
+  "last_updated": "2025-09-15T03:07:56.585711"
 }
