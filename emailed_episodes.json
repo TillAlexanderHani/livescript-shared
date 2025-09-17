@@ -475,8 +475,29 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-16T19:15:31.046113",
       "episode_id": "8afbabcf35cc2d68"
+    },
+    "46bc0569d916201e": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/81e4d6f2-e94d-4c0e-b6ef-181d227a09d4.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "How U.S. Industry Is Reinventing Itself",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-09-17T02:58:26.548638",
+      "episode_id": "46bc0569d916201e"
+    },
+    "2f3f5ef64b4b73ca": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/6bbc76b2-8527-45cc-98c9-27be694bdfc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=6bbc76b2-8527-45cc-98c9-27be694bdfc8&feed=tc4zxWgX",
+      "title": "\u201cMost Fraught\u201d FOMC Meeting, Weight Loss Wars, and Sweet on Hershey\u2019s  9/16/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-17T03:08:01.249662",
+      "episode_id": "2f3f5ef64b4b73ca"
+    },
+    "0fdea17b54162103": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/3d99972c-8d8e-4f31-b1d2-ee0794621a20/audio/9b9596c9-7ed0-4fa9-a059-f2f47df12c9e/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Disputes, Arbitration and Navigating a Fractious Commodities World with Alex de Gramont",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2025-09-17T03:21:18.736765",
+      "episode_id": "0fdea17b54162103"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-16T19:15:31.046107"
+  "last_updated": "2025-09-17T03:21:18.736755"
 }
