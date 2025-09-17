@@ -510,8 +510,15 @@
       "feed": "Planet Money",
       "emailed": "2025-09-17T07:30:39.892658",
       "episode_id": "56050be900d3cddb"
+    },
+    "63eaf37228d1d1e0": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250916%20-%20Top%20of%20the%20Morning_POTUS%2047.mp3",
+      "title": "Top of the Morning: POTUS 47 - Latest on US trade policy & government funding talks",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-17T15:29:58.223545",
+      "episode_id": "63eaf37228d1d1e0"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-17T07:30:39.892647"
+  "last_updated": "2025-09-17T15:29:58.223534"
 }
