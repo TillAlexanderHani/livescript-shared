@@ -496,8 +496,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2025-09-17T03:21:18.736765",
       "episode_id": "0fdea17b54162103"
+    },
+    "24eb1ef5ccfb4ef2": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/68c9cfa32c8045b9a2872751/media.mp3",
+      "title": "Is there a future for the \u2018Amazon of Africa\u2019?",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-09-17T07:24:33.027093",
+      "episode_id": "24eb1ef5ccfb4ef2"
+    },
+    "56050be900d3cddb": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000",
+      "title": "When CEO pay exploded (update)",
+      "feed": "Planet Money",
+      "emailed": "2025-09-17T07:30:39.892658",
+      "episode_id": "56050be900d3cddb"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-17T03:21:18.736755"
+  "last_updated": "2025-09-17T07:30:39.892647"
 }
