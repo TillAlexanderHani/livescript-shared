@@ -517,8 +517,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-17T15:29:58.223545",
       "episode_id": "63eaf37228d1d1e0"
+    },
+    "44f3a19e2f9f60fa": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d89b60b7-2875-4d54-b7e4-4533e47a524a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d89b60b7-2875-4d54-b7e4-4533e47a524a&feed=tc4zxWgX",
+      "title": "The Fed Decision: Markets, Politics, and Housing 9/17/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-17T19:20:20.531219",
+      "episode_id": "44f3a19e2f9f60fa"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-17T15:29:58.223534"
+  "last_updated": "2025-09-17T19:20:20.531209"
 }
