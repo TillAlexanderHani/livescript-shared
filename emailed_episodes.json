@@ -524,8 +524,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-09-17T19:20:20.531219",
       "episode_id": "44f3a19e2f9f60fa"
+    },
+    "e157892a153d524f": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/19833d97-eb6c-44fe-b64f-21e1bd8fa544.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Special Encore: AI Takes the Wheel",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-09-18T02:59:05.058934",
+      "episode_id": "e157892a153d524f"
+    },
+    "8a088637c530557b": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/17856923-ep69-beyond-hype-making-green-molecules-commercially-viable-ft-alexander-tancock-intercontinental-energy.mp3",
+      "title": "Ep69 Beyond Hype: Making Green Molecules Commercially Viable, ft Alexander Tancock, InterContinental Energy",
+      "feed": "Asia Climate Finance Podcast",
+      "emailed": "2025-09-18T03:09:59.404504",
+      "episode_id": "8a088637c530557b"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-17T19:20:20.531209"
+  "last_updated": "2025-09-18T03:09:59.404492"
 }
