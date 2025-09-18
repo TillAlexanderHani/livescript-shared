@@ -566,8 +566,36 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-18T15:42:12.836981",
       "episode_id": "51887a25996fb3a6"
+    },
+    "f619dcf5abee953b": {
+      "url": "https://mcdn.podbean.com/mf/web/zayer5kh8n37388v/At_Any_Rate_Global_Rates_-_Monthly_Inflation_Outlookaj3mj.mp3",
+      "title": "Global Rates: Monthly Inflation Outlook",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-09-18T19:13:23.603434",
+      "episode_id": "f619dcf5abee953b"
+    },
+    "e8a94395be0df08d": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/cfc3b2d2-9410-4f70-9c7b-f6599eba8252/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=cfc3b2d2-9410-4f70-9c7b-f6599eba8252&feed=tc4zxWgX",
+      "title": "Intel's Surge, Vaccine Recommendations and Kimmel's Indefinite Suspension 9/18/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-18T19:24:14.099802",
+      "episode_id": "e8a94395be0df08d"
+    },
+    "0e3ad937f64098bb": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/566awd6ijuru6xiu/MacroVoices-2025-09-18-Louis-Vincent-Gave.mp3",
+      "title": "MacroVoices #498 Louis-Vincent Gave: Which Megatrend Will Reshape The World?",
+      "feed": "Macro Voices",
+      "emailed": "2025-09-18T19:40:15.492740",
+      "episode_id": "0e3ad937f64098bb"
+    },
+    "c5a89a1a3fd1440d": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_TUREK.mp3?dest-id=1929056",
+      "title": "Ep. 326: Jon Turek on Fed Cuts, Recession Risks and Political Risks",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-09-18T19:48:07.156779",
+      "episode_id": "c5a89a1a3fd1440d"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-18T15:42:12.836971"
+  "last_updated": "2025-09-18T19:48:07.156763"
 }
