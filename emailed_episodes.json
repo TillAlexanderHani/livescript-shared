@@ -538,8 +538,22 @@
       "feed": "Asia Climate Finance Podcast",
       "emailed": "2025-09-18T03:09:59.404504",
       "episode_id": "8a088637c530557b"
+    },
+    "e7d45a87932bf051": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/68cba133789c58b340156e97/media.mp3",
+      "title": "The growth-inflation tug-of-war",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-09-18T07:18:19.194701",
+      "episode_id": "e7d45a87932bf051"
+    },
+    "65542551f367c917": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250918-weaker-employment-stronger-inflation.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Weaker employment > stronger inflation'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-18T07:24:03.574153",
+      "episode_id": "65542551f367c917"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-18T03:09:59.404492"
+  "last_updated": "2025-09-18T07:24:03.574142"
 }
