@@ -552,8 +552,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-18T07:24:03.574153",
       "episode_id": "65542551f367c917"
+    },
+    "e3f32646133ac8b4": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD4918816208.mp3",
+      "title": "The Healthcare Outlook: Macro Challenges and Biotech Innovations",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-09-18T15:33:08.973474",
+      "episode_id": "e3f32646133ac8b4"
+    },
+    "51887a25996fb3a6": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250918%20-%20AI%20CEO%20Podcast_6.mp3",
+      "title": "UBS AI Podcast - CEO Series - Ep. 5 (Winston Weinberg, CEO of Harvey)",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-18T15:42:12.836981",
+      "episode_id": "51887a25996fb3a6"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-18T07:24:03.574142"
+  "last_updated": "2025-09-18T15:42:12.836971"
 }
