@@ -657,8 +657,36 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-19T15:28:46.803698",
       "episode_id": "16485df60b04693c"
+    },
+    "89e69dad75712760": {
+      "url": "https://mcdn.podbean.com/mf/web/nvs32d6d7kwkn5az/250919AAR_FXMW.mp3",
+      "title": "Global FX: Take-aways from FOMC and other DM central banks",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-09-19T19:15:32.081975",
+      "episode_id": "89e69dad75712760"
+    },
+    "ffbd3b8f3d75ddef": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250919%20-%20Washington%20Weekly%20Podcast.mp3",
+      "title": "Washington Weekly Podcast: UK state visit, Privatizing GSEs, Government funding",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-19T19:19:09.147429",
+      "episode_id": "ffbd3b8f3d75ddef"
+    },
+    "5c49b03d6b148acf": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/ae824aa8-1c93-4c11-ab9d-88c2c30d6474/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=ae824aa8-1c93-4c11-ab9d-88c2c30d6474&feed=tc4zxWgX",
+      "title": "Dual Role for Bessent, xAI's New Valuation and iPhone 17 Launch Day 9/19/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-19T19:29:06.269201",
+      "episode_id": "5c49b03d6b148acf"
+    },
+    "41bcfc1f6572832b": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/17871137-seville-lore-bond-market-debates-regs-and-reciprocity.mp3",
+      "title": "Seville lore: bond market debates regs and reciprocity",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-09-19T19:37:28.937615",
+      "episode_id": "41bcfc1f6572832b"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-19T15:28:46.803686"
+  "last_updated": "2025-09-19T19:37:28.937604"
 }
