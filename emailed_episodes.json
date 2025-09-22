@@ -741,8 +741,22 @@
       "feed": "At Any Rate Podcast",
       "emailed": "2025-09-22T15:27:49.405171",
       "episode_id": "e93dfd573152fac4"
+    },
+    "299b2bdd5e9ad8d6": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250922%20-%20Top%20of%20the%20Morning_4.mp3",
+      "title": "Top of the Morning: CIO Strategy Snapshot - What\u2019s next for rate cuts?",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-22T19:17:05.281839",
+      "episode_id": "299b2bdd5e9ad8d6"
+    },
+    "f64f240f038799e9": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/6bad7318-fcff-4e8d-96eb-909c54b751e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=6bad7318-fcff-4e8d-96eb-909c54b751e3&feed=tc4zxWgX",
+      "title": "Nvidia Invests in OpenAI, Pfizer Pushes into Obesity and $100K H-1B Visas 9/22/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-22T19:26:03.956162",
+      "episode_id": "f64f240f038799e9"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-22T15:27:49.405161"
+  "last_updated": "2025-09-22T19:26:03.956151"
 }
