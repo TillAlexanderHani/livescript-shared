@@ -881,8 +881,22 @@
       "feed": "Planet Money",
       "emailed": "2025-09-24T19:36:38.242862",
       "episode_id": "70d6214f1b5ef8c6"
+    },
+    "568a2b1630d51a52": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a86dbbd0-8538-4b6d-9eaa-a0fcaa5c60be.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Capital Markets Pick Up as U.S. Policy Settles",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-09-25T03:03:19.567544",
+      "episode_id": "568a2b1630d51a52"
+    },
+    "9821b30f7ad344f7": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250917%20-%20Meet%20Ulrike%20Podcast.mp3",
+      "title": "Meet Ulrike Hoffmann-Burchardi, CIO Americas and Global Head of Equities",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-25T03:06:08.167660",
+      "episode_id": "9821b30f7ad344f7"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-24T19:36:38.242852"
+  "last_updated": "2025-09-25T03:06:08.167650"
 }
