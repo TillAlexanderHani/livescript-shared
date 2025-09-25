@@ -923,8 +923,36 @@
       "feed": "Goldman Sachs Exchanges",
       "emailed": "2025-09-25T15:31:24.445231",
       "episode_id": "942bc620449935c2"
+    },
+    "3764f8641612f589": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250925%20-%20CIO%20Fixed%20Income%20Roundtable.mp3",
+      "title": "CIO Fixed Income Roundtable Series: Performance update & outlook",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-25T19:16:50.783595",
+      "episode_id": "3764f8641612f589"
+    },
+    "c8af73e46a9cb8c5": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/f807a0ae-aaeb-4d60-a5f5-22e737831c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=f807a0ae-aaeb-4d60-a5f5-22e737831c82&feed=tc4zxWgX",
+      "title": "TikTok's U.S. Investors, Private Equity Falters and OpenAI Continues Spending 9/25/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-25T19:22:47.916041",
+      "episode_id": "c8af73e46a9cb8c5"
+    },
+    "f46d97f6c3610b41": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/j7inrkqdunr9acff/MacroVoices-2025-09-25-Luke-Gromen.mp3",
+      "title": "MacroVoices #499 Has The Luke Gromen Moment Arrived?",
+      "feed": "Macro Voices",
+      "emailed": "2025-09-25T19:45:43.878760",
+      "episode_id": "f46d97f6c3610b41"
+    },
+    "8457ba9965f515f5": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_HASS1.mp3?dest-id=1929056",
+      "title": "Ep. 327: Ryan Hass on China\u2019s Patient Power Play, and US-China Relations",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-09-25T19:49:12.211987",
+      "episode_id": "8457ba9965f515f5"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-25T15:31:24.445219"
+  "last_updated": "2025-09-25T19:49:12.211977"
 }
