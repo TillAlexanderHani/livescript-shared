@@ -895,8 +895,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-25T03:06:08.167660",
       "episode_id": "9821b30f7ad344f7"
+    },
+    "66f7c117322314d9": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250925-a-us-day-today.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'A US day today'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-25T07:23:43.464014",
+      "episode_id": "66f7c117322314d9"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-25T03:06:08.167650"
+  "last_updated": "2025-09-25T07:23:43.463999"
 }
