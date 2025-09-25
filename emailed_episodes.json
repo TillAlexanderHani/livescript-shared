@@ -916,8 +916,15 @@
       "feed": "Macro Bytes (LATAM Focus)",
       "emailed": "2025-09-25T11:21:02.119109",
       "episode_id": "326c7a923bb832ba"
+    },
+    "942bc620449935c2": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD5921135272.mp3?updated=1758813685",
+      "title": "How Reliable is Economic Data?",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-09-25T15:31:24.445231",
+      "episode_id": "942bc620449935c2"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-25T11:21:02.119098"
+  "last_updated": "2025-09-25T15:31:24.445219"
 }
