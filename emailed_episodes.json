@@ -986,8 +986,36 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2025-09-26T07:28:17.034416",
       "episode_id": "15b4cd2941155609"
+    },
+    "00fc79792d3a1242": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/68d67c09099369ce42e4aa85/media.mp3",
+      "title": "Market resilience amid global risks",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-09-26T15:29:11.853835",
+      "episode_id": "00fc79792d3a1242"
+    },
+    "fff092dbaf939345": {
+      "url": "https://mcdn.podbean.com/mf/web/ksqfftz2m2jmb9by/250926GDP_Nora.mp3",
+      "title": "Global Data Pod Research Rap: Inflation monitor: Food and energy add to sticky core",
+      "feed": "Global Data Pod",
+      "emailed": "2025-09-26T15:34:09.472528",
+      "episode_id": "fff092dbaf939345"
+    },
+    "33f36a40a795214b": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250922%20-%20HSIP_AQR%20External%20version.mp3",
+      "title": "How should I be positioned? with Cliff Asness (AQR) and Jason Draho (UBS CIO)",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-26T15:41:52.637184",
+      "episode_id": "33f36a40a795214b"
+    },
+    "0f63994cb6590d13": {
+      "url": "https://traffic.megaphone.fm/CLS4571350710.mp3?updated=1758889804",
+      "title": "Rolex: Timeless Excellence - (Invest Like the Best, CLASSICS)",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-09-26T15:55:11.754732",
+      "episode_id": "0f63994cb6590d13"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-26T07:28:17.034404"
+  "last_updated": "2025-09-26T15:55:11.754722"
 }
