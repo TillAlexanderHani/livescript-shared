@@ -1098,8 +1098,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-29T15:31:31.877334",
       "episode_id": "4d101212a2ab56b6"
+    },
+    "d610f099916553c2": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/789c14fa-e488-4b15-ba1b-6b5627be662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=789c14fa-e488-4b15-ba1b-6b5627be662e&feed=tc4zxWgX",
+      "title": "Tesla Rallies, EA Goes Private and Government Shutdown Looms 9/29/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-09-29T19:19:28.045136",
+      "episode_id": "d610f099916553c2"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-29T15:31:31.877321"
+  "last_updated": "2025-09-29T19:19:28.045125"
 }
