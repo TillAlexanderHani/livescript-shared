@@ -1077,8 +1077,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-28T19:13:29.394340",
       "episode_id": "912fd063b22fa307"
+    },
+    "30e413b255b8875d": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Amundi_fund_channel_edit.mp3?dest-id=1534493",
+      "title": "Making MMF Investment Even More Intelligent",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-09-29T11:13:08.973965",
+      "episode_id": "30e413b255b8875d"
+    },
+    "56a27d25f0511161": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250929-paying-for-government.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Paying for government'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-29T11:15:34.045725",
+      "episode_id": "56a27d25f0511161"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-28T19:13:29.394330"
+  "last_updated": "2025-09-29T11:15:34.045715"
 }
