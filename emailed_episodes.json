@@ -1091,8 +1091,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-09-29T11:15:34.045725",
       "episode_id": "56a27d25f0511161"
+    },
+    "4d101212a2ab56b6": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250925%20-%20Talking%20Markets_DoubleLine%20Capital.mp3",
+      "title": "Back to School on the Markets with Jeffrey Gundlach, Founder, DoubleLine Capital",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-29T15:31:31.877334",
+      "episode_id": "4d101212a2ab56b6"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-29T11:15:34.045715"
+  "last_updated": "2025-09-29T15:31:31.877321"
 }
