@@ -1112,8 +1112,22 @@
       "feed": "Thoughts on the Market",
       "emailed": "2025-09-30T02:58:16.462543",
       "episode_id": "030b6d7551c1823c"
+    },
+    "61b03809b28b4540": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD4928820665.mp3",
+      "title": "AI Exchanges: The Role of Data",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-09-30T07:21:10.106699",
+      "episode_id": "61b03809b28b4540"
+    },
+    "52d4c363a167feb2": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/250930-growth-and-guessing.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Growth and guessing'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-09-30T07:22:37.156430",
+      "episode_id": "52d4c363a167feb2"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-30T02:58:16.462530"
+  "last_updated": "2025-09-30T07:22:37.156420"
 }
