@@ -1210,8 +1210,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-01T15:31:33.924720",
       "episode_id": "53d2dfc661b42385"
+    },
+    "990d6fe117a9e5d8": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/on-air/in-the-now/251001%20-%20Washington%20Weekly%20Podcast.mp3",
+      "title": "Washington Weekly Podcast: Government shutdown, U.S. Drug Pricing",
+      "feed": "UBS On-Air In the Now",
+      "emailed": "2025-10-01T19:14:35.420174",
+      "episode_id": "990d6fe117a9e5d8"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-01T15:31:33.924709"
+  "last_updated": "2025-10-01T19:14:35.420161"
 }
