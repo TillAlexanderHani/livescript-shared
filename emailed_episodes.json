@@ -1161,8 +1161,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-09-30T19:21:36.341922",
       "episode_id": "95bc3a0c3cc353df"
+    },
+    "e4afcee7e69d7ac4": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/2f26fc16-07d2-46ed-a182-4d525e47d296.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Tackling Economic Hurdles in Europe and Asia",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-10-01T03:14:21.762002",
+      "episode_id": "e4afcee7e69d7ac4"
+    },
+    "d49e49a0a9cbbf49": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/606a61ae-4f58-48b3-b5d1-ceae9a20c9a5/audio/d910ea17-8abe-4be9-9343-b112b873572a/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "From Systematic Trading to Structural Edge with Hans Balgobin",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2025-10-01T03:33:00.808394",
+      "episode_id": "d49e49a0a9cbbf49"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-09-30T19:21:36.341910"
+  "last_updated": "2025-10-01T03:33:00.808383"
 }
