@@ -1273,8 +1273,29 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-02T15:38:49.616906",
       "episode_id": "ab74ca17c8ce6048"
+    },
+    "b3e2c7d5f3017d3d": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/ca4a949d-0001-4033-9b6e-4f91c7736f43/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=ca4a949d-0001-4033-9b6e-4f91c7736f43&feed=tc4zxWgX",
+      "title": "Chips Rally, Credit Score Changes and Battle of the Bots 10/2/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-02T19:20:41.498602",
+      "episode_id": "b3e2c7d5f3017d3d"
+    },
+    "068159efe43cf9fc": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/j5vzp3ivsff53djw/MacroVoices-2025-10-02-Lyn-Alden.mp3",
+      "title": "MacroVoices #500 Lyn Alden: What Will Stop This Train?",
+      "feed": "Macro Voices",
+      "emailed": "2025-10-02T19:38:41.050438",
+      "episode_id": "068159efe43cf9fc"
+    },
+    "d3d81a127ff8a2a9": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_DIANE.mp3?dest-id=1929056",
+      "title": "Ep. 328: Diane Coyle on GDP, Digital Gaps and Invisible AI Economy",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-10-02T19:43:25.427728",
+      "episode_id": "d3d81a127ff8a2a9"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-02T15:38:49.616896"
+  "last_updated": "2025-10-02T19:43:25.427717"
 }
