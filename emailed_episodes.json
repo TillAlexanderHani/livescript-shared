@@ -1238,8 +1238,29 @@
       "feed": "Asia Climate Finance Podcast",
       "emailed": "2025-10-02T03:16:45.731466",
       "episode_id": "7e662e14288c3b25"
+    },
+    "5e0895bf13bd8886": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/68de19757be17a7f01c407ad/media.mp3",
+      "title": "Commodities in context",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-10-02T07:18:40.886707",
+      "episode_id": "5e0895bf13bd8886"
+    },
+    "2413c2f63f9e87bd": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251002-losing-jobs.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Losing jobs'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-02T07:20:48.664902",
+      "episode_id": "2413c2f63f9e87bd"
+    },
+    "d467df0e9ddf31be": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/68dd64f609b1c365e4ec2800/media.mp3",
+      "title": "How to get immigration right. With Adam Ozemik",
+      "feed": "The Economics Show",
+      "emailed": "2025-10-02T07:32:08.698663",
+      "episode_id": "d467df0e9ddf31be"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-02T03:16:45.731455"
+  "last_updated": "2025-10-02T07:32:08.698652"
 }
