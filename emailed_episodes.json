@@ -1343,8 +1343,36 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2025-10-03T15:39:20.840752",
       "episode_id": "685c07d1acabdf7a"
+    },
+    "8e2d7594f366631d": {
+      "url": "https://mcdn.podbean.com/mf/web/aeyte2ugtqjznp9s/251003AAR_FXMW.mp3",
+      "title": "Global FX: Shutdown limbo",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-10-03T19:15:53.288708",
+      "episode_id": "8e2d7594f366631d"
+    },
+    "add7091686f64266": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251003%20-%20Top%20of%20the%20Morning_2.mp3",
+      "title": "Top of the Morning: State of the U.S. economy & Fed monetary policy",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-03T19:19:39.437264",
+      "episode_id": "add7091686f64266"
+    },
+    "e801c80e226d276c": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/5cfed116-59b9-42dd-a1f6-adc287a52a68/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=5cfed116-59b9-42dd-a1f6-adc287a52a68&feed=tc4zxWgX",
+      "title": "Data Dearth, Gambling Lows and Tariff-Proof Taylor 10/3/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-03T19:27:33.226001",
+      "episode_id": "e801c80e226d276c"
+    },
+    "42505b54e66cad2f": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/17950523-italy-wows-in-mtns-as-ceemea-bonds-fly-but-slbs-stutter.mp3",
+      "title": "Italy wows in MTNs as CEEMEA bonds fly but SLBs stutter",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-10-03T19:36:49.097422",
+      "episode_id": "42505b54e66cad2f"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-03T15:39:20.840737"
+  "last_updated": "2025-10-03T19:36:49.097412"
 }
