@@ -1322,8 +1322,15 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2025-10-03T07:24:35.367602",
       "episode_id": "bcb5f1afc29d906d"
+    },
+    "913ab80056aac8a2": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251003-not-employment-report-friday.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Not employment report Friday'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-03T11:12:35.174701",
+      "episode_id": "913ab80056aac8a2"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-03T07:24:35.367591"
+  "last_updated": "2025-10-03T11:12:35.174690"
 }
