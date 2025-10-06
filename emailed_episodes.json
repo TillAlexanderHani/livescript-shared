@@ -1413,8 +1413,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-06T03:07:25.100359",
       "episode_id": "0e43ae1e96d590e7"
+    },
+    "a145c5bc4d5f33e9": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251006-pro-growth-policies.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Pro-growth policies?'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-06T07:17:48.207840",
+      "episode_id": "a145c5bc4d5f33e9"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-06T03:07:25.100348"
+  "last_updated": "2025-10-06T07:17:48.207831"
 }
