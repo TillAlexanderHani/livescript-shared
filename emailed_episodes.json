@@ -1448,8 +1448,15 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2025-10-06T15:39:10.273102",
       "episode_id": "d9e3d3e13b4848d2"
+    },
+    "cdb88ad095fc6cca": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/9826eccf-6ff4-4532-8433-b69c3a5d6803/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=9826eccf-6ff4-4532-8433-b69c3a5d6803&feed=tc4zxWgX",
+      "title": "AMD's OpenAI partnership, Gold's Record Year, and Trump's Affordability Fix 10/6/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-06T19:22:43.409258",
+      "episode_id": "cdb88ad095fc6cca"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-06T15:39:10.273091"
+  "last_updated": "2025-10-06T19:22:43.409247"
 }
