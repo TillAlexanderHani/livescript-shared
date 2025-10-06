@@ -1406,8 +1406,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-04T15:27:20.501968",
       "episode_id": "3fad7e14029e9fa7"
+    },
+    "0e43ae1e96d590e7": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251005%20-%20Signal%20over%20Noise.mp3",
+      "title": "Signal over noise with Ulrike Hoffmann-Burchardi",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-06T03:07:25.100359",
+      "episode_id": "0e43ae1e96d590e7"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-04T15:27:20.501957"
+  "last_updated": "2025-10-06T03:07:25.100348"
 }
