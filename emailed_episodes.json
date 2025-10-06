@@ -1420,8 +1420,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-06T07:17:48.207840",
       "episode_id": "a145c5bc4d5f33e9"
+    },
+    "aee1e25fef96950b": {
+      "url": "https://traffic.megaphone.fm/CLS5548199143.mp3?updated=1759722808",
+      "title": "Jesse Zhang - Building Decagon - [Invest Like the Best, EP.443]",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-10-06T11:27:30.486236",
+      "episode_id": "aee1e25fef96950b"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-06T07:17:48.207831"
+  "last_updated": "2025-10-06T11:27:30.486230"
 }
