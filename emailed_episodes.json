@@ -1462,8 +1462,29 @@
       "feed": "Thoughts on the Market",
       "emailed": "2025-10-07T03:00:45.114480",
       "episode_id": "39ac0f04fef17763"
+    },
+    "7ff4686a824bddb6": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/TMI-SANJAY-POD.mp3?dest-id=1534493",
+      "title": "Treasury Through the Eyes of a CFO: a 360 View on Strategy, Leverage and Governance",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-10-07T11:12:26.828926",
+      "episode_id": "7ff4686a824bddb6"
+    },
+    "793b5fe9455480b6": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251007-french-lettuce.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'French lettuce?'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-07T11:14:38.136565",
+      "episode_id": "793b5fe9455480b6"
+    },
+    "8aab1b0667e513cf": {
+      "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/b3c9b6e7-72ba-45c4-aff9-b1e7012d213b/9e477693-e820-43b3-8af7-b36b018ac211/audio.mp3?utm_source=Podcast&in_playlist=092b66a8-4329-4183-bb12-b1e7012d216f",
+      "title": "Mi cara pero no mi cuerpo",
+      "feed": "Radio Ambulante",
+      "emailed": "2025-10-07T11:26:54.746499",
+      "episode_id": "8aab1b0667e513cf"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-07T03:00:45.114469"
+  "last_updated": "2025-10-07T11:26:54.746488"
 }
