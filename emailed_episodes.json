@@ -1483,8 +1483,36 @@
       "feed": "Radio Ambulante",
       "emailed": "2025-10-07T11:26:54.746499",
       "episode_id": "8aab1b0667e513cf"
+    },
+    "442c071b535168b8": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/TMI-NTAM-Pod-6oct25.mp3?dest-id=1534493",
+      "title": "Policy Divergence Widens as Year-End Nears",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-10-07T15:28:35.124501",
+      "episode_id": "442c071b535168b8"
+    },
+    "131b811cb196e076": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251006%20-%20Across%20the%20Pond.mp3",
+      "title": "Across the Pond: Dream Home or Bubble Trouble?",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-07T15:32:52.207046",
+      "episode_id": "131b811cb196e076"
+    },
+    "665fd0a6d2bf5363": {
+      "url": "https://www.buzzsprout.com/2042300/episodes/17970874-ep105-unlocking-the-power-of-podcasting-for-entrepreneurs-with-mafe-salazar.mp3",
+      "title": "EP105 Unlocking the Power of Podcasting for Entrepreneurs with Mafe Salazar",
+      "feed": "MoneyChisme - Latino Financial Education",
+      "emailed": "2025-10-07T15:40:24.790242",
+      "episode_id": "665fd0a6d2bf5363"
+    },
+    "f2b02a67414a7322": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/17970371-guyana-s-new-political-climate.mp3",
+      "title": "Guyana's New Political Climate",
+      "feed": "Horizontes de Latinoam\u00e9rica (S&P Global)",
+      "emailed": "2025-10-07T15:49:01.405104",
+      "episode_id": "f2b02a67414a7322"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-07T11:26:54.746488"
+  "last_updated": "2025-10-07T15:49:01.405093"
 }
