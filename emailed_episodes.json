@@ -1553,8 +1553,15 @@
       "feed": "The Economics Show",
       "emailed": "2025-10-08T07:36:24.255534",
       "episode_id": "12ae528fe072d40b"
+    },
+    "0b405591acf78114": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251008-how-bouncy-is-the-bounce-back.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'How bouncy is the bounce back?'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-08T11:11:44.940999",
+      "episode_id": "0b405591acf78114"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-08T07:36:24.255523"
+  "last_updated": "2025-10-08T11:11:44.940989"
 }
