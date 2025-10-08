@@ -1532,8 +1532,29 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2025-10-08T03:12:21.195056",
       "episode_id": "861ce0e2b4bf0afb"
+    },
+    "a9a1a4b18fb0f10f": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/68e57cfb29045965870089a6/media.mp3",
+      "title": "Elon Musk and the end of a telecom tycoon\u2019s dream",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-10-08T07:24:21.901061",
+      "episode_id": "a9a1a4b18fb0f10f"
+    },
+    "d8a7888c3e290eb3": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7204865836.mp3?t=podcast&e=nx-s1-5564762&p=510289&d=1179&size=18870527",
+      "title": "Two ways AI is changing the business of crime (Two Indicators)",
+      "feed": "Planet Money",
+      "emailed": "2025-10-08T07:30:18.725784",
+      "episode_id": "d8a7888c3e290eb3"
+    },
+    "12ae528fe072d40b": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/68e4f95e484c2d338ca06ede/media.mp3",
+      "title": "The economics of birth control. With Martha Bailey",
+      "feed": "The Economics Show",
+      "emailed": "2025-10-08T07:36:24.255534",
+      "episode_id": "12ae528fe072d40b"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-08T03:12:21.195048"
+  "last_updated": "2025-10-08T07:36:24.255523"
 }
