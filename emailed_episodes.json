@@ -1518,8 +1518,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-10-07T19:28:22.348974",
       "episode_id": "c112f403345df657"
+    },
+    "71c19714e9b5cc6c": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/93b133b8-3151-4132-b0e0-6c9b2521ffe7.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Get Ready for a Steeper Yield Curve",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-10-08T02:58:03.088692",
+      "episode_id": "71c19714e9b5cc6c"
+    },
+    "861ce0e2b4bf0afb": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/52a423cb-0a4c-4d3b-83e2-0397e1a10148/audio/f43187d0-3458-48c2-a5bf-367b90bee0e6/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "A Post Fundamentals world? London Argus Conference Live Event with Saad Rahim, Nick Kumleben, David Fyfe and Kurt Chapman.",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2025-10-08T03:12:21.195056",
+      "episode_id": "861ce0e2b4bf0afb"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-07T19:28:22.348963"
+  "last_updated": "2025-10-08T03:12:21.195048"
 }
