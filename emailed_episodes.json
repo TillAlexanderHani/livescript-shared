@@ -1567,8 +1567,29 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-08T15:30:23.963365",
       "episode_id": "1d537eb10d32668b"
+    },
+    "0462d63bf7f73dd0": {
+      "url": "https://mcdn.podbean.com/mf/web/vafz48k4ncu6xzer/251008AAR_EMFI.mp3",
+      "title": "EM Sovereign External Repayment Risks: Staying alive after 2025",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-10-08T19:16:12.698137",
+      "episode_id": "0462d63bf7f73dd0"
+    },
+    "a535d7be263d3974": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD6445867600.mp3",
+      "title": "The Shutdown\u2019s Economic Impact",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-10-08T19:21:13.087726",
+      "episode_id": "a535d7be263d3974"
+    },
+    "e15bae5248d79ee5": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/a75c66e5-fd0d-4668-b7c6-0c763bc45d79/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=a75c66e5-fd0d-4668-b7c6-0c763bc45d79&feed=tc4zxWgX",
+      "title": "The Bank of Nvidia, Metal Momentum and Freight's State 10/8/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-08T19:30:52.006377",
+      "episode_id": "e15bae5248d79ee5"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-08T15:30:23.963355"
+  "last_updated": "2025-10-08T19:30:52.006371"
 }
