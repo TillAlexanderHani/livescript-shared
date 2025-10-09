@@ -1609,8 +1609,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-09T07:21:27.793860",
       "episode_id": "f1d6e3e5973b5668"
+    },
+    "13d31abee11d17e5": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Sibos25_Pod_CarlBNY.mp3?dest-id=1534493",
+      "title": "Seconds, Not Days: The New Standard for Corporate Treasury",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-10-09T11:15:18.233071",
+      "episode_id": "13d31abee11d17e5"
+    },
+    "68ac80215fcab227": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/17970990-can-ai-simulate-the-fed-with-tara-sinclair.mp3",
+      "title": "Can AI simulate the Fed? - with Tara Sinclair",
+      "feed": "Macro Bytes (LATAM Focus)",
+      "emailed": "2025-10-09T11:24:04.334474",
+      "episode_id": "68ac80215fcab227"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-09T07:21:27.793848"
+  "last_updated": "2025-10-09T11:24:04.334464"
 }
