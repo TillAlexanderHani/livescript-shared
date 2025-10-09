@@ -1630,8 +1630,36 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-09T15:37:28.391563",
       "episode_id": "88e362fbc5768a45"
+    },
+    "d9945630c81cf7a3": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/3e034855-8bd9-4c25-9241-290741b04fbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=3e034855-8bd9-4c25-9241-290741b04fbf&feed=tc4zxWgX",
+      "title": "The Odd Commodity Out, LULU Lags and Rare Earths Soar 10/9/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-09T19:23:05.135616",
+      "episode_id": "d9945630c81cf7a3"
+    },
+    "5ab43c25399fcf03": {
+      "url": "https://traffic.megaphone.fm/CLS5548199143.mp3?updated=1760027230",
+      "title": "Jesse Zhang - Building Decagon - [Invest Like the Best, EP.443]",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-10-09T19:39:01.684608",
+      "episode_id": "5ab43c25399fcf03"
+    },
+    "eb2b34ae9070b914": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/cgz7gzisyb3fpygh/MacroVoices-2025-10-09-Matt-Barrie.mp3",
+      "title": "MacroVoices #501 Matt Barrie: AI Caramba?",
+      "feed": "Macro Voices",
+      "emailed": "2025-10-09T19:55:54.869187",
+      "episode_id": "eb2b34ae9070b914"
+    },
+    "f0f35043babbc1d6": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_BATES1.mp3?dest-id=1929056",
+      "title": "Ep. 329: Shiloh Bates on CLO Risks, Private Credit and Macro Read-Through",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-10-09T20:02:14.231224",
+      "episode_id": "f0f35043babbc1d6"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-09T15:37:28.391553"
+  "last_updated": "2025-10-09T20:02:14.231213"
 }
