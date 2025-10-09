@@ -1595,8 +1595,22 @@
       "feed": "Thoughts on the Market",
       "emailed": "2025-10-09T03:02:07.267371",
       "episode_id": "a1b494926adfdee8"
+    },
+    "a65a7418da2899a7": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/68e7594dde9a2a62c40c70ad/media.mp3",
+      "title": "A macro whip round the region",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-10-09T07:19:13.462413",
+      "episode_id": "a65a7418da2899a7"
+    },
+    "f1d6e3e5973b5668": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251009-policy-discussion-in-a-data-vacuum.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Policy discussion in a data vacuum'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-09T07:21:27.793860",
+      "episode_id": "f1d6e3e5973b5668"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-09T03:02:07.267360"
+  "last_updated": "2025-10-09T07:21:27.793848"
 }
