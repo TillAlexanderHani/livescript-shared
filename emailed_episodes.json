@@ -1623,8 +1623,15 @@
       "feed": "Macro Bytes (LATAM Focus)",
       "emailed": "2025-10-09T11:24:04.334474",
       "episode_id": "68ac80215fcab227"
+    },
+    "88e362fbc5768a45": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251009%20-%20Top%20of%20the%20Morning.mp3",
+      "title": "Top of the Morning: US Financials - Sector update & outlook",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-09T15:37:28.391563",
+      "episode_id": "88e362fbc5768a45"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-09T11:24:04.334464"
+  "last_updated": "2025-10-09T15:37:28.391553"
 }
