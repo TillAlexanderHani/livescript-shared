@@ -1700,8 +1700,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-10T11:19:26.272583",
       "episode_id": "deda9cbb8eaae5ab"
+    },
+    "5a5bedb29c55851e": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251001%20-%20Talking%20Markets%20Podcast_Van%20Eck.mp3",
+      "title": "Talking Markets Podcast with Jan van Eck of VanEck",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-10T15:28:05.331727",
+      "episode_id": "5a5bedb29c55851e"
+    },
+    "9adcc9db3679c4dd": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV8829066919.mp3",
+      "title": "Buy The Bubble or Watch It Burst?",
+      "feed": "Macro Trading Floor",
+      "emailed": "2025-10-10T15:38:46.062104",
+      "episode_id": "9adcc9db3679c4dd"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-10T11:19:26.272574"
+  "last_updated": "2025-10-10T15:38:46.062085"
 }
