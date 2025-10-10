@@ -1679,8 +1679,29 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2025-10-10T07:21:39.796609",
       "episode_id": "46ba6d032443876e"
+    },
+    "8bd5bef4701db804": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/17987886-what-japan-s-elections-mean-for-the-yen.mp3",
+      "title": "What Japan's elections mean for the yen",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2025-10-10T11:13:33.383217",
+      "episode_id": "8bd5bef4701db804"
+    },
+    "a5b98835bcfd0ab6": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/68e8b36553a5e2858f30eca3/media.mp3",
+      "title": "The LatAm low-down with Joseph Incalcaterra",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-10-10T11:17:27.928950",
+      "episode_id": "a5b98835bcfd0ab6"
+    },
+    "deda9cbb8eaae5ab": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251010-inflation-data-is-coming.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Inflation (data) is coming'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-10T11:19:26.272583",
+      "episode_id": "deda9cbb8eaae5ab"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-10T07:21:39.796599"
+  "last_updated": "2025-10-10T11:19:26.272574"
 }
