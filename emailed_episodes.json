@@ -1749,8 +1749,29 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2025-10-10T19:47:06.468092",
       "episode_id": "eb7da2dd158a5f39"
+    },
+    "6e9628782ab9ee47": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/059c0268-328d-436f-9b33-2091254d8d03.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "An Unprecedented Wave of Inheritances Is Coming",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-10-11T02:53:29.293206",
+      "episode_id": "6e9628782ab9ee47"
+    },
+    "640ff66f1310fcbb": {
+      "url": "https://mcdn.podbean.com/mf/web/72h4watpkempuyhc/10102025_Weekender.mp3",
+      "title": "Global Data Pod Weekender: Just how symmetric are risks, really?",
+      "feed": "Global Data Pod",
+      "emailed": "2025-10-11T03:01:57.941081",
+      "episode_id": "640ff66f1310fcbb"
+    },
+    "0b5699a8f973b316": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6935404481.mp3?t=podcast&e=nx-s1-5565181&p=510289&d=1690&size=27045808",
+      "title": "How the government got hedge funded",
+      "feed": "Planet Money",
+      "emailed": "2025-10-11T03:13:11.654467",
+      "episode_id": "0b5699a8f973b316"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-10T19:47:06.468082"
+  "last_updated": "2025-10-11T03:13:11.654457"
 }
