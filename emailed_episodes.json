@@ -1784,8 +1784,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-13T07:20:06.329632",
       "episode_id": "5c81ede22147ecfd"
+    },
+    "8b59ac9a2483bec1": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ISO_20022_EP4_Final_Cut.mp3?dest-id=1534493",
+      "title": "ISO 20022 - Global Standard, Regional Realities",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-10-13T11:19:32.345871",
+      "episode_id": "8b59ac9a2483bec1"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-13T07:20:06.329620"
+  "last_updated": "2025-10-13T11:19:32.345860"
 }
