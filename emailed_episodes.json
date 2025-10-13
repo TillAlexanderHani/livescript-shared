@@ -1770,8 +1770,15 @@
       "feed": "Planet Money",
       "emailed": "2025-10-11T03:13:11.654467",
       "episode_id": "0b5699a8f973b316"
+    },
+    "f12871666409b3e0": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251012%20-%20Signal%20over%20Noise%20podcast.mp3",
+      "title": "Signal over Noise with Ulrike Hoffmann-Burchardi",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-13T03:14:57.173012",
+      "episode_id": "f12871666409b3e0"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-11T03:13:11.654457"
+  "last_updated": "2025-10-13T03:14:57.173005"
 }
