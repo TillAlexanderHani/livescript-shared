@@ -1777,8 +1777,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-13T03:14:57.173012",
       "episode_id": "f12871666409b3e0"
+    },
+    "5c81ede22147ecfd": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251013-where-to-start.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Where to start?'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-13T07:20:06.329632",
+      "episode_id": "5c81ede22147ecfd"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-13T03:14:57.173005"
+  "last_updated": "2025-10-13T07:20:06.329620"
 }
