@@ -1924,8 +1924,22 @@
       "feed": "Planet Money",
       "emailed": "2025-10-15T15:41:44.281335",
       "episode_id": "1290ddc9f862e22a"
+    },
+    "b382a2f58e804774": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/on-air/in-the-now/251015%20-%20Washington%20Weekly%20Podcast.mp3",
+      "title": "Washington Weekly Podcast: Government shutdown update, US-China trade talks",
+      "feed": "UBS On-Air In the Now",
+      "emailed": "2025-10-15T19:15:28.579183",
+      "episode_id": "b382a2f58e804774"
+    },
+    "ab573b0c5dae390d": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/9dae5935-9c77-401d-83b7-3225e6180dd6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=9dae5935-9c77-401d-83b7-3225e6180dd6&feed=tc4zxWgX",
+      "title": "Trade War Tensions, Big Gains for Small Caps and Luxury Lift 10/15/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-15T19:23:46.516003",
+      "episode_id": "ab573b0c5dae390d"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-15T15:41:44.281325"
+  "last_updated": "2025-10-15T19:23:46.515991"
 }
