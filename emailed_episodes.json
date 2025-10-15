@@ -1903,8 +1903,29 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2025-10-15T07:25:14.299623",
       "episode_id": "dde5db698b3b460e"
+    },
+    "3e27e1d81ec0fbda": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Sibos25_Pod_AlexandreGLEIF2.mp3?dest-id=1534493",
+      "title": "Verified Identity  in Treasury: Why LEIs Matter  More Than Ever",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-10-15T15:27:09.275026",
+      "episode_id": "3e27e1d81ec0fbda"
+    },
+    "93e7249e28fdb17f": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251015%20-%20Washington%20Weekly%20Podcast.mp3",
+      "title": "Washington Weekly Podcast: Government shutdown update, US-China trade talks",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-15T15:30:26.122273",
+      "episode_id": "93e7249e28fdb17f"
+    },
+    "1290ddc9f862e22a": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4471332189.mp3?t=podcast&e=nx-s1-5575106&p=510289&d=1919&size=30706295",
+      "title": "The year NYC went broke",
+      "feed": "Planet Money",
+      "emailed": "2025-10-15T15:41:44.281335",
+      "episode_id": "1290ddc9f862e22a"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-15T07:25:14.299614"
+  "last_updated": "2025-10-15T15:41:44.281325"
 }
