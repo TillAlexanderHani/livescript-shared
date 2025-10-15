@@ -1889,8 +1889,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2025-10-15T03:29:26.082821",
       "episode_id": "1383b8b373e0e2dc"
+    },
+    "928d4a8f17c63567": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251015-labor-weakness-still-beats-inflation-increases.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Labor weakness still beats inflation increases'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-15T07:18:04.309311",
+      "episode_id": "928d4a8f17c63567"
+    },
+    "dde5db698b3b460e": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/68ee8e7158893bb6e3d699d0/media.mp3",
+      "title": "The meltdown at Nestl\u00e9",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-10-15T07:25:14.299623",
+      "episode_id": "dde5db698b3b460e"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-15T03:29:26.082811"
+  "last_updated": "2025-10-15T07:25:14.299614"
 }
