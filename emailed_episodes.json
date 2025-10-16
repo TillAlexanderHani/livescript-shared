@@ -1966,8 +1966,29 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2025-10-16T07:21:18.946037",
       "episode_id": "9d1440d2f7e0dde2"
+    },
+    "40e0a25bb5606456": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/68f0cecdc9c308b50e8fc198/media.mp3",
+      "title": "Getting the boring stuff right",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-10-16T11:13:39.706069",
+      "episode_id": "40e0a25bb5606456"
+    },
+    "92a884267b125a8c": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251016-beige-flags.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Beige flags'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-16T11:16:00.367262",
+      "episode_id": "92a884267b125a8c"
+    },
+    "64e2c0d9ba8bd3e4": {
+      "url": "https://traffic.megaphone.fm/CLS7039449544.mp3?updated=1760554452",
+      "title": "Dan Wang - The US vs China In The 21st Century - [Invest Like the Best, EP.444]",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-10-16T11:33:24.602523",
+      "episode_id": "64e2c0d9ba8bd3e4"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-16T07:21:18.946026"
+  "last_updated": "2025-10-16T11:33:24.602514"
 }
