@@ -1938,8 +1938,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-10-15T19:23:46.516003",
       "episode_id": "ab573b0c5dae390d"
+    },
+    "48c35fa58f7d20b8": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/11ffca6a-cf53-4ff9-b475-a5de157934e1.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "How Politics Affect Global Markets",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-10-16T03:03:55.858170",
+      "episode_id": "48c35fa58f7d20b8"
+    },
+    "58cdd5cb0264544f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/17884747-ep71-innovative-models-for-sustainable-financing-ft-woochong-um-global-energy-alliance.mp3",
+      "title": "Ep71 Innovative models for sustainable financing, ft Woochong Um, Global Energy Alliance",
+      "feed": "Asia Climate Finance Podcast",
+      "emailed": "2025-10-16T03:15:56.071169",
+      "episode_id": "58cdd5cb0264544f"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-15T19:23:46.515991"
+  "last_updated": "2025-10-16T03:15:56.071160"
 }
