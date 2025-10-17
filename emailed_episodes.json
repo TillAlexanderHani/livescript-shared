@@ -2057,8 +2057,22 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2025-10-17T07:33:47.713891",
       "episode_id": "ff2c30a1fb5984a7"
+    },
+    "3b88153f175b8e83": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18027178-budgets-politics-and-market-moves.mp3",
+      "title": "Budgets, politics and market moves",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2025-10-17T11:15:19.212448",
+      "episode_id": "3b88153f175b8e83"
+    },
+    "b34cd6eda543108d": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/68f20b788139b87ab076a1b6/media.mp3",
+      "title": "Tech supremacy",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-10-17T11:18:25.321586",
+      "episode_id": "b34cd6eda543108d"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-17T07:33:47.713881"
+  "last_updated": "2025-10-17T11:18:25.321576"
 }
