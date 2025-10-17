@@ -2092,8 +2092,36 @@
       "feed": "Macro Trading Floor",
       "emailed": "2025-10-17T15:45:21.432170",
       "episode_id": "42c29796b479890e"
+    },
+    "fa37d2a8c072415e": {
+      "url": "https://mcdn.podbean.com/mf/web/idztxxwmbyfmr56n/AARFX251017.mp3",
+      "title": "Global FX: Sailing the USD Bearish Ship in Murky Waters",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-10-17T19:15:57.953041",
+      "episode_id": "fa37d2a8c072415e"
+    },
+    "8ba956217966e99b": {
+      "url": "https://mcdn.podbean.com/mf/web/dkp3jtebh57y3bqf/10172025_MMTVuse.mp3",
+      "title": "Global Data Pod Weekender: You can\u2019t get there from here",
+      "feed": "Global Data Pod",
+      "emailed": "2025-10-17T19:23:49.758930",
+      "episode_id": "8ba956217966e99b"
+    },
+    "0d8e57f348372ec4": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251017%20-%20Top%20of%20the%20Morning.mp3",
+      "title": "Top of the Morning: POTUS 47 - Government gridlock, Trade update",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-17T19:27:05.814986",
+      "episode_id": "0d8e57f348372ec4"
+    },
+    "fca7f1296d563883": {
+      "url": "https://mcdn.podbean.com/mf/web/m95kvzi9yc6ucpf3/Podcast_10-17-25.mp3",
+      "title": "What are markets focusing on without USDA data?",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2025-10-17T19:37:55.060200",
+      "episode_id": "fca7f1296d563883"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-17T15:45:21.432160"
+  "last_updated": "2025-10-17T19:37:55.060191"
 }
