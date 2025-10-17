@@ -2071,8 +2071,29 @@
       "feed": "The Macro Brief (HSBC Global Research)",
       "emailed": "2025-10-17T11:18:25.321586",
       "episode_id": "b34cd6eda543108d"
+    },
+    "0de54d7d32b579f5": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0910_BOA_APAC.mp3?dest-id=1534493",
+      "title": "Making Business Easier: Cutting-Edge Treasury for Seamless Trade",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-10-17T15:28:40.012384",
+      "episode_id": "0de54d7d32b579f5"
+    },
+    "d9c4dcad47bde4e6": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18027234-credit-suisse-at1-holders-hollow-victory-and-islamic-innovation.mp3",
+      "title": "Credit Suisse AT1 holders' hollow victory and Islamic innovation",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-10-17T15:37:13.042881",
+      "episode_id": "d9c4dcad47bde4e6"
+    },
+    "42c29796b479890e": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV9707006623.mp3",
+      "title": "Gold & Cockroaches",
+      "feed": "Macro Trading Floor",
+      "emailed": "2025-10-17T15:45:21.432170",
+      "episode_id": "42c29796b479890e"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-17T11:18:25.321576"
+  "last_updated": "2025-10-17T15:45:21.432160"
 }
