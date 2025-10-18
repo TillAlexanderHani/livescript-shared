@@ -2120,8 +2120,29 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2025-10-17T19:37:55.060200",
       "episode_id": "fca7f1296d563883"
+    },
+    "950e9862093a3fea": {
+      "url": "https://mcdn.podbean.com/mf/web/bvwec4fzz6esfnkg/AAR_Ho_White_101725b9y74.mp3",
+      "title": "US Rates - Does QT's end matter for funding and Treasury markets?",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-10-18T02:55:39.014523",
+      "episode_id": "950e9862093a3fea"
+    },
+    "1add12c654f7ec51": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/0dff9f12-a6ed-48a9-93e7-6144e675aa55.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "U.S.-China Tensions: What Could Happen Next?",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-10-18T02:57:40.315542",
+      "episode_id": "1add12c654f7ec51"
+    },
+    "8836ca8d1c8e0ccd": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4911777192.mp3?t=podcast&e=nx-s1-5577076&p=510289&d=1878&size=30050935",
+      "title": "How Russia\u2019s shadow fleet is sailing around oil sanctions",
+      "feed": "Planet Money",
+      "emailed": "2025-10-18T03:09:11.432805",
+      "episode_id": "8836ca8d1c8e0ccd"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-17T19:37:55.060191"
+  "last_updated": "2025-10-18T03:09:11.432795"
 }
