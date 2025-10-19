@@ -2141,8 +2141,15 @@
       "feed": "Planet Money",
       "emailed": "2025-10-18T03:09:11.432805",
       "episode_id": "8836ca8d1c8e0ccd"
+    },
+    "31168c3bc92c2d82": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251018%20-%20House%20Call%20Podcast.mp3",
+      "title": "House Call: Talking Equity Markets with UBS Asset Management",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-19T03:19:57.750346",
+      "episode_id": "31168c3bc92c2d82"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-18T03:09:11.432795"
+  "last_updated": "2025-10-19T03:19:57.750336"
 }
