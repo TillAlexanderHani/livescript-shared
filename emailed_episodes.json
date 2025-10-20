@@ -2162,8 +2162,22 @@
       "feed": "The Economics Show",
       "emailed": "2025-10-20T07:23:48.537709",
       "episode_id": "4413108493944f2b"
+    },
+    "0195e7b58fbf30c7": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/FX.mp3?dest-id=1534493",
+      "title": "Treasury in Transition: Managing FX Risk Amid Structural Change",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-10-20T11:14:26.231939",
+      "episode_id": "0195e7b58fbf30c7"
+    },
+    "a2d1966bd6f1d42d": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251020-back-and-forth-on-trade.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Back and forth on trade'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-20T11:16:35.633033",
+      "episode_id": "a2d1966bd6f1d42d"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-20T07:23:48.537698"
+  "last_updated": "2025-10-20T11:16:35.633027"
 }
