@@ -2204,8 +2204,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-10-21T03:15:47.859177",
       "episode_id": "1ba8b8cfaaf24313"
+    },
+    "1f59585af9a7b3fe": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251021-trading-patterns-offer-few-surprises.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Trading patterns offer few surprises'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-21T07:17:54.416066",
+      "episode_id": "1f59585af9a7b3fe"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-21T03:15:47.859166"
+  "last_updated": "2025-10-21T07:17:54.416055"
 }
