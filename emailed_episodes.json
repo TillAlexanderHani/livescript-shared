@@ -2190,8 +2190,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-20T19:22:10.302428",
       "episode_id": "7ba99602b9027b0c"
+    },
+    "d559d816af4742e9": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/199a81cc-475f-4785-b30e-e976b15b69d1.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Time for a Bull Market Correction?",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-10-21T03:05:56.027833",
+      "episode_id": "d559d816af4742e9"
+    },
+    "1ba8b8cfaaf24313": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/55c62eab-5551-4f8f-8947-c1a7fb483cad/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=55c62eab-5551-4f8f-8947-c1a7fb483cad&feed=tc4zxWgX",
+      "title": "Apple Climbs, AWS Outage and Rare Earths Refocus 10/20/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-21T03:15:47.859177",
+      "episode_id": "1ba8b8cfaaf24313"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-20T19:22:10.302419"
+  "last_updated": "2025-10-21T03:15:47.859166"
 }
