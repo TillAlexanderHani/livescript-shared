@@ -2274,8 +2274,22 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2025-10-22T07:25:35.583855",
       "episode_id": "74cdb0b6bbfd1712"
+    },
+    "780019e7ae7cb4a9": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD9831324105.mp3",
+      "title": "Making Sense of Weak Job Growth Alongside Solid GDP Growth",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-10-22T15:31:27.814038",
+      "episode_id": "780019e7ae7cb4a9"
+    },
+    "fea122684824f378": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251022%20-%20TOTM%20Podcast_MMG.mp3",
+      "title": "Top of the Morning: Muni Market update - Flows gather momentum",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-22T15:34:55.689266",
+      "episode_id": "fea122684824f378"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-22T07:25:35.583845"
+  "last_updated": "2025-10-22T15:34:55.689256"
 }
