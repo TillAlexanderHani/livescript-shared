@@ -2288,8 +2288,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-22T15:34:55.689266",
       "episode_id": "fea122684824f378"
+    },
+    "b94496291a2f09b9": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251021-Viewpoints_Podcast.mp3",
+      "title": "Viewpoints with Burkhard Varnholt - A global markets podcast (Ep. 48)",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-22T19:16:34.404141",
+      "episode_id": "b94496291a2f09b9"
+    },
+    "6cf66cbe910e3f8b": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/2c82264e-afdc-4c58-a030-81352f5b3a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=2c82264e-afdc-4c58-a030-81352f5b3a01&feed=tc4zxWgX",
+      "title": "Wells Fargo Heads South, Mitigating AI Bubble Risk and Timeshares are Hot 10/22/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-22T19:25:19.211325",
+      "episode_id": "6cf66cbe910e3f8b"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-22T15:34:55.689256"
+  "last_updated": "2025-10-22T19:25:19.211314"
 }
