@@ -2260,8 +2260,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2025-10-22T03:31:24.396416",
       "episode_id": "9d283b76bec24474"
+    },
+    "60336b21ae13254f": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251022-choppy-markets-in-choppy-waters.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Choppy markets, in choppy waters'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-22T07:18:41.146190",
+      "episode_id": "60336b21ae13254f"
+    },
+    "74cdb0b6bbfd1712": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/68f7e6375d128a844c710ba4/media.mp3",
+      "title": "Can the world\u2019s largest listed hedge fund rebound?",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-10-22T07:25:35.583855",
+      "episode_id": "74cdb0b6bbfd1712"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-22T03:31:24.396405"
+  "last_updated": "2025-10-22T07:25:35.583845"
 }
