@@ -2330,8 +2330,22 @@
       "feed": "The Economics Show",
       "emailed": "2025-10-23T07:30:12.988691",
       "episode_id": "d6d6a8ec2689bfe0"
+    },
+    "9d871213295ccd17": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/68f9eacc535a2a9d6a15aca9/media.mp3",
+      "title": "China, EVs and the next steps in AI",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-10-23T11:14:54.341849",
+      "episode_id": "9d871213295ccd17"
+    },
+    "f9bf78fcce656aa4": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV4340673630.mp3",
+      "title": "Momentum Shock: What Next For Markets?",
+      "feed": "Macro Trading Floor",
+      "emailed": "2025-10-23T11:25:51.555853",
+      "episode_id": "f9bf78fcce656aa4"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-23T07:30:12.988681"
+  "last_updated": "2025-10-23T11:25:51.555845"
 }
