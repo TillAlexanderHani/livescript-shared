@@ -2351,8 +2351,36 @@
       "feed": "At Any Rate Podcast",
       "emailed": "2025-10-23T15:28:29.074470",
       "episode_id": "ec272667ef6320a6"
+    },
+    "520ae78b208e3ce1": {
+      "url": "https://mcdn.podbean.com/mf/web/gge7fxq2fxg3b5s8/AAREMFI231025.mp3",
+      "title": "EM Fixed Income: Reviewing the global & previewing the upcoming idiosyncratic",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-10-23T19:15:57.739975",
+      "episode_id": "520ae78b208e3ce1"
+    },
+    "3c8c3eb9c989b7ec": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/3a1071b7-b6e1-4c97-a159-b169fd0e16a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=3a1071b7-b6e1-4c97-a159-b169fd0e16a0&feed=tc4zxWgX",
+      "title": "Oil Surges, Tesla Recoups and Meme Stocks are Back 10/23/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-23T19:25:56.278667",
+      "episode_id": "3c8c3eb9c989b7ec"
+    },
+    "29c66d0d210f4ca5": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/fe99y3h24dgrw5sd/Macrovoices-2025-10-23-Adam-Rozencwajg.mp3",
+      "title": "MacroVoices #503 Adam Rozencwajg: Gold, Oil & Uranium",
+      "feed": "Macro Voices",
+      "emailed": "2025-10-23T19:47:19.879111",
+      "episode_id": "29c66d0d210f4ca5"
+    },
+    "6260135f6ae6f2c2": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_HANSON_.mp3?dest-id=1929056",
+      "title": "Ep. 331: Gordon Hanson on US Manufacturing Fetishisation, Job Loss, and the Middle Class",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-10-23T19:53:55.101719",
+      "episode_id": "6260135f6ae6f2c2"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-23T15:28:29.074457"
+  "last_updated": "2025-10-23T19:53:55.101711"
 }
