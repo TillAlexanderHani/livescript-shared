@@ -2302,8 +2302,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-10-22T19:25:19.211325",
       "episode_id": "6cf66cbe910e3f8b"
+    },
+    "47402bb81083c4dc": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/1a2c759c-0b33-43ee-b8b3-df656d13b969.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Next Turning Points in Tech",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-10-23T03:05:50.205688",
+      "episode_id": "47402bb81083c4dc"
+    },
+    "422bb25e717031b3": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4283952550.mp3?t=podcast&e=nx-s1-5582749&p=510289&d=1503&size=24056982",
+      "title": "TikTok\u2019s Trojan Horse Strategy",
+      "feed": "Planet Money",
+      "emailed": "2025-10-23T03:16:17.884949",
+      "episode_id": "422bb25e717031b3"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-22T19:25:19.211314"
+  "last_updated": "2025-10-23T03:16:17.884940"
 }
