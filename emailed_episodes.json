@@ -2449,8 +2449,29 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2025-10-24T15:36:24.008646",
       "episode_id": "d3425370b5237d2b"
+    },
+    "86d3d394e3ba75f5": {
+      "url": "https://mcdn.podbean.com/mf/web/ydxmnkczefczaftx/AARFX251024.mp3",
+      "title": "Global FX: Japan focus, US/China, PMIs, Fed/ECB",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-10-24T19:23:39.346219",
+      "episode_id": "86d3d394e3ba75f5"
+    },
+    "7900b40f49817492": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/c5e4a34b-fbb5-4ad6-80e2-65d8f5eb3d29/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=c5e4a34b-fbb5-4ad6-80e2-65d8f5eb3d29&feed=tc4zxWgX",
+      "title": "Inflation Cools, Metals Dip and the Christmas Countdown is on 10/24/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-24T19:33:36.131564",
+      "episode_id": "7900b40f49817492"
+    },
+    "f730fe6feaaf9dfb": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18068330-clos-in-focus-bank-issuers-plan-for-trouble-despatch-from-dc.mp3",
+      "title": "CLOs in focus, bank issuers plan for trouble, despatch from DC",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-10-24T19:44:43.650812",
+      "episode_id": "f730fe6feaaf9dfb"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-24T15:36:24.008635"
+  "last_updated": "2025-10-24T19:44:43.650803"
 }
