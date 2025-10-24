@@ -2421,8 +2421,22 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2025-10-24T07:31:23.649608",
       "episode_id": "1cd5483d0ba381d5"
+    },
+    "293dcbe9608d1c46": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18067651-our-take-on-major-global-currencies.mp3",
+      "title": "Our take on major global currencies",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2025-10-24T11:15:33.943269",
+      "episode_id": "293dcbe9608d1c46"
+    },
+    "ce91598c4de52cde": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/68fb3c6e8e51ce90899d6cae/media.mp3",
+      "title": "Top global talking points",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-10-24T11:20:12.540272",
+      "episode_id": "ce91598c4de52cde"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-24T07:31:23.649598"
+  "last_updated": "2025-10-24T11:20:12.540262"
 }
