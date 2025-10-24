@@ -2393,8 +2393,36 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-24T03:04:08.436585",
       "episode_id": "86ac746c99ee7504"
+    },
+    "d46a6e1e0ec10cc4": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD2252567468.mp3",
+      "title": "Can the China Rally Continue?",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2025-10-24T07:17:13.314010",
+      "episode_id": "d46a6e1e0ec10cc4"
+    },
+    "1d5f9141df044d3a": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD2232177216.mp3",
+      "title": "\u2018Culture is Everything\u2019: Sixth Street\u2019s Alan Waxman on Flexibility and Alpha",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-10-24T07:25:05.411405",
+      "episode_id": "1d5f9141df044d3a"
+    },
+    "857e0a9c81aaac52": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251024-trade-talk-turmoil.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Trade talk turmoil'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-24T07:26:36.074150",
+      "episode_id": "857e0a9c81aaac52"
+    },
+    "1cd5483d0ba381d5": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/447f4546-82dd-49cd-84f9-3421fee03222.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "237: Global Exchange: How Investors In Asia Pacific Markets Are Positioning For What's Next",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2025-10-24T07:31:23.649608",
+      "episode_id": "1cd5483d0ba381d5"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-24T03:04:08.436575"
+  "last_updated": "2025-10-24T07:31:23.649598"
 }
