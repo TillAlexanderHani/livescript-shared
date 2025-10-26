@@ -2491,8 +2491,15 @@
       "feed": "Planet Money",
       "emailed": "2025-10-25T03:18:53.030940",
       "episode_id": "246a8cd96a81fd96"
+    },
+    "7aacd2ad50c57124": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251026%20-%20Around%20the%20Horn%20Podcast.mp3",
+      "title": "Around the Horn: Monthly Fixed Income Roundtable with UBS Asset Management",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-26T19:19:04.940479",
+      "episode_id": "7aacd2ad50c57124"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-25T03:18:53.030932"
+  "last_updated": "2025-10-26T19:19:04.940464"
 }
