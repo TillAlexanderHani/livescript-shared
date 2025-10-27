@@ -2505,8 +2505,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-27T03:19:48.409207",
       "episode_id": "bc060662fa150860"
+    },
+    "b6cab0c200113e0e": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251027-less-tense.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Less tense?'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-27T11:12:41.321683",
+      "episode_id": "b6cab0c200113e0e"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-27T03:19:48.409197"
+  "last_updated": "2025-10-27T11:12:41.321672"
 }
