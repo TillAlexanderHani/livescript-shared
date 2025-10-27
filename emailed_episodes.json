@@ -2519,8 +2519,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-27T15:32:11.473203",
       "episode_id": "f4333c4f2bb66f9a"
+    },
+    "54e24c0e9e400b4a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/97ae0e57-a94c-4ef3-80fa-abc05a2a27d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=97ae0e57-a94c-4ef3-80fa-abc05a2a27d0&feed=tc4zxWgX",
+      "title": "Bearish on Berkshire, Shutdown Risks and Big Tech on Deck 10/27/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-27T19:21:08.547904",
+      "episode_id": "54e24c0e9e400b4a"
+    },
+    "ebcc857d5faba8cf": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/18063726-can-france-find-a-way-out-of-its-political-and-fiscal-problems.mp3",
+      "title": "Can France find a way out of its political and fiscal problems?",
+      "feed": "Macro Bytes (LATAM Focus)",
+      "emailed": "2025-10-27T19:28:07.295898",
+      "episode_id": "ebcc857d5faba8cf"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-27T15:32:11.473193"
+  "last_updated": "2025-10-27T19:28:07.295888"
 }
