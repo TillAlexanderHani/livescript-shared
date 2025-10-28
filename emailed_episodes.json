@@ -2575,8 +2575,29 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-28T15:33:37.344739",
       "episode_id": "9319cc306e26fd6c"
+    },
+    "5e3be4c8bc63d05e": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD8458393803.mp3",
+      "title": "Gold, Oil, and Rare Earths: Commodities on the Move",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-10-28T19:16:09.876024",
+      "episode_id": "5e3be4c8bc63d05e"
+    },
+    "7ea1f5c948d27db5": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251028-Viewpoints_Podcast.mp3",
+      "title": "Viewpoints with Burkhard Varnholt - A global markets podcast (Ep. 49)",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-28T19:18:48.239727",
+      "episode_id": "7ea1f5c948d27db5"
+    },
+    "4e8c74dfa25d651a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/aef03257-7ace-42e2-8f12-77765f4bf7cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=aef03257-7ace-42e2-8f12-77765f4bf7cd&feed=tc4zxWgX",
+      "title": "The Exchange 10/28/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-28T19:27:28.361732",
+      "episode_id": "4e8c74dfa25d651a"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-28T15:33:37.344729"
+  "last_updated": "2025-10-28T19:27:28.361723"
 }
