@@ -2610,8 +2610,15 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2025-10-29T03:30:54.934435",
       "episode_id": "ab9c85723ac3ca64"
+    },
+    "926c46f79664439d": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/690102166ec4f3ea1b104919/media.mp3",
+      "title": "$12bn of debt: How First Brands Group collapsed",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-10-29T07:24:50.404002",
+      "episode_id": "926c46f79664439d"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-29T03:30:54.934423"
+  "last_updated": "2025-10-29T07:24:50.403991"
 }
