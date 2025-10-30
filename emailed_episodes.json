@@ -2687,8 +2687,36 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-30T15:35:09.969541",
       "episode_id": "5b83e12adfeaaef7"
+    },
+    "43d4c308eb55e37b": {
+      "url": "https://mcdn.podbean.com/mf/web/ca8wfqsn44azs8wp/AAREMFI301025.mp3",
+      "title": "EM Fixed Income: Not spooked yet",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-10-30T19:14:16.850202",
+      "episode_id": "43d4c308eb55e37b"
+    },
+    "96faf041976ae047": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/97c6249c-c368-44f5-8f5d-748ef0016f7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=97c6249c-c368-44f5-8f5d-748ef0016f7a&feed=tc4zxWgX",
+      "title": "Trade Truce, Big Tech Breakdown and Freight Fears 10/30/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-30T19:23:53.195764",
+      "episode_id": "96faf041976ae047"
+    },
+    "f7f64afcacdc5095": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/zrwpp8n4umyxncq3/Macrovoices-2025-10-30-Brent-Johnson.mp3",
+      "title": "MacroVoices #504 Brent Johnson: The Genius of Stablecoins",
+      "feed": "Macro Voices",
+      "emailed": "2025-10-30T19:40:06.487267",
+      "episode_id": "f7f64afcacdc5095"
+    },
+    "96b6d05d001a0f46": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_MIGUEL.mp3?dest-id=1929056",
+      "title": "Ep. 332: Miguel Gutierrez on Argentina&#x27;s Transformation, Latin American Opportunities, and Private Market Arbitrage.",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-10-30T19:48:42.068483",
+      "episode_id": "96b6d05d001a0f46"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-30T15:35:09.969528"
+  "last_updated": "2025-10-30T19:48:42.068472"
 }
