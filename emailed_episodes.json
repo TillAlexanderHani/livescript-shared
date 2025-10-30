@@ -2631,8 +2631,43 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-10-29T11:16:09.442524",
       "episode_id": "4ee78b12f94b0c46"
+    },
+    "c609d7a45a7fb1f7": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/d99d4ce3-8f4c-482b-a78c-e9e08f4ee5f1.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "M&A Poised to Gain Momentum",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-10-30T03:13:48.671740",
+      "episode_id": "c609d7a45a7fb1f7"
+    },
+    "3bdbabb34386aa0a": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251029%20-%20Top%20of%20the%20Morning.mp3",
+      "title": "Top of the Morning: Fixed Income Strategist - Almost ample",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-30T03:18:02.446935",
+      "episode_id": "3bdbabb34386aa0a"
+    },
+    "6dc512afb25000b8": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/24d3dae3-b59b-48f5-84a4-f2d1d18b6bc3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=24d3dae3-b59b-48f5-84a4-f2d1d18b6bc3&feed=tc4zxWgX",
+      "title": "Countdown To The Fed Decision 10/29/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-30T03:27:03.229000",
+      "episode_id": "6dc512afb25000b8"
+    },
+    "4b55703c33dc6481": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/18004991-ep72-mdb-insights-financing-nature-based-solutions-ft-erik-berglof-jp-thia-asia-infrastructure-investment-bank.mp3",
+      "title": "Ep72 MDB Insights: Financing Nature-Based Solutions, ft Erik Berglof & JP Thia, Asia Infrastructure Investment Bank",
+      "feed": "Asia Climate Finance Podcast",
+      "emailed": "2025-10-30T03:38:30.941289",
+      "episode_id": "4b55703c33dc6481"
+    },
+    "fc41d5bf2cf7a8e5": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599",
+      "title": "The remittance mystery",
+      "feed": "Planet Money",
+      "emailed": "2025-10-30T03:45:22.088935",
+      "episode_id": "fc41d5bf2cf7a8e5"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-29T11:16:09.442510"
+  "last_updated": "2025-10-30T03:45:22.088924"
 }
