@@ -2680,8 +2680,15 @@
       "feed": "The Economics Show",
       "emailed": "2025-10-30T07:29:36.493938",
       "episode_id": "8c81f25625ed8519"
+    },
+    "5b83e12adfeaaef7": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251023%20-%20FICC%20Podcast_RBA.mp3",
+      "title": "Fixed Income Conversation Corner Podcast with Leslie Falconio (UBS CIO) and Mike Contopoulos (Richard Bernstein Advisors)",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-30T15:35:09.969541",
+      "episode_id": "5b83e12adfeaaef7"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-30T07:29:36.493928"
+  "last_updated": "2025-10-30T15:35:09.969528"
 }
