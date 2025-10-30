@@ -2666,8 +2666,22 @@
       "feed": "Planet Money",
       "emailed": "2025-10-30T03:45:22.088935",
       "episode_id": "fc41d5bf2cf7a8e5"
+    },
+    "038905aff9985d88": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251030-british-style.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'British style'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-30T07:18:52.829522",
+      "episode_id": "038905aff9985d88"
+    },
+    "8c81f25625ed8519": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/69025058fc950e90d2bfe198/media.mp3",
+      "title": "Are Trump\u2019s tariffs legal? With Jennifer Hillman",
+      "feed": "The Economics Show",
+      "emailed": "2025-10-30T07:29:36.493938",
+      "episode_id": "8c81f25625ed8519"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-30T03:45:22.088924"
+  "last_updated": "2025-10-30T07:29:36.493928"
 }
