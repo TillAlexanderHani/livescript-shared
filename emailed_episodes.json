@@ -2799,8 +2799,36 @@
       "feed": "Macro Trading Floor",
       "emailed": "2025-10-31T15:54:50.925136",
       "episode_id": "00de7d5442ab297e"
+    },
+    "b2709e2b01168344": {
+      "url": "https://mcdn.podbean.com/mf/web/7rmvq3mztq9ayhjk/At_Any_Rate_Podcast_-_Ozil_Gupta_Source_1_85xyf.mp3",
+      "title": "Global Rates: Trick or Treating with Central Banks",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-10-31T19:13:38.696154",
+      "episode_id": "b2709e2b01168344"
+    },
+    "f53c882df3f28069": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6904e16ee3d5a231c13e1dbd/media.mp3",
+      "title": "Rates, shutdowns and bubbles",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-10-31T19:17:47.777981",
+      "episode_id": "f53c882df3f28069"
+    },
+    "19a317718dc4fc8c": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/73949c47-b90b-4434-8e31-5f3266d47c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=73949c47-b90b-4434-8e31-5f3266d47c3d&feed=tc4zxWgX",
+      "title": "Amazon Soars and What Happens If SNAP Stops? 10/31/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-10-31T19:27:33.470750",
+      "episode_id": "19a317718dc4fc8c"
+    },
+    "b912f31bb52eb6b8": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18110531-thought-for-pause-how-bond-markets-can-help-after-a-hurricane.mp3",
+      "title": "Thought for pause: how bond markets can help after a hurricane",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-10-31T19:37:01.360684",
+      "episode_id": "b912f31bb52eb6b8"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-31T15:54:50.925126"
+  "last_updated": "2025-10-31T19:37:01.360669"
 }
