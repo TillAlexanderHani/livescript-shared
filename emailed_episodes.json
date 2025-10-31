@@ -2750,8 +2750,22 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2025-10-31T07:33:31.360473",
       "episode_id": "204ca577073619c0"
+    },
+    "ad88caed42f94fa7": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251031-fearing-fear.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Fearing fear'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-10-31T11:11:52.783562",
+      "episode_id": "ad88caed42f94fa7"
+    },
+    "08a60a8a7b6cac8b": {
+      "url": "https://traffic.megaphone.fm/CLS2116983513.mp3?updated=1761885712",
+      "title": "Kevin Kelly - Be Generous and Unique - [Invest Like the Best, CLASSICS]",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-10-31T11:24:31.661721",
+      "episode_id": "08a60a8a7b6cac8b"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-31T07:33:31.360466"
+  "last_updated": "2025-10-31T11:24:31.661711"
 }
