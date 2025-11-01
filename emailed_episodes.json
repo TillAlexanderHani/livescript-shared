@@ -2827,8 +2827,29 @@
       "feed": "The GlobalCapital Podcast",
       "emailed": "2025-10-31T19:37:01.360684",
       "episode_id": "b912f31bb52eb6b8"
+    },
+    "12fb5940f44f4e8c": {
+      "url": "https://mcdn.podbean.com/mf/web/r3enq7nj83gcs959/10312025_Weekender.mp3",
+      "title": "Global Data Pod Weekender: Views from the Upside Down",
+      "feed": "Global Data Pod",
+      "emailed": "2025-11-01T03:15:58.932796",
+      "episode_id": "12fb5940f44f4e8c"
+    },
+    "b386b6be64cbbf9e": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855",
+      "title": "After the shutdown, SNAP will still be in trouble",
+      "feed": "Planet Money",
+      "emailed": "2025-11-01T03:27:18.701535",
+      "episode_id": "b386b6be64cbbf9e"
+    },
+    "fbc20fa37944120d": {
+      "url": "https://mcdn.podbean.com/mf/web/pnvfuqwhvj9hx4gc/Podcast_10-31-25.mp3",
+      "title": "What\u2019s so spooky about soybeans & chocolate?",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2025-11-01T03:30:11.226641",
+      "episode_id": "fbc20fa37944120d"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-10-31T19:37:01.360669"
+  "last_updated": "2025-11-01T03:30:11.226631"
 }
