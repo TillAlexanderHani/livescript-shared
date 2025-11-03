@@ -2862,8 +2862,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-03T11:14:21.170784",
       "episode_id": "dec7734adf6779b0"
+    },
+    "8582b203fc6ec64d": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Sibos25_Pod_WimBNPP.mp3?dest-id=1534493",
+      "title": "Overcoming Adoption Hurdles in Corporate Payments",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-11-03T15:30:12.528980",
+      "episode_id": "8582b203fc6ec64d"
+    },
+    "ff4ee7a84ed5db97": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251103%20-%20Top%20of%20the%20Morning.mp3",
+      "title": "Top of the Morning: CEO Macro Briefing Book - 4Q25 update",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-03T15:33:28.090013",
+      "episode_id": "ff4ee7a84ed5db97"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-03T11:14:21.170772"
+  "last_updated": "2025-11-03T15:33:28.090002"
 }
