@@ -2855,8 +2855,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-03T03:17:10.452435",
       "episode_id": "30b41c33dbae0dcd"
+    },
+    "dec7734adf6779b0": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251103-polls-and-politics.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Polls and politics'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-03T11:14:21.170784",
+      "episode_id": "dec7734adf6779b0"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-03T03:17:10.452423"
+  "last_updated": "2025-11-03T11:14:21.170772"
 }
