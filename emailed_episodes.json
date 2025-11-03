@@ -2848,8 +2848,15 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2025-11-01T03:30:11.226641",
       "episode_id": "fbc20fa37944120d"
+    },
+    "30b41c33dbae0dcd": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251102-signal-over-noise-vtt.mp3",
+      "title": "Signal over Noise with Ulrike Hoffmann-Burchardi",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-03T03:17:10.452435",
+      "episode_id": "30b41c33dbae0dcd"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-01T03:30:11.226631"
+  "last_updated": "2025-11-03T03:17:10.452423"
 }
