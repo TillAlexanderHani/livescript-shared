@@ -2876,8 +2876,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-03T15:33:28.090013",
       "episode_id": "ff4ee7a84ed5db97"
+    },
+    "415d5ff4ac9debb6": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251103%20-%20House%20Call%20Podcast.mp3",
+      "title": "House Call: Talking Equity Markets with UBS Asset Management",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-03T19:14:25.381530",
+      "episode_id": "415d5ff4ac9debb6"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-03T15:33:28.090002"
+  "last_updated": "2025-11-03T19:14:25.381518"
 }
