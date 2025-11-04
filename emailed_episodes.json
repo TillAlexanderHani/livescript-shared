@@ -2883,8 +2883,29 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-03T19:14:25.381530",
       "episode_id": "415d5ff4ac9debb6"
+    },
+    "ecb4e0c180da3d24": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/8c3ef532-887e-4546-af45-0ddfbb0c5724.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "More Confidence in a Bull Market",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-11-04T03:09:42.968537",
+      "episode_id": "ecb4e0c180da3d24"
+    },
+    "23231c723258c165": {
+      "url": "https://mcdn.podbean.com/mf/web/apqx5ziqvgqmr689/GDP-Marney-Nov032025.mp3",
+      "title": "Global Data Pod Edge: Africa is building back better",
+      "feed": "Global Data Pod",
+      "emailed": "2025-11-04T03:17:51.616343",
+      "episode_id": "23231c723258c165"
+    },
+    "0775b4c57ec648e6": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/8a556a05-d87b-4b1a-bc0b-e1d47bb7ca3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=8a556a05-d87b-4b1a-bc0b-e1d47bb7ca3f&feed=tc4zxWgX",
+      "title": "Kimberly-Clark to Buy Kenvue, Tech Deal Frenzy and Palantir's Potential 11/3/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-11-04T03:26:53.980811",
+      "episode_id": "0775b4c57ec648e6"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-03T19:14:25.381518"
+  "last_updated": "2025-11-04T03:26:53.980805"
 }
