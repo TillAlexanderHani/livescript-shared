@@ -2953,8 +2953,43 @@
       "feed": "Global Data Pod",
       "emailed": "2025-11-04T19:18:07.450330",
       "episode_id": "c4bf577ab7770615"
+    },
+    "3bcead236eb34bad": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/319c2de2-6694-44ef-9679-60051c2396c9.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Future of Work: AI\u2019s Impact on Industries",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-11-05T03:14:22.506072",
+      "episode_id": "3bcead236eb34bad"
+    },
+    "dda92d3421fc2ecb": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251104%20-%20Top%20of%20the%20Morning.mp3",
+      "title": "Top of the Morning: POTUS 47 - IEEPA hearing, Election Day, Government shutdown",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-05T03:18:24.587364",
+      "episode_id": "dda92d3421fc2ecb"
+    },
+    "395cf67c35ca074d": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/6bd63245-5d8e-44bf-9ca7-d8a6e931b796/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=6bd63245-5d8e-44bf-9ca7-d8a6e931b796&feed=tc4zxWgX",
+      "title": "Freight Fright, Consumer Names Report and Uber's Slide 11/4/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-11-05T03:27:19.853068",
+      "episode_id": "395cf67c35ca074d"
+    },
+    "0108d5f38d5aa74b": {
+      "url": "https://www.buzzsprout.com/2042300/episodes/18133892-the-big-beautiful-boycott-a-holiday-call-to-action-protest-ep107.mp3",
+      "title": "The Big Beautiful Boycott: A Holiday Call to Action & Protest EP107",
+      "feed": "MoneyChisme - Latino Financial Education",
+      "emailed": "2025-11-05T03:31:50.884794",
+      "episode_id": "0108d5f38d5aa74b"
+    },
+    "e72066707dc80ad2": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/e126afa7-0e13-476f-a21d-2a7ff727db8c/audio/52740c70-5447-465b-af27-1845ea54d52b/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Schism & Domination: Founding Trafigura & Glencore:  Mark Crandall Part 2",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2025-11-05T03:46:16.706173",
+      "episode_id": "e72066707dc80ad2"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-04T19:18:07.450320"
+  "last_updated": "2025-11-05T03:46:16.706163"
 }
