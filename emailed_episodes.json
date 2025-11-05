@@ -3009,8 +3009,22 @@
       "feed": "Planet Money",
       "emailed": "2025-11-05T11:19:18.651120",
       "episode_id": "d0350850a47b0f41"
+    },
+    "02b1435a9967c2d2": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD8960880940.mp3",
+      "title": "China's Economy: Reasons for Optimism",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-11-05T19:17:32.249299",
+      "episode_id": "02b1435a9967c2d2"
+    },
+    "4a328179bba32a37": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251105%20-%20Justin%20Waring_YEP%20Podcast.mp3",
+      "title": "Top of the Morning: Year-end planning priorities - Retirement and tax strategies",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-05T19:21:41.375030",
+      "episode_id": "4a328179bba32a37"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-05T11:19:18.651108"
+  "last_updated": "2025-11-05T19:21:41.375018"
 }
