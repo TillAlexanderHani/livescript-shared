@@ -3037,8 +3037,29 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-11-06T03:24:07.538918",
       "episode_id": "fdc3f6c6a80aac92"
+    },
+    "7220d42327ccc49c": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/BNY-Pod-V3-Edits_1.mp3?dest-id=1534493",
+      "title": "Demystifying Tokenised MMFs and other Liquidity Innovations",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-11-06T11:14:39.908006",
+      "episode_id": "7220d42327ccc49c"
+    },
+    "aceda3b204446ed1": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/690c72352f5fdede34751f68/media.mp3",
+      "title": "Asia needs gold and gold needs Asia",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-11-06T11:17:58.494968",
+      "episode_id": "aceda3b204446ed1"
+    },
+    "c1945b28821cfdb6": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251106-the-supremes.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'The Supremes'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-06T11:20:23.964473",
+      "episode_id": "c1945b28821cfdb6"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-06T03:24:07.538908"
+  "last_updated": "2025-11-06T11:20:23.964463"
 }
