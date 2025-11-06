@@ -3065,8 +3065,43 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2025-11-06T15:45:08.909520",
       "episode_id": "6a3a4befec0390f0"
+    },
+    "bd831771057c8619": {
+      "url": "https://mcdn.podbean.com/mf/web/fhs56qqepnehhye9/AAREMFI061125.mp3",
+      "title": "EM Fixed Income: All the small things",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-11-06T19:14:31.368754",
+      "episode_id": "bd831771057c8619"
+    },
+    "3ff5f89dc6c6d8fc": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251029%20-%20HSIP%20Podcast_JPMorgan%20Asset%20Management.mp3",
+      "title": "How should I be positioned? with Dr. David Kelly (JPMorgan Asset Management) and Jason Draho (UBS CIO)",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-06T19:21:26.101090",
+      "episode_id": "3ff5f89dc6c6d8fc"
+    },
+    "b7f20d73b8856895": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/on-air/in-the-now/251106%20-%20Washington%20Weekly%20Podcast.mp3",
+      "title": "Washington Weekly Podcast: Election Day, IEEPA hearing, Government shutdown",
+      "feed": "UBS On-Air In the Now",
+      "emailed": "2025-11-06T19:23:49.752200",
+      "episode_id": "b7f20d73b8856895"
+    },
+    "66b9833106d35962": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/18123064-how-are-the-us-and-china-weaponising-the-global-economy-with-edward-fishman.mp3",
+      "title": "How are the US and China weaponising the global economy? - with Edward Fishman",
+      "feed": "Macro Bytes (LATAM Focus)",
+      "emailed": "2025-11-06T19:34:18.306879",
+      "episode_id": "66b9833106d35962"
+    },
+    "ea2e3c7ec4921498": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/c3rgjnymxubvyri5/Macrovoices-2025-11-06-Michael-Every.mp3",
+      "title": "MacroVoices #505 Michael Every: Does Anyone Remember PMIs?",
+      "feed": "Macro Voices",
+      "emailed": "2025-11-06T19:50:55.709661",
+      "episode_id": "ea2e3c7ec4921498"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-06T15:45:08.909509"
+  "last_updated": "2025-11-06T19:50:55.709649"
 }
