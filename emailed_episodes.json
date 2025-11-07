@@ -3142,8 +3142,15 @@
       "feed": "The Economics Show",
       "emailed": "2025-11-07T07:35:45.846006",
       "episode_id": "35ebfa6c2a338990"
+    },
+    "aed1d8d3e7f5c043": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/690da202a17ebcde885d2549/media.mp3",
+      "title": "The next game-changing technologies",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-11-07T11:14:47.890605",
+      "episode_id": "aed1d8d3e7f5c043"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-07T07:35:45.845995"
+  "last_updated": "2025-11-07T11:14:47.890595"
 }
