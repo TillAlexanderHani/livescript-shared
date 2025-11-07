@@ -3156,8 +3156,29 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2025-11-07T15:27:52.002433",
       "episode_id": "30a5636cd060f38e"
+    },
+    "3ad5591936d39f74": {
+      "url": "https://mcdn.podbean.com/mf/web/ymxiqacceegvh8hk/AARGFIMS251107.mp3",
+      "title": "European Rates: BoE and Scandi central bank roundup",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-11-07T19:15:07.466501",
+      "episode_id": "3ad5591936d39f74"
+    },
+    "4870d3e0df274d44": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251107%20-%20Across%20the%20Pond.mp3",
+      "title": "Across the Pond: Bubble fears meet FOMO",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-07T19:20:17.976281",
+      "episode_id": "4870d3e0df274d44"
+    },
+    "8086f60d786230ef": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18149497-us-companies-light-up-europe-s-bond-market-as-exchanges-revise-ipo-playbook.mp3",
+      "title": "US companies light up Europe's bond market as exchanges revise IPO playbook",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-11-07T19:28:40.809092",
+      "episode_id": "8086f60d786230ef"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-07T15:27:52.002423"
+  "last_updated": "2025-11-07T19:28:40.809081"
 }
