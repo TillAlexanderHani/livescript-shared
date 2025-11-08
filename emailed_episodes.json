@@ -3177,8 +3177,43 @@
       "feed": "The GlobalCapital Podcast",
       "emailed": "2025-11-07T19:28:40.809092",
       "episode_id": "8086f60d786230ef"
+    },
+    "fb49bf2dd328eaf3": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/f04078fa-6c1d-40f0-85a6-f5495adec4ff.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Fed\u2019s Path Uncertain as Key Data Lags",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-11-08T03:03:53.435484",
+      "episode_id": "fb49bf2dd328eaf3"
+    },
+    "16c32351ddde03e7": {
+      "url": "https://mcdn.podbean.com/mf/web/pjzi9h9q7xf6q5pp/11072025_MMTVuse.mp3",
+      "title": "Global Data Pod Weekender: You can\u2019t handle the truth!",
+      "feed": "Global Data Pod",
+      "emailed": "2025-11-08T03:11:06.895495",
+      "episode_id": "16c32351ddde03e7"
+    },
+    "526b4985de142bfb": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/b9628914-8b32-4a75-8506-f213ca38f5c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=b9628914-8b32-4a75-8506-f213ca38f5c3&feed=tc4zxWgX",
+      "title": "OpenAI\u2019s PR Debacle, Flight Disruptions & Home Improvement Headwinds 11/7/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-11-08T03:21:54.103355",
+      "episode_id": "526b4985de142bfb"
+    },
+    "36a6e62d2cdd0ed6": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9062923990.mp3?t=podcast&e=nx-s1-5601059&p=510289&d=1696&size=27139431",
+      "title": "A new experiment in remote work \u2026 from the inside",
+      "feed": "Planet Money",
+      "emailed": "2025-11-08T03:33:15.955157",
+      "episode_id": "36a6e62d2cdd0ed6"
+    },
+    "78cf01cd0d022a83": {
+      "url": "https://mcdn.podbean.com/mf/web/fe4hzah3y9gtwdrf/Podcast_11-07-25.mp3",
+      "title": "The plastic pressure point: How resin markets are shaping 2026 procurement strategies",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2025-11-08T03:37:36.325224",
+      "episode_id": "78cf01cd0d022a83"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-07T19:28:40.809081"
+  "last_updated": "2025-11-08T03:37:36.325209"
 }
