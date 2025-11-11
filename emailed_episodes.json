@@ -3247,8 +3247,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-11-11T03:22:39.380850",
       "episode_id": "c1882a56aeb23182"
+    },
+    "302af4a6c61c8fb7": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD9383889424.mp3",
+      "title": "Are AI Bubble Concerns Warranted or Overblown?",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-11-11T07:18:04.971018",
+      "episode_id": "302af4a6c61c8fb7"
+    },
+    "47851fa2f40d8804": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251111-do-tariff-cuts-cut-prices.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Do tariff cuts cut prices?'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-11T07:19:03.388726",
+      "episode_id": "47851fa2f40d8804"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-11T03:22:39.380840"
+  "last_updated": "2025-11-11T07:19:03.388715"
 }
