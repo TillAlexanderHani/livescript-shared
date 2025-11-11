@@ -3233,8 +3233,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-10T15:37:03.316265",
       "episode_id": "0204ccf365dd3387"
+    },
+    "ed26547cf3609709": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/20ba8c83-1adf-471c-a2e9-c59eef500fef.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Relief and Volatility Ahead for U.S. Stocks",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-11-11T03:13:31.872887",
+      "episode_id": "ed26547cf3609709"
+    },
+    "c1882a56aeb23182": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/a6fdb30a-6868-4eac-8509-70b432d74711/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=a6fdb30a-6868-4eac-8509-70b432d74711&feed=tc4zxWgX",
+      "title": "Senate's Shutdown Deal, a \"Rare\" Vote of Confidence, and 50-Year Mortgages 11/10/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-11-11T03:22:39.380850",
+      "episode_id": "c1882a56aeb23182"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-10T15:37:03.316246"
+  "last_updated": "2025-11-11T03:22:39.380840"
 }
