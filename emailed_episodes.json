@@ -3289,8 +3289,29 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-11T19:15:31.915261",
       "episode_id": "167ef84ac8a1eadb"
+    },
+    "046fcc9f9d5564eb": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/f7d974c9-3b03-43eb-8d2d-fb51e35de2ed.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Crypto Goes Mainstream",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-11-12T03:13:31.595290",
+      "episode_id": "046fcc9f9d5564eb"
+    },
+    "fb5e5b18658c0c40": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/8ff2e643-8684-4889-bfba-af78b2b7f5d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=8ff2e643-8684-4889-bfba-af78b2b7f5d8&feed=tc4zxWgX",
+      "title": "Shutdown Wind-Down, Big Gains for Small Names? & a Top Tech Pick 11/11/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-11-12T03:22:47.068320",
+      "episode_id": "fb5e5b18658c0c40"
+    },
+    "23026bdac1584bd4": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/ec755319-2ae3-4633-9940-228b07b51047/audio/a5a3efbf-d46f-47b3-a0c2-496ed8ddb8d2/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Trading: the hidden $3trillion dollar opportunity with Antti Belt",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2025-11-12T03:37:38.220864",
+      "episode_id": "23026bdac1584bd4"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-11T19:15:31.915251"
+  "last_updated": "2025-11-12T03:37:38.220854"
 }
