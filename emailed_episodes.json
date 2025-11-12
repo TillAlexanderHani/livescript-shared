@@ -3310,8 +3310,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2025-11-12T03:37:38.220864",
       "episode_id": "23026bdac1584bd4"
+    },
+    "a5692f22206607af": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251112-fiscal-boosts-and-bonds.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Fiscal boosts and bonds'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-12T07:17:02.876842",
+      "episode_id": "a5692f22206607af"
+    },
+    "ecaf4151ea7898b5": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/69136f4a543edcb560b17908/media.mp3",
+      "title": "Pfizer and Novo Nordisk\u2019s $10bn battle over weight-loss drugs",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-11-12T07:22:45.570936",
+      "episode_id": "ecaf4151ea7898b5"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-12T03:37:38.220854"
+  "last_updated": "2025-11-12T07:22:45.570925"
 }
