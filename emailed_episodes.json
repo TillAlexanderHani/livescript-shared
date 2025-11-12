@@ -3324,8 +3324,22 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2025-11-12T07:22:45.570936",
       "episode_id": "ecaf4151ea7898b5"
+    },
+    "d3e18aeb827eb556": {
+      "url": "https://mcdn.podbean.com/mf/web/nbmmddcvb8z2dd55/AAR_Global_Commodities_Allen_117257x7ye.mp3",
+      "title": "Agri Outlook for 2026/27: Volatility to return off compressed levels in 2026, as global agri availability continues to slide",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-11-12T11:13:05.803899",
+      "episode_id": "d3e18aeb827eb556"
+    },
+    "3d00c3679c34e9c8": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/TMI-NTAM-Pod-10nov25.mp3?dest-id=1534493",
+      "title": "Political Uncertainty Weighs on Central Bank Decisions",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-11-12T11:14:40.580662",
+      "episode_id": "3d00c3679c34e9c8"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-12T07:22:45.570925"
+  "last_updated": "2025-11-12T11:14:40.580652"
 }
