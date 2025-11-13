@@ -3387,8 +3387,15 @@
       "feed": "Under the Banyan Tree (HSBC Global Research)",
       "emailed": "2025-11-13T11:20:57.036665",
       "episode_id": "9cf493d9ec82b8b3"
+    },
+    "786d0b4362dc39b4": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251112-viewpoints_podcast_2.mp3",
+      "title": "Viewpoints with Burkhard Varnholt - A global markets podcast (Ep. 51)",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-13T15:35:21.788807",
+      "episode_id": "786d0b4362dc39b4"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-13T11:20:57.036650"
+  "last_updated": "2025-11-13T15:35:21.788797"
 }
