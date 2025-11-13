@@ -3394,8 +3394,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-13T15:35:21.788807",
       "episode_id": "786d0b4362dc39b4"
+    },
+    "d1abd263cf296d8c": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251113%20-%20Podcast_Life%20Sciences_Blackstone.mp3",
+      "title": "Life Sciences: Industry trends & investment considerations with Nick Galakatos, Blackstone",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-13T19:15:53.592353",
+      "episode_id": "d1abd263cf296d8c"
+    },
+    "0c5c273bfd54bf36": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/iurqej4ekpjdmcf4/MacroVoices-11-13-25-Mike-Green.mp3",
+      "title": "MacroVoices #506 Mike Green: Volatility, High-Yield, Precious Metals & More",
+      "feed": "Macro Voices",
+      "emailed": "2025-11-13T19:31:09.312612",
+      "episode_id": "0c5c273bfd54bf36"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-13T15:35:21.788797"
+  "last_updated": "2025-11-13T19:31:09.312593"
 }
