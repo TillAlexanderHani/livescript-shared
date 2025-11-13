@@ -3380,8 +3380,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-13T07:17:33.603628",
       "episode_id": "bf83fce07a1b2e09"
+    },
+    "9cf493d9ec82b8b3": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/691585bdc1ed8717c587c1d3/media.mp3",
+      "title": "Luxury unboxed with Erwan Rambourg",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-11-13T11:20:57.036665",
+      "episode_id": "9cf493d9ec82b8b3"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-13T07:17:33.603616"
+  "last_updated": "2025-11-13T11:20:57.036650"
 }
