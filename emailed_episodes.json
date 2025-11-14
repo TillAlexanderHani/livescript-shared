@@ -3478,8 +3478,22 @@
       "feed": "Macro Trading Floor",
       "emailed": "2025-11-14T15:34:46.225632",
       "episode_id": "972df8232faec490"
+    },
+    "f1f5a463c30c84ff": {
+      "url": "https://mcdn.podbean.com/mf/web/35ws39unqzmzgvs2/AARFXMW141125.mp3",
+      "title": "Global FX: EUR/USD contemplation, GBP fiscal and JPY woes",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-11-14T19:14:13.415119",
+      "episode_id": "f1f5a463c30c84ff"
+    },
+    "ef1d403d76cfccd9": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18191591-reining-in-private-credit-ai-capex-looms-over-bonds-and-defence-label-flaps-wings.mp3",
+      "title": "Reining in private credit, AI capex looms over bonds and defence label flaps wings",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-11-14T19:23:45.008504",
+      "episode_id": "ef1d403d76cfccd9"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-14T15:34:46.225622"
+  "last_updated": "2025-11-14T19:23:45.008489"
 }
