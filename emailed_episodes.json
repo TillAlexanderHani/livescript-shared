@@ -3429,8 +3429,36 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-11-14T03:28:14.957365",
       "episode_id": "d38ff3c5bee5aadc"
+    },
+    "68af2788629c1db2": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD1228373392.mp3",
+      "title": "How to Trade a Credit Expansion",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2025-11-14T07:16:38.353398",
+      "episode_id": "68af2788629c1db2"
+    },
+    "0efb8a408922ac07": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6916b720243c8d88701f786e/media.mp3",
+      "title": "The AI effect",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-11-14T07:20:05.629605",
+      "episode_id": "0efb8a408922ac07"
+    },
+    "d6c6086cc32ef035": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/1b5f1319-a67b-4870-af84-30a5a080734f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "240: Rate Cuts, Retail Power, and the Road Ahead - Ask Me Anything with Gargi Pal Chaudhuri",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2025-11-14T07:25:18.582857",
+      "episode_id": "d6c6086cc32ef035"
+    },
+    "d911c835c421110b": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/691614b51029ec1fed99d93a/media.mp3",
+      "title": "The limits of monetary policy, with Agust\u00edn Carstens",
+      "feed": "The Economics Show",
+      "emailed": "2025-11-14T07:34:45.368095",
+      "episode_id": "d911c835c421110b"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-14T03:28:14.957353"
+  "last_updated": "2025-11-14T07:34:45.368085"
 }
