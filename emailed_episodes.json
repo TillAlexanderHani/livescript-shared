@@ -3548,8 +3548,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-17T11:23:10.528760",
       "episode_id": "8f4a5f03a142aee6"
+    },
+    "24531864e76748af": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251113%20-%20Top%20of%20the%20Morning_FIS_3.mp3",
+      "title": "Top of the Morning: Fixed Income Strategist - Reaching for yield",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-17T15:32:21.600047",
+      "episode_id": "24531864e76748af"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-17T11:23:10.528751"
+  "last_updated": "2025-11-17T15:32:21.600036"
 }
