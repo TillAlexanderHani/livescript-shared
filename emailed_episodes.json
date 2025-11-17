@@ -3534,8 +3534,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-17T03:16:51.140508",
       "episode_id": "318d7dff5c9c2aeb"
+    },
+    "0f795a242bbe8766": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ISO_20022_Ep5_What_ISO_20022_means_for_people_not_just_systems.mp3?dest-id=1534493",
+      "title": "ISO 20022 Made Simple: What ISO 20022 Means for People, not Just Systems",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-11-17T11:20:38.840680",
+      "episode_id": "0f795a242bbe8766"
+    },
+    "8f4a5f03a142aee6": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251117-deals-and-delays.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Deals and delays'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-17T11:23:10.528760",
+      "episode_id": "8f4a5f03a142aee6"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-17T03:16:51.140496"
+  "last_updated": "2025-11-17T11:23:10.528751"
 }
