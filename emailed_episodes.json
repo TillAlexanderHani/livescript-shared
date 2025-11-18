@@ -3576,8 +3576,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-11-18T03:25:42.974893",
       "episode_id": "37c104c9a15634fd"
+    },
+    "08f3d8b4819c07c8": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD2071066881.mp3",
+      "title": "The Fed's Tightrope: Inflation, Labor, and the Path Ahead",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-11-18T07:20:24.337321",
+      "episode_id": "08f3d8b4819c07c8"
+    },
+    "38e1a8cedb0f90ab": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251118-to-and-fro.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'To and fro'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-18T07:28:05.868014",
+      "episode_id": "38e1a8cedb0f90ab"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-18T03:25:42.974882"
+  "last_updated": "2025-11-18T07:28:05.868004"
 }
