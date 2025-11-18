@@ -3604,8 +3604,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-18T15:33:14.413935",
       "episode_id": "7a124a486b28d7fb"
+    },
+    "5c9ae5ab2cb1022d": {
+      "url": "https://mcdn.podbean.com/mf/web/6r8r4rthm8j96dcp/AAR_Ozil_Gupta_1118258pd5k.mp3",
+      "title": "Global Rates: Analyzing Eurex and US futures roll",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-11-18T19:13:02.475705",
+      "episode_id": "5c9ae5ab2cb1022d"
+    },
+    "d8bc7ed941d522ab": {
+      "url": "https://www.buzzsprout.com/2042300/episodes/18212211-avoid-these-financial-traps-designed-to-keep-you-broke-ep-108.mp3",
+      "title": "Avoid These Financial Traps Designed to Keep You Broke EP 108",
+      "feed": "MoneyChisme - Latino Financial Education",
+      "emailed": "2025-11-18T19:18:33.664707",
+      "episode_id": "d8bc7ed941d522ab"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-18T15:33:14.413924"
+  "last_updated": "2025-11-18T19:18:33.664691"
 }
