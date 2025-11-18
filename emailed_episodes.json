@@ -3555,8 +3555,29 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-17T15:32:21.600047",
       "episode_id": "24531864e76748af"
+    },
+    "be7a746e3c3529e3": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/d836c4c6-47fe-4121-9ae8-d2cbd05baf69.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "2026 Global Outlook: Slower Growth and Inflation",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-11-18T03:13:19.016225",
+      "episode_id": "be7a746e3c3529e3"
+    },
+    "894aa307874004d8": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251105%20-%20Talking%20Markets%20Podcast_Lazard%20AM.mp3",
+      "title": "Talking Markets Podcast with Rohit Chopra of Lazard Asset Management",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-18T03:16:46.786142",
+      "episode_id": "894aa307874004d8"
+    },
+    "37c104c9a15634fd": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/8383d757-836a-44d1-a4e2-dafa86f8a4b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=8383d757-836a-44d1-a4e2-dafa86f8a4b3&feed=tc4zxWgX",
+      "title": "Tracking Nvidia Trades, Retail Wreckage, and AI Super PAC Spending 11/17/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-11-18T03:25:42.974893",
+      "episode_id": "37c104c9a15634fd"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-17T15:32:21.600036"
+  "last_updated": "2025-11-18T03:25:42.974882"
 }
