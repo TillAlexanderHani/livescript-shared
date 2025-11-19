@@ -3660,8 +3660,15 @@
       "feed": "Planet Money",
       "emailed": "2025-11-19T11:22:34.287233",
       "episode_id": "418c6e08aa8e89a8"
+    },
+    "349e77a260b21613": {
+      "url": "https://traffic.megaphone.fm/CLS9602368643.mp3?updated=1763513161",
+      "title": "Ari Emanuel - The Anti-AI Bet - [Invest Like the Best, EP.448]",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-11-19T15:41:31.147981",
+      "episode_id": "349e77a260b21613"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-19T11:22:34.287224"
+  "last_updated": "2025-11-19T15:41:31.147971"
 }
