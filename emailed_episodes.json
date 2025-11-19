@@ -3639,8 +3639,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2025-11-19T03:36:20.009778",
       "episode_id": "7ca8b2f748575903"
+    },
+    "b1f47e5ffcd936e3": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251119-markets-not-macroeconomics.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Markets, not macroeconomics'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-19T07:17:25.261465",
+      "episode_id": "b1f47e5ffcd936e3"
+    },
+    "542de1eb37030668": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/691c97267cf1b7ec45c9081a/media.mp3",
+      "title": "What\u2019s the deal with OpenAI's deals?",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-11-19T07:23:02.922211",
+      "episode_id": "542de1eb37030668"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-19T03:36:20.009771"
+  "last_updated": "2025-11-19T07:23:02.922199"
 }
