@@ -3653,8 +3653,15 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2025-11-19T07:23:02.922211",
       "episode_id": "542de1eb37030668"
+    },
+    "418c6e08aa8e89a8": {
+      "url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423",
+      "title": "Days of our Tariffs",
+      "feed": "Planet Money",
+      "emailed": "2025-11-19T11:22:34.287233",
+      "episode_id": "418c6e08aa8e89a8"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-19T07:23:02.922199"
+  "last_updated": "2025-11-19T11:22:34.287224"
 }
