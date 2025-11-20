@@ -3695,8 +3695,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-11-20T03:19:58.100233",
       "episode_id": "0256f095a215d97c"
+    },
+    "2b20af48e9ea161e": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/691ebfe35e54c6660a5bd02f/media.mp3",
+      "title": "Herald's equities outlook for 2026",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-11-20T11:14:07.747606",
+      "episode_id": "2b20af48e9ea161e"
+    },
+    "6d523fc03d35130b": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251120-the-exciting-tale-of-the-federal-reserve.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'The exciting tale of the Federal Reserve'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-20T11:16:18.921323",
+      "episode_id": "6d523fc03d35130b"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-20T03:19:58.100220"
+  "last_updated": "2025-11-20T11:16:18.921318"
 }
