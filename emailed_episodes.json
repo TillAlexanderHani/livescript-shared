@@ -3716,8 +3716,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-20T15:31:55.107863",
       "episode_id": "092c257ba5ebc580"
+    },
+    "ab3a904d66ea77c4": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_RUBINSTEIN.mp3?dest-id=1929056",
+      "title": "Ep. 335: Marc Rubinstein on AI Bubble, Private Credit, Jane Street Rise",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-11-20T19:25:45.461738",
+      "episode_id": "ab3a904d66ea77c4"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-20T15:31:55.107853"
+  "last_updated": "2025-11-20T19:25:45.461728"
 }
