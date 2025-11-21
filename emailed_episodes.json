@@ -3765,8 +3765,29 @@
       "feed": "The Economics Show",
       "emailed": "2025-11-21T07:33:36.749214",
       "episode_id": "3275856e020ecaf9"
+    },
+    "f661ab1a436c6a28": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/FIS-Webinar_Pod-Final-Edit-V2.mp3?dest-id=1534493",
+      "title": "Neural Treasury: The Role of AI in the Evolution of Corporate Treasury",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-11-21T11:17:34.997589",
+      "episode_id": "f661ab1a436c6a28"
+    },
+    "c76f68d712884647": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/692012b73962bb012e4f504c/media.mp3",
+      "title": "Top questions for currencies in 2026",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-11-21T11:20:42.515788",
+      "episode_id": "c76f68d712884647"
+    },
+    "e4041b8976707102": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251121-still-not-hiring.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Still not hiring'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-21T11:22:54.057449",
+      "episode_id": "e4041b8976707102"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-21T07:33:36.749203"
+  "last_updated": "2025-11-21T11:22:54.057441"
 }
