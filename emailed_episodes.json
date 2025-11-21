@@ -3793,8 +3793,22 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2025-11-21T15:27:12.179262",
       "episode_id": "3ab6ad1804ada321"
+    },
+    "011ce16ba57098d9": {
+      "url": "https://mcdn.podbean.com/mf/web/akn2692afgswhhpi/AAR_Shearer_1121259c2wv.mp3",
+      "title": "Global Commodities: Metals headed for even greater heights",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-11-21T19:13:50.670761",
+      "episode_id": "011ce16ba57098d9"
+    },
+    "dde0278ab53f3282": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18230148-banks-bonuses-and-the-budget.mp3",
+      "title": "Banks, bonuses and the Budget",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-11-21T19:25:52.161941",
+      "episode_id": "dde0278ab53f3282"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-21T15:27:12.179252"
+  "last_updated": "2025-11-21T19:25:52.161930"
 }
