@@ -3744,8 +3744,29 @@
       "feed": "Macro Voices",
       "emailed": "2025-11-21T03:36:51.963704",
       "episode_id": "aa8e34db51b61fe5"
+    },
+    "d0dc565f9b298920": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD6250506184.mp3",
+      "title": "Consumer Concerns and Equity Opportunities",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2025-11-21T07:17:11.784991",
+      "episode_id": "d0dc565f9b298920"
+    },
+    "612e94b8cbf71b55": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/03690a8a-7cc8-4d9b-9518-cc15497a1861.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "241: Europe\u2019s Economic Comeback: What It Will Take for a Broad Resurgence",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2025-11-21T07:23:15.747032",
+      "episode_id": "612e94b8cbf71b55"
+    },
+    "3275856e020ecaf9": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/691f45bf4105c9a0212bd3fb/media.mp3",
+      "title": "Did globalisation kill neoliberalism? With Branko Milanovi\u0107",
+      "feed": "The Economics Show",
+      "emailed": "2025-11-21T07:33:36.749214",
+      "episode_id": "3275856e020ecaf9"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-21T03:36:51.963693"
+  "last_updated": "2025-11-21T07:33:36.749203"
 }
