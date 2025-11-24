@@ -3863,8 +3863,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-24T03:24:07.464800",
       "episode_id": "a17cade6381c7ab0"
+    },
+    "7bb238ac8286e2cb": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD9994345880.mp3",
+      "title": "What\u2019s Driving the Surge in Deal-Making?",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-11-24T07:20:10.223403",
+      "episode_id": "7bb238ac8286e2cb"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-24T03:24:07.464789"
+  "last_updated": "2025-11-24T07:20:10.223393"
 }
