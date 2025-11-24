@@ -3870,8 +3870,15 @@
       "feed": "Goldman Sachs Exchanges",
       "emailed": "2025-11-24T07:20:10.223403",
       "episode_id": "7bb238ac8286e2cb"
+    },
+    "8b84e5d6132b6110": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251124-fiscal-largesse-for-no-progress.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Fiscal largesse for no progress'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-24T11:12:56.141149",
+      "episode_id": "8b84e5d6132b6110"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-24T07:20:10.223393"
+  "last_updated": "2025-11-24T11:12:56.141139"
 }
