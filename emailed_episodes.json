@@ -3877,8 +3877,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-24T11:12:56.141149",
       "episode_id": "8b84e5d6132b6110"
+    },
+    "5e65dbebce0bd53d": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251120%20-%20Macro%20Monthly%20Podcast.mp3",
+      "title": "Macro Monthly Podcast with UBS Asset Management",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-24T15:33:01.526724",
+      "episode_id": "5e65dbebce0bd53d"
+    },
+    "f406cb79c5a5304c": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/692455ffcd88baf588f454b5/media.mp3",
+      "title": "Coming soon: The Wolf-Krugman Exchange: One year of Trump",
+      "feed": "The Economics Show",
+      "emailed": "2025-11-24T15:38:45.208382",
+      "episode_id": "f406cb79c5a5304c"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-24T11:12:56.141139"
+  "last_updated": "2025-11-24T15:38:45.208373"
 }
