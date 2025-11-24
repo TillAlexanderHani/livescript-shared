@@ -3856,8 +3856,15 @@
       "feed": "Macro Trading Floor",
       "emailed": "2025-11-23T15:33:57.993801",
       "episode_id": "5860243c3515aa37"
+    },
+    "a17cade6381c7ab0": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251123-signal-over-noise_3.mp3",
+      "title": "Signal over Noise with Ulrike Hoffmann-Burchardi",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-24T03:24:07.464800",
+      "episode_id": "a17cade6381c7ab0"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-23T15:33:57.993791"
+  "last_updated": "2025-11-24T03:24:07.464789"
 }
