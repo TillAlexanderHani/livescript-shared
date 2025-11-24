@@ -3891,8 +3891,29 @@
       "feed": "The Economics Show",
       "emailed": "2025-11-24T15:38:45.208382",
       "episode_id": "f406cb79c5a5304c"
+    },
+    "25747cbab772d0fa": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18243723-beyond-de-dollarisation.mp3",
+      "title": "Beyond de-dollarisation",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2025-11-24T19:14:27.599485",
+      "episode_id": "25747cbab772d0fa"
+    },
+    "1cef85de38e29279": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1112_IACT_Murphy.mp3?dest-id=1534493",
+      "title": "The Making of Treasury's Chief Education Officer",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-11-24T19:18:15.351376",
+      "episode_id": "1cef85de38e29279"
+    },
+    "7f86ed8755a7dd71": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/691f3e764105c9a02129b84b/media.mp3",
+      "title": "Coming soon from Tech Tonic: Defying death",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-11-24T19:23:25.186338",
+      "episode_id": "7f86ed8755a7dd71"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-24T15:38:45.208373"
+  "last_updated": "2025-11-24T19:23:25.186328"
 }
