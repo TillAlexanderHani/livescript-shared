@@ -3926,8 +3926,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-11-25T03:24:17.221656",
       "episode_id": "7cfeebfb10f64286"
+    },
+    "ffbe24bf648d8498": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD6933268005.mp3",
+      "title": "Why Stocks Are Getting Wild",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2025-11-25T07:17:13.174811",
+      "episode_id": "ffbe24bf648d8498"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-25T03:24:17.221647"
+  "last_updated": "2025-11-25T07:17:13.174800"
 }
