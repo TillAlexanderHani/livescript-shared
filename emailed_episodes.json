@@ -3954,8 +3954,22 @@
       "feed": "Radio Ambulante",
       "emailed": "2025-11-25T11:37:20.920359",
       "episode_id": "ca3c5d3222255e09"
+    },
+    "3511a7c8c63ab997": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1024_JTT_Anniversary.mp3?dest-id=1534493",
+      "title": "A Decade in Dialogue: Celebrating 10 Years of Journeys to Treasury",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-11-25T15:32:31.412260",
+      "episode_id": "3511a7c8c63ab997"
+    },
+    "6ec46f26decd5ffa": {
+      "url": "https://www.buzzsprout.com/2042300/episodes/18246369-109-changing-what-wealth-means-to-you.mp3",
+      "title": "109. Changing What Wealth Means to You",
+      "feed": "MoneyChisme - Latino Financial Education",
+      "emailed": "2025-11-25T15:37:46.737580",
+      "episode_id": "6ec46f26decd5ffa"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-25T11:37:20.920348"
+  "last_updated": "2025-11-25T15:37:46.737569"
 }
