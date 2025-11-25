@@ -3933,8 +3933,29 @@
       "feed": "Goldman Sachs The Markets",
       "emailed": "2025-11-25T07:17:13.174811",
       "episode_id": "ffbe24bf648d8498"
+    },
+    "4c25c27c927a4df9": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251125-rate-cut-speculation.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Rate cut speculation'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-25T11:13:07.631967",
+      "episode_id": "4c25c27c927a4df9"
+    },
+    "6d4134c893530e2a": {
+      "url": "https://traffic.megaphone.fm/CLS8198317626.mp3?updated=1764024515",
+      "title": "Mart\u00edn Escobari - Inside General Atlantic - [Invest Like the Best, EP.449]",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-11-25T11:26:45.453677",
+      "episode_id": "6d4134c893530e2a"
+    },
+    "ca3c5d3222255e09": {
+      "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/b3c9b6e7-72ba-45c4-aff9-b1e7012d213b/112ddf40-37ed-463e-a531-b39f011e6501/audio.mp3?utm_source=Podcast&in_playlist=092b66a8-4329-4183-bb12-b1e7012d216f",
+      "title": "Un sabor hostil",
+      "feed": "Radio Ambulante",
+      "emailed": "2025-11-25T11:37:20.920359",
+      "episode_id": "ca3c5d3222255e09"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-25T07:17:13.174800"
+  "last_updated": "2025-11-25T11:37:20.920348"
 }
