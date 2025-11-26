@@ -4017,8 +4017,22 @@
       "feed": "The Economics Show",
       "emailed": "2025-11-26T07:33:16.869627",
       "episode_id": "a65a078d07acb526"
+    },
+    "247d267bdb215062": {
+      "url": "https://mcdn.podbean.com/mf/web/3uz6q7x7jv7pp6b4/AAR-2026Outlook-Barry.mp3",
+      "title": "Global Rates 2026 Outlook",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-11-26T11:16:41.984607",
+      "episode_id": "247d267bdb215062"
+    },
+    "9495afd93c65745e": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251126-consumers-versus-prices.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Consumers versus prices'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-26T11:19:33.079039",
+      "episode_id": "9495afd93c65745e"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-26T07:33:16.869616"
+  "last_updated": "2025-11-26T11:19:33.079028"
 }
