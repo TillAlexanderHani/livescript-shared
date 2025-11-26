@@ -3982,8 +3982,29 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2025-11-25T19:25:26.745636",
       "episode_id": "95ce3e1d0a3509e1"
+    },
+    "b0c7fbd8a5700ac0": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/87111eff-7649-4e93-9b0b-4afa1a43a6a7.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "What\u2019s Driving U.S. Growth in 2026",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-11-26T03:14:31.240373",
+      "episode_id": "b0c7fbd8a5700ac0"
+    },
+    "f4ddeae26283cfa3": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/4907b7b9-0f31-4620-a1c5-9779a534b8d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=4907b7b9-0f31-4620-a1c5-9779a534b8d4&feed=tc4zxWgX",
+      "title": "AI's Big Shift, Crushed Confidence & Retail's Best Buy 11/25/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-11-26T03:25:08.283139",
+      "episode_id": "f4ddeae26283cfa3"
+    },
+    "eeb1c4bd49fd63f5": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/6d086be2-cab1-4045-aeb2-2694cb913353/audio/d3399c83-9833-42cc-ae38-3f57707dacc4/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Wine with Nick Brewer",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2025-11-26T03:40:54.133338",
+      "episode_id": "eeb1c4bd49fd63f5"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-25T19:25:26.745626"
+  "last_updated": "2025-11-26T03:40:54.133328"
 }
