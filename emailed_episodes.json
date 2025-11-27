@@ -4087,8 +4087,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-27T11:12:55.241695",
       "episode_id": "76bcace4040bd5d2"
+    },
+    "7856ae09fc4af07e": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/18262730-uk-budget-macro-bytes-immediate-reaction-episode.mp3",
+      "title": "UK Budget: Macro Bytes immediate reaction episode",
+      "feed": "Macro Bytes (LATAM Focus)",
+      "emailed": "2025-11-27T15:33:07.181597",
+      "episode_id": "7856ae09fc4af07e"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-27T11:12:55.241685"
+  "last_updated": "2025-11-27T15:33:07.181585"
 }
