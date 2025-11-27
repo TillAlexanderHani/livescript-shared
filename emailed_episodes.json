@@ -4080,8 +4080,15 @@
       "feed": "Under the Banyan Tree (HSBC Global Research)",
       "emailed": "2025-11-27T07:20:10.809836",
       "episode_id": "93df0ca9a58d80b7"
+    },
+    "76bcace4040bd5d2": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251127-something-for-everyone.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Something for everyone'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-27T11:12:55.241695",
+      "episode_id": "76bcace4040bd5d2"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-27T07:20:10.809826"
+  "last_updated": "2025-11-27T11:12:55.241685"
 }
