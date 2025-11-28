@@ -4101,8 +4101,29 @@
       "feed": "Asia Climate Finance Podcast",
       "emailed": "2025-11-28T03:21:10.738423",
       "episode_id": "fe40ae06954ff089"
+    },
+    "1f6fccdf12c32487": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69295bf6a443330de991e572/media.mp3",
+      "title": "The UK's budget tightrope",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-11-28T11:13:29.550729",
+      "episode_id": "1f6fccdf12c32487"
+    },
+    "8b2cb2539c4809f5": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251128-paying-for-price-increases.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Paying for price increases'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-11-28T11:15:40.594058",
+      "episode_id": "8b2cb2539c4809f5"
+    },
+    "21cf24087fe6df15": {
+      "url": "https://traffic.megaphone.fm/CLS9097832031.mp3?updated=1764249583",
+      "title": "Palmer Luckey - Inventing the Future of Defense - [Invest Like the Best, CLASSICS]",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-11-28T11:30:21.460741",
+      "episode_id": "21cf24087fe6df15"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-28T03:21:10.738412"
+  "last_updated": "2025-11-28T11:30:21.460732"
 }
