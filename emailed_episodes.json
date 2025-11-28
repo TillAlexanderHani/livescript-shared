@@ -4129,8 +4129,22 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2025-11-28T15:40:11.156126",
       "episode_id": "d16b3c2c4ce97bab"
+    },
+    "2590dff2dfb1ba76": {
+      "url": "https://mcdn.podbean.com/mf/web/zpxe9sezezg6uqb2/251128GLOBALFX_macro.mp3",
+      "title": "Global FX Outlook 2026: Bearish USD, Bullish Beta",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-11-28T19:17:10.151035",
+      "episode_id": "2590dff2dfb1ba76"
+    },
+    "a830865577ad8682": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18267292-a-tale-of-two-capital-markets.mp3",
+      "title": "A tale of two capital markets",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-11-28T19:28:14.306444",
+      "episode_id": "a830865577ad8682"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-28T15:40:11.156116"
+  "last_updated": "2025-11-28T19:28:14.306439"
 }
