@@ -4185,8 +4185,29 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2025-12-01T15:31:25.515377",
       "episode_id": "262e9b362935ca56"
+    },
+    "1de5c835ef06907f": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1119_VUCA_POLICY.mp3?dest-id=1534493",
+      "title": "Your Flexible Friend: Developing a Fit-for-Purpose Treasury Policy",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-12-01T19:19:01.396328",
+      "episode_id": "1de5c835ef06907f"
+    },
+    "bbcbaeacefa5ea49": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251201%20-%20Top%20of%20the%20Morning.mp3",
+      "title": "Top of the Morning: CIO Strategy Snapshot - The final stretch",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-01T19:23:58.472638",
+      "episode_id": "bbcbaeacefa5ea49"
+    },
+    "6e5cf4e1f839049a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/555831e7-310c-4fdf-8265-92e0dd901a15/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=555831e7-310c-4fdf-8265-92e0dd901a15&feed=tc4zxWgX",
+      "title": "Bigger than AI, Crypto Collapse, and Cyber Monday\u2019s Clues 12/1/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-12-01T19:32:51.436443",
+      "episode_id": "6e5cf4e1f839049a"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-01T15:31:25.515365"
+  "last_updated": "2025-12-01T19:32:51.436433"
 }
