@@ -4164,8 +4164,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-11-30T19:16:38.646808",
       "episode_id": "dc753a30fde4cef8"
+    },
+    "6924bbc7205579d2": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1013_INNO25_ESSITY.mp3?dest-id=1534493",
+      "title": "Essity's One Treasury Ethos Powers Progress",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-12-01T11:14:01.927370",
+      "episode_id": "6924bbc7205579d2"
+    },
+    "c8807175f54e528c": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251201-is-a-name-emerging.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Is a name emerging?'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-01T11:16:35.969675",
+      "episode_id": "c8807175f54e528c"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-11-30T19:16:38.646799"
+  "last_updated": "2025-12-01T11:16:35.969665"
 }
