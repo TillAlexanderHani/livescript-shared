@@ -4241,8 +4241,22 @@
       "feed": "Horizontes de Latinoam\u00e9rica (S&P Global)",
       "emailed": "2025-12-02T11:47:58.412956",
       "episode_id": "06e4b03c3cb604a8"
+    },
+    "8e473f1c6bc06d4a": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0909_HSBC_Tokenisation.mp3?dest-id=1534493",
+      "title": "Making Tokenised Payments a Treasury Reality",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-12-02T15:33:41.628718",
+      "episode_id": "8e473f1c6bc06d4a"
+    },
+    "34b1253eaf8293ec": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251201%20-%20Washington%20Weekly%20podcast.mp3",
+      "title": "Washington Weekly Podcast: Russia-Ukraine, Venezuela, Congressional agenda",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-02T15:37:14.544749",
+      "episode_id": "34b1253eaf8293ec"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-02T11:47:58.412945"
+  "last_updated": "2025-12-02T15:37:14.544739"
 }
