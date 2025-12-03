@@ -4339,8 +4339,15 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-12-03T15:33:40.708030",
       "episode_id": "ddde8767a5ca9b1e"
+    },
+    "e20fe0ccb5c8b062": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251203-viewpoints_podcast.mp3",
+      "title": "Viewpoints with Burkhard Varnholt - A global markets podcast (Ep. 53)",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-03T19:16:44.497063",
+      "episode_id": "e20fe0ccb5c8b062"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-03T15:33:40.708020"
+  "last_updated": "2025-12-03T19:16:44.497052"
 }
