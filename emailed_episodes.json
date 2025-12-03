@@ -4318,8 +4318,22 @@
       "feed": "The Economics Show",
       "emailed": "2025-12-03T07:33:15.066702",
       "episode_id": "9f4530a98519c098"
+    },
+    "76b4382da2992fce": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251203-old-price-data-still-interests.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Old price data still interests'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-03T11:13:51.053281",
+      "episode_id": "76b4382da2992fce"
+    },
+    "f06b6da0d8b551f8": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597",
+      "title": "Is AI slopifying the job market? (Two Indicators)",
+      "feed": "Planet Money",
+      "emailed": "2025-12-03T11:22:55.981441",
+      "episode_id": "f06b6da0d8b551f8"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-03T07:33:15.066690"
+  "last_updated": "2025-12-03T11:22:55.981432"
 }
