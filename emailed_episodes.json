@@ -4332,8 +4332,15 @@
       "feed": "Planet Money",
       "emailed": "2025-12-03T11:22:55.981441",
       "episode_id": "f06b6da0d8b551f8"
+    },
+    "ddde8767a5ca9b1e": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251201%20-%20Muni%20Podcast_NYC.mp3",
+      "title": "Municipal Brief: New York City - Looking ahead",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-03T15:33:40.708030",
+      "episode_id": "ddde8767a5ca9b1e"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-03T11:22:55.981432"
+  "last_updated": "2025-12-03T15:33:40.708020"
 }
