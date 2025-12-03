@@ -4304,8 +4304,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2025-12-03T03:45:23.442056",
       "episode_id": "0c7170c6a696a747"
+    },
+    "71eda3e4b3288b33": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6924a929ac4db2b031c7e16c/media.mp3",
+      "title": "Business History: The Secret of Southwest\u2019s Success",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-12-03T07:27:57.969134",
+      "episode_id": "71eda3e4b3288b33"
+    },
+    "9f4530a98519c098": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/692f1896042629ee0e20a061/media.mp3",
+      "title": "The Wolf-Krugman Exchange: Maga man and Mamdani",
+      "feed": "The Economics Show",
+      "emailed": "2025-12-03T07:33:15.066702",
+      "episode_id": "9f4530a98519c098"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-03T03:45:23.442050"
+  "last_updated": "2025-12-03T07:33:15.066690"
 }
