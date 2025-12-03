@@ -4276,8 +4276,36 @@
       "feed": "UBS On-Air In the Now",
       "emailed": "2025-12-02T19:23:49.933064",
       "episode_id": "98303b4f9d383391"
+    },
+    "84d5d71c21383e16": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/303d3eee-c172-4031-9167-df2085953ab9.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "AI Sparks New Economics for Electricity",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-12-03T03:17:09.294665",
+      "episode_id": "84d5d71c21383e16"
+    },
+    "b015789359f7eba0": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/7d4c411e-bd2c-4baf-aa35-0863fcbb7aa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=7d4c411e-bd2c-4baf-aa35-0863fcbb7aa8&feed=tc4zxWgX",
+      "title": "A 'Code Red', A Bitcoin Bounce & A Food Fight 12/2/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-12-03T03:27:39.645623",
+      "episode_id": "b015789359f7eba0"
+    },
+    "a9761f68691607b1": {
+      "url": "https://www.buzzsprout.com/2042300/episodes/18286322-110-money-books-to-gift-this-holiday-season-gift-guide.mp3",
+      "title": "110. Money Books to Gift this Holiday Season: Gift Guide",
+      "feed": "MoneyChisme - Latino Financial Education",
+      "emailed": "2025-12-03T03:32:12.721226",
+      "episode_id": "a9761f68691607b1"
+    },
+    "0c7170c6a696a747": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/9f53ff20-1c58-4c71-a7c7-1805afd75d79/audio/eca02c1a-9b82-4136-9fe8-8bef24cfa95d/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Trading in Asia with Iain Lawson",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2025-12-03T03:45:23.442056",
+      "episode_id": "0c7170c6a696a747"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-02T19:23:49.933053"
+  "last_updated": "2025-12-03T03:45:23.442050"
 }
