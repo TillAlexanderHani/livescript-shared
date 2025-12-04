@@ -4395,8 +4395,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-12-04T15:39:05.212391",
       "episode_id": "aa64badda144a180"
+    },
+    "d214ab8f7fdcb534": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/bft63qqzg8tbn6uu/MacroVoices-2025-12-04-Marko-Papic.mp3",
+      "title": "MacroVoices #509 Marko Papic: Geo-macro Outlook for 2026",
+      "feed": "Macro Voices",
+      "emailed": "2025-12-04T19:38:14.901237",
+      "episode_id": "d214ab8f7fdcb534"
+    },
+    "c264c3e65b7dfef5": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_SANGEET_.mp3?dest-id=1929056",
+      "title": "Ep. 337: Sangeet Paul Choudary on What Everyone Is Getting Wrong on AI",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-12-04T19:47:30.505461",
+      "episode_id": "c264c3e65b7dfef5"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-04T15:39:05.212380"
+  "last_updated": "2025-12-04T19:47:30.505450"
 }
