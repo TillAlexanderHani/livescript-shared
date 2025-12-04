@@ -4346,8 +4346,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-12-03T19:16:44.497063",
       "episode_id": "e20fe0ccb5c8b062"
+    },
+    "e3c76a2fae430648": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/89f05acf-c5e2-4cf3-8054-1dfa02a013ac.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Investors\u2019 Top Questions for 2026",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-12-04T03:19:35.620968",
+      "episode_id": "e3c76a2fae430648"
+    },
+    "da466c53da509ee9": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/ac1408ec-abb1-4e64-8135-01805690e1bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=ac1408ec-abb1-4e64-8135-01805690e1bd&feed=tc4zxWgX",
+      "title": "AI vs. Rates, Rufus Rules & No Bottom for Bitcoin 12/3/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-12-04T03:30:20.045371",
+      "episode_id": "da466c53da509ee9"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-03T19:16:44.497052"
+  "last_updated": "2025-12-04T03:30:20.045362"
 }
