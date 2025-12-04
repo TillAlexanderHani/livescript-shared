@@ -4360,8 +4360,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-12-04T03:30:20.045371",
       "episode_id": "da466c53da509ee9"
+    },
+    "df6620a4f8564494": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD6869106431.mp3",
+      "title": "From Assets to Alpha: David Kostin on US Equities",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-12-04T07:21:28.530089",
+      "episode_id": "df6620a4f8564494"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-04T03:30:20.045362"
+  "last_updated": "2025-12-04T07:21:28.530077"
 }
