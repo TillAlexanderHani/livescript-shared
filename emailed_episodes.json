@@ -4367,8 +4367,22 @@
       "feed": "Goldman Sachs Exchanges",
       "emailed": "2025-12-04T07:21:28.530089",
       "episode_id": "df6620a4f8564494"
+    },
+    "ccd1a3d0a0769b4d": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6931391cd6bc23eda2968cf0/media.mp3",
+      "title": "Fred's economics outlook for 2026",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-12-04T11:15:59.987384",
+      "episode_id": "ccd1a3d0a0769b4d"
+    },
+    "ce4a74a8455bafa0": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251204-labor-pains.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Labor pains?'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-04T11:18:24.915216",
+      "episode_id": "ce4a74a8455bafa0"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-04T07:21:28.530077"
+  "last_updated": "2025-12-04T11:18:24.915206"
 }
