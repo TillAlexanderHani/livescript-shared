@@ -4437,8 +4437,22 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2025-12-05T07:26:08.737558",
       "episode_id": "91671793cff1802f"
+    },
+    "43a72e51ee9c0a41": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69328d7ed06e17dcac84a10b/media.mp3",
+      "title": "Where next for AI?",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-12-05T11:15:48.731972",
+      "episode_id": "43a72e51ee9c0a41"
+    },
+    "1acd8ffe3c52fcd9": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251205-consuming-savings.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'Consuming savings'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-05T11:18:03.597979",
+      "episode_id": "1acd8ffe3c52fcd9"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-05T07:26:08.737548"
+  "last_updated": "2025-12-05T11:18:03.597969"
 }
