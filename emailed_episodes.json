@@ -4465,8 +4465,29 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-12-05T15:39:03.224796",
       "episode_id": "65af989050aa318c"
+    },
+    "c4df198b8ef33469": {
+      "url": "https://mcdn.podbean.com/mf/web/5bjrpzqvn2qbnhwr/Kaneva_AAR_Global_Commodities7r0y9.mp3",
+      "title": "Global Commodities: 2026 Outlook \u2013 Supply-driven crocodile cycle",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-12-05T19:15:31.379527",
+      "episode_id": "c4df198b8ef33469"
+    },
+    "e2d97d139b75651b": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Jukka-Nomentia-TMI-Final-Edit.mp3?dest-id=1534493",
+      "title": "Complexity is  Here to Stay,  Now it's Time  to Deal with it",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-12-05T19:21:27.057218",
+      "episode_id": "e2d97d139b75651b"
+    },
+    "58404892ecdca779": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18304323-rewriting-the-rules-for-private-credit-and-banks.mp3",
+      "title": "Rewriting the rules for private credit and banks",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-12-05T19:30:31.820100",
+      "episode_id": "58404892ecdca779"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-05T15:39:03.224785"
+  "last_updated": "2025-12-05T19:30:31.820086"
 }
