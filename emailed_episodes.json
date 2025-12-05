@@ -4451,8 +4451,22 @@
       "feed": "UBS On-Air Market Moves",
       "emailed": "2025-12-05T11:18:03.597979",
       "episode_id": "1acd8ffe3c52fcd9"
+    },
+    "5eefdbfc63359ebc": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD3145437784.mp3",
+      "title": "Why the Dollar Could Drop",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2025-12-05T15:29:59.494543",
+      "episode_id": "5eefdbfc63359ebc"
+    },
+    "65af989050aa318c": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251201%20-%20HSIP_RBA.mp3",
+      "title": "How should I be positioned? with Richard Bernstein (RBA) and Jason Draho (UBS CIO)",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-05T15:39:03.224796",
+      "episode_id": "65af989050aa318c"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-05T11:18:03.597969"
+  "last_updated": "2025-12-05T15:39:03.224785"
 }
