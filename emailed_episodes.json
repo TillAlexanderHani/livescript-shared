@@ -4521,8 +4521,22 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2025-12-08T07:29:46.014153",
       "episode_id": "06a539719ffba380"
+    },
+    "494c767aabc59260": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251208-one-trillion-dollars.mp3",
+      "title": "UBS On-Air: Paul Donovan Daily Audio 'One trillion dollars'",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-08T11:13:31.970466",
+      "episode_id": "494c767aabc59260"
+    },
+    "8458bdfa605805f8": {
+      "url": "https://www.buzzsprout.com/1833434/episodes/18260174-building-and-exiting-startups-in-the-gulf-with-victor-abou-rahal.mp3",
+      "title": "Building and Exiting Startups in the Gulf with Victor Abou Rahal",
+      "feed": "INSEAD Emerging Markets Podcast",
+      "emailed": "2025-12-08T11:23:31.644500",
+      "episode_id": "8458bdfa605805f8"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-08T07:29:46.014143"
+  "last_updated": "2025-12-08T11:23:31.644490"
 }
