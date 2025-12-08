@@ -4542,8 +4542,22 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2025-12-08T15:32:58.198321",
       "episode_id": "d46103080bb115d1"
+    },
+    "3e5b6cb40dd7678e": {
+      "url": "https://mcdn.podbean.com/mf/web/a4ppduetmxx8u42w/GlobalDataPod_khamza.mp3",
+      "title": "Global Data Pod: Steppe Forward into Oasis: Kazakhstan and Uzbekistan 2026 outlook",
+      "feed": "Global Data Pod",
+      "emailed": "2025-12-08T19:16:16.006274",
+      "episode_id": "3e5b6cb40dd7678e"
+    },
+    "41fa31a57c096552": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251208%20-%20Top%20of%20the%20Morning.mp3",
+      "title": "Top of the Morning: CIO Strategy Snapshot - Running it hot",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-08T19:19:52.053031",
+      "episode_id": "41fa31a57c096552"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-08T15:32:58.198310"
+  "last_updated": "2025-12-08T19:19:52.053021"
 }
