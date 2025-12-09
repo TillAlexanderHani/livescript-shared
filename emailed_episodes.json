@@ -4591,8 +4591,36 @@
       "feed": "Radio Ambulante",
       "emailed": "2025-12-09T11:42:37.410416",
       "episode_id": "b0488edb5aba837f"
+    },
+    "dad717ad2b5389ca": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/JPM-EUROFIN-POD-FINAL-EDIT.mp3?dest-id=1534493",
+      "title": "What's on your Mind? Investor Trends in Perspective",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-12-09T15:34:22.420192",
+      "episode_id": "dad717ad2b5389ca"
+    },
+    "9414d83731a9d751": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/251120%20-%20Muni%20Panel%20Podcast.mp3",
+      "title": "Muni Panel - 2026 outlook discussion with UBS & Nuveen",
+      "feed": "UBS On-Air Market Moves",
+      "emailed": "2025-12-09T15:39:52.916842",
+      "episode_id": "9414d83731a9d751"
+    },
+    "0f2f21d9e2719e63": {
+      "url": "https://traffic.megaphone.fm/CLS5994992754.mp3?updated=1765291776",
+      "title": "Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI - [Invest Like the Best, EP.451]",
+      "feed": "Invest Like the Best",
+      "emailed": "2025-12-09T15:55:42.891451",
+      "episode_id": "0f2f21d9e2719e63"
+    },
+    "340e509cdf0023c3": {
+      "url": "https://www.buzzsprout.com/2042300/episodes/18324805-111-empowering-the-latino-community-through-financial-literacy-with-cici-plata.mp3",
+      "title": "111. Empowering the Latino Community Through Financial Literacy with CiCi Plata",
+      "feed": "MoneyChisme - Latino Financial Education",
+      "emailed": "2025-12-09T16:00:55.214484",
+      "episode_id": "340e509cdf0023c3"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-09T11:42:37.410406"
+  "last_updated": "2025-12-09T16:00:55.214474"
 }
