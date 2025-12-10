@@ -4682,8 +4682,15 @@
       "feed": "Planet Money",
       "emailed": "2025-12-10T11:26:17.506673",
       "episode_id": "0ea45355633a8c31"
+    },
+    "daeb873303eed614": {
+      "url": "https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD5180766007.mp3",
+      "title": "The US-China Tech Race",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-12-10T19:17:20.996174",
+      "episode_id": "daeb873303eed614"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-10T11:26:17.506664"
+  "last_updated": "2025-12-10T19:17:20.996163"
 }
