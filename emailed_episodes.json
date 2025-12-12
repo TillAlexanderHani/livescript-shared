@@ -4738,8 +4738,29 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-12-12T03:34:07.685563",
       "episode_id": "d0a40fe695d302a2"
+    },
+    "2a83457d2ceff419": {
+      "url": "https://traffic.megaphone.fm/GLD4090731288.mp3",
+      "title": "Are More Rate Cuts Coming?",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2025-12-12T07:20:44.000896",
+      "episode_id": "2a83457d2ceff419"
+    },
+    "d9459fbc09d23c25": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/693bbc0941eacf5e810143d6/media.mp3",
+      "title": "The US in 2026",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2025-12-12T07:25:17.939054",
+      "episode_id": "d9459fbc09d23c25"
+    },
+    "2cb6f0a8bd0411f5": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/cd031885-29a0-4843-955c-94c7d3298d04.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "243: Market take: How a Softening Labor Market Shapes the Fed\u2019s Next Move",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2025-12-12T07:28:21.942093",
+      "episode_id": "2cb6f0a8bd0411f5"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-12T03:34:07.685552"
+  "last_updated": "2025-12-12T07:28:21.942083"
 }
