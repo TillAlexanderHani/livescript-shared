@@ -4724,8 +4724,22 @@
       "feed": "Macro Voices",
       "emailed": "2025-12-11T19:32:52.750036",
       "episode_id": "24bdaad19d95d389"
+    },
+    "31457fad27a0df39": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/32641f6d-ab23-4f2f-b645-2bc0bdb75ac9.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Fed\u2019s Next Steps and Markets\u2019 Reactions",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-12-12T03:24:15.817868",
+      "episode_id": "31457fad27a0df39"
+    },
+    "d0a40fe695d302a2": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/9628ecad-cd90-4b9a-a528-792fad4f6276/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=9628ecad-cd90-4b9a-a528-792fad4f6276&feed=tc4zxWgX",
+      "title": "OpenAI Announcements, Crypto Under Pressure & Rivian's New Chip 12/11/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-12-12T03:34:07.685563",
+      "episode_id": "d0a40fe695d302a2"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-11T19:32:52.750025"
+  "last_updated": "2025-12-12T03:34:07.685552"
 }
