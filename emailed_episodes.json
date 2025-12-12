@@ -4766,8 +4766,29 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2025-12-12T11:23:55.162738",
       "episode_id": "fbd1cb34adee005f"
+    },
+    "7e0953dabdf8d80d": {
+      "url": "https://mcdn.podbean.com/mf/web/wb7v39v84nd8aa2k/AAR_FX12DEC2575t1o.mp3",
+      "title": "Global FX: Dollar down after Fed; central banks and US data center stage for FX next week",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-12-12T19:15:45.802908",
+      "episode_id": "7e0953dabdf8d80d"
+    },
+    "d0b316e734603031": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/on-air/in-the-now/251211%20-%20Washington%20Weekly%20Podcast.mp3",
+      "title": "Washington Weekly Podcast: Healthcare, Defense, Congressional stock trading",
+      "feed": "UBS On-Air In the Now",
+      "emailed": "2025-12-12T19:19:30.467323",
+      "episode_id": "d0b316e734603031"
+    },
+    "faceb0250f08ad9f": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18342298-ecb-baffles-bank-bond-market-by-mulling-at1-abolition.mp3",
+      "title": "ECB baffles bank bond market by mulling AT1 abolition",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2025-12-12T19:27:58.376611",
+      "episode_id": "faceb0250f08ad9f"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-12T11:23:55.162727"
+  "last_updated": "2025-12-12T19:27:58.376602"
 }
