@@ -4934,8 +4934,22 @@
       "feed": "The Economics Show",
       "emailed": "2025-12-17T07:37:06.987949",
       "episode_id": "e0468baa96855189"
+    },
+    "0782cc5440123f1e": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Episode_6_ISO_20022_-_What_does_it_mean_for_Banks_and_Corporates.mp3?dest-id=1534493",
+      "title": "ISO 20022 - What does it mean for Banks and Corporates?",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-12-17T15:36:36.675167",
+      "episode_id": "0782cc5440123f1e"
+    },
+    "82930057b730784b": {
+      "url": "https://www.buzzsprout.com/1632829/episodes/18369987-toy-factories-to-tsmc-taiwan-s-transformation.mp3",
+      "title": "Toy factories to TSMC: Taiwan\u2019s transformation",
+      "feed": "The Emerging Markets Equities Podcast (Aberdeen)",
+      "emailed": "2025-12-17T15:43:07.694713",
+      "episode_id": "82930057b730784b"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-17T07:37:06.987939"
+  "last_updated": "2025-12-17T15:43:07.694698"
 }
