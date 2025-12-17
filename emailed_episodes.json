@@ -4948,8 +4948,29 @@
       "feed": "The Emerging Markets Equities Podcast (Aberdeen)",
       "emailed": "2025-12-17T15:43:07.694713",
       "episode_id": "82930057b730784b"
+    },
+    "085035669b8faa6e": {
+      "url": "https://mcdn.podbean.com/mf/web/c6hv8hr7tvz7yhu8/251217_AAR_EMFI.mp3",
+      "title": "EM Fixed Income: The most wonderful time",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-12-17T19:18:46.901307",
+      "episode_id": "085035669b8faa6e"
+    },
+    "6bed81b8a822f91a": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226",
+      "title": "PM does a pop culture draft: 1999 edition",
+      "feed": "Planet Money",
+      "emailed": "2025-12-17T19:36:22.689323",
+      "episode_id": "6bed81b8a822f91a"
+    },
+    "fac01fae25ee6c10": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_JAY.mp3?dest-id=1929056",
+      "title": "Ep. 339: Jay Pelosky on Tech Bubble (or Not), China vs. US, Clean Energy Plays",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2025-12-17T19:45:03.845982",
+      "episode_id": "fac01fae25ee6c10"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-17T15:43:07.694698"
+  "last_updated": "2025-12-17T19:45:03.845967"
 }
