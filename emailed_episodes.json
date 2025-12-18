@@ -4983,8 +4983,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2025-12-18T03:26:49.445571",
       "episode_id": "59d66dcf4bd60cda"
+    },
+    "ab2bedbf38caf599": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6943bc4f89ee5e06fd5b564b/media.mp3",
+      "title": "2025: Expectation vs reality",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2025-12-18T11:14:25.339943",
+      "episode_id": "ab2bedbf38caf599"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-18T03:26:49.445559"
+  "last_updated": "2025-12-18T11:14:25.339932"
 }
