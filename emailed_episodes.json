@@ -5053,8 +5053,36 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2025-12-19T07:25:55.682140",
       "episode_id": "a7a5a8bf7b098aeb"
+    },
+    "00b19c8e71d21c3f": {
+      "url": "https://traffic.megaphone.fm/GLD6663132839.mp3",
+      "title": "\u201cWe Like Bonds\u201d",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2025-12-19T19:14:08.548890",
+      "episode_id": "00b19c8e71d21c3f"
+    },
+    "cfc71380444ff8c1": {
+      "url": "https://mcdn.podbean.com/mf/web/rq9ugkpjg3sjentp/AAR_FX191225.mp3",
+      "title": "Global FX: US data, DM central banks, year-end observations",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2025-12-19T19:17:37.682456",
+      "episode_id": "cfc71380444ff8c1"
+    },
+    "f0a066e65785a2b1": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Amundi-Podcast.mp3?dest-id=1534493",
+      "title": "Unlock Your Company's Cash Potential",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2025-12-19T19:23:28.771197",
+      "episode_id": "f0a066e65785a2b1"
+    },
+    "1c6141e789948fd3": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/5eef3663-1c00-4c9f-a3c2-0d18a66a3887/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=5eef3663-1c00-4c9f-a3c2-0d18a66a3887&feed=tc4zxWgX",
+      "title": "Quadruple Witching, Stores Save 12/19/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-12-19T19:34:52.148207",
+      "episode_id": "1c6141e789948fd3"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-19T07:25:55.682130"
+  "last_updated": "2025-12-19T19:34:52.148198"
 }
