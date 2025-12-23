@@ -5102,8 +5102,36 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2025-12-20T03:30:24.285215",
       "episode_id": "09d70643e5c4bc2f"
+    },
+    "4360748a9f736659": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/9a1112c4-44f5-45e1-b29f-028c142a6e54.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Rebalancing Portfolios as Risk Premiums Drop",
+      "feed": "Thoughts on the Market",
+      "emailed": "2025-12-23T03:26:01.693835",
+      "episode_id": "4360748a9f736659"
+    },
+    "35ac9862da30f59a": {
+      "url": "https://traffic.megaphone.fm/GLD1867029815.mp3",
+      "title": "Looking for Trends: One River Asset Management\u2019s Eric Peters",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2025-12-23T03:32:27.359347",
+      "episode_id": "35ac9862da30f59a"
+    },
+    "f9843cd7be82b4a4": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/e70201b6-0ce9-4065-94ac-ee938ed9d240/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=e70201b6-0ce9-4065-94ac-ee938ed9d240&feed=tc4zxWgX",
+      "title": "The Return of the AI, Tim Seymour\u2019s Naughty & Nice Stocks & The Underestimated Discounter 12/22/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2025-12-23T03:41:55.432619",
+      "episode_id": "f9843cd7be82b4a4"
+    },
+    "d3369fa608940335": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1935&size=30965848",
+      "title": "What AI data centers are doing to your electric bill",
+      "feed": "Planet Money",
+      "emailed": "2025-12-23T03:52:42.560710",
+      "episode_id": "d3369fa608940335"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-20T03:30:24.285205"
+  "last_updated": "2025-12-23T03:52:42.560699"
 }
