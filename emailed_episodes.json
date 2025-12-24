@@ -5172,8 +5172,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2025-12-24T03:50:06.602702",
       "episode_id": "2b89d118cdf78247"
+    },
+    "fd6b021330245481": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6942e914959d6e49508aa844/media.mp3",
+      "title": "The Economics Show: What economics gets wrong about human behaviour, with Richard Thaler",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2025-12-24T07:27:47.698957",
+      "episode_id": "fd6b021330245481"
+    },
+    "6af580b7201d9762": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/694413fd9a763d41f1a6ad2f/media.mp3",
+      "title": "Martin Wolf speaks to Christine Lagarde: Europe\u2019s \u2018existential crisis\u2019",
+      "feed": "The Economics Show",
+      "emailed": "2025-12-24T07:32:04.651325",
+      "episode_id": "6af580b7201d9762"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-24T03:50:06.602691"
+  "last_updated": "2025-12-24T07:32:04.651313"
 }
