@@ -5312,8 +5312,22 @@
       "feed": "Planet Money",
       "emailed": "2025-12-31T19:20:47.446379",
       "episode_id": "9efc3edde0a59241"
+    },
+    "5bce8bf01956b893": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/6f6aa3ce-28dd-4a0a-9e98-670531c3d999.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Special Encore: What\u2019s Driving U.S. Growth in 2026",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-01-01T03:49:40.087061",
+      "episode_id": "5bce8bf01956b893"
+    },
+    "3c29384c088bba9c": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/b00d9ae2-731c-4494-8a0d-0fdb70867a4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=b00d9ae2-731c-4494-8a0d-0fdb70867a4b&feed=tc4zxWgX",
+      "title": "Final Trading Hours, Biotech's Boom & Buffett's Last Day 12/31/25",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-01-01T03:58:55.336268",
+      "episode_id": "3c29384c088bba9c"
     }
   },
   "version": "3.0",
-  "last_updated": "2025-12-31T19:20:47.446370"
+  "last_updated": "2026-01-01T03:58:55.336257"
 }
