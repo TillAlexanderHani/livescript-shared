@@ -5326,8 +5326,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-01-01T03:58:55.336268",
       "episode_id": "3c29384c088bba9c"
+    },
+    "eb08fae71880490a": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/694175d8443ad9891393af60/media.mp3",
+      "title": "Behind The Money: How First Brands Group collapsed",
+      "feed": "The Economics Show",
+      "emailed": "2026-01-02T07:31:53.343825",
+      "episode_id": "eb08fae71880490a"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-01T03:58:55.336257"
+  "last_updated": "2026-01-02T07:31:53.343815"
 }
