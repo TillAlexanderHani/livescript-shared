@@ -5354,8 +5354,15 @@
       "feed": "Planet Money",
       "emailed": "2026-01-04T19:21:22.420079",
       "episode_id": "033e4ad1ff7a6e5a"
+    },
+    "e3c39795244b5e35": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1017_Barclays_Trade.mp3?dest-id=1534493",
+      "title": "Realigning Trade for Future Growth",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-01-05T15:33:26.281357",
+      "episode_id": "e3c39795244b5e35"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-04T19:21:22.420069"
+  "last_updated": "2026-01-05T15:33:26.281345"
 }
