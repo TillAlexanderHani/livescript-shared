@@ -5389,8 +5389,22 @@
       "feed": "Radio Ambulante",
       "emailed": "2026-01-06T11:31:32.583179",
       "episode_id": "d340de8603670526"
+    },
+    "3c91e75da08e443c": {
+      "url": "https://mcdn.podbean.com/mf/web/ehqykdbup9sf8v8m/260106GDP_Nora.mp3",
+      "title": "Global Data Pod Research Rap: Inflation monitor: Fade 4Q momentum slide",
+      "feed": "Global Data Pod",
+      "emailed": "2026-01-06T19:18:00.015215",
+      "episode_id": "3c91e75da08e443c"
+    },
+    "bf6d9f110127a7d3": {
+      "url": "https://traffic.megaphone.fm/GLD1903391104.mp3",
+      "title": "Oil Market Impacts from Venezuela",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-01-06T19:20:36.705757",
+      "episode_id": "bf6d9f110127a7d3"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-06T11:31:32.583168"
+  "last_updated": "2026-01-06T19:20:36.705746"
 }
