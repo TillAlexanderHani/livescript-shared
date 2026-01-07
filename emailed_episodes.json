@@ -5403,8 +5403,29 @@
       "feed": "Goldman Sachs Exchanges",
       "emailed": "2026-01-06T19:20:36.705757",
       "episode_id": "bf6d9f110127a7d3"
+    },
+    "5d83c34d12cbd1fa": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/559154f0-5a1b-4cfc-ba72-3142b6e3acc4.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "How Venezuela Events Could Affect Markets and Policy",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-01-07T03:29:06.783406",
+      "episode_id": "5d83c34d12cbd1fa"
+    },
+    "29e2358b7cede760": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/7c4da555-cc3b-4c8c-a61b-553766187620/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=7c4da555-cc3b-4c8c-a61b-553766187620&feed=tc4zxWgX",
+      "title": "Semis Soar, Fintech's Future & Robotics Race 1/6/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-01-07T03:38:41.344743",
+      "episode_id": "29e2358b7cede760"
+    },
+    "977ae2d9ec4098c0": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/b4f67b28-32dc-496d-a2e7-12a5f3c0dc69/audio/dfca40f3-0ade-464f-8de7-978b285308f7/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Coffee & Cocoa's Wild Ride with Kona Haque",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2026-01-07T03:52:53.945149",
+      "episode_id": "977ae2d9ec4098c0"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-06T19:20:36.705746"
+  "last_updated": "2026-01-07T03:52:53.945139"
 }
