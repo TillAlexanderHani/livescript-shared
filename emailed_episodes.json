@@ -5480,8 +5480,15 @@
       "feed": "Under the Banyan Tree (HSBC Global Research)",
       "emailed": "2026-01-08T11:16:46.420442",
       "episode_id": "3dabeffbdd5c5d2d"
+    },
+    "7ec59b768f654018": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1013_INNO25_Ericsson.mp3?dest-id=1534493",
+      "title": "Guaranteeing a Greener Future at Ericsson",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-01-08T15:35:12.176865",
+      "episode_id": "7ec59b768f654018"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-08T11:16:46.420432"
+  "last_updated": "2026-01-08T15:35:12.176855"
 }
