@@ -5557,8 +5557,22 @@
       "feed": "Macro Trading Floor",
       "emailed": "2026-01-09T15:42:56.290572",
       "episode_id": "b000949ca27ea50d"
+    },
+    "5db039002bb04719": {
+      "url": "https://mcdn.podbean.com/mf/web/q56t5jxk49tixxzd/AAR09Jan26.mp3",
+      "title": "European Rates: January supply and technical drivers in Euro area rates, UK rates update",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-01-09T19:17:45.660578",
+      "episode_id": "5db039002bb04719"
+    },
+    "9142f35deacbd267": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18479782-nameless-dread-and-the-blockbuster-bond-market.mp3",
+      "title": "'Nameless dread' and the blockbuster bond market",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-01-09T19:26:40.980777",
+      "episode_id": "9142f35deacbd267"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-09T15:42:56.290560"
+  "last_updated": "2026-01-09T19:26:40.980766"
 }
