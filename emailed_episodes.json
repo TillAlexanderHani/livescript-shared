@@ -5529,8 +5529,29 @@
       "feed": "The Economics Show",
       "emailed": "2026-01-09T07:35:11.029562",
       "episode_id": "48b32c226e294903"
+    },
+    "024daf18f0ca4991": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18479469-sterling-is-high-but-world-events-dampen-the-dollar.mp3",
+      "title": "Sterling is high, but world events dampen the dollar",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-01-09T11:15:53.774069",
+      "episode_id": "024daf18f0ca4991"
+    },
+    "e7abb9b248837f8f": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6960d572b8712e7ba2ee7296/media.mp3",
+      "title": "The global economy in 2026",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-01-09T11:20:12.740440",
+      "episode_id": "e7abb9b248837f8f"
+    },
+    "8b91e9a14d79adc5": {
+      "url": "https://traffic.megaphone.fm/CLS6619786132.mp3?updated=1767944938",
+      "title": "Reed Hastings - Building Netflix - [Invest Like the Best, EP.453]",
+      "feed": "Invest Like the Best",
+      "emailed": "2026-01-09T11:33:08.862544",
+      "episode_id": "8b91e9a14d79adc5"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-09T07:35:11.029552"
+  "last_updated": "2026-01-09T11:33:08.862534"
 }
