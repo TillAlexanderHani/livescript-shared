@@ -5494,8 +5494,29 @@
       "feed": "Macro Voices",
       "emailed": "2026-01-08T19:34:44.245493",
       "episode_id": "17270e1331fd83a8"
+    },
+    "3a7cb8c679302954": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/7afdbfab-699d-4572-a9a2-5bf8a94d75a1.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Driverless Cars Take the Fast Lane",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-01-09T03:30:36.804223",
+      "episode_id": "3a7cb8c679302954"
+    },
+    "b4e7803c395f9c0f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/28472f0f-9d07-4599-a95d-d5e90feb8b19/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=28472f0f-9d07-4599-a95d-d5e90feb8b19&feed=tc4zxWgX",
+      "title": "A Buyback Ban, the Copper Crunch, and Where the Jobs Aren't 1/8/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-01-09T03:40:35.022487",
+      "episode_id": "b4e7803c395f9c0f"
+    },
+    "1b1c7494177ba214": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/18005024-ep76-2025-wrap-the-forces-reshaping-asia-s-energy-transition.mp3",
+      "title": "Ep76 2025 Wrap: The Forces Reshaping Asia\u2019s Energy Transition",
+      "feed": "Asia Climate Finance Podcast",
+      "emailed": "2026-01-09T03:47:34.156665",
+      "episode_id": "1b1c7494177ba214"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-08T19:34:44.245482"
+  "last_updated": "2026-01-09T03:47:34.156654"
 }
