@@ -5571,8 +5571,50 @@
       "feed": "The GlobalCapital Podcast",
       "emailed": "2026-01-09T19:26:40.980777",
       "episode_id": "9142f35deacbd267"
+    },
+    "b313cecb8169e1e0": {
+      "url": "https://mcdn.podbean.com/mf/web/v9xsfi5e8rpb4xwd/AARFX09Jan26.mp3",
+      "title": "Global FX: A highly procyclical start",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-01-10T03:25:41.756909",
+      "episode_id": "b313cecb8169e1e0"
+    },
+    "379067b4df329cae": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/296974bf-bdbd-44e5-b295-c395c4db6517.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Signals Align for a Growth Cycle",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-01-10T03:27:42.607343",
+      "episode_id": "379067b4df329cae"
+    },
+    "106ec33db869b416": {
+      "url": "https://mcdn.podbean.com/mf/web/47gp7u2swjtwpibv/01092026_Weekender.mp3",
+      "title": "Global Data Pod Weekender: We\u2019re back, baby!",
+      "feed": "Global Data Pod",
+      "emailed": "2026-01-10T03:35:22.413601",
+      "episode_id": "106ec33db869b416"
+    },
+    "09aa91ff0201b0c4": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/92d6e06a-21f6-4084-8233-ac4b6c8f3702/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=92d6e06a-21f6-4084-8233-ac4b6c8f3702&feed=tc4zxWgX",
+      "title": "New Housing Plan, Big Oil at the White, and Meta goes Nuclear 1/9/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-01-10T03:45:12.778597",
+      "episode_id": "09aa91ff0201b0c4"
+    },
+    "1dacd6a90f7680ca": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958",
+      "title": "So are we in an AI bubble? Here are clues to look for.",
+      "feed": "Planet Money",
+      "emailed": "2026-01-10T03:54:30.971726",
+      "episode_id": "1dacd6a90f7680ca"
+    },
+    "5abdbc9b32ae7bf8": {
+      "url": "https://mcdn.podbean.com/mf/web/tqvtwrswrcdrsv73/Podcast_01-09-26.mp3",
+      "title": "U.S. economy & weather: Passing grades (for now)",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-01-10T03:58:15.893383",
+      "episode_id": "5abdbc9b32ae7bf8"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-09T19:26:40.980766"
+  "last_updated": "2026-01-10T03:58:15.893372"
 }
