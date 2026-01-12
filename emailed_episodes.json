@@ -5627,8 +5627,15 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2026-01-12T11:15:16.590639",
       "episode_id": "a2201508b461c747"
+    },
+    "b5b1248bb8a2e33c": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1218_BOA_APAC.mp3?dest-id=1534493",
+      "title": "Payments at APAC Speed",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-01-12T19:19:08.334666",
+      "episode_id": "b5b1248bb8a2e33c"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-12T11:15:16.590628"
+  "last_updated": "2026-01-12T19:19:08.334655"
 }
