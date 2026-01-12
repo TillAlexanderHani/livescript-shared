@@ -5620,8 +5620,15 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-01-10T19:25:15.859842",
       "episode_id": "19697350951a9315"
+    },
+    "a2201508b461c747": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0918_INNO25_Babcock.mp3?dest-id=1534493",
+      "title": "Engineering Liquidity: Babcock's Blueprint for Cash Management Efficiency",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-01-12T11:15:16.590639",
+      "episode_id": "a2201508b461c747"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-10T19:25:15.859832"
+  "last_updated": "2026-01-12T11:15:16.590628"
 }
