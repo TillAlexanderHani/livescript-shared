@@ -5655,8 +5655,15 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2026-01-13T03:47:19.490210",
       "episode_id": "3ac98c097f8cd844"
+    },
+    "e3b3953f68884d67": {
+      "url": "https://traffic.megaphone.fm/GLD4079737635.mp3",
+      "title": "Goldman Sachs Exchanges: Outlook 2026 Episode 1: The Big Picture",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-01-13T07:27:14.673514",
+      "episode_id": "e3b3953f68884d67"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-13T03:47:19.490200"
+  "last_updated": "2026-01-13T07:27:14.673504"
 }
