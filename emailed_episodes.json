@@ -5634,8 +5634,29 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2026-01-12T19:19:08.334666",
       "episode_id": "b5b1248bb8a2e33c"
+    },
+    "60ffa69b94e16cd6": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/528a2eea-1820-40a1-a1f6-d7389aea07c7.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Why Markets Stay Steady Amid Venezuela Developments",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-01-13T03:27:36.767206",
+      "episode_id": "60ffa69b94e16cd6"
+    },
+    "a75df46b0483db43": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/6da193dc-495e-44a2-8d2b-7cd456b27ec8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=6da193dc-495e-44a2-8d2b-7cd456b27ec8&feed=tc4zxWgX",
+      "title": "DOJ\u2019s Powell Probe, Not Nvidia, and Credit Card Cap 1/12/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-01-13T03:37:27.843840",
+      "episode_id": "a75df46b0483db43"
+    },
+    "3ac98c097f8cd844": {
+      "url": "https://mcdn.podbean.com/mf/web/9ytriwqt5sp67gcs/Podcast_01-12-26.mp3",
+      "title": "January WASDE: Corn puts on a show!",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-01-13T03:47:19.490210",
+      "episode_id": "3ac98c097f8cd844"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-12T19:19:08.334655"
+  "last_updated": "2026-01-13T03:47:19.490200"
 }
