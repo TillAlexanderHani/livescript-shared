@@ -5690,8 +5690,29 @@
       "feed": "Horizontes de Latinoam\u00e9rica (S&P Global)",
       "emailed": "2026-01-13T19:24:34.287319",
       "episode_id": "8e932268950f809a"
+    },
+    "4b1ec375bd5bd0f1": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/8a68e77f-69a0-4fd5-8a00-e4a17eccd79f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Will U.S. Manufacturing See a 2026 Boom?",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-01-14T03:47:01.174558",
+      "episode_id": "4b1ec375bd5bd0f1"
+    },
+    "f0cba794efd3294b": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/e75e0718-4e71-4793-880b-55d8999e64d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=e75e0718-4e71-4793-880b-55d8999e64d3&feed=tc4zxWgX",
+      "title": "A Shadow Fed, A Cap Contrarian Call, and Chips & Caso 1/13/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-01-14T03:55:45.812109",
+      "episode_id": "f0cba794efd3294b"
+    },
+    "fbe72d22c40631aa": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/f9306ddb-2cfb-4b02-b5b3-af64748491c9/audio/5f16d56a-dea8-489a-860b-ebb5872f6259/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Competing to Trade with Roland Rechtsteiner",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2026-01-14T04:09:45.982139",
+      "episode_id": "fbe72d22c40631aa"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-13T19:24:34.287307"
+  "last_updated": "2026-01-14T04:09:45.982131"
 }
