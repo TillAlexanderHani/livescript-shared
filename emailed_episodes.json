@@ -5711,8 +5711,15 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-01-14T04:09:45.982139",
       "episode_id": "fbe72d22c40631aa"
+    },
+    "612be94fb66f62c6": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6966b8c5023744df1119ad3a/media.mp3",
+      "title": "Davos\u2019 fight for relevance",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2026-01-14T07:29:28.231308",
+      "episode_id": "612be94fb66f62c6"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-14T04:09:45.982131"
+  "last_updated": "2026-01-14T07:29:28.231302"
 }
