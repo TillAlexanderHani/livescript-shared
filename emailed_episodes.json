@@ -5767,8 +5767,29 @@
       "feed": "Macro Voices",
       "emailed": "2026-01-15T19:38:16.770230",
       "episode_id": "9c9d1de1d38d5fc2"
+    },
+    "1951cc9b39721267": {
+      "url": "https://mcdn.podbean.com/mf/web/z3sv5ut7f27tbuvz/AAREM150126.mp3",
+      "title": "EM Fixed Income: Sticking to the knitting",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-01-16T03:29:38.130019",
+      "episode_id": "1951cc9b39721267"
+    },
+    "14a30629428aec42": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/3d18ae9b-5ed0-44ee-8717-d08d6a2fdc56.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Boost From Easing Market Rules",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-01-16T03:31:20.423203",
+      "episode_id": "14a30629428aec42"
+    },
+    "136cac97aa0bbd20": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/e3af6848-7284-445a-bcc3-5d7277ddb8c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=e3af6848-7284-445a-bcc3-5d7277ddb8c2&feed=tc4zxWgX",
+      "title": "In Chips We Trust\u2026Again, Crypto Regulation Roadblock, and Fed Independence & Inflation 1/15/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-01-16T03:37:05.244669",
+      "episode_id": "136cac97aa0bbd20"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-15T19:38:16.770219"
+  "last_updated": "2026-01-16T03:37:05.244659"
 }
