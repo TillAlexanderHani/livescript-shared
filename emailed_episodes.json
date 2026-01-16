@@ -5816,8 +5816,15 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2026-01-16T11:27:14.515152",
       "episode_id": "a40ff4218f2a08f8"
+    },
+    "869df89d6359db23": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV8265916377.mp3",
+      "title": "Japanese Macro Tails",
+      "feed": "Macro Trading Floor",
+      "emailed": "2026-01-16T15:42:18.281868",
+      "episode_id": "869df89d6359db23"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-16T11:27:14.515139"
+  "last_updated": "2026-01-16T15:42:18.281857"
 }
