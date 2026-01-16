@@ -5795,8 +5795,29 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2026-01-16T07:26:10.336635",
       "episode_id": "e536fda391ab31e4"
+    },
+    "76600ce0e093c785": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18518171-where-has-market-volatility-gone.mp3",
+      "title": "Where has market volatility gone?",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-01-16T11:14:13.999011",
+      "episode_id": "76600ce0e093c785"
+    },
+    "9d02263563c74e8f": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6969ef7d2f4375874a9ef3c8/media.mp3",
+      "title": "Global tech trends",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-01-16T11:16:20.291023",
+      "episode_id": "9d02263563c74e8f"
+    },
+    "a40ff4218f2a08f8": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/PodcastSuttleAudio.mp3?dest-id=1929056",
+      "title": "Ep. 341: Phil Suttle on Trump's Populism, the Productivity Mystery, and Global Disruption",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-01-16T11:27:14.515152",
+      "episode_id": "a40ff4218f2a08f8"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-16T07:26:10.336624"
+  "last_updated": "2026-01-16T11:27:14.515139"
 }
