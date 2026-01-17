@@ -5886,8 +5886,15 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2026-01-17T03:55:08.993537",
       "episode_id": "9d263cde818fe634"
+    },
+    "c7bcdda57ebe7784": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1340849806.mp3?t=podcast&e=nx-s1-5680400&p=510289&d=1982&size=31716502",
+      "title": "Chevron, Venezuela and the Paradox of Plenty",
+      "feed": "Planet Money",
+      "emailed": "2026-01-17T07:27:43.382168",
+      "episode_id": "c7bcdda57ebe7784"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-17T03:55:08.993527"
+  "last_updated": "2026-01-17T07:27:43.382156"
 }
