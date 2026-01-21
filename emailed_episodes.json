@@ -5956,8 +5956,15 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-01-21T04:11:38.457757",
       "episode_id": "69f8ad72a41affb9"
+    },
+    "8ae0b3aa1cda7a48": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/696fef68fc4a780251bcb5a7/media.mp3",
+      "title": "The rapid collapse of Saks Global",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2026-01-21T07:32:01.511339",
+      "episode_id": "8ae0b3aa1cda7a48"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-21T04:11:38.457747"
+  "last_updated": "2026-01-21T07:32:01.511329"
 }
