@@ -6026,8 +6026,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-01-23T03:42:20.025543",
       "episode_id": "6f149a2c59b9d80d"
+    },
+    "703fe5c383ac6571": {
+      "url": "https://traffic.megaphone.fm/GLD5792422198.mp3",
+      "title": "\u201cA Massive Broadening Trade\u201d",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-01-23T07:23:46.196862",
+      "episode_id": "703fe5c383ac6571"
+    },
+    "15edccf09b4decc2": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/697239548262298970d46b6b/media.mp3",
+      "title": "The economy in 2026: What risks lie ahead? With Gita Gopinath",
+      "feed": "The Economics Show",
+      "emailed": "2026-01-23T07:35:07.983258",
+      "episode_id": "15edccf09b4decc2"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-23T03:42:20.025532"
+  "last_updated": "2026-01-23T07:35:07.983248"
 }
