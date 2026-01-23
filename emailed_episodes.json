@@ -6061,8 +6061,29 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2026-01-23T11:27:29.346848",
       "episode_id": "ffe0771e3bfda786"
+    },
+    "dd502a085e015b40": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18557558-a-busy-busy-week-in-markets.mp3",
+      "title": "A busy, busy week in markets",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-01-23T15:36:37.663418",
+      "episode_id": "dd502a085e015b40"
+    },
+    "6b3a8ae5a45a2990": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV3950782133.mp3",
+      "title": "US Dollar Hedging: A Real Risk or Just a Narrative?",
+      "feed": "Macro Trading Floor",
+      "emailed": "2026-01-23T15:50:28.893414",
+      "episode_id": "6b3a8ae5a45a2990"
+    },
+    "ca3e92488cd5c197": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/RoryJOHNSTON.mp3?dest-id=1929056",
+      "title": "Ep. 342: Rory Johnston on Trump's Bullish Impact on Oil Markets, and the Bearish Risks Ahead",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-01-23T16:04:11.070860",
+      "episode_id": "ca3e92488cd5c197"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-23T11:27:29.346837"
+  "last_updated": "2026-01-23T16:04:11.070846"
 }
