@@ -6082,8 +6082,36 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2026-01-23T16:04:11.070860",
       "episode_id": "ca3e92488cd5c197"
+    },
+    "6523c739dfcab83b": {
+      "url": "https://mcdn.podbean.com/mf/web/fiv67wifskjfw97u/AARFXMW260123.mp3",
+      "title": "Global FX: Bearish USD vs. EM FX risk appetite index, G10 cyclicals and the Fed",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-01-23T19:23:41.577975",
+      "episode_id": "6523c739dfcab83b"
+    },
+    "916708abece91be1": {
+      "url": "https://www.ubs.com/content/dam/podcasts/wma/on-air/in-the-now/260122%20-%20Washington%20Weekly%20Podcast.mp3",
+      "title": "Washington Weekly Podcast: Davos takeaways, Greenland, Government shutdown",
+      "feed": "UBS On-Air In the Now",
+      "emailed": "2026-01-23T19:27:46.074044",
+      "episode_id": "916708abece91be1"
+    },
+    "fba93a280e7efd56": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18558477-defence-stocks-ukrainian-bonds-fear-and-fomo-in-investment-banking.mp3",
+      "title": "Defence stocks, Ukrainian bonds, fear and Fomo in investment banking",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-01-23T19:39:30.422320",
+      "episode_id": "fba93a280e7efd56"
+    },
+    "f4a311c9e22af4bb": {
+      "url": "https://mcdn.podbean.com/mf/web/8n3gzpmuw633gp8f/Podcast_01-23-26.mp3",
+      "title": "What to expect at next week\u2019s ASGA conference",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-01-23T19:44:55.680061",
+      "episode_id": "f4a311c9e22af4bb"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-23T16:04:11.070846"
+  "last_updated": "2026-01-23T19:44:55.680052"
 }
