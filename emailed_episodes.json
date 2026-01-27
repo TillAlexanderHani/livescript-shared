@@ -6173,8 +6173,22 @@
       "feed": "Radio Ambulante",
       "emailed": "2026-01-27T07:34:11.299166",
       "episode_id": "9a56ec07c51e8b7c"
+    },
+    "19cb00722e3b2259": {
+      "url": "https://www.buzzsprout.com/2042300/episodes/18570856-116-how-to-manage-your-money-3-budgeting-methods-that-actually-work.mp3",
+      "title": "116. How to Manage Your Money: 3 Budgeting Methods That Actually Work",
+      "feed": "MoneyChisme - Latino Financial Education",
+      "emailed": "2026-01-27T15:42:19.387112",
+      "episode_id": "19cb00722e3b2259"
+    },
+    "b6c70cd58e53000f": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/18576635-continuity-for-costa-rica.mp3",
+      "title": "Continuity for Costa Rica",
+      "feed": "Horizontes de Latinoam\u00e9rica (S&P Global)",
+      "emailed": "2026-01-27T15:49:41.419931",
+      "episode_id": "b6c70cd58e53000f"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-27T07:34:11.299153"
+  "last_updated": "2026-01-27T15:49:41.419921"
 }
