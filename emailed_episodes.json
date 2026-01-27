@@ -6187,8 +6187,22 @@
       "feed": "Horizontes de Latinoam\u00e9rica (S&P Global)",
       "emailed": "2026-01-27T15:49:41.419931",
       "episode_id": "b6c70cd58e53000f"
+    },
+    "aefc7057be3d2a87": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Comcast-Final-Edit.mp3?dest-id=1534493",
+      "title": "Banking on Change: Inside Comcast's Treasury Transformation",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-01-27T19:27:56.946768",
+      "episode_id": "aefc7057be3d2a87"
+    },
+    "41d7836508d060fb": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/499d3b67-92a9-438b-aa56-65fe4af61eee/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=499d3b67-92a9-438b-aa56-65fe4af61eee&feed=tc4zxWgX",
+      "title": "The Health of Health Insurers, 'Dumb Money' Durability, and Altman's Tech Job Warning 1/27/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-01-27T19:38:00.715284",
+      "episode_id": "41d7836508d060fb"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-27T15:49:41.419921"
+  "last_updated": "2026-01-27T19:38:00.715273"
 }
