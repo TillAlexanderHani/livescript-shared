@@ -6222,8 +6222,15 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-01-28T04:09:04.609434",
       "episode_id": "52148e7ba15eb186"
+    },
+    "3d9d6bb2716aaf01": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6979152347577ef18d7d8b64/media.mp3",
+      "title": "Can Wells Fargo make it in investment banking?",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2026-01-28T07:30:32.681027",
+      "episode_id": "3d9d6bb2716aaf01"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-28T04:09:04.609424"
+  "last_updated": "2026-01-28T07:30:32.681017"
 }
