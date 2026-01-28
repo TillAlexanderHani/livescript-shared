@@ -6201,8 +6201,29 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-01-27T19:38:00.715284",
       "episode_id": "41d7836508d060fb"
+    },
+    "fdd07463fb17d932": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/0bbc1cfa-4508-4288-8e78-a80b8851f1ee.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "A Rebound for Hong Kong\u2019s Property Market",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-01-28T03:44:28.248726",
+      "episode_id": "fdd07463fb17d932"
+    },
+    "7566c067dad5b376": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5797609758.mp3?t=podcast&e=nx-s1-5686773&p=510289&d=1902&size=30440473",
+      "title": "A trip to the magic mushroom megachurch",
+      "feed": "Planet Money",
+      "emailed": "2026-01-28T03:56:03.699511",
+      "episode_id": "7566c067dad5b376"
+    },
+    "52148e7ba15eb186": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/0aa5e701-faf6-48ee-8269-03e4e671b21a/audio/1da35ad7-b552-40f8-bf37-c41a87374887/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "The Great Repricing with Jeff Currie",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2026-01-28T04:09:04.609434",
+      "episode_id": "52148e7ba15eb186"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-27T19:38:00.715273"
+  "last_updated": "2026-01-28T04:09:04.609424"
 }
