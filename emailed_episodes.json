@@ -6229,8 +6229,29 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2026-01-28T07:30:32.681027",
       "episode_id": "3d9d6bb2716aaf01"
+    },
+    "255ca4168101db3d": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/23bd3b54-9592-45cb-9b08-a8edcd732e11.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Stakes of Another Government Shutdown",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-01-29T04:07:19.980608",
+      "episode_id": "255ca4168101db3d"
+    },
+    "a7a39436a00e4e13": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/04de8d76-5758-478c-90ce-e16150139b1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=04de8d76-5758-478c-90ce-e16150139b1a&feed=tc4zxWgX",
+      "title": "Dollar Destruction, Another Powell Pause, and Tech on Deck 1/28/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-01-29T04:15:39.931459",
+      "episode_id": "a7a39436a00e4e13"
+    },
+    "686d3f620ab54ec9": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165",
+      "title": "Can transforming neighborhoods help kids escape poverty?",
+      "feed": "Planet Money",
+      "emailed": "2026-01-29T04:25:32.029498",
+      "episode_id": "686d3f620ab54ec9"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-28T07:30:32.681017"
+  "last_updated": "2026-01-29T04:25:32.029487"
 }
