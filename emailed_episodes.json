@@ -6327,8 +6327,22 @@
       "feed": "The Economics Show",
       "emailed": "2026-01-30T07:49:42.608211",
       "episode_id": "c44f5e6bf2909c3c"
+    },
+    "6e346bf9380a0947": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/697c6e9b27c56b503885b5dc/media.mp3",
+      "title": "The Fed in focus",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-01-30T11:23:37.497822",
+      "episode_id": "6e346bf9380a0947"
+    },
+    "4ee6c12d46081eff": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_SRIVIDYA.mp3?dest-id=1929056",
+      "title": "Ep. 343: Srividya Jandhyala on Changing Corporate Behaviour to Geopolitical Risks, and 'The Great Disruption'",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-01-30T11:35:59.165824",
+      "episode_id": "4ee6c12d46081eff"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-30T07:49:42.608200"
+  "last_updated": "2026-01-30T11:35:59.165813"
 }
