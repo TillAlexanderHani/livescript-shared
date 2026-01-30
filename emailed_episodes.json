@@ -6341,8 +6341,29 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2026-01-30T11:35:59.165824",
       "episode_id": "4ee6c12d46081eff"
+    },
+    "f0179a8adfa8f5de": {
+      "url": "https://mcdn.podbean.com/mf/web/f2r6yhzx7mmy8n42/AAREMFocus300126.mp3",
+      "title": "EM Fixed Income: Navigating choppier seas with a temperamental compass",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-01-30T15:43:26.769587",
+      "episode_id": "f0179a8adfa8f5de"
+    },
+    "37f3cd2735418b85": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/JTT-Vodafone-SC-edit-21aug.mp3?dest-id=1534493",
+      "title": "Dialling Up Cash Flow at Vodafone",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-01-30T15:45:49.709692",
+      "episode_id": "37f3cd2735418b85"
+    },
+    "e1d2150bbbb5a124": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV2973505129.mp3",
+      "title": "The New Fed vs The Good Old Bond Market",
+      "feed": "Macro Trading Floor",
+      "emailed": "2026-01-30T15:55:34.634637",
+      "episode_id": "e1d2150bbbb5a124"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-30T11:35:59.165813"
+  "last_updated": "2026-01-30T15:55:34.634625"
 }
