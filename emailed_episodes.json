@@ -6411,8 +6411,36 @@
       "feed": "Planet Money",
       "emailed": "2026-01-31T04:33:55.132447",
       "episode_id": "7975ab0027cd3cbb"
+    },
+    "9949759da8bb64d7": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a0dc98b0-e3ba-496a-b079-9a3d93636a45.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "New Fed Chair, New Market Signals",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-02-03T04:14:27.054999",
+      "episode_id": "9949759da8bb64d7"
+    },
+    "2ebaa74904eacd80": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/5f4d14c7-ee0c-4d1a-95a7-78e8e55aec2a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=5f4d14c7-ee0c-4d1a-95a7-78e8e55aec2a&feed=tc4zxWgX",
+      "title": "The AI Daisy Chain, Memory is the New Metals, and a Short Shutdown? 2/2/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-02-03T04:23:22.224046",
+      "episode_id": "2ebaa74904eacd80"
+    },
+    "193553b724b70cc6": {
+      "url": "https://www.buzzsprout.com/1833434/episodes/18260220-from-us-dominance-to-global-dispersion-nick-rohatyn-on-the-new-em-cycle.mp3",
+      "title": "From US Dominance to Global Dispersion: Nick Rohatyn on the New EM Cycle",
+      "feed": "INSEAD Emerging Markets Podcast",
+      "emailed": "2026-02-03T04:33:57.227610",
+      "episode_id": "193553b724b70cc6"
+    },
+    "587312524d9f7842": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/18521683-ep78-how-solar-forecasting-reduces-risk-for-investors-harsh-goenka-solargis.mp3",
+      "title": "Ep78 How Solar Forecasting Reduces Risk for Investors, Harsh Goenka, Solargis",
+      "feed": "Asia Climate Finance Podcast",
+      "emailed": "2026-02-03T04:39:56.440544",
+      "episode_id": "587312524d9f7842"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-01-31T04:33:55.132413"
+  "last_updated": "2026-02-03T04:39:56.440533"
 }
