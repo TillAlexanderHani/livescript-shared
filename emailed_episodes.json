@@ -6516,8 +6516,22 @@
       "feed": "Planet Money",
       "emailed": "2026-02-04T11:38:06.465697",
       "episode_id": "80d7ca917eda261b"
+    },
+    "b4765a2fcece7a7c": {
+      "url": "https://mcdn.podbean.com/mf/web/muf23nsnt3bbkxxp/260204GDP_Nora.mp3",
+      "title": "Global Data Pod Research Rap: Inflation Monitor",
+      "feed": "Global Data Pod",
+      "emailed": "2026-02-04T19:40:31.303494",
+      "episode_id": "b4765a2fcece7a7c"
+    },
+    "00516b9d4d151ad5": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/89ac534f-4a1a-4a81-99f4-e83643c0597a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=89ac534f-4a1a-4a81-99f4-e83643c0597a&feed=tc4zxWgX",
+      "title": "Software Slump, Alphabet on Deck, and Crypto Cracks 2/4/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-02-04T19:49:44.904364",
+      "episode_id": "00516b9d4d151ad5"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-04T11:38:06.465686"
+  "last_updated": "2026-02-04T19:49:44.904355"
 }
