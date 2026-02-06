@@ -6572,8 +6572,29 @@
       "feed": "Thoughts on the Market",
       "emailed": "2026-02-06T04:14:54.160643",
       "episode_id": "4015424f524a70eb"
+    },
+    "a3827c971124d290": {
+      "url": "https://traffic.megaphone.fm/GLD7919170108.mp3",
+      "title": "Finding Opportunities in Financials",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-02-06T07:44:34.416878",
+      "episode_id": "a3827c971124d290"
+    },
+    "904ef14aa60e24c5": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/ae428870-8429-49d8-abcc-423df54ab2a5.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "248: Retirement Realities: Your Questions Answered - Ask Me Anything with Jaime Magyera",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2026-02-06T07:50:32.372109",
+      "episode_id": "904ef14aa60e24c5"
+    },
+    "ab0532ee22b7d7e1": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6984d9dbe3a23197cb3c22a6/media.mp3",
+      "title": "What an economist eats for lunch (in 2026), with Tyler Cowen",
+      "feed": "The Economics Show",
+      "emailed": "2026-02-06T08:00:55.910011",
+      "episode_id": "ab0532ee22b7d7e1"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-06T04:14:54.160633"
+  "last_updated": "2026-02-06T08:00:55.910001"
 }
