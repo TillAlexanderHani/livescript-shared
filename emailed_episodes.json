@@ -6614,8 +6614,29 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2026-02-06T11:44:28.626400",
       "episode_id": "096e371ef52e51e8"
+    },
+    "50ffc198dca68a30": {
+      "url": "https://mcdn.podbean.com/mf/web/y2yxzvj26uazyzc7/260206AARFXMW.mp3",
+      "title": "Global FX: RBA, JP elections, euro/APAC rotation, dovish BoE, US data",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-02-06T19:38:10.209490",
+      "episode_id": "50ffc198dca68a30"
+    },
+    "8306c540745c46cc": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/22fb06b4-2d53-4d30-995b-d19b729c9d6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=22fb06b4-2d53-4d30-995b-d19b729c9d6b&feed=tc4zxWgX",
+      "title": "Dow 50k, The Upside-Down AI Trade, and When Will Bitcoin Bottom 2/6/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-02-06T19:50:32.362721",
+      "episode_id": "8306c540745c46cc"
+    },
+    "d0f16ae237edb892": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18635996-new-tricks-for-old-dogs-and-fishing-with-dynamite.mp3",
+      "title": "New tricks for old dogs and 'fishing with dynamite'",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-02-06T20:02:14.464855",
+      "episode_id": "d0f16ae237edb892"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-06T11:44:28.626389"
+  "last_updated": "2026-02-06T20:02:14.464844"
 }
