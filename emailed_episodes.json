@@ -6593,8 +6593,29 @@
       "feed": "The Economics Show",
       "emailed": "2026-02-06T08:00:55.910011",
       "episode_id": "ab0532ee22b7d7e1"
+    },
+    "efeb44615a9b4ae7": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18634474-warsh-and-peace-a-nuanced-market-response-to-the-new-fed-nomination.mp3",
+      "title": "Warsh and peace: a nuanced market response to the new Fed nomination",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-02-06T11:29:21.852235",
+      "episode_id": "efeb44615a9b4ae7"
+    },
+    "d4bbc36d993e8717": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6985a70aba7d04f1d4f79888/media.mp3",
+      "title": "From Frankfurt to Threadneedle Street",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-02-06T11:32:25.650652",
+      "episode_id": "d4bbc36d993e8717"
+    },
+    "096e371ef52e51e8": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/Edited_MH_w_SEAN.mp3?dest-id=1929056",
+      "title": "Ep. 344: Sean McGould on Multi-Strategy Investing, Trump 2.0, and the AI 'Digital Tool' Era",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-02-06T11:44:28.626400",
+      "episode_id": "096e371ef52e51e8"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-06T08:00:55.910001"
+  "last_updated": "2026-02-06T11:44:28.626389"
 }
