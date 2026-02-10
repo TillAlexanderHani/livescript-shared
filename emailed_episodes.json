@@ -6677,8 +6677,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-02-10T04:41:24.035697",
       "episode_id": "27d46311a2a8c643"
+    },
+    "e82d7ce75c715c29": {
+      "url": "https://traffic.megaphone.fm/GLD7098773802.mp3",
+      "title": "Stock Market Shakeout",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-02-10T07:57:11.386861",
+      "episode_id": "e82d7ce75c715c29"
+    },
+    "4d79b5e60f7c1235": {
+      "url": "https://traffic.megaphone.fm/GLD5141768344.mp3",
+      "title": "\u2018Affordability\u2019: Consumer Concerns and Government Proposals",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-02-10T08:01:03.887787",
+      "episode_id": "4d79b5e60f7c1235"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-10T04:41:24.035686"
+  "last_updated": "2026-02-10T08:01:03.887775"
 }
