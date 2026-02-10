@@ -6719,8 +6719,22 @@
       "feed": "Horizontes de Latinoam\u00e9rica (S&P Global)",
       "emailed": "2026-02-10T16:25:05.854168",
       "episode_id": "c4e5405de249d672"
+    },
+    "fa0a41b55cec6501": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d3aebf8b-954c-4109-ad52-f4c9ec9b5216/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d3aebf8b-954c-4109-ad52-f4c9ec9b5216&feed=tc4zxWgX",
+      "title": "Retail Sales Stall,  Apple Bull Case, and Bitcoin Bottom in Sight? 2/10/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-02-10T20:06:31.274179",
+      "episode_id": "fa0a41b55cec6501"
+    },
+    "3e0e2687a87b3057": {
+      "url": "https://mcdn.podbean.com/mf/web/ejbmsudm59ze3du2/Podcast_02-10-26.mp3",
+      "title": "February WASDE: How typical for this time of year?",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-02-10T20:15:19.580718",
+      "episode_id": "3e0e2687a87b3057"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-10T16:25:05.854158"
+  "last_updated": "2026-02-10T20:15:19.580707"
 }
