@@ -6761,8 +6761,22 @@
       "feed": "Planet Money",
       "emailed": "2026-02-11T11:48:35.715362",
       "episode_id": "1cd556cc024786d9"
+    },
+    "f9ae64ee570ee48a": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/451e2d92-7412-473f-94a9-8d078622e718.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Future of North American Trade",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-02-12T04:24:19.531197",
+      "episode_id": "f9ae64ee570ee48a"
+    },
+    "9946d19174884cfb": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/4f3b9a9c-e287-4b9d-a429-3cd0138b911f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=4f3b9a9c-e287-4b9d-a429-3cd0138b911f&feed=tc4zxWgX",
+      "title": "Jobs Report Blowout, Top Tech Picks, and Data Center Tailwinds 2/11/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-02-12T04:30:27.663227",
+      "episode_id": "9946d19174884cfb"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-11T11:48:35.715353"
+  "last_updated": "2026-02-12T04:30:27.663216"
 }
