@@ -6775,8 +6775,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-02-12T04:30:27.663227",
       "episode_id": "9946d19174884cfb"
+    },
+    "6ff84aa32578d291": {
+      "url": "https://traffic.megaphone.fm/GLD8273230736.mp3",
+      "title": "Fundamentals Still Matter: Lone Pine\u2019s David Craver",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-02-12T07:54:01.295058",
+      "episode_id": "6ff84aa32578d291"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-12T04:30:27.663216"
+  "last_updated": "2026-02-12T07:54:01.295046"
 }
