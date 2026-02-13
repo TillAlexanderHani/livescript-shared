@@ -6852,8 +6852,22 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2026-02-13T11:36:31.653055",
       "episode_id": "f15793618e943390"
+    },
+    "25fae97eb0daed4c": {
+      "url": "https://mcdn.podbean.com/mf/web/45nbpp8d2bhfzkg6/AAR_EMFI_13Feb.mp3",
+      "title": "EM Fixed Income: Getting fully back on the EM horse",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-02-13T15:52:17.952831",
+      "episode_id": "25fae97eb0daed4c"
+    },
+    "9b7f1fa48f8db5bb": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18674578-emerging-markets-trade-and-politics.mp3",
+      "title": "Emerging markets, trade and politics",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-02-13T15:54:57.126991",
+      "episode_id": "9b7f1fa48f8db5bb"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-13T11:36:31.653030"
+  "last_updated": "2026-02-13T15:54:57.126980"
 }
