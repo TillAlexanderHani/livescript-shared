@@ -6866,8 +6866,29 @@
       "feed": "NatWest Currency Exchange",
       "emailed": "2026-02-13T15:54:57.126991",
       "episode_id": "9b7f1fa48f8db5bb"
+    },
+    "0dac51ef5ae92c93": {
+      "url": "https://mcdn.podbean.com/mf/web/qsekvzp4a5a3z6x3/AARKCVFEB26.mp3",
+      "title": "Global FX: How much is too much?",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-02-13T19:39:13.203052",
+      "episode_id": "0dac51ef5ae92c93"
+    },
+    "8b0d806bbf0f1f9d": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18676978-pod-sell-america.mp3",
+      "title": "Pod 'sell America'",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-02-13T19:46:05.660114",
+      "episode_id": "8b0d806bbf0f1f9d"
+    },
+    "7772557ef57c15b9": {
+      "url": "https://mcdn.podbean.com/mf/web/hav9x3bh4rx5cu9t/Podcast_02-13-26.mp3",
+      "title": "\"Be mine\" for a Valentine's Cocoa market update",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-02-13T19:51:11.794086",
+      "episode_id": "7772557ef57c15b9"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-13T15:54:57.126980"
+  "last_updated": "2026-02-13T19:51:11.794075"
 }
