@@ -6824,8 +6824,29 @@
       "feed": "Macro Voices",
       "emailed": "2026-02-13T04:38:49.073890",
       "episode_id": "2443c60c6f13c726"
+    },
+    "8aa7e89e981bdd4e": {
+      "url": "https://traffic.megaphone.fm/GLD5987004077.mp3",
+      "title": "\u201cStill Bullish Gold\u201d",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-02-13T07:47:23.721852",
+      "episode_id": "8aa7e89e981bdd4e"
+    },
+    "4c330c46de341ab5": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/805ac339-f7de-4f19-a697-2fe681483550.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "249: Thematic Investing in 2026: AI, Defense, Infrastructure, and the Next Phase of Market Transformation",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2026-02-13T07:53:38.329177",
+      "episode_id": "4c330c46de341ab5"
+    },
+    "860fe6dccf8fe66f": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/698df39a5a0d566e5b967937/media.mp3",
+      "title": "How China is fighting \u2018involution\u2019, with Yanmei Xie",
+      "feed": "The Economics Show",
+      "emailed": "2026-02-13T08:03:15.968545",
+      "episode_id": "860fe6dccf8fe66f"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-13T04:38:49.073879"
+  "last_updated": "2026-02-13T08:03:15.968534"
 }
