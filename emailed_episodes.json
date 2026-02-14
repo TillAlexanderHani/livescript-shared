@@ -6887,8 +6887,43 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2026-02-13T19:51:11.794086",
       "episode_id": "7772557ef57c15b9"
+    },
+    "eb4b6477e30b3375": {
+      "url": "https://mcdn.podbean.com/mf/web/6y5i725hhic8n4v2/AARCommodities021326.mp3",
+      "title": "Global Commodities: Are Commodities the Market\u2019s Crystal Ball?",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-02-14T04:08:29.007538",
+      "episode_id": "eb4b6477e30b3375"
+    },
+    "2cefb146b17acdd4": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/e69964d0-7928-4e1f-8a16-df1968ee51f4.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Why a Tariff Ruling Could Mean Consumer Relief",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-02-14T04:10:09.708923",
+      "episode_id": "2cefb146b17acdd4"
+    },
+    "576ec65a5607d638": {
+      "url": "https://mcdn.podbean.com/mf/web/xi5efk4vmbzf39bm/02132026_MMTVuse.mp3",
+      "title": "Global Data Pod Weekender: Some signal, a lot of noise",
+      "feed": "Global Data Pod",
+      "emailed": "2026-02-14T04:14:03.752714",
+      "episode_id": "576ec65a5607d638"
+    },
+    "fc84fe27c261cb71": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/7bc8990a-23da-4b37-82e2-48b88f9b3c51/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=7bc8990a-23da-4b37-82e2-48b88f9b3c51&feed=tc4zxWgX",
+      "title": "AI Disruption, Nvidia's Shrinking Moat, and \u201cAI-Proof\u201d Trades? 2/13/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-02-14T04:19:49.975420",
+      "episode_id": "fc84fe27c261cb71"
+    },
+    "f5d64130d186bc7a": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488",
+      "title": "Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines",
+      "feed": "Planet Money",
+      "emailed": "2026-02-14T04:28:07.813100",
+      "episode_id": "f5d64130d186bc7a"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-13T19:51:11.794075"
+  "last_updated": "2026-02-14T04:28:07.813089"
 }
