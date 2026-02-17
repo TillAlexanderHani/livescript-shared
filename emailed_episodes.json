@@ -6936,8 +6936,15 @@
       "feed": "Asia Climate Finance Podcast",
       "emailed": "2026-02-17T04:27:18.340437",
       "episode_id": "bb64884434f9dba1"
+    },
+    "78690ee78f2c5241": {
+      "url": "https://traffic.megaphone.fm/GLD8979761182.mp3",
+      "title": "The New AI Trades",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-02-17T07:50:01.260848",
+      "episode_id": "78690ee78f2c5241"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-17T04:27:18.340431"
+  "last_updated": "2026-02-17T07:50:01.260837"
 }
