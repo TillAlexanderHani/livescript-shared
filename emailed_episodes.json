@@ -6964,8 +6964,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-02-17T19:51:35.919929",
       "episode_id": "af09e545d3bfdf4f"
+    },
+    "4e98d9e07796593d": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/4d267e10-1c9f-4d21-b795-a49a2a850e91.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "A Novel Way to Shop Online",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-02-18T04:22:07.188283",
+      "episode_id": "4e98d9e07796593d"
+    },
+    "bba2fd69e0165caa": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/037be662-6100-48b7-afe7-d106fc87350e/audio/84154790-9cc3-4360-ae67-63006f291ff0/default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Techno-Barbarians at the Gate: AI is coming for your operating model with Eren Zekioglu",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2026-02-18T04:37:04.899252",
+      "episode_id": "bba2fd69e0165caa"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-17T19:51:35.919919"
+  "last_updated": "2026-02-18T04:37:04.899242"
 }
