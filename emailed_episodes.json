@@ -7006,8 +7006,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-02-18T19:52:33.740936",
       "episode_id": "55c4afa7560af0cd"
+    },
+    "8323107d1cfc946a": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/033b8098-74b4-4d08-ae55-d291a71b8591.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Political Cost of the AI Buildout",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-02-19T04:19:31.719647",
+      "episode_id": "8323107d1cfc946a"
+    },
+    "ef49ea91358d78d9": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481",
+      "title": "How to get what Greenland has, with permission",
+      "feed": "Planet Money",
+      "emailed": "2026-02-19T04:30:38.884544",
+      "episode_id": "ef49ea91358d78d9"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-18T19:52:33.740926"
+  "last_updated": "2026-02-19T04:30:38.884533"
 }
