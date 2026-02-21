@@ -45,8 +45,6 @@ RSS_FEEDS = {
     "The Emerging Markets Equities Podcast (Aberdeen)": "https://feeds.buzzsprout.com/1632829.rss",
     "Latin America Today (WLRN)": "https://www.wlrn.org/podcast/latin-america-report/rss.xml",
     "Macro Bytes (LATAM Focus)": "https://feeds.buzzsprout.com/1572577.rss",
-    "MoneyChisme - Latino Financial Education": "https://feeds.buzzsprout.com/2042300.rss",
-    "Radio Ambulante": "https://feeds.feedburner.com/radioambulante",
     "Horizontes de Latinoamérica (S&P Global)": "https://feeds.buzzsprout.com/2374938.rss",
     "The GlobalCapital Podcast": "https://feeds.buzzsprout.com/1811593.rss",
     "Standard Chartered Macro Bytes": "https://feeds.buzzsprout.com/1572577.rss",
