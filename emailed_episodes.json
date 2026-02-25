@@ -7216,8 +7216,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-02-25T04:35:21.725519",
       "episode_id": "cff1a1c79f96ac84"
+    },
+    "79bff1c0d6f6553f": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/699e091f123f974082f995ff/media.mp3",
+      "title": "Companies reap $22bn from Trump\u2019s immigration crackdown",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2026-02-25T08:00:09.750160",
+      "episode_id": "79bff1c0d6f6553f"
+    },
+    "8c5ac8e574cc1983": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336",
+      "title": "The ICE hiring boom",
+      "feed": "Planet Money",
+      "emailed": "2026-02-25T08:06:08.880423",
+      "episode_id": "8c5ac8e574cc1983"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-25T04:35:21.725507"
+  "last_updated": "2026-02-25T08:06:08.880411"
 }
