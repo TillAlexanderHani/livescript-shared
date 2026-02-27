@@ -7307,8 +7307,36 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-02-27T04:22:03.022597",
       "episode_id": "151566afdf4105fe"
+    },
+    "9ff52c6d4ca9aedb": {
+      "url": "https://traffic.megaphone.fm/GLD4472240660.mp3",
+      "title": "A New Way to Trade Emerging Markets",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-02-27T07:43:19.204016",
+      "episode_id": "9ff52c6d4ca9aedb"
+    },
+    "6abee3b469553fe7": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69a144169d923e5ce90c9003/media.mp3",
+      "title": "What do Europe and the weather have in common?",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-02-27T07:46:22.787906",
+      "episode_id": "6abee3b469553fe7"
+    },
+    "65df67106059f308": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/29ca1ea8-f4d5-40a2-bdbe-fdc5a9a30954.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "251: The Infrastructure Buildout and the Skilled Trades We\u2019re Missing",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2026-02-27T07:51:21.476407",
+      "episode_id": "65df67106059f308"
+    },
+    "cc41eb572f9e2a7b": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/69a0b464240faaa9b5c2335d/media.mp3",
+      "title": "Could common debt make the EU stronger? With Carlos Cuerpo",
+      "feed": "The Economics Show",
+      "emailed": "2026-02-27T08:00:48.064206",
+      "episode_id": "cc41eb572f9e2a7b"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-27T04:22:03.022585"
+  "last_updated": "2026-02-27T08:00:48.064195"
 }
