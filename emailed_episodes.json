@@ -7335,8 +7335,29 @@
       "feed": "The Economics Show",
       "emailed": "2026-02-27T08:00:48.064206",
       "episode_id": "cc41eb572f9e2a7b"
+    },
+    "596856891a2dba57": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18752989-what-to-make-of-the-us-tariff-decision.mp3",
+      "title": "What to make of the US tariff decision?",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-02-27T11:28:44.858922",
+      "episode_id": "596856891a2dba57"
+    },
+    "0c35137dbd52737e": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Deme-podcast-Geert.mp3?dest-id=1534493",
+      "title": "From Complexity to Clarity: DEME's Evolving Treasury Journey",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-02-27T11:31:42.537017",
+      "episode_id": "0c35137dbd52737e"
+    },
+    "9d6d86d13e2c32e7": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_GALLARDO_real.mp3?dest-id=1929056",
+      "title": "Ep. 347: Rapha\u00ebl Gallardo on Austrian Economics, Wobbling AI Bubbles, and Trump Risk Parity",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-02-27T11:45:55.515538",
+      "episode_id": "9d6d86d13e2c32e7"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-27T08:00:48.064195"
+  "last_updated": "2026-02-27T11:45:55.515527"
 }
