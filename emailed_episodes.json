@@ -7363,8 +7363,36 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2026-02-27T15:50:57.853625",
       "episode_id": "544cd6461d0cf167"
+    },
+    "c549fbc1ac83a69a": {
+      "url": "https://mcdn.podbean.com/mf/web/gbngqpq5e5mjszas/260227AARfxmw_KAL-1-G78JA5RI.mp3",
+      "title": "Global FX: The dollar & AI, CNY, IEEPA, euro bloc",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-02-27T19:31:29.847024",
+      "episode_id": "c549fbc1ac83a69a"
+    },
+    "5a505b0fe8955639": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/74fe93ed-85df-44e3-8cac-f356e0f6cfa6.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "AI as New Global Power?",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-02-27T19:35:02.839564",
+      "episode_id": "5a505b0fe8955639"
+    },
+    "b3fe373c58c6e975": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/adfd82ba-ba74-4521-8e27-5664d31237a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=adfd82ba-ba74-4521-8e27-5664d31237a1&feed=tc4zxWgX",
+      "title": "Private Credit Concerns, OpenAI's Record Round, and Paramount Wins Warner Bros. 2/27/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-02-27T19:44:19.520751",
+      "episode_id": "b3fe373c58c6e975"
+    },
+    "66d6d9028385aa03": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18761847-abu-dhabi-blue-owl-and-bridging-lenders.mp3",
+      "title": "Abu Dhabi, Blue Owl and bridging lenders",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-02-27T19:51:05.468566",
+      "episode_id": "66d6d9028385aa03"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-02-27T15:50:57.853613"
+  "last_updated": "2026-02-27T19:51:05.468560"
 }
