@@ -7426,8 +7426,15 @@
       "feed": "Goldman Sachs Exchanges",
       "emailed": "2026-03-03T04:17:38.394326",
       "episode_id": "1d637b69a458c62b"
+    },
+    "c449a23c8c0acc30": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/JTT_Accell-Group.mp3?dest-id=1534493",
+      "title": "How Accell Group Built an In-House Bank in Just Three Months",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-03-03T15:54:48.553960",
+      "episode_id": "c449a23c8c0acc30"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-03T04:17:38.394315"
+  "last_updated": "2026-03-03T15:54:48.553950"
 }
