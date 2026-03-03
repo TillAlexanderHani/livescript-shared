@@ -7412,8 +7412,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-03-02T19:44:01.976987",
       "episode_id": "2f3df95096cbbf00"
+    },
+    "40d43242ca639354": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/7dc8af51-8584-4948-86e2-a8ca9fcc6f48.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Risks of Private Credit's Software Exposure",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-03-03T04:14:35.322157",
+      "episode_id": "40d43242ca639354"
+    },
+    "1d637b69a458c62b": {
+      "url": "https://traffic.megaphone.fm/GLD2997013721.mp3",
+      "title": "Oil Market Impacts from Iran",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-03-03T04:17:38.394326",
+      "episode_id": "1d637b69a458c62b"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-02T19:44:01.976977"
+  "last_updated": "2026-03-03T04:17:38.394315"
 }
