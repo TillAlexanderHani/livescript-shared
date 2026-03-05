@@ -7524,8 +7524,29 @@
       "feed": "The Macro Brief (HSBC Global Research)",
       "emailed": "2026-03-05T11:28:56.116633",
       "episode_id": "ae2dc68f1f0584e3"
+    },
+    "c7f24fff8f2084df": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18795103-what-s-happening-in-the-middle-east-and-how-are-markets-affected.mp3",
+      "title": "What's happening in the Middle East, and how are markets affected?",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-03-05T15:59:47.231714",
+      "episode_id": "c7f24fff8f2084df"
+    },
+    "510d3b3432571f99": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/18789845-conflict-in-iran-how-long-will-it-last-and-what-will-be-the-economic-impact.mp3",
+      "title": "Conflict in Iran: how long will it last, and what will be the economic impact?",
+      "feed": "Macro Bytes (LATAM Focus)",
+      "emailed": "2026-03-05T16:08:18.828126",
+      "episode_id": "510d3b3432571f99"
+    },
+    "80b4a16ab2630100": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/69a993e9c2eb2fc3abd6f65e/media.mp3",
+      "title": "Are investors getting the Iran conflict wrong? With Robin Brooks",
+      "feed": "The Economics Show",
+      "emailed": "2026-03-05T16:16:08.091365",
+      "episode_id": "80b4a16ab2630100"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-05T11:28:56.116621"
+  "last_updated": "2026-03-05T16:16:08.091355"
 }
