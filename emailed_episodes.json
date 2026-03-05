@@ -7517,8 +7517,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-03-05T04:21:46.579625",
       "episode_id": "3ba3bbfff4ceceed"
+    },
+    "ae2dc68f1f0584e3": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69a93e0a618d0d8bf7ff407d/media.mp3",
+      "title": "The Middle East: energy and shipping",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-03-05T11:28:56.116633",
+      "episode_id": "ae2dc68f1f0584e3"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-05T04:21:46.579618"
+  "last_updated": "2026-03-05T11:28:56.116621"
 }
