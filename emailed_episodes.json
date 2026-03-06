@@ -7587,8 +7587,22 @@
       "feed": "Macro Trading Floor",
       "emailed": "2026-03-06T15:51:33.885979",
       "episode_id": "8312e5b82f8cc019"
+    },
+    "da1ff1d5b85668c4": {
+      "url": "https://mcdn.podbean.com/mf/web/gjmv6sd26srijzq6/FXMW260306_KAL-1-624J170290pup.mp3",
+      "title": "Global FX: The best escalation and recovery candidates",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-03-06T19:33:19.302968",
+      "episode_id": "da1ff1d5b85668c4"
+    },
+    "0a30505814cd1d0f": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18801808-the-future-of-the-middle-east-bond-market.mp3",
+      "title": "The future of the Middle East bond market",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-03-06T19:41:35.100345",
+      "episode_id": "0a30505814cd1d0f"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-06T15:51:33.885968"
+  "last_updated": "2026-03-06T19:41:35.100334"
 }
