@@ -7601,8 +7601,57 @@
       "feed": "The GlobalCapital Podcast",
       "emailed": "2026-03-06T19:41:35.100345",
       "episode_id": "0a30505814cd1d0f"
+    },
+    "fe12fc2c3d60a5d7": {
+      "url": "https://traffic.megaphone.fm/GLD7196937462.mp3",
+      "title": "New Worries",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-03-07T03:58:26.146055",
+      "episode_id": "fe12fc2c3d60a5d7"
+    },
+    "e6bf7bbfb05d84b4": {
+      "url": "https://mcdn.podbean.com/mf/web/g7tk9d7yqw5tnnnh/AAR_Commodities_Kaneva_3626_KAL-1-5ES67IJM74i77.mp3",
+      "title": "Global Commodities: Oil and Gas Rocked by Conflict",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-03-07T04:01:13.539517",
+      "episode_id": "e6bf7bbfb05d84b4"
+    },
+    "b4737cf8a909fa1d": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/3a81fc65-fa1a-4784-a440-c1b194728e76.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "AI\u2019s $3 Trillion Question: How to Pay the Bill?",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-03-07T04:04:55.781926",
+      "episode_id": "b4737cf8a909fa1d"
+    },
+    "8106af122c53ff6d": {
+      "url": "https://mcdn.podbean.com/mf/web/u3u9jntzcwgeeb4f/KAL-1-EZGV0YJC.mp3",
+      "title": "Global Data Watch Weekender: Pricing in conflict",
+      "feed": "Global Data Pod",
+      "emailed": "2026-03-07T04:10:35.576922",
+      "episode_id": "8106af122c53ff6d"
+    },
+    "7fb9a0298d2956e6": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/226873a2-765d-4338-ac5e-2c12dd059abe/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=226873a2-765d-4338-ac5e-2c12dd059abe&feed=tc4zxWgX",
+      "title": "Oil Rally Strengthens, Labor Market Weakens, and Oracle's Opportunity 3/6/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-03-07T04:20:55.652552",
+      "episode_id": "7fb9a0298d2956e6"
+    },
+    "b47a371de4cfbcf9": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499",
+      "title": "Planet Money vs. the NBA\u2019s tanking problem",
+      "feed": "Planet Money",
+      "emailed": "2026-03-07T04:30:52.004438",
+      "episode_id": "b47a371de4cfbcf9"
+    },
+    "7034530fa87c93f4": {
+      "url": "https://mcdn.podbean.com/mf/web/8tjigxbd6ezquz77/Podcast_03-06-26.mp3",
+      "title": "Latest consumer trends weighing on the food & beverage space",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-03-07T04:35:02.706618",
+      "episode_id": "7034530fa87c93f4"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-06T19:41:35.100334"
+  "last_updated": "2026-03-07T04:35:02.706608"
 }
