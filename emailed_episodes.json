@@ -7664,8 +7664,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-03-09T19:46:14.364121",
       "episode_id": "f6db316d23ec414e"
+    },
+    "d87d1a7907d6da7c": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a58ad0f5-a757-42e6-ba7a-493e5cab06eb.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Reasons for the Bull Market to Resume",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-03-10T04:07:17.942979",
+      "episode_id": "d87d1a7907d6da7c"
+    },
+    "47789b6c6499bb97": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/18614345-ep80-fixed-income-influencing-global-climate-action-with-jo-richardson-anthropocene-fixed-income-institute.mp3",
+      "title": "Ep80 Fixed Income: Influencing Global Climate Action with Jo Richardson, Anthropocene Fixed Income Institute",
+      "feed": "Asia Climate Finance Podcast",
+      "emailed": "2026-03-10T04:14:52.681196",
+      "episode_id": "47789b6c6499bb97"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-09T19:46:14.364109"
+  "last_updated": "2026-03-10T04:14:52.681185"
 }
