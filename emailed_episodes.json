@@ -7699,8 +7699,36 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-03-10T19:44:52.246267",
       "episode_id": "77d54207e6ff89c5"
+    },
+    "0aa893491ae56dba": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/900b26d6-372a-4739-9d9d-43233be3943f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Oil Rally Tests Diversification Strategy",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-03-11T04:08:11.558475",
+      "episode_id": "0aa893491ae56dba"
+    },
+    "946f4ab4ef806971": {
+      "url": "https://traffic.megaphone.fm/GLD7999213609.mp3",
+      "title": "Can Software Survive AI?",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-03-11T04:10:20.796551",
+      "episode_id": "946f4ab4ef806971"
+    },
+    "14992a60b460a0e8": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/69b05dfcc36fc2d58b1a6138/media.mp3",
+      "title": "Wall Street and crypto battle over the future of money",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2026-03-11T04:15:27.054081",
+      "episode_id": "14992a60b460a0e8"
+    },
+    "a577ddcf0424b084": {
+      "url": "https://mcdn.podbean.com/mf/web/hta368utjzmh3myf/Podcast_03-10-26.mp3",
+      "title": "March WASDE: Few changes but pay attention",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-03-11T04:20:35.193027",
+      "episode_id": "a577ddcf0424b084"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-10T19:44:52.246256"
+  "last_updated": "2026-03-11T04:20:35.193014"
 }
