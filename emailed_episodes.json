@@ -7769,8 +7769,15 @@
       "feed": "The Economics Show",
       "emailed": "2026-03-12T07:55:35.487209",
       "episode_id": "b87ad7bb6cd77ad0"
+    },
+    "cd14c7698fa91247": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/69b27282c891dc74e875625b/media.mp3",
+      "title": "The unintended consequences of conflict",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2026-03-12T11:28:07.148119",
+      "episode_id": "cd14c7698fa91247"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-12T07:55:35.487198"
+  "last_updated": "2026-03-12T11:28:07.148107"
 }
