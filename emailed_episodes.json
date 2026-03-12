@@ -7776,8 +7776,29 @@
       "feed": "Under the Banyan Tree (HSBC Global Research)",
       "emailed": "2026-03-12T11:28:07.148119",
       "episode_id": "cd14c7698fa91247"
+    },
+    "3298d7d7b073e7f3": {
+      "url": "https://mcdn.podbean.com/mf/web/ykykbpc6wbyasve2/260312AAREM.mp3",
+      "title": "EM Fixed Income: Assessing the situation and path ahead for EM in Week 2 of the Middle East conflict",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-03-12T19:40:27.866548",
+      "episode_id": "3298d7d7b073e7f3"
+    },
+    "f4276b9e64611190": {
+      "url": "https://mcdn.podbean.com/mf/web/2gxpa962uddc29jk/260312GDP_Nora_KAL-1-HUO215MD.mp3",
+      "title": "Global Data Pod Research Rap: Inflation Monitor",
+      "feed": "Global Data Pod",
+      "emailed": "2026-03-12T19:46:33.168416",
+      "episode_id": "f4276b9e64611190"
+    },
+    "85c2410be36ba48e": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/mcnmc9zsdfwkkb8u/MacroVoices-2026-03-12-Jim-Bianco.mp3",
+      "title": "MacroVoices #523 Jim Bianco: Energy, FED & Economy in the wake of Iran conflict",
+      "feed": "Macro Voices",
+      "emailed": "2026-03-12T20:09:33.479619",
+      "episode_id": "85c2410be36ba48e"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-12T11:28:07.148107"
+  "last_updated": "2026-03-12T20:09:33.479612"
 }
