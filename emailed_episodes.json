@@ -7867,8 +7867,36 @@
       "feed": "Planet Money",
       "emailed": "2026-03-13T16:05:42.686869",
       "episode_id": "8adf3098af12b7fe"
+    },
+    "877a5a01ce9909ff": {
+      "url": "https://mcdn.podbean.com/mf/web/v87d62zcab7yq44m/AAR_Kaneva_13Mar2026aon09.mp3",
+      "title": "Global Commodities: Mind the Metals",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-03-13T19:28:54.639483",
+      "episode_id": "877a5a01ce9909ff"
+    },
+    "9670d55e45e850f9": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/8bbd7550-c898-48b0-a8d0-6590b24b95e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=8bbd7550-c898-48b0-a8d0-6590b24b95e1&feed=tc4zxWgX",
+      "title": "\u201cNo Need to Worry,\u201d Consumer Hide & Seek, \u201cTaming, Not Toppling\u201d 3/13/263/13/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-03-13T19:39:48.511185",
+      "episode_id": "9670d55e45e850f9"
+    },
+    "2360b4196d95d405": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18840831-banks-may-be-shut-but-amazon-delivers.mp3",
+      "title": "Banks may be shut but Amazon delivers",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-03-13T19:48:31.676374",
+      "episode_id": "2360b4196d95d405"
+    },
+    "b4f440c419b2421d": {
+      "url": "https://mcdn.podbean.com/mf/web/b8v5v8yf37u8tydk/Podcast_03-13-26.mp3",
+      "title": "Energy update on a perfectly timed Friday the 13th",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-03-13T19:55:31.370565",
+      "episode_id": "b4f440c419b2421d"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-13T16:05:42.686858"
+  "last_updated": "2026-03-13T19:55:31.370552"
 }
