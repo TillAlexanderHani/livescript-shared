@@ -7825,8 +7825,29 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2026-03-13T04:28:28.795530",
       "episode_id": "e04c6a1c542a39d7"
+    },
+    "98ec5034b9478fdb": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18840156-oil-be-damned-for-energy-markets-but-what-about-fx.mp3",
+      "title": "Oil be damned for energy markets, but what about FX?",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-03-13T11:25:27.044188",
+      "episode_id": "98ec5034b9478fdb"
+    },
+    "d1d4ff4b59902f89": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69b3d9225668adfee6700f42/media.mp3",
+      "title": "LatAm\u2019s moment?",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-03-13T11:27:32.327581",
+      "episode_id": "d1d4ff4b59902f89"
+    },
+    "e051e25edddfa79d": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_ITALYM.mp3?dest-id=1929056",
+      "title": "Ep. 349: Nader Itayim on Iran's Regional War, the Hormuz Choke Point, and Global Energy Disruption",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-03-13T11:39:56.450771",
+      "episode_id": "e051e25edddfa79d"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-13T04:28:28.795520"
+  "last_updated": "2026-03-13T11:39:56.450760"
 }
