@@ -7923,8 +7923,15 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-03-14T04:37:32.354584",
       "episode_id": "eb0e285d4ef5fd82"
+    },
+    "bbbb62f2c3b5ef02": {
+      "url": "https://traffic.megaphone.fm/GLD8685569865.mp3",
+      "title": "Goldman Sachs International\u2019s Co-CEOs on Europe\u2019s Opportunity, AI, and Market Volatility",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-03-16T16:17:39.763900",
+      "episode_id": "bbbb62f2c3b5ef02"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-14T04:37:32.354574"
+  "last_updated": "2026-03-16T16:17:39.763885"
 }
