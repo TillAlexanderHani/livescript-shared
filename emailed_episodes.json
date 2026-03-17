@@ -7958,8 +7958,22 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2026-03-17T16:13:18.736206",
       "episode_id": "bc6ca48879818500"
+    },
+    "a7fceafc90d4d0ed": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0826_INNO25_Bruno.mp3?dest-id=1534493",
+      "title": "Tokenisation's Tipping Point for Corporate Finance",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-03-17T19:53:36.843365",
+      "episode_id": "a7fceafc90d4d0ed"
+    },
+    "65fc4f15deb3a3b4": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/39a97c85-ea11-4d7f-bfbe-73254d4d0a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=39a97c85-ea11-4d7f-bfbe-73254d4d0a3c&feed=tc4zxWgX",
+      "title": "Private Credit Concerns, Crude's Climb, and Travel Chaos 3/17/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-03-17T20:04:27.009010",
+      "episode_id": "65fc4f15deb3a3b4"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-17T16:13:18.736194"
+  "last_updated": "2026-03-17T20:04:27.008998"
 }
