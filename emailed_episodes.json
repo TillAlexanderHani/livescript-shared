@@ -8028,8 +8028,22 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2026-03-18T16:25:18.057465",
       "episode_id": "edb003d98c227aec"
+    },
+    "63df736d45bd9fe6": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/5cb4d8cb-aa19-4bf5-9009-738cf6448edc/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=5cb4d8cb-aa19-4bf5-9009-738cf6448edc&feed=tc4zxWgX",
+      "title": "The Fed's Next Move, The Iran Timeline, and Food Inflation? 3/18/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-03-18T19:52:56.550704",
+      "episode_id": "63df736d45bd9fe6"
+    },
+    "4c4839acad673042": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/c4134d40-a368-40f9-951c-19100db7146c/group-item/d5004c8a-e0c3-435d-96a1-96821a2e2e44/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Molecule Contagion with Jeff Currie",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2026-03-18T20:05:22.804065",
+      "episode_id": "4c4839acad673042"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-18T16:25:18.057453"
+  "last_updated": "2026-03-18T20:05:22.804055"
 }
