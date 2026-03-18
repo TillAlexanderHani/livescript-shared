@@ -7972,8 +7972,50 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-03-17T20:04:27.009010",
       "episode_id": "65fc4f15deb3a3b4"
+    },
+    "4ba00ab96f876748": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/df2cce54-6b58-4602-9fc6-9d04c3040421.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Japan\u2019s Bull Market Takes Shape",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-03-18T04:28:45.863761",
+      "episode_id": "4ba00ab96f876748"
+    },
+    "ae8e0f82eb218812": {
+      "url": "https://traffic.megaphone.fm/GLD1163757362.mp3",
+      "title": "Emerging Markets: Stirred, But Not Yet Shaken",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-03-18T04:31:59.079922",
+      "episode_id": "ae8e0f82eb218812"
+    },
+    "52b84069c8caa902": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/69b9a178073190d04a905bc3/media.mp3",
+      "title": "Best of: How the diamond industry lost its sparkle",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2026-03-18T04:39:16.688887",
+      "episode_id": "52b84069c8caa902"
+    },
+    "07703a4ddc94e559": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/18647745-ep81-a-roadmap-for-financing-clean-energy-in-southeast-asia-with-dinita-setywati-and-alnie-demoral-ember.mp3",
+      "title": "Ep81 A Roadmap for Financing Clean Energy in Southeast Asia with Dinita Setywati and Alnie Demoral, Ember",
+      "feed": "Asia Climate Finance Podcast",
+      "emailed": "2026-03-18T04:45:26.963479",
+      "episode_id": "07703a4ddc94e559"
+    },
+    "88ac0b9a7c25f2ce": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/69b300c25668adfee6302cad/media.mp3",
+      "title": "Introducing Untold: Opus Dei",
+      "feed": "The Economics Show",
+      "emailed": "2026-03-18T04:47:20.935163",
+      "episode_id": "88ac0b9a7c25f2ce"
+    },
+    "81bf6135ae01be9f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/9e1bbb83-689c-42c6-9513-15405427a3e5/group-item/773a0194-e5fa-4698-a592-0345fc0b646e/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "The Strait of Hormuz and Asia with Tom Reed",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2026-03-18T04:57:20.860726",
+      "episode_id": "81bf6135ae01be9f"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-17T20:04:27.008998"
+  "last_updated": "2026-03-18T04:57:20.860715"
 }
