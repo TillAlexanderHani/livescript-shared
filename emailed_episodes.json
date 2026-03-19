@@ -8070,8 +8070,22 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2026-03-19T16:02:25.486678",
       "episode_id": "1b3628cc5af1381a"
+    },
+    "26afd16f37fcb4a0": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/b2392fc4-f5ea-43d8-933f-215fd7ca3d37/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=b2392fc4-f5ea-43d8-933f-215fd7ca3d37&feed=tc4zxWgX",
+      "title": "Middle East Escalation, Micron's Big Beat, and the Private Credit Exodus 3/19/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-03-19T19:52:10.023114",
+      "episode_id": "26afd16f37fcb4a0"
+    },
+    "93b0a593460a3225": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/e3x29sj2cyqhndd4/MacroVoices-2026-03-19-Simon-White.mp3",
+      "title": "MacroVoices #524 Simon White: War + Inflation = More Inflation",
+      "feed": "Macro Voices",
+      "emailed": "2026-03-19T20:15:24.538787",
+      "episode_id": "93b0a593460a3225"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-19T16:02:25.486668"
+  "last_updated": "2026-03-19T20:15:24.538777"
 }
