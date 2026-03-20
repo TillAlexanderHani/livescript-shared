@@ -8119,8 +8119,29 @@
       "feed": "The Economics Show",
       "emailed": "2026-03-20T07:54:05.786471",
       "episode_id": "fd49e71c1719d687"
+    },
+    "1b566dad3d014627": {
+      "url": "https://mcdn.podbean.com/mf/web/wch7diqxr7wxecwr/AARSwapSpread190326_KAL-1-YXBCA1TC.mp3",
+      "title": "Global Rates: Global DM Swap Spread Outlook",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-03-20T11:24:37.536895",
+      "episode_id": "1b566dad3d014627"
+    },
+    "603f24020a325f77": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69bcff8962f6c66afe8fe9af/media.mp3",
+      "title": "Testing emerging market resilience",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-03-20T11:27:01.323064",
+      "episode_id": "603f24020a325f77"
+    },
+    "767182637bd1e284": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_NADROWSKInew2.mp3?dest-id=1929056",
+      "title": "Ep. 350: Tomasz Nadrowski on China's Mineral War, Western Supply Chain Gaps, and Global Resilience",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-03-20T11:37:41.631985",
+      "episode_id": "767182637bd1e284"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-20T07:54:05.786461"
+  "last_updated": "2026-03-20T11:37:41.631974"
 }
