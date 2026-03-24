@@ -8245,8 +8245,22 @@
       "feed": "Invest Like the Best",
       "emailed": "2026-03-24T11:52:26.568588",
       "episode_id": "644196d9c485feb1"
+    },
+    "83f9f2ec6e6b487c": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/659a791f-f5a3-4cb5-815f-5151fefac550/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=659a791f-f5a3-4cb5-815f-5151fefac550&feed=tc4zxWgX",
+      "title": "Energy Ripples, Databricks Moves into Cybersecurity, and Anthropic vs. the Pentagon 3/24/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-03-24T20:00:57.380727",
+      "episode_id": "83f9f2ec6e6b487c"
+    },
+    "55f9073aa5a7c17e": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/18901076-decoding-peru-s-election-chaos-and-economic-resilience.mp3",
+      "title": "Decoding Peru's Election Chaos and Economic Resilience",
+      "feed": "Horizontes de Latinoam\u00e9rica (S&P Global)",
+      "emailed": "2026-03-24T20:09:57.983164",
+      "episode_id": "55f9073aa5a7c17e"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-24T11:52:26.568576"
+  "last_updated": "2026-03-24T20:09:57.983155"
 }
