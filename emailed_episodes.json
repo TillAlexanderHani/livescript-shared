@@ -8280,8 +8280,15 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-03-25T04:37:56.383312",
       "episode_id": "f9bbc0893a4d6fbc"
+    },
+    "6d65db5f1fec1091": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/5a28a99c-7e6d-467c-aae1-799582a64633/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=5a28a99c-7e6d-467c-aae1-799582a64633&feed=tc4zxWgX",
+      "title": "Chevron's California Warning, AI-Powered Drones, and OpenAI Shutters Sora 3/25/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-03-25T19:47:31.448682",
+      "episode_id": "6d65db5f1fec1091"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-25T04:37:56.383299"
+  "last_updated": "2026-03-25T19:47:31.448670"
 }
