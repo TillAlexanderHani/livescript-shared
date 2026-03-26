@@ -8287,8 +8287,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-03-25T19:47:31.448682",
       "episode_id": "6d65db5f1fec1091"
+    },
+    "b7152211d0630e8e": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/1f74a9e8-b370-4e78-b02c-5167a0fa32fe.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Can Government Action Tame Rising Energy Prices?",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-03-26T04:33:21.190127",
+      "episode_id": "b7152211d0630e8e"
+    },
+    "9e72d018abea763b": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905",
+      "title": "Our BOOK vs. the global supply chain",
+      "feed": "Planet Money",
+      "emailed": "2026-03-26T04:47:17.161981",
+      "episode_id": "9e72d018abea763b"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-25T19:47:31.448670"
+  "last_updated": "2026-03-26T04:47:17.161971"
 }
