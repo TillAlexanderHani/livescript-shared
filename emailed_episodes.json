@@ -8343,8 +8343,15 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2026-03-27T04:41:56.630761",
       "episode_id": "b0c4f05e4e37c3bc"
+    },
+    "e58f2c94ae8c9d8e": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/69c59c9fb99173277184bc4b/media.mp3",
+      "title": "The global economy is Iran\u2019s hostage. Can it be released? With Edward Fishman",
+      "feed": "The Economics Show",
+      "emailed": "2026-03-27T08:07:15.615498",
+      "episode_id": "e58f2c94ae8c9d8e"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-27T04:41:56.630751"
+  "last_updated": "2026-03-27T08:07:15.615492"
 }
