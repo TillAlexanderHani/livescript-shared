@@ -8385,8 +8385,36 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-03-27T16:16:44.893122",
       "episode_id": "95a43c39f78c2bcf"
+    },
+    "ac1a964be3eef4e6": {
+      "url": "https://mcdn.podbean.com/mf/web/j9hmgjni3kux5qcc/AARFXMW260327_KAL-1-Y9P0JBX8.mp3",
+      "title": "Global FX - Feelin \u201822",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-03-27T19:39:38.242349",
+      "episode_id": "ac1a964be3eef4e6"
+    },
+    "e89a87f4ca96144a": {
+      "url": "https://mcdn.podbean.com/mf/web/kp8pqpgwf29e9arn/KAL-1-YHHPOABF.mp3",
+      "title": "Global Data Pod Weekender: That's gonna leave a mark",
+      "feed": "Global Data Pod",
+      "emailed": "2026-03-27T19:48:31.706957",
+      "episode_id": "e89a87f4ca96144a"
+    },
+    "4d5bbca12a6aaefb": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/689ee139-277b-4427-b470-d76c5d586e25/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=689ee139-277b-4427-b470-d76c5d586e25&feed=tc4zxWgX",
+      "title": "Fed's Inflation Battle, the Alphabet Case, and the Memory Meltdown 3/27/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-03-27T19:58:03.738941",
+      "episode_id": "4d5bbca12a6aaefb"
+    },
+    "f52f31935d93028c": {
+      "url": "https://mcdn.podbean.com/mf/web/2jus9cd7ce92zk2h/Podcast_03-27-26.mp3",
+      "title": "Sugar: Mayhem is everywhere",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-03-27T20:06:07.091736",
+      "episode_id": "f52f31935d93028c"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-27T16:16:44.893116"
+  "last_updated": "2026-03-27T20:06:07.091725"
 }
