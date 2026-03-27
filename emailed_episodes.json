@@ -8322,8 +8322,29 @@
       "feed": "Macro Voices",
       "emailed": "2026-03-26T20:23:58.067324",
       "episode_id": "7418218056645b2f"
+    },
+    "7e5be920ce703e65": {
+      "url": "https://traffic.megaphone.fm/GLD3763607273.mp3",
+      "title": "\u201cI\u2019d Rather Be a Bond\u201d",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-03-27T04:33:54.255195",
+      "episode_id": "7e5be920ce703e65"
+    },
+    "9d2a1916e8c6d733": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/c20ba4e2-1dcf-4bfd-b88a-cd1f90374a52.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Why Fed Rate Cuts Could Be Pushed Back",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-03-27T04:37:16.402354",
+      "episode_id": "9d2a1916e8c6d733"
+    },
+    "b0c4f05e4e37c3bc": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/c4399b30-3a1d-42d0-bbf1-0d482b092a5f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "255: The Rise of Private Markets: Access, Liquidity, and Portfolio Diversification",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2026-03-27T04:41:56.630761",
+      "episode_id": "b0c4f05e4e37c3bc"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-26T20:23:58.067314"
+  "last_updated": "2026-03-27T04:41:56.630751"
 }
