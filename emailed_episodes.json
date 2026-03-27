@@ -8350,8 +8350,29 @@
       "feed": "The Economics Show",
       "emailed": "2026-03-27T08:07:15.615498",
       "episode_id": "e58f2c94ae8c9d8e"
+    },
+    "79f6a9ce286defe6": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/18916681-calmed-by-uncertainty.mp3",
+      "title": "Calmed by uncertainty",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-03-27T11:37:47.067309",
+      "episode_id": "79f6a9ce286defe6"
+    },
+    "92f6480f8574e68f": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69c63bf926c1fb9c07b9ebf3/media.mp3",
+      "title": "Shock to the system",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-03-27T11:41:07.434155",
+      "episode_id": "92f6480f8574e68f"
+    },
+    "8fb1a1c5548456b4": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_TYLER.mp3?dest-id=1929056",
+      "title": "Ep. 351: Tyler Goodspeed on Recession Myths, the Reality of Economic Shocks, and Policy Hubris",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-03-27T11:54:28.487405",
+      "episode_id": "8fb1a1c5548456b4"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-03-27T08:07:15.615492"
+  "last_updated": "2026-03-27T11:54:28.487393"
 }
