@@ -8504,8 +8504,15 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-04-01T05:07:35.586408",
       "episode_id": "6392d34202c4a4a3"
+    },
+    "5e6dd5fbcf259c55": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Bruno-Managed-Services.mp3?dest-id=1534493",
+      "title": "Managed Services: A New Operating Model",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-04-01T11:44:14.846291",
+      "episode_id": "5e6dd5fbcf259c55"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-01T05:07:35.586397"
+  "last_updated": "2026-04-01T11:44:14.846281"
 }
