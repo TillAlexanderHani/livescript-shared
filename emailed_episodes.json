@@ -8511,8 +8511,22 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2026-04-01T11:44:14.846291",
       "episode_id": "5e6dd5fbcf259c55"
+    },
+    "1a2b35b434de7577": {
+      "url": "https://mcdn.podbean.com/mf/web/er7tdf379eh4er6u/ME_Dev_Pod_FINAL_1April2026_CFP-PC-11787-09fyg4.mp3",
+      "title": "In Focus: Middle East Conflict",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-04-01T19:58:24.863757",
+      "episode_id": "1a2b35b434de7577"
+    },
+    "d963aac7a00f43e6": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/c0cdbcab-2e49-41c1-92a4-7813ba2d2b4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=c0cdbcab-2e49-41c1-92a4-7813ba2d2b4b&feed=tc4zxWgX",
+      "title": "Nike's Nosedive, Tech's Turnaround, and Gold's Gains 4/1/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-04-01T20:08:08.782358",
+      "episode_id": "d963aac7a00f43e6"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-01T11:44:14.846281"
+  "last_updated": "2026-04-01T20:08:08.782348"
 }
