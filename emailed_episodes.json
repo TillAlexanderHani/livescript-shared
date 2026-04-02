@@ -8553,8 +8553,15 @@
       "feed": "The Economics Show",
       "emailed": "2026-04-02T04:50:55.960626",
       "episode_id": "f4051178cf919154"
+    },
+    "45dff48c821b2ffa": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/69ce1c98ab5d25f9c9a97549/media.mp3",
+      "title": "Asia's financial systems: The Middle East stress test",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2026-04-02T08:05:16.974167",
+      "episode_id": "45dff48c821b2ffa"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-02T04:50:55.960614"
+  "last_updated": "2026-04-02T08:05:16.974156"
 }
