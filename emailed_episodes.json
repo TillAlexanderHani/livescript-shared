@@ -8574,8 +8574,29 @@
       "feed": "Macro Bytes (LATAM Focus)",
       "emailed": "2026-04-02T11:46:48.810304",
       "episode_id": "7eb0367718f3b0e1"
+    },
+    "800bee40320ef741": {
+      "url": "https://mcdn.podbean.com/mf/web/w25vz2rtath34fdf/AARFX260402.mp3",
+      "title": "Global FX: Wary of complacency in FX",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-04-02T16:06:00.090756",
+      "episode_id": "800bee40320ef741"
+    },
+    "05b63d9bcacb8b8f": {
+      "url": "https://traffic.megaphone.fm/GLD3928326355.mp3",
+      "title": "AI Exchanges: Power Problems?",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-04-02T16:09:43.247963",
+      "episode_id": "05b63d9bcacb8b8f"
+    },
+    "2458888225214c69": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/8rc29ugm4prqksj5/MacroVoices-2026-04-02-Matt-Barrie.mp3",
+      "title": "MacroVoices #526 Matt Barrie: Pay To PrAI",
+      "feed": "Macro Voices",
+      "emailed": "2026-04-02T16:26:34.371653",
+      "episode_id": "2458888225214c69"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-02T11:46:48.810294"
+  "last_updated": "2026-04-02T16:26:34.371641"
 }
