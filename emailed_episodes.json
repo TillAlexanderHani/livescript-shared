@@ -8560,8 +8560,22 @@
       "feed": "Under the Banyan Tree (HSBC Global Research)",
       "emailed": "2026-04-02T08:05:16.974167",
       "episode_id": "45dff48c821b2ffa"
+    },
+    "a57242f22b837866": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69ce3080ac25e4bf66f72534/media.mp3",
+      "title": "The dollar bounces back",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-04-02T11:40:36.649107",
+      "episode_id": "a57242f22b837866"
+    },
+    "7eb0367718f3b0e1": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/18939067-how-are-investors-responding-to-the-iran-conflict-with-victoria-scholar-from-interactive-investor.mp3",
+      "title": "How are investors responding to the Iran conflict? \u2013 with Victoria Scholar from interactive investor",
+      "feed": "Macro Bytes (LATAM Focus)",
+      "emailed": "2026-04-02T11:46:48.810304",
+      "episode_id": "7eb0367718f3b0e1"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-02T08:05:16.974156"
+  "last_updated": "2026-04-02T11:46:48.810294"
 }
