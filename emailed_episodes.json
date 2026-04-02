@@ -8525,8 +8525,36 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-04-01T20:08:08.782358",
       "episode_id": "d963aac7a00f43e6"
+    },
+    "6cc2abe0f74c410d": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/56cfd020-5cbf-40ec-b113-d767fd913222.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Oil Markets Ahead: Pricing In More Risk",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-04-02T04:31:32.186553",
+      "episode_id": "6cc2abe0f74c410d"
+    },
+    "172e1b27235a568e": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/01f8bd12-7bcb-44a3-a085-20d223ccdaee.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "256: AI and Bond Markets: How Artificial Intelligence Is Reshaping Fixed Income Investing",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2026-04-02T04:36:05.734560",
+      "episode_id": "172e1b27235a568e"
+    },
+    "2c98eeaf2cc948a5": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620",
+      "title": "Dark times for Cuba\u2019s economic experiment",
+      "feed": "Planet Money",
+      "emailed": "2026-04-02T04:45:41.089533",
+      "episode_id": "2c98eeaf2cc948a5"
+    },
+    "f4051178cf919154": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/69cd48c37d4a54c657dac518/media.mp3",
+      "title": "Economic warfare: lessons from history, with Mark Harrison",
+      "feed": "The Economics Show",
+      "emailed": "2026-04-02T04:50:55.960626",
+      "episode_id": "f4051178cf919154"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-01T20:08:08.782348"
+  "last_updated": "2026-04-02T04:50:55.960614"
 }
