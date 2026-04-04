@@ -8623,8 +8623,29 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2026-04-03T19:45:54.086797",
       "episode_id": "26aaad151649291f"
+    },
+    "8f2fb29ee4e9c7fd": {
+      "url": "https://mcdn.podbean.com/mf/web/rz9be7skspkhqdcn/KAL-1-Y73QIMP5.mp3",
+      "title": "Global Data Pod Weekender: All\u2019s unclear that ends unclear",
+      "feed": "Global Data Pod",
+      "emailed": "2026-04-04T04:21:49.748802",
+      "episode_id": "8f2fb29ee4e9c7fd"
+    },
+    "ab3a827adbb34e4d": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18959793-the-gulf-s-banks-get-ready-for-recession.mp3",
+      "title": "The Gulf\u2019s banks get ready for recession",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-04-04T04:29:37.259754",
+      "episode_id": "ab3a827adbb34e4d"
+    },
+    "3cd8a613518d5e9c": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905",
+      "title": "Reese\u2019s heir vs. chocolate skimpflation",
+      "feed": "Planet Money",
+      "emailed": "2026-04-04T04:38:52.915768",
+      "episode_id": "3cd8a613518d5e9c"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-03T19:45:54.086787"
+  "last_updated": "2026-04-04T04:38:52.915757"
 }
