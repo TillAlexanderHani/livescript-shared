@@ -8714,8 +8714,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-04-08T20:05:23.156465",
       "episode_id": "85cd1fc41a98bcce"
+    },
+    "498c265f83e692ee": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/7150bed3-f863-42f3-9b9d-d5c3fc076620.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "U.S.-Iran Truce: What\u2019s Next?",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-04-09T04:34:15.353719",
+      "episode_id": "498c265f83e692ee"
+    },
+    "2813f829aa7139ef": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/69d6e7ca47ecb945c25c08c3/media.mp3",
+      "title": "How long will the Iran energy shock last? With Chris Giles",
+      "feed": "The Economics Show",
+      "emailed": "2026-04-09T04:42:49.630947",
+      "episode_id": "2813f829aa7139ef"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-08T20:05:23.156454"
+  "last_updated": "2026-04-09T04:42:49.630933"
 }
