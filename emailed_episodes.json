@@ -8812,8 +8812,29 @@
       "feed": "Macro Trading Floor",
       "emailed": "2026-04-10T16:10:46.305636",
       "episode_id": "c42624547fd79a77"
+    },
+    "8338ff67ca9a700f": {
+      "url": "https://mcdn.podbean.com/mf/web/3ud39vrd3r5pkt26/AARFX260410_KAL-1-1O73OKYW.mp3",
+      "title": "Global FX: The beginning of the end?",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-04-10T19:42:35.956825",
+      "episode_id": "8338ff67ca9a700f"
+    },
+    "a680183325efa4f8": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/1fc4b8a9-b500-4549-8575-c276f48415de/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=1fc4b8a9-b500-4549-8575-c276f48415de&feed=tc4zxWgX",
+      "title": "Washington's AI Warning, Sentiment Slump, and The \"Least Ceasefire Ceasefire\" 4/10/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-04-10T19:52:32.718023",
+      "episode_id": "a680183325efa4f8"
+    },
+    "91443da4736ae62d": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/18994612-how-bond-issuers-will-take-advantage-of-iran-ceasefire.mp3",
+      "title": "How bond issuers will take advantage of Iran ceasefire",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-04-10T20:01:56.740421",
+      "episode_id": "91443da4736ae62d"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-10T16:10:46.305624"
+  "last_updated": "2026-04-10T20:01:56.740410"
 }
