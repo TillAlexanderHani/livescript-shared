@@ -8777,8 +8777,29 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2026-04-09T20:44:17.003637",
       "episode_id": "34636e916e0e6060"
+    },
+    "cc94fea9f240e595": {
+      "url": "https://traffic.megaphone.fm/GLD5315174599.mp3",
+      "title": "Big Tech Opportunity",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-04-10T04:46:31.245616",
+      "episode_id": "cc94fea9f240e595"
+    },
+    "08efb97df4f80cc7": {
+      "url": "https://mcdn.podbean.com/mf/web/ffucnssbmhv3774v/KAL-1-JQKSGVYB_AAR_US_rates.mp3",
+      "title": "US Rates - GSIB and Basel III Endgame Update",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-04-10T04:49:29.146060",
+      "episode_id": "08efb97df4f80cc7"
+    },
+    "7356f0f4f3cff23c": {
+      "url": "https://media.casted.us/track/rss.art19.com/episodes/afbfd6ec-d0ed-4dd4-b712-07ea1ad969c3.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "257: Beyond The Magnificent Seven: Discovering Equity Opportunities in The S&P 493",
+      "feed": "BlackRock - The Bid",
+      "emailed": "2026-04-10T04:55:30.449453",
+      "episode_id": "7356f0f4f3cff23c"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-09T20:44:17.003626"
+  "last_updated": "2026-04-10T04:55:30.449443"
 }
