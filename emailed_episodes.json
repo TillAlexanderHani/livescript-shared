@@ -8875,8 +8875,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-04-13T20:11:49.252257",
       "episode_id": "370a27cfc7b9b40c"
+    },
+    "8aae82d7155776c0": {
+      "url": "https://traffic.megaphone.fm/CLS4605449926.mp3?updated=1776112623",
+      "title": "Scott Nolan - SpaceX, Founders Fund, and Rebuilding American Uranium Enrichment - [Invest Like the Best, EP.467]",
+      "feed": "Invest Like the Best",
+      "emailed": "2026-04-14T08:40:10.403888",
+      "episode_id": "8aae82d7155776c0"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-13T20:11:49.252247"
+  "last_updated": "2026-04-14T08:40:10.403877"
 }
