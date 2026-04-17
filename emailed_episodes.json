@@ -9029,8 +9029,43 @@
       "feed": "NatWest Currency Exchange",
       "emailed": "2026-04-17T16:09:32.543779",
       "episode_id": "ab2777fce926a0ce"
+    },
+    "18abe9ad50567e02": {
+      "url": "https://mcdn.podbean.com/mf/web/a64bphak4pcy8rnw/260417AARFX_KAL-1-ZL8UDT2Q.mp3",
+      "title": "Global FX: Cease-fire, the dollar, DM/EM FX impact, IMF round-up",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-04-17T19:57:29.737458",
+      "episode_id": "18abe9ad50567e02"
+    },
+    "64e6cbbc0265677a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/18ec6e51-ba3f-4571-9f77-233b7bdbb9fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=18ec6e51-ba3f-4571-9f77-233b7bdbb9fa&feed=tc4zxWgX",
+      "title": "Markets Rally, Airlines Soar, and Oracle Bounces Back 4/17/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-04-17T20:09:44.520909",
+      "episode_id": "64e6cbbc0265677a"
+    },
+    "c1cab4c140e4721b": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19031905-what-it-takes-to-break-issuance-records-in-volatile-markets.mp3",
+      "title": "What it takes to break issuance records in volatile markets",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-04-17T20:18:27.742825",
+      "episode_id": "c1cab4c140e4721b"
+    },
+    "2e38fc4a7cb3c553": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV8699971128.mp3",
+      "title": "New All-Time Highs Are Here: Now What?",
+      "feed": "Macro Trading Floor",
+      "emailed": "2026-04-17T20:27:35.042433",
+      "episode_id": "2e38fc4a7cb3c553"
+    },
+    "17e800ff510b80af": {
+      "url": "https://mcdn.podbean.com/mf/web/sgn7cu8u5gqwvcdq/podcast_04-17-26.mp3",
+      "title": "Edible oil markets down, hooray!",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-04-17T20:32:18.150219",
+      "episode_id": "17e800ff510b80af"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-17T16:09:32.543767"
+  "last_updated": "2026-04-17T20:32:18.150206"
 }
