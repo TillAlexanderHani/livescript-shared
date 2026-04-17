@@ -9008,8 +9008,15 @@
       "feed": "The Economics Show",
       "emailed": "2026-04-17T05:02:13.768635",
       "episode_id": "b18d73f289e312cc"
+    },
+    "acfc978a76732c52": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69e1cd18d2febdbec9788df6/media.mp3",
+      "title": "Talking points from - HSBC Global Investment Summit",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-04-17T08:28:03.790870",
+      "episode_id": "acfc978a76732c52"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-17T05:02:13.768625"
+  "last_updated": "2026-04-17T08:28:03.790860"
 }
