@@ -9085,8 +9085,22 @@
       "feed": "Planet Money",
       "emailed": "2026-04-18T04:50:29.857274",
       "episode_id": "1ae442d4b48139c4"
+    },
+    "8de981591eda0c95": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/7d8bd1a1-c327-4136-9495-4470bbc3ff4e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=7d8bd1a1-c327-4136-9495-4470bbc3ff4e&feed=tc4zxWgX",
+      "title": "The Exchange 4/20/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-04-20T20:06:37.880708",
+      "episode_id": "8de981591eda0c95"
+    },
+    "cff5f40e96a65610": {
+      "url": "https://www.buzzsprout.com/1833434/episodes/18989611-building-the-financial-rails-between-africa-and-its-diaspora-ope-sonusi-bluum-finance.mp3",
+      "title": "Building the Financial Rails Between Africa and Its Diaspora - Ope Sonusi, Bluum Finance",
+      "feed": "INSEAD Emerging Markets Podcast",
+      "emailed": "2026-04-20T20:15:46.360067",
+      "episode_id": "cff5f40e96a65610"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-18T04:50:29.857263"
+  "last_updated": "2026-04-20T20:15:46.360054"
 }
