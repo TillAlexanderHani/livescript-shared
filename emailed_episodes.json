@@ -9120,8 +9120,22 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2026-04-21T11:56:09.656811",
       "episode_id": "df5d74825bc479b9"
+    },
+    "64a609c5fa1ce128": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/19053548-understanding-colombia-s-upcoming-elections.mp3",
+      "title": "Understanding Colombia's Upcoming Elections",
+      "feed": "Horizontes de Latinoam\u00e9rica (S&P Global)",
+      "emailed": "2026-04-21T16:25:23.556460",
+      "episode_id": "64a609c5fa1ce128"
+    },
+    "a0ab435a48494be0": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/69e7a2acabe143da5b65e2db/media.mp3",
+      "title": "Introducing: The Story of Money",
+      "feed": "The Economics Show",
+      "emailed": "2026-04-21T16:29:07.305828",
+      "episode_id": "a0ab435a48494be0"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-21T11:56:09.656789"
+  "last_updated": "2026-04-21T16:29:07.305816"
 }
