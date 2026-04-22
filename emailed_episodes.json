@@ -9183,8 +9183,29 @@
       "feed": "Macro Bytes (LATAM Focus)",
       "emailed": "2026-04-22T16:22:21.095773",
       "episode_id": "a16d89277dd99150"
+    },
+    "7d6223d3d4d67a5c": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/c0a280bf-c0a0-4689-8b8e-7c38cb924543.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "U.S. Midterms: What Investors Should Watch",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-04-22T20:03:06.815111",
+      "episode_id": "7d6223d3d4d67a5c"
+    },
+    "89576567c1902c15": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/be35d6f4-da4a-4e2d-a0a0-2ff7d186b622/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=be35d6f4-da4a-4e2d-a0a0-2ff7d186b622&feed=tc4zxWgX",
+      "title": "Tech Still Cheap, SpaceX's $60B Deal, and Google's Enterprise Fight 4/22/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-04-22T20:08:47.721778",
+      "episode_id": "89576567c1902c15"
+    },
+    "e4bf26496a483e71": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/1bab006d-0da6-43a1-af4b-719ee3b7bab0/group-item/d53e3afa-64bd-47f7-ba67-ce46a3afe4dc/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Notes from the FT Global Commodities Summit with Paul Chapman",
+      "feed": "The HC Commodities Podcast",
+      "emailed": "2026-04-22T20:17:16.405895",
+      "episode_id": "e4bf26496a483e71"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-22T16:22:21.095763"
+  "last_updated": "2026-04-22T20:17:16.405883"
 }
