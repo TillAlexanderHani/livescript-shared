@@ -9155,8 +9155,15 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2026-04-22T04:52:05.753886",
       "episode_id": "d193b0aa1781fc1b"
+    },
+    "247a8edb60b3d243": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/84058b82-a902-4386-a805-559b5d745329/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=84058b82-a902-4386-a805-559b5d745329&feed=hvWWWzRv&t=podcast&e=nx-s1-5794326&p=510289&d=1785&size=28565926",
+      "title": "Live: Anthropic co-founder on AI and jobs",
+      "feed": "Planet Money",
+      "emailed": "2026-04-22T08:39:00.816162",
+      "episode_id": "247a8edb60b3d243"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-22T04:52:05.753875"
+  "last_updated": "2026-04-22T08:39:00.816151"
 }
