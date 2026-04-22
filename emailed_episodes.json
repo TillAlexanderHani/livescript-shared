@@ -9148,8 +9148,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-04-21T20:12:30.324283",
       "episode_id": "3dc57304bce2f4b2"
+    },
+    "d193b0aa1781fc1b": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/69e7a5dc1e5fb1ae46524cfc/media.mp3",
+      "title": "They are history\u2019s geniuses. But were they any good at investing?",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2026-04-22T04:52:05.753886",
+      "episode_id": "d193b0aa1781fc1b"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-21T20:12:30.324272"
+  "last_updated": "2026-04-22T04:52:05.753875"
 }
