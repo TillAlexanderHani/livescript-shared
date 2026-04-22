@@ -9169,8 +9169,22 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "emailed": "2026-04-22T11:52:18.083982",
       "episode_id": "93eb429fb8638291"
+    },
+    "b091fa7c998076a9": {
+      "url": "https://traffic.megaphone.fm/GLD4206869231.mp3",
+      "title": "Farallon Capital's Nicolas Giauque on Investing for the Long Term",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-04-22T16:16:59.762677",
+      "episode_id": "b091fa7c998076a9"
+    },
+    "a16d89277dd99150": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/19046697-who-is-winning-the-us-china-ai-race.mp3",
+      "title": "Who is winning the US-China AI race?",
+      "feed": "Macro Bytes (LATAM Focus)",
+      "emailed": "2026-04-22T16:22:21.095773",
+      "episode_id": "a16d89277dd99150"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-22T11:52:18.083972"
+  "last_updated": "2026-04-22T16:22:21.095763"
 }
