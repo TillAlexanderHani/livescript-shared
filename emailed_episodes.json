@@ -9295,8 +9295,15 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2026-04-24T12:06:19.699568",
       "episode_id": "ad186765a04eb1c9"
+    },
+    "513c27b8fbfa66f3": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19070138-the-fast-and-the-dubious.mp3",
+      "title": "The fast and the dubious",
+      "feed": "The GlobalCapital Podcast",
+      "emailed": "2026-04-24T16:18:02.663573",
+      "episode_id": "513c27b8fbfa66f3"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-24T12:06:19.699555"
+  "last_updated": "2026-04-24T16:18:02.663562"
 }
