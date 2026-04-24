@@ -9302,8 +9302,29 @@
       "feed": "The GlobalCapital Podcast",
       "emailed": "2026-04-24T16:18:02.663573",
       "episode_id": "513c27b8fbfa66f3"
+    },
+    "dc36a776f512e318": {
+      "url": "https://mcdn.podbean.com/mf/web/9j4vcyp65zf6g9pz/AARFX240426.mp3",
+      "title": "Global FX: De-dollarization, GBP deep-dive, DM central banks",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-04-24T19:49:41.382370",
+      "episode_id": "dc36a776f512e318"
+    },
+    "e57b20706b5a2d79": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/48168ca1-87b9-4a74-9ce4-3306c70b1a96/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=48168ca1-87b9-4a74-9ce4-3306c70b1a96&feed=tc4zxWgX",
+      "title": "DOJ Drops Powell Probe, Big Tech on Deck, and Intel's Gain, AMD's...Gain? 4/24/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-04-24T20:00:22.205689",
+      "episode_id": "e57b20706b5a2d79"
+    },
+    "c1b8e4610d3195fa": {
+      "url": "https://mcdn.podbean.com/mf/web/66jue645iuqwyvvc/podcast_04-24-26.mp3",
+      "title": "Energy & economy update: More on the critical inflection point",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "emailed": "2026-04-24T20:08:55.528528",
+      "episode_id": "c1b8e4610d3195fa"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-24T16:18:02.663562"
+  "last_updated": "2026-04-24T20:08:55.528516"
 }
