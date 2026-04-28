@@ -9379,8 +9379,29 @@
       "feed": "Global Data Pod",
       "emailed": "2026-04-28T17:03:54.364207",
       "episode_id": "48a79486d800acc2"
+    },
+    "ce1aa3ac1ef0f7ef": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/9dc7ed84-e0c5-4730-98c9-c4505160bc78.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "AI\u2019s Next Big Leap",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-04-28T20:13:17.382017",
+      "episode_id": "ce1aa3ac1ef0f7ef"
+    },
+    "5e92999c5fbeaf35": {
+      "url": "https://traffic.megaphone.fm/GLD4093379774.mp3",
+      "title": "How Warsh Could Shape Fed Policy",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-04-28T20:16:39.553192",
+      "episode_id": "5e92999c5fbeaf35"
+    },
+    "a2c2d39148c9ea2f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/de5c02df-79a9-48ce-bac7-1a19b2b3e02f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=de5c02df-79a9-48ce-bac7-1a19b2b3e02f&feed=tc4zxWgX",
+      "title": "OpenAI's Viability, UAE to Exit OPEC, and Climbing Consumer Costs 4/28/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-04-28T20:25:53.128581",
+      "episode_id": "a2c2d39148c9ea2f"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-28T17:03:54.364195"
+  "last_updated": "2026-04-28T20:25:53.128574"
 }
