@@ -9400,8 +9400,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-04-28T20:25:53.128581",
       "episode_id": "a2c2d39148c9ea2f"
+    },
+    "8d0e48a5fbd74949": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/69f0fe82526757e10b613da5/media.mp3",
+      "title": "Hitting the Buffers: The 1873 railway bust that broke one of America\u2019s greatest financiers",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2026-04-29T05:37:55.312161",
+      "episode_id": "8d0e48a5fbd74949"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-28T20:25:53.128574"
+  "last_updated": "2026-04-29T05:37:55.312151"
 }
