@@ -9442,8 +9442,22 @@
       "feed": "Asia Climate Finance Podcast",
       "emailed": "2026-04-30T05:39:12.048959",
       "episode_id": "da340836dafe8ef6"
+    },
+    "242b947f5ba85064": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/69f355c5e1fad0f98ae30a94/media.mp3",
+      "title": "How is China using agentic AI?",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2026-04-30T16:26:58.754567",
+      "episode_id": "242b947f5ba85064"
+    },
+    "95ad9c932f674779": {
+      "url": "https://www.buzzsprout.com/1632829/episodes/19102788-who-s-winning-the-ai-race-and-does-it-matter.mp3",
+      "title": "Who\u2019s winning the AI race \u2013 and does it matter?",
+      "feed": "The Emerging Markets Equities Podcast (Aberdeen)",
+      "emailed": "2026-04-30T16:33:43.321760",
+      "episode_id": "95ad9c932f674779"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-04-30T05:39:12.048951"
+  "last_updated": "2026-04-30T16:33:43.321748"
 }
