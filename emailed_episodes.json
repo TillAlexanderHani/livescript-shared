@@ -9512,8 +9512,22 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2026-05-01T09:10:38.069488",
       "episode_id": "1caf3c138e5bd9d5"
+    },
+    "6065ed274a5d6d1e": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19107822-on-hold-and-holding-off.mp3",
+      "title": "On hold, and holding off",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-05-01T11:55:54.511680",
+      "episode_id": "6065ed274a5d6d1e"
+    },
+    "a7588b6e44108c79": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69f46d4d8466468ab02b19e6/media.mp3",
+      "title": "What will a Warsh Fed look like?",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-05-01T11:59:58.145187",
+      "episode_id": "a7588b6e44108c79"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-01T09:10:38.069477"
+  "last_updated": "2026-05-01T11:59:58.145174"
 }
