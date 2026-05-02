@@ -9568,8 +9568,22 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "emailed": "2026-05-01T20:31:41.682488",
       "episode_id": "a51eb69089a800df"
+    },
+    "51c26038edbc4595": {
+      "url": "https://mcdn.podbean.com/mf/web/97n8w8utmme8kqb7/AAR_Rates050126_KAL-1-VMS7N2IS.mp3",
+      "title": "US Rates - I won\u2019t see you next time",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-05-02T04:58:22.897735",
+      "episode_id": "51c26038edbc4595"
+    },
+    "8e3b47e05b4a2b04": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963",
+      "title": "How to make a BOOK into a bestseller",
+      "feed": "Planet Money",
+      "emailed": "2026-05-02T05:09:32.947207",
+      "episode_id": "8e3b47e05b4a2b04"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-01T20:31:41.682476"
+  "last_updated": "2026-05-02T05:09:32.947195"
 }
