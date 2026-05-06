@@ -9666,8 +9666,15 @@
       "feed": "Planet Money",
       "emailed": "2026-05-06T09:29:49.246923",
       "episode_id": "5f407a0eb24a74fb"
+    },
+    "1e8b6e545ce5c9f8": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0429_SocGen_Digi_Asset.mp3?dest-id=1534493",
+      "title": "When Treasury Meets Digital Assets",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-05-06T12:25:03.081161",
+      "episode_id": "1e8b6e545ce5c9f8"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-06T09:29:49.246912"
+  "last_updated": "2026-05-06T12:25:03.081148"
 }
