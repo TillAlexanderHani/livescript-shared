@@ -9722,8 +9722,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-05-07T17:21:02.977959",
       "episode_id": "b2842f2b3af06709"
+    },
+    "068e70c5bea10a66": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/4d9beff9-951e-47bc-bb0d-a4901207f434/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=4d9beff9-951e-47bc-bb0d-a4901207f434&feed=tc4zxWgX",
+      "title": "Whirlpool's Recession Warning, A Spending Split, and the Burger Battle 5/7/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-05-07T20:19:29.411914",
+      "episode_id": "068e70c5bea10a66"
+    },
+    "4768c5780021f6c1": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/p7quvugtmxpkw9r4/Macrovoices-2026-05-07-Louis-Vincent-Gave.mp3",
+      "title": "MacroVoices #531 Louis-Vincent Gave: Semiconductors, AI & Iran Conflict",
+      "feed": "Macro Voices",
+      "emailed": "2026-05-07T20:37:41.115379",
+      "episode_id": "4768c5780021f6c1"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-07T17:21:02.977947"
+  "last_updated": "2026-05-07T20:37:41.115369"
 }
