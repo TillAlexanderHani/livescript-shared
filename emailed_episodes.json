@@ -9792,8 +9792,22 @@
       "feed": "Macro Hive Conversations",
       "emailed": "2026-05-08T12:33:11.815518",
       "episode_id": "b8a83bf9bba2ee7f"
+    },
+    "08654e5461e5f7d4": {
+      "url": "https://traffic.megaphone.fm/GLD4656548018.mp3?updated=1778246922",
+      "title": "How to Trade Oil Now",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-05-08T16:21:13.087059",
+      "episode_id": "08654e5461e5f7d4"
+    },
+    "4bf066f1646f5591": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV4991518996.mp3",
+      "title": "Macro Investing In A Post-Hormuz World",
+      "feed": "Macro Trading Floor",
+      "emailed": "2026-05-08T16:33:34.114440",
+      "episode_id": "4bf066f1646f5591"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-08T12:33:11.815505"
+  "last_updated": "2026-05-08T16:33:34.114426"
 }
