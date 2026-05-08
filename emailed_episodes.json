@@ -9757,8 +9757,43 @@
       "feed": "BlackRock - The Bid",
       "emailed": "2026-05-08T04:58:49.563318",
       "episode_id": "22ee97c17b8fb1a5"
+    },
+    "bd0c7367fc037f5e": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19145004-sterling-s-resilience-and-china-s-tactical-game.mp3",
+      "title": "Sterling's resilience and China\u2019s tactical game",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-05-08T12:07:04.744932",
+      "episode_id": "bd0c7367fc037f5e"
+    },
+    "0891eccd7345b3c4": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Nordic26_Pod_Master_1.mp3?dest-id=1534493",
+      "title": "The Treasury 360\u00b0 Nordic Debrief: Vibe Coding, Volatility & Finding Value in Collaboration",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "emailed": "2026-05-08T12:10:51.871464",
+      "episode_id": "0891eccd7345b3c4"
+    },
+    "528e458cda196858": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/69fdadfb44cb786b378f3301/media.mp3",
+      "title": "Containers and crude",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-05-08T12:13:57.964862",
+      "episode_id": "528e458cda196858"
+    },
+    "b869197a0ccf36f2": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/69fdc0c9385e8d5e30cfb6aa/media.mp3",
+      "title": "Will AI help the Fed conquer inflation? With Austan Goolsbee",
+      "feed": "The Economics Show",
+      "emailed": "2026-05-08T12:24:42.689292",
+      "episode_id": "b869197a0ccf36f2"
+    },
+    "b8a83bf9bba2ee7f": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_PERRY.mp3?dest-id=1929056",
+      "title": "Ep. 357: Andrew Perry on the Five Pillars of Global Macro, Liquidity, and Australia's Macro Risks",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-05-08T12:33:11.815518",
+      "episode_id": "b8a83bf9bba2ee7f"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-08T04:58:49.563306"
+  "last_updated": "2026-05-08T12:33:11.815505"
 }
