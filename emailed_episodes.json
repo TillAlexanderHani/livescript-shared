@@ -9876,8 +9876,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-05-11T20:35:48.108915",
       "episode_id": "52df6704274751b3"
+    },
+    "dc2d614b177d2c68": {
+      "url": "https://traffic.megaphone.fm/GLD4656548018.mp3?updated=1778531775",
+      "title": "How to Trade Oil Now",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-05-12T05:37:21.069920",
+      "episode_id": "dc2d614b177d2c68"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-11T20:35:48.108904"
+  "last_updated": "2026-05-12T05:37:21.069910"
 }
