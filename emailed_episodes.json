@@ -9925,8 +9925,22 @@
       "feed": "The HC Commodities Podcast",
       "emailed": "2026-05-13T06:11:25.040797",
       "episode_id": "49a81a2702a3866e"
+    },
+    "7f19ff63a651d71a": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a0433c10cdbf0d1ff4d40ec/media.mp3",
+      "title": "US, China and more chocolate cake?",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2026-05-13T09:42:14.850434",
+      "episode_id": "7f19ff63a651d71a"
+    },
+    "de032a6b5cf964af": {
+      "url": "https://traffic.megaphone.fm/CLS3629415437.mp3?updated=1778621552",
+      "title": "Krishna Rao - Anthropic's CFO on Compute, Scaling to $30B ARR, and the Returns to Frontier Intelligence - [Invest Like the Best, EP.471]",
+      "feed": "Invest Like the Best",
+      "emailed": "2026-05-13T09:58:21.016383",
+      "episode_id": "de032a6b5cf964af"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-13T06:11:25.040787"
+  "last_updated": "2026-05-13T09:58:21.016373"
 }
