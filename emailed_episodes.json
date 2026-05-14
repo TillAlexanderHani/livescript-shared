@@ -9981,8 +9981,29 @@
       "feed": "Macro Voices",
       "emailed": "2026-05-14T17:33:36.687848",
       "episode_id": "6963ccc369cbf8ba"
+    },
+    "fc8e0e33fc8fecd5": {
+      "url": "https://mcdn.podbean.com/mf/web/jk97gv6da5wtv67d/AAREM140526_KAL-1-3VT3AT22.mp3",
+      "title": "EM Fixed Income: Inflation pressures and idiosyncratic EMEA EM politics",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-05-14T20:28:08.331528",
+      "episode_id": "fc8e0e33fc8fecd5"
+    },
+    "e75ef50e8fd5fc9e": {
+      "url": "https://mcdn.podbean.com/mf/web/u7h27bqumfzmcfuh/KAL-1-32TB99AI_05142026_MMTVuse.mp3",
+      "title": "Global Data Pod Weekender: Le co\u00fbt de la vie",
+      "feed": "Global Data Pod",
+      "emailed": "2026-05-14T20:36:16.710810",
+      "episode_id": "e75ef50e8fd5fc9e"
+    },
+    "34149ffcd3508a95": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/bd7b6d0c-7bff-47d7-aacf-e2208e9a531a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=bd7b6d0c-7bff-47d7-aacf-e2208e9a531a&feed=tc4zxWgX",
+      "title": "Cerebras Opens for Trading, A Midterm Misstep, and Crypto Clarity 5/14/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-05-14T20:47:01.496563",
+      "episode_id": "34149ffcd3508a95"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-14T17:33:36.687838"
+  "last_updated": "2026-05-14T20:47:01.496551"
 }
