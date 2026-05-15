@@ -10051,8 +10051,22 @@
       "feed": "NatWest Currency Exchange",
       "emailed": "2026-05-15T12:31:13.557668",
       "episode_id": "d739efd4f92b3d06"
+    },
+    "d5b0976070bae3ef": {
+      "url": "https://mcdn.podbean.com/mf/web/a9cqy63yqe78grzv/260515AARGFIMS_KAL-1-1J93ZVW0.mp3",
+      "title": "Global Rates: Energy priced and UK politics drive Bunds and Gilt yields higher",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-05-15T16:56:00.786624",
+      "episode_id": "d5b0976070bae3ef"
+    },
+    "98f5b14368ea44b1": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV9273691869.mp3",
+      "title": "Process, Process, Process",
+      "feed": "Macro Trading Floor",
+      "emailed": "2026-05-15T17:07:38.055722",
+      "episode_id": "98f5b14368ea44b1"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-15T12:31:13.557656"
+  "last_updated": "2026-05-15T17:07:38.055711"
 }
