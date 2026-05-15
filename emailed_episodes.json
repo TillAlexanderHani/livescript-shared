@@ -10002,8 +10002,36 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-05-14T20:47:01.496563",
       "episode_id": "34149ffcd3508a95"
+    },
+    "024963caa1c52229": {
+      "url": "https://traffic.megaphone.fm/GLD3490730936.mp3",
+      "title": "A Tale of Two Markets",
+      "feed": "Goldman Sachs The Markets",
+      "emailed": "2026-05-15T05:53:43.617338",
+      "episode_id": "024963caa1c52229"
+    },
+    "f438cf28871fb2d2": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/7b3fdde4-c2a4-4bae-afc9-5fbe39f0d30c.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Global Growth Faces an Energy Test",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-05-15T05:55:42.881220",
+      "episode_id": "f438cf28871fb2d2"
+    },
+    "30a98ab13e80347f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/18771638-ep84-the-hidden-giant-slashing-cooling-energy-by-70-with-sam-ringwaldt-conry-tech.mp3",
+      "title": "Ep84 The Hidden Giant: Slashing Cooling Energy by 70% with Sam Ringwaldt, Conry Tech",
+      "feed": "Asia Climate Finance Podcast",
+      "emailed": "2026-05-15T06:02:29.989139",
+      "episode_id": "30a98ab13e80347f"
+    },
+    "54fd59544c475589": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a05f813382d6c4030bcc5b2/media.mp3",
+      "title": "Should economics have fewer taboos? With Alvin Roth",
+      "feed": "The Economics Show",
+      "emailed": "2026-05-15T06:06:33.812810",
+      "episode_id": "54fd59544c475589"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-14T20:47:01.496551"
+  "last_updated": "2026-05-15T06:06:33.812799"
 }
