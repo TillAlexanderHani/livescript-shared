@@ -10114,8 +10114,15 @@
       "feed": "At Any Rate Podcast",
       "emailed": "2026-05-18T17:36:14.761086",
       "episode_id": "356d4fe29c84f75c"
+    },
+    "e3b8e6e4d7bb8743": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/1b067434-64d5-4717-b789-2ce16aa08aa5/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=1b067434-64d5-4717-b789-2ce16aa08aa5&feed=tc4zxWgX",
+      "title": "Court Rules Against Musk in Legal Battle with Sam Altman, OpenAI 5/18/26",
+      "feed": "CNBC - The Exchange",
+      "emailed": "2026-05-18T20:30:26.812580",
+      "episode_id": "e3b8e6e4d7bb8743"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-18T17:36:14.761075"
+  "last_updated": "2026-05-18T20:30:26.812565"
 }
