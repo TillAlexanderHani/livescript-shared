@@ -10163,8 +10163,22 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "emailed": "2026-05-20T06:24:24.056495",
       "episode_id": "6406d1312ec1402a"
+    },
+    "96c5142cb65d5bf6": {
+      "url": "https://traffic.megaphone.fm/CLS8755474209.mp3?updated=1779241717",
+      "title": "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]",
+      "feed": "Invest Like the Best",
+      "emailed": "2026-05-20T10:39:05.694440",
+      "episode_id": "96c5142cb65d5bf6"
+    },
+    "516d921f33d4595a": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710",
+      "title": "Vacation and why Americans take so little",
+      "feed": "Planet Money",
+      "emailed": "2026-05-20T10:48:18.260287",
+      "episode_id": "516d921f33d4595a"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-20T06:24:24.056484"
+  "last_updated": "2026-05-20T10:48:18.260272"
 }
