@@ -10142,8 +10142,29 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-05-19T20:32:05.340589",
       "episode_id": "155f9bc7833fb4ea"
+    },
+    "398b664479688fbb": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/dbc48813-b9ca-43e2-89e9-93e4733a698b.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Case for Staying Bullish on Equities",
+      "feed": "Thoughts on the Market",
+      "emailed": "2026-05-20T06:06:13.119024",
+      "episode_id": "398b664479688fbb"
+    },
+    "b7630b32491d3430": {
+      "url": "https://traffic.megaphone.fm/GLD6472289045.mp3",
+      "title": "Can the Asia Equity Rally Continue?",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-05-20T06:11:13.963857",
+      "episode_id": "b7630b32491d3430"
+    },
+    "6406d1312ec1402a": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a0c97990797376c6e180f80/media.mp3",
+      "title": "The deal that put the dollar at the centre of the world",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "emailed": "2026-05-20T06:24:24.056495",
+      "episode_id": "6406d1312ec1402a"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-19T20:32:05.340578"
+  "last_updated": "2026-05-20T06:24:24.056484"
 }
