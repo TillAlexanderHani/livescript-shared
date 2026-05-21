@@ -10212,8 +10212,15 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-05-20T21:11:08.644901",
       "episode_id": "1383b79d5f60e179"
+    },
+    "3837560547717d46": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a0efb1a3bbd73b46e488038/media.mp3",
+      "title": "Rate rises on the radar",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-05-21T13:56:23.646096",
+      "episode_id": "3837560547717d46"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-20T21:11:08.644890"
+  "last_updated": "2026-05-21T13:56:23.646084"
 }
