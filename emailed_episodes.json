@@ -10338,8 +10338,22 @@
       "feed": "Planet Money",
       "emailed": "2026-05-23T05:55:52.931373",
       "episode_id": "a7eab9ada7f4c39e"
+    },
+    "d1cd661d164239d6": {
+      "url": "https://traffic.megaphone.fm/GLD8443591913.mp3",
+      "title": "\u2018Complexity is Our Friend\u2019: James Brocklebank on Advent's Private Equity Strategy",
+      "feed": "Goldman Sachs Exchanges",
+      "emailed": "2026-05-26T13:51:19.807644",
+      "episode_id": "d1cd661d164239d6"
+    },
+    "71e9d19665e7c909": {
+      "url": "https://traffic.megaphone.fm/CLS3936356790.mp3",
+      "title": "Darren Farber on Iran, China, and the Rise of Neoprimes - [Invest Like the Best, EP.474]",
+      "feed": "Invest Like the Best",
+      "emailed": "2026-05-26T14:00:49.498394",
+      "episode_id": "71e9d19665e7c909"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-23T05:55:52.931363"
+  "last_updated": "2026-05-26T14:00:49.498383"
 }
