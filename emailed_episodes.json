@@ -10436,8 +10436,22 @@
       "feed": "Macro Voices",
       "emailed": "2026-05-28T14:51:52.702523",
       "episode_id": "d5326df2882d5037"
+    },
+    "a710b3554349d653": {
+      "url": "https://mcdn.podbean.com/mf/web/mwe6rnx4j458qbww/AAREM28MAY26_KAL-1-EO5J95XA.mp3",
+      "title": "EM Fixed Income: EM resilience amid renewed USD strength and idiosyncratic pitfalls",
+      "feed": "At Any Rate Podcast",
+      "emailed": "2026-05-28T18:19:13.719064",
+      "episode_id": "a710b3554349d653"
+    },
+    "dc4fe25e194d50f0": {
+      "url": "https://mcdn.podbean.com/mf/web/vbz2xawtpqqzu3xa/260528_GDP_Nora_KAL-1-CJ3EL6J2.mp3",
+      "title": "Global Data Pod: Inflation monitor: Energy boosts headline, while core pressures build",
+      "feed": "Global Data Pod",
+      "emailed": "2026-05-28T18:25:45.441815",
+      "episode_id": "dc4fe25e194d50f0"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-28T14:51:52.702510"
+  "last_updated": "2026-05-28T18:25:45.441803"
 }
