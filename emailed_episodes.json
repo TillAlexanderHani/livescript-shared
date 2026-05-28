@@ -10415,8 +10415,22 @@
       "feed": "CNBC - The Exchange",
       "emailed": "2026-05-27T21:17:11.123142",
       "episode_id": "6f2c39517f2422a5"
+    },
+    "73bde72607e0724d": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a17dc0b69630795d87aacec/media.mp3",
+      "title": "Asia remittances: a quiet cost from the Gulf",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "emailed": "2026-05-28T10:52:12.494646",
+      "episode_id": "73bde72607e0724d"
+    },
+    "d71532c9275ec41d": {
+      "url": "https://traffic.megaphone.fm/CLS8547493168.mp3",
+      "title": "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]",
+      "feed": "Invest Like the Best",
+      "emailed": "2026-05-28T11:06:49.100628",
+      "episode_id": "d71532c9275ec41d"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-27T21:17:11.123132"
+  "last_updated": "2026-05-28T11:06:49.100616"
 }
