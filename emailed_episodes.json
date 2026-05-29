@@ -10478,8 +10478,29 @@
       "feed": "The Economics Show",
       "emailed": "2026-05-29T06:23:30.729441",
       "episode_id": "ea4521c08b368ca3"
+    },
+    "70f8eb322a7e4000": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19258268-low-conviction-and-high-volatility-inside-fx-markets-now.mp3",
+      "title": "Low conviction and high volatility: inside FX markets now",
+      "feed": "NatWest Currency Exchange",
+      "emailed": "2026-05-29T10:42:30.908835",
+      "episode_id": "70f8eb322a7e4000"
+    },
+    "3a10d88cf9168f00": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a19527971443cf04af9fb4a/media.mp3",
+      "title": "Future healthcare in focus",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "emailed": "2026-05-29T10:45:34.706488",
+      "episode_id": "3a10d88cf9168f00"
+    },
+    "ba3f77da657219b0": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_WILLER_.mp3?dest-id=1929056",
+      "title": "Ep. 360: Dirk Willer on Trading Global Macro Regimes, the End of QE, and Navigating Equity Bubbles",
+      "feed": "Macro Hive Conversations",
+      "emailed": "2026-05-29T10:58:59.902115",
+      "episode_id": "ba3f77da657219b0"
     }
   },
   "version": "3.0",
-  "last_updated": "2026-05-29T06:23:30.729429"
+  "last_updated": "2026-05-29T10:58:59.902103"
 }
