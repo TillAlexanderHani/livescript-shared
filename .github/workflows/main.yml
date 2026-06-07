@@ -1,152 +1,118 @@
-name: Podcast Pipeline - Fast & Simple
+name: Podcast Pipeline (Claude)
+
 on:
   schedule:
-    # London-optimized schedule: 4h during day, 5h during night
-    - cron: '0 7 * * *'   # 8 AM London time (7 AM UTC)
-    - cron: '0 11 * * *'  # 12 PM London time (11 AM UTC) 
-    - cron: '0 15 * * *'  # 4 PM London time (3 PM UTC)
-    - cron: '0 19 * * *'  # 8 PM London time (7 PM UTC)
-    - cron: '0 2 * * *'   # 3 AM London time (2 AM UTC) - night run
-  
+    # Times are UTC. Europe/Paris = UTC+2 (summer) / UTC+1 (winter).
+    - cron: '0 5 * * *'    # DIGEST  — ~07:00 Paris: send the daily brief
+    - cron: '0 9 * * *'    # collect
+    - cron: '0 13 * * *'   # collect
+    - cron: '0 17 * * *'   # collect
+    - cron: '0 21 * * *'   # collect
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Run mode'
+        type: choice
+        default: 'digest'
+        options: [digest, collect, both]
 
 permissions:
   contents: write
 
 concurrency:
   group: podcast-pipeline-singleton
-  cancel-in-progress: false  # Queue runs instead of canceling
+  cancel-in-progress: false   # queue runs instead of cancelling
 
 jobs:
   process-podcasts:
     runs-on: ubuntu-latest
-    timeout-minutes: 360  # 6 hours maximum (GitHub limit)
-    
+    timeout-minutes: 350
     steps:
-    - uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 1
-        
-    - name: Run Check
-      id: duplicate_check
-      run: |
-        # All runs proceed - duplicate prevention handled by Python code
-        echo "Proceeding with ${{ github.event_name }} run"
-        echo "Time: $(date -u '+%Y-%m-%d %H:%M UTC')"
-        echo "action=run" >> $GITHUB_OUTPUT
-        
-    - name: Setup Python
-      if: steps.duplicate_check.outputs.action == 'run'
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
-        cache: 'pip'
-        
-    - name: Install Dependencies (Minimal)
-      if: steps.duplicate_check.outputs.action == 'run'
-      run: |
-        sudo apt-get update -qq
-        sudo apt-get install -y ffmpeg --no-install-recommends
-        
-        pip install --upgrade pip
-        pip install "numpy<2.0" torch==1.13.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-        pip install openai-whisper==20231117 feedparser==6.0.10 requests==2.31.0 python-dateutil==2.8.2
-        
-    - name: Initialize JSON Database
-      if: steps.duplicate_check.outputs.action == 'run'
-      run: |
-        # Fix corrupted JSON file
-        if [ -f "emailed_episodes.json" ]; then
-          FILE_SIZE=$(wc -c < emailed_episodes.json)
-          if [ $FILE_SIZE -lt 10 ]; then
-            echo "Fixing corrupted JSON file ($FILE_SIZE bytes)"
-            echo '{"episodes": {}, "version": "1.0"}' > emailed_episodes.json
-          fi
-          
-          # Validate JSON structure
-          if ! python -c "import json; json.load(open('emailed_episodes.json'))" 2>/dev/null; then
-            echo "Fixing invalid JSON structure"
-            echo '{"episodes": {}, "version": "1.0"}' > emailed_episodes.json
-          fi
-        else
-          echo "Creating new JSON database"
-          echo '{"episodes": {}, "version": "1.0"}' > emailed_episodes.json
-        fi
-        
-        # Show current database stats
-        EPISODE_COUNT=$(python -c "import json; data=json.load(open('emailed_episodes.json')); print(len(data.get('episodes', {})))" 2>/dev/null || echo "0")
-        echo "Current database contains $EPISODE_COUNT processed episodes"
-        
-    - name: Run Pipeline
-      if: steps.duplicate_check.outputs.action == 'run'
-      env:
-        MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
-        EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-        EMAIL_TO: ${{ secrets.EMAIL_TO }}
-        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-      run: |
-        mkdir -p downloads transcripts
-        echo "Starting pipeline at $(date -u '+%Y-%m-%d %H:%M UTC')..."
-        
-        # Run the pipeline
-        python podcast_shared_live_5.py
-        
-        echo "Pipeline completed at $(date -u '+%Y-%m-%d %H:%M UTC')"
-        
-    - name: Commit Changes
-      if: steps.duplicate_check.outputs.action == 'run'
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        
-        # Pull latest changes first to avoid conflicts
-        git pull origin main --rebase || true
-        
-        if [ -f "emailed_episodes.json" ]; then
-          FILE_SIZE=$(wc -c < emailed_episodes.json)
-          echo "Database file size: $FILE_SIZE bytes"
-          
-          if [ $FILE_SIZE -gt 50 ]; then  # File has real content
-            # Validate JSON before committing
-            if python -c "import json; json.load(open('emailed_episodes.json'))" 2>/dev/null; then
-              # Check if there are actual changes
-              if git diff --quiet emailed_episodes.json; then
-                echo "No changes to commit - database unchanged"
-              else
-                git add emailed_episodes.json
-                git commit -m "Update podcast database [$(date -u '+%Y-%m-%d %H:%M UTC')] - Run type: ${{ github.event_name }}"
-                git push
-                echo "Database updated and committed successfully"
-              fi
-            else
-              echo "Invalid JSON detected - not committing corrupted data"
-            fi
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Determine run mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MODE="${{ inputs.mode }}"
+          elif [ "${{ github.event.schedule }}" = "0 5 * * *" ]; then
+            MODE="digest"
           else
-            echo "Database file too small - likely corrupted, not committing"
+            MODE="collect"
           fi
-        else
-          echo "Database file missing - nothing to commit"
-        fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
-    - name: Status Report
-      if: always()
-      run: |
-        echo "=== WORKFLOW SUMMARY ==="
-        echo "Trigger: ${{ github.event_name }}"
-        echo "Action taken: ${{ steps.duplicate_check.outputs.action || 'unknown' }}"
-        echo "Run time: $(date -u '+%Y-%m-%d %H:%M UTC')"
-        
-        if [ "${{ steps.duplicate_check.outputs.action }}" == "skip" ]; then
-          echo "Run was SKIPPED due to recent activity"
-          echo "To force a run, use 'Run workflow' button (manual dispatch)"
-        else
-          echo "Run was EXECUTED"
-        fi
-        
-        # Clean up temporary files
-        rm -f pipeline.lock *.tmp downloads/* transcripts/* 2>/dev/null || true
-        
-        echo "=== END SUMMARY ==="
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+          echo "Run mode: $MODE  (trigger: ${{ github.event_name }})"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Install system + Python deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg --no-install-recommends
+          pip install --upgrade pip
+          pip install "numpy<2.0" torch==1.13.1 torchvision torchaudio \
+            --index-url https://download.pytorch.org/whl/cpu
+          pip install openai-whisper==20231117 feedparser==6.0.10 \
+            requests==2.31.0 python-dateutil==2.8.2
+
+      - name: Ensure state files exist
+        run: |
+          [ -f emailed_episodes.json ] || echo '{"version":"4.0","episodes":{}}' > emailed_episodes.json
+          python -c "import json; json.load(open('emailed_episodes.json'))" \
+            || echo '{"version":"4.0","episodes":{}}' > emailed_episodes.json
+          [ -f pending_digest.json ] || echo '{"episodes":[],"last_digest_date":null}' > pending_digest.json
+          python -c "import json; json.load(open('pending_digest.json'))" \
+            || echo '{"episodes":[],"last_digest_date":null}' > pending_digest.json
+
+      - name: Run pipeline
+        env:
+          RUN_MODE: ${{ steps.mode.outputs.mode }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        run: |
+          mkdir -p downloads
+          echo "Starting ($RUN_MODE) at $(date -u '+%F %H:%M UTC')"
+          python podcast_pipeline.py
+          echo "Done at $(date -u '+%F %H:%M UTC')"
+
+      - name: Commit state
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin main --rebase || true
+          CHANGED=0
+          for f in emailed_episodes.json pending_digest.json; do
+            if [ -f "$f" ] && python -c "import json; json.load(open('$f'))" 2>/dev/null; then
+              if ! git diff --quiet "$f"; then
+                git add "$f"; CHANGED=1
+              fi
+            fi
+          done
+          if [ "$CHANGED" = "1" ]; then
+            git commit -m "Update state [$(date -u '+%F %H:%M UTC')] - ${{ steps.mode.outputs.mode }}"
+            git push
+            echo "State committed."
+          else
+            echo "No state changes to commit."
+          fi
+
+      - name: Cleanup
+        if: always()
+        run: rm -rf downloads *.tmp 2>/dev/null || true
