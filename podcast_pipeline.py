@@ -142,6 +142,7 @@ CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "")  # empty = Claude Code default (Son
 RUN_MODE = os.getenv("RUN_MODE", "collect").strip().lower()
 MAX_RECENT_DAYS = int(os.getenv("MAX_RECENT_DAYS", "5"))
 EPISODES_PER_FEED = int(os.getenv("EPISODES_PER_FEED", "1"))
+MAX_EPISODES_PER_RUN = int(os.getenv("MAX_EPISODES_PER_RUN", "0"))  # 0 = unlimited (quota guard)
 MAX_TRANSCRIPT_CHARS = int(os.getenv("MAX_TRANSCRIPT_CHARS", "120000"))  # safety cap (~30k tok)
 PARIS_TZ = timezone(timedelta(hours=2))  # Europe/Paris summer; display only
 
@@ -435,6 +436,9 @@ Transcription :
         total = len(feeds)
         new_count = 0
         for i, (feed_name, feed_url) in enumerate(feeds, 1):
+            if MAX_EPISODES_PER_RUN and new_count >= MAX_EPISODES_PER_RUN:
+                logger.info(f"Reached MAX_EPISODES_PER_RUN={MAX_EPISODES_PER_RUN}, stopping collection")
+                break
             logger.info(f"[{i}/{total}] Checking: {feed_name}")
             try:
                 feed = feedparser.parse(feed_url)
@@ -443,6 +447,8 @@ Transcription :
                     continue
                 provider = self.extract_provider(feed, feed_name)
                 for entry in feed.entries[:EPISODES_PER_FEED]:
+                    if MAX_EPISODES_PER_RUN and new_count >= MAX_EPISODES_PER_RUN:
+                        break
                     title = entry.title
                     if not self.is_recent(entry.get("published", "Unknown")):
                         logger.info(f"Skip old: {title}")
