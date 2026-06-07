@@ -64,6 +64,17 @@ jobs:
       - name: Install Claude Code
         run: npm install -g @anthropic-ai/claude-code
 
+      - name: Claude auth check
+        continue-on-error: true
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          echo "Token set: ${CLAUDE_CODE_OAUTH_TOKEN:+yes}${CLAUDE_CODE_OAUTH_TOKEN:-NO}"
+          echo "Token prefix: ${CLAUDE_CODE_OAUTH_TOKEN:0:12}"
+          claude --version || true
+          echo "--- print test (stdout+stderr) ---"
+          claude -p "Reply with exactly: PING_OK" --output-format text; echo "rc=$?"
+
       - name: Install system + Python deps
         run: |
           sudo apt-get update -qq

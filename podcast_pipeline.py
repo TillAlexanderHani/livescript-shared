@@ -301,7 +301,8 @@ class PodcastPipeline:
                 res = subprocess.run(cmd, capture_output=True, text=True,
                                      timeout=600, env=os.environ)
                 if res.returncode != 0:
-                    logger.error(f"claude CLI rc={res.returncode}: {res.stderr[:300]}")
+                    err = (res.stderr or "").strip() or (res.stdout or "").strip()
+                    logger.error(f"claude CLI rc={res.returncode}: {err[:500]}")
                     time.sleep(RETRY_DELAY)
                     continue
                 parsed = self._parse_claude_json(res.stdout)
@@ -435,9 +436,10 @@ Transcription :
         feeds = list(RSS_FEEDS.items())
         total = len(feeds)
         new_count = 0
+        attempts = 0
         for i, (feed_name, feed_url) in enumerate(feeds, 1):
-            if MAX_EPISODES_PER_RUN and new_count >= MAX_EPISODES_PER_RUN:
-                logger.info(f"Reached MAX_EPISODES_PER_RUN={MAX_EPISODES_PER_RUN}, stopping collection")
+            if MAX_EPISODES_PER_RUN and attempts >= MAX_EPISODES_PER_RUN:
+                logger.info(f"Reached MAX_EPISODES_PER_RUN={MAX_EPISODES_PER_RUN} attempts, stopping collection")
                 break
             logger.info(f"[{i}/{total}] Checking: {feed_name}")
             try:
@@ -447,7 +449,7 @@ Transcription :
                     continue
                 provider = self.extract_provider(feed, feed_name)
                 for entry in feed.entries[:EPISODES_PER_FEED]:
-                    if MAX_EPISODES_PER_RUN and new_count >= MAX_EPISODES_PER_RUN:
+                    if MAX_EPISODES_PER_RUN and attempts >= MAX_EPISODES_PER_RUN:
                         break
                     title = entry.title
                     if not self.is_recent(entry.get("published", "Unknown")):
@@ -461,6 +463,7 @@ Transcription :
                         logger.info(f"Already processed: {title}")
                         continue
                     logger.info(f"NEW: {title}")
+                    attempts += 1
                     if self.process_episode(entry, audio_url, feed_name, provider):
                         new_count += 1
             except Exception as e:
