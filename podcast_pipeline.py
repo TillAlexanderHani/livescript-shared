@@ -87,6 +87,17 @@ RSS_FEEDS = {
     "Money Talks (The Economist)": "https://access.acast.com/rss/39fc4a99-8861-437d-81e2-684d13e48f92",
     "The Indicator (Planet Money)": "https://feeds.npr.org/510325/podcast.xml",
     "The Americas Quarterly Podcast": "https://rss.buzzsprout.com/2066030.rss",
+    # --- Added 2026-06 (round 2): more EM Asia + global macro, RSS verified active ---
+    "Nomura - The Week Ahead": "https://nomurapodcasts.libsyn.com/rss",
+    "Capital Economics Weekly Briefing": "https://feeds.transistor.fm/capital-economics-weekly-briefing",
+    "MERICS China Podcast": "https://rss.buzzsprout.com/1825833.rss",
+    "The China-Global South Podcast": "https://rss.libsyn.com/shows/500733/destinations/4287628.xml",
+    "Financial Times Unhedged": "https://feeds.acast.com/public/shows/6478a825654260001190a7cb",
+    "Reuters Econ World": "https://feeds.megaphone.fm/reuterseconworld",
+    "PIMCO Pod": "https://feeds.megaphone.fm/pimcopod",
+    "BNP Paribas Markets 360": "https://feed.ausha.co/BNAN3TJw1POP",
+    "Talking Markets with Franklin Templeton": "https://rss.libsyn.com/shows/107803/destinations/584964.xml",
+    "IMF Podcasts": "https://rss.libsyn.com/shows/78322/destinations/355221.xml",
 }
 
 PROVIDER_MAPPINGS = {
@@ -128,6 +139,16 @@ PROVIDER_MAPPINGS = {
     "Money Talks (The Economist)": "The Economist",
     "The Indicator (Planet Money)": "NPR",
     "The Americas Quarterly Podcast": "Americas Quarterly",
+    "Nomura - The Week Ahead": "Nomura",
+    "Capital Economics Weekly Briefing": "Capital Economics",
+    "MERICS China Podcast": "MERICS",
+    "The China-Global South Podcast": "China-Global South Project",
+    "Financial Times Unhedged": "Financial Times",
+    "Reuters Econ World": "Reuters",
+    "PIMCO Pod": "PIMCO",
+    "BNP Paribas Markets 360": "BNP Paribas",
+    "Talking Markets with Franklin Templeton": "Franklin Templeton",
+    "IMF Podcasts": "IMF",
 }
 
 # --------------------------------------------------------------------------- #
