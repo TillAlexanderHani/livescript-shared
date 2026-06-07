@@ -320,35 +320,35 @@ class PodcastPipeline:
     @staticmethod
     def _build_prompt(transcript, title, feed, provider):
         prov = f" ({provider})" if provider else ""
-        return f"""Tu es un analyste macro senior qui briefe un trader de devises émergentes.
-Son book : FX Asie (priorité Inde/INR, Philippines/PHP, Indonésie/IDR ; aussi Chine, Corée, Thaïlande, Malaisie) et FX/taux LATAM (priorité Mexique/MXN, Brésil/BRL, Chili/CLP, Colombie/COP, Pérou/PEN).
+        return f"""You are a senior macro analyst briefing an emerging-markets currency trader.
+His book: Asia FX (priority India/INR, Philippines/PHP, Indonesia/IDR; also China, Korea, Thailand, Malaysia) and LATAM FX/rates (priority Mexico/MXN, Brazil/BRL, Chile/CLP, Colombia/COP, Peru/PEN).
 
-Analyse la transcription du podcast ci-dessous et réponds EXCLUSIVEMENT par un objet JSON valide (aucun texte avant/après, pas de balises ```), avec EXACTEMENT ces clés :
+Analyze the podcast transcript below and respond EXCLUSIVELY with a valid JSON object (no text before/after, no ``` fences), with EXACTLY these keys:
 
-- "priority" : entier de 1 à 5. 5 = porte directement sur ses marchés prioritaires (FX/taux/banques centrales Asie EM ou LATAM cités plus haut) ; 3 = macro globale pertinente (Fed, dollar, Chine, pétrole, risk sentiment) ; 1 = hors sujet pour un trader EM FX.
-- "regions" : liste de tags courts des zones/devises traitées, ex. ["Mexique","MXN","Fed"]. Vide si aucune.
-- "summary" : une synthèse en FRANÇAIS, format markdown EXACTEMENT comme suit, dense et actionnable (250-350 mots), sans gras hors titres, sans titres ni puces vides :
+- "priority": integer from 1 to 5. 5 = directly about his priority markets (EM Asia or LATAM FX/rates/central banks listed above); 3 = relevant global macro (Fed, dollar, China, oil, risk sentiment); 1 = off-topic for an EM FX trader.
+- "regions": list of short tags for the areas/currencies covered, e.g. ["Mexico","MXN","Fed"]. Empty if none.
+- "summary": a summary in ENGLISH, markdown format EXACTLY as below, dense and actionable (250-350 words), no bold outside the headers, no empty headers or bullets:
 
-**Synthèse**
-[2-3 phrases : le sujet central et pourquoi ça compte pour un trader EM FX]
+**Summary**
+[2-3 sentences: the central topic and why it matters to an EM FX trader]
 
-**Points clés**
-- [point factuel avec chiffres/contexte précis]
-- [deuxième point]
-- [troisième point]
+**Key points**
+- [factual point with precise figures/context]
+- [second point]
+- [third point]
 
-**Implications FX / taux EM**
-- [implication concrète pour devises ou taux, en priorité Asie/LATAM ; si le podcast n'évoque pas directement l'EM, déduis l'impact via le dollar/la Fed/le risk sentiment]
-- [deuxième implication]
+**FX / EM rates implications**
+- [concrete implication for currencies or rates, prioritising Asia/LATAM; if the podcast does not directly address EM, infer the impact via the dollar/the Fed/risk sentiment]
+- [second implication]
 
-**À surveiller**
-- [catalyseur, donnée ou échéance à suivre]
+**Watch list**
+- [catalyst, data point or deadline to track]
 
-Conserve les tickers, devises et noms propres tels quels. N'invente rien qui n'est pas dans la transcription.
+Keep tickers, currencies and proper nouns as-is. Do not invent anything not in the transcript.
 
-Podcast : {title} — {feed}{prov}
+Podcast: {title} — {feed}{prov}
 
-Transcription :
+Transcript:
 {transcript}"""
 
     @staticmethod
@@ -486,7 +486,7 @@ Transcription :
 
         episodes.sort(key=lambda e: (-e.get("priority", 0), e.get("title", "")))
         html, text = self._render_digest(episodes, today)
-        subject = f"Brief Podcasts Macro — {datetime.now(PARIS_TZ).strftime('%a %d %b %Y')} ({len(episodes)})"
+        subject = f"Morning Macro Brief — {datetime.now(PARIS_TZ).strftime('%a %d %b %Y')} ({len(episodes)})"
 
         if not self._send_email(subject, html, text):
             logger.error("Digest email failed — keeping pending queue for retry")
@@ -530,12 +530,12 @@ margin-bottom:8px;}}
 .listen a{{color:#0ea5e9;text-decoration:none;font-size:13px;font-weight:600;}}
 .footer{{text-align:center;color:#9ca3af;font-size:11px;margin-top:14px;}}
 </style></head><body>
-<div class="top"><h1>Brief Podcasts Macro</h1>
-<div class="sub">{nice_date} · {len(episodes)} épisode(s) · triés par pertinence EM FX</div></div>
+<div class="top"><h1>Morning Macro Brief</h1>
+<div class="sub">{nice_date} · {len(episodes)} episode(s)</div></div>
 {''.join(cards_html)}
-<div class="footer">Généré automatiquement · Synthèses : Claude · Transcription : Whisper</div>
+<div class="footer">Generated automatically · Summaries: Claude · Transcription: Whisper</div>
 </body></html>"""
-        text = (f"BRIEF PODCASTS MACRO — {nice_date} ({len(episodes)} épisodes)\n"
+        text = (f"MORNING MACRO BRIEF — {nice_date} ({len(episodes)} episodes)\n"
                 f"{'=' * 60}\n\n" + "\n\n".join(cards_text))
         return html, text
 
@@ -545,13 +545,13 @@ margin-bottom:8px;}}
                   3: ("#ca8a04", "#fef9c3"), 2: ("#6b7280", "#f3f4f6"),
                   1: ("#9ca3af", "#f9fafb")}
         fg, bg = colors.get(p, colors[3])
-        return f'<span class="prio" style="color:{fg};background:{bg};">PERTINENCE {p}/5</span>'
+        return f'<span class="prio" style="color:{fg};background:{bg};">RELEVANCE {p}/5</span>'
 
     def _episode_card_html(self, ep):
         prov = f" ({ep['provider']})" if ep.get("provider") else ""
         date = self._fmt_date(ep.get("published", ""))
         tags = "".join(f'<span class="tag">{t}</span>' for t in ep.get("regions", [])[:8])
-        listen = (f'<div class="listen"><a href="{ep["url"]}" target="_blank">▶ Écouter l\'épisode</a></div>'
+        listen = (f'<div class="listen"><a href="{ep["url"]}" target="_blank">▶ Listen to episode</a></div>'
                   if ep.get("url") else "")
         return f"""<div class="card">
 {self._prio_badge(ep.get('priority', 3))}
@@ -569,9 +569,9 @@ margin-bottom:8px;}}
         head = (f"[{ep.get('priority', 3)}/5] {ep['title']}\n"
                 f"{ep['feed']}{prov} · {date}\n")
         if tags:
-            head += f"Zones : {tags}\n"
+            head += f"Regions: {tags}\n"
         body = self._summary_to_text(ep["summary"])
-        link = f"\nÉcouter : {ep['url']}" if ep.get("url") else ""
+        link = f"\nListen: {ep['url']}" if ep.get("url") else ""
         return f"{head}{'-' * 50}\n{body}{link}"
 
     @staticmethod
