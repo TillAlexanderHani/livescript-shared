@@ -69,8 +69,10 @@ jobs:
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
-          echo "Token set: ${CLAUDE_CODE_OAUTH_TOKEN:+yes}${CLAUDE_CODE_OAUTH_TOKEN:-NO}"
-          echo "Token prefix: ${CLAUDE_CODE_OAUTH_TOKEN:0:12}"
+          RAW="$CLAUDE_CODE_OAUTH_TOKEN"
+          export CLAUDE_CODE_OAUTH_TOKEN="$(printf '%s' "$RAW" | tr -d '[:space:]')"
+          echo "Token set: ${CLAUDE_CODE_OAUTH_TOKEN:+yes}"
+          echo "Raw length: ${#RAW} | Trimmed length: ${#CLAUDE_CODE_OAUTH_TOKEN}"
           claude --version || true
           echo "--- print test (stdout+stderr) ---"
           claude -p "Reply with exactly: PING_OK" --output-format text; echo "rc=$?"
@@ -104,6 +106,8 @@ jobs:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         run: |
           mkdir -p downloads
+          # Defend against whitespace accidentally pasted into the secret
+          export CLAUDE_CODE_OAUTH_TOKEN="$(printf '%s' "$CLAUDE_CODE_OAUTH_TOKEN" | tr -d '[:space:]')"
           echo "Starting ($RUN_MODE) at $(date -u '+%F %H:%M UTC')"
           python podcast_pipeline.py
           echo "Done at $(date -u '+%F %H:%M UTC')"
