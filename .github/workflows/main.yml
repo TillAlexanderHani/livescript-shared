@@ -53,7 +53,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
           cache: 'pip'
 
       - name: Setup Node
@@ -69,10 +69,10 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y ffmpeg --no-install-recommends
           pip install --upgrade pip
-          pip install "numpy<2.0" torch==1.13.1 torchvision torchaudio \
-            --index-url https://download.pytorch.org/whl/cpu
-          pip install openai-whisper==20231117 feedparser==6.0.10 \
-            requests==2.31.0 python-dateutil==2.8.2
+          # CPU-only torch from the dedicated index (avoids huge CUDA wheels),
+          # then let pip resolve a coherent openai-whisper stack.
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install openai-whisper feedparser requests python-dateutil
 
       - name: Ensure state files exist
         run: |
