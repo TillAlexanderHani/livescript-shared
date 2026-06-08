@@ -10772,8 +10772,29 @@
       "feed": "IMF Podcasts",
       "processed": "2026-06-08T00:19:38.426506+00:00",
       "episode_id": "ad00ffee3575c4e6"
+    },
+    "72e4a0d6969a259b": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/450514c3-2648-49a8-9794-b46000d1738a/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How CoreWeave Sees the Market for Compute Right Now",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-06-08T09:32:29.542983+00:00",
+      "episode_id": "72e4a0d6969a259b"
+    },
+    "885522f803e7287a": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19309965-cut-to-the-chase-isn-t-it-ironic-don-t-you-think-part-2.mp3",
+      "title": "Cut to the Chase! “Isn’t it ironic, don’t you think?” – Part 2",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-08T09:33:50.430487+00:00",
+      "episode_id": "885522f803e7287a"
+    },
+    "b1e5c8fde8a11f8c": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/6382d259-2fe7-46fa-ab5d-c395d62f7b53/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=6382d259-2fe7-46fa-ab5d-c395d62f7b53&feed=IFy3imsg&t=podcast&e=nx-s1-5847846&p=510325&d=525&size=8403575",
+      "title": "The fired labor economist who couldn't get unemployment",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-08T09:35:44.916312+00:00",
+      "episode_id": "b1e5c8fde8a11f8c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-08T00:19:38.426543+00:00"
+  "last_updated": "2026-06-08T09:35:44.916379+00:00"
 }
