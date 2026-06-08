@@ -165,6 +165,7 @@ MAX_RECENT_DAYS = int(os.getenv("MAX_RECENT_DAYS", "5"))
 EPISODES_PER_FEED = int(os.getenv("EPISODES_PER_FEED", "1"))
 MAX_EPISODES_PER_RUN = int(os.getenv("MAX_EPISODES_PER_RUN", "0"))  # 0 = unlimited (quota guard)
 MAX_TRANSCRIPT_CHARS = int(os.getenv("MAX_TRANSCRIPT_CHARS", "120000"))  # safety cap (~30k tok)
+MIN_DIGEST_PRIORITY = int(os.getenv("MIN_DIGEST_PRIORITY", "2"))  # drop priority 1 (non-finance noise)
 PARIS_TZ = timezone(timedelta(hours=2))  # Europe/Paris summer; display only
 
 MAX_RETRIES = 3
@@ -341,31 +342,41 @@ class PodcastPipeline:
     @staticmethod
     def _build_prompt(transcript, title, feed, provider):
         prov = f" ({provider})" if provider else ""
-        return f"""You are a senior macro analyst briefing an emerging-markets currency trader.
-His book: Asia FX (priority India/INR, Philippines/PHP, Indonesia/IDR; also China, Korea, Thailand, Malaysia) and LATAM FX/rates (priority Mexico/MXN, Brazil/BRL, Chile/CLP, Colombia/COP, Peru/PEN).
+        return f"""You are a senior markets/macro analyst writing a Bloomberg-style morning brief for an emerging-markets FX & rates trader. Score relevance generously against his world — cast a WIDE net so nothing market-relevant is missed.
 
-Analyze the podcast transcript below and respond EXCLUSIVELY with a valid JSON object (no text before/after, no ``` fences), with EXACTLY these keys:
+His book:
+- Core EM Asia FX/rates: India/INR, Indonesia/IDR, Philippines/PHP; also China/CNY/CNH, South Korea/KRW, Thailand/THB, Malaysia/MYR, Taiwan/TWD, Singapore/SGD, Vietnam/VND.
+- Core LATAM FX/rates: Mexico/MXN, Brazil/BRL, Chile/CLP, Colombia/COP, Peru/PEN; also Argentina/ARS.
+- Global drivers of EM: the Fed/FOMC, US dollar/DXY, US Treasury yields, ECB/EUR, BoE/GBP, BoJ/JPY, SNB/CHF, PBoC/China; oil & commodities (Brent, WTI, gold, copper, iron ore, gas, agri); global risk sentiment, inflation/CPI, growth/PMIs, trade & tariffs, capital flows, credit spreads, sovereign debt, carry, FX fixings and any central-bank policy anywhere.
 
-- "priority": integer from 1 to 5. 5 = directly about his priority markets (EM Asia or LATAM FX/rates/central banks listed above); 3 = relevant global macro (Fed, dollar, China, oil, risk sentiment); 1 = off-topic for an EM FX trader.
-- "regions": list of short tags for the areas/currencies covered, e.g. ["Mexico","MXN","Fed"]. Empty if none.
-- "summary": a summary in ENGLISH, markdown format EXACTLY as below, dense and actionable (250-350 words), no bold outside the headers, no empty headers or bullets:
+Respond EXCLUSIVELY with a valid JSON object (no text before/after, no ``` fences), with EXACTLY these keys:
+
+- "priority": integer 1-5:
+  5 = directly about his core EM markets above (EM Asia or LATAM FX, rates, central banks, flows, or politics moving those currencies).
+  4 = global macro with strong, direct transmission to EM FX/rates (Fed, USD/DXY, US Treasuries, China, oil/commodities, broad risk-on/off).
+  3 = general markets/finance useful to any macro trader (DM FX EUR/GBP/JPY, equities/S&P 500, credit, sovereign debt, inflation prints, geopolitics moving markets).
+  2 = tangential finance/economics with weak market transmission.
+  1 = NOT about markets, macro, finance, economics or commodities at all (e.g. corporate culture, product launches, careers, sport, lifestyle). Use 1 ONLY for genuinely off-topic episodes.
+
+- "tags": 4-10 short Bloomberg-style market tags that are ACTUALLY discussed. Use: currencies as ISO codes (USD, EUR, JPY, GBP, CNY, INR, IDR, PHP, KRW, THB, MYR, MXN, BRL, CLP, COP, PEN...) and pairs (USDINR, USDMXN); DXY; central banks (Fed, ECB, BoE, BoJ, PBoC, RBI, BI, BSP, BoK, Banxico, BCB, BCCh, BanRep, BCRP); rates (UST 10y, JGB, Bund); commodities (Brent, WTI, Gold, Copper, Iron Ore); indices (S&P 500); themes (Inflation, CPI, Carry, Risk sentiment, Trade, Tariffs, Credit, Fiscal, Elections). Empty list only if genuinely none.
+
+- "summary": English markdown, dense and actionable (200-320 words), no bold outside the headers. Include ONLY sections that have real content — OMIT any section you cannot fill, and NEVER write filler such as "no implications can be inferred", "this episode does not discuss the Fed/dollar", or similar absence statements. Format:
 
 **Summary**
-[2-3 sentences: the central topic and why it matters to an EM FX trader]
+[2-3 sentences: the core topic and why it matters to an EM FX/rates trader]
 
 **Key points**
-- [factual point with precise figures/context]
-- [second point]
-- [third point]
+- [factual point with figures/context]
+- [further points]
 
-**FX / EM rates implications**
-- [concrete implication for currencies or rates, prioritising Asia/LATAM; if the podcast does not directly address EM, infer the impact via the dollar/the Fed/risk sentiment]
-- [second implication]
+**FX / rates implications**
+- [concrete read-through for currencies or rates, prioritising EM Asia/LATAM; if the episode is global, spell out the channel via USD/Fed/risk/commodities]
+- [further implications]
 
 **Watch list**
-- [catalyst, data point or deadline to track]
+- [catalyst, data release, level or deadline to watch]
 
-Keep tickers, currencies and proper nouns as-is. Do not invent anything not in the transcript.
+Keep tickers, currencies and proper nouns as-is. Never invent anything not in the transcript.
 
 Podcast: {title} — {feed}{prov}
 
@@ -393,8 +404,10 @@ Transcript:
                 except Exception:
                     c["priority"] = 3
                 c["priority"] = max(1, min(5, c["priority"]))
-                if not isinstance(c.get("regions"), list):
-                    c["regions"] = []
+                tags = c.get("tags")
+                if not isinstance(tags, list):
+                    tags = c.get("regions") if isinstance(c.get("regions"), list) else []
+                c["tags"] = [str(t).strip() for t in tags if str(t).strip()]
                 return c
         return None
 
@@ -418,18 +431,25 @@ Transcript:
                 logger.error(f"Summary failed: {title}")
                 return False
 
-            self._add_pending({
+            episode = {
                 "title": title,
                 "published": published,
                 "url": audio_url,
                 "feed": feed_name,
                 "provider": provider or "",
                 "priority": summary["priority"],
-                "regions": summary.get("regions", []),
+                "tags": summary.get("tags", []),
                 "summary": summary["summary"],
                 "summarized_at": datetime.now(timezone.utc).isoformat(),
-            })
-            logger.info(f"QUEUED for digest: {title}")
+            }
+            # Always record in the master DB so we never re-transcribe it...
+            self._record_processed(episode)
+            # ...but only queue finance/macro-relevant episodes for the digest.
+            if episode["priority"] >= MIN_DIGEST_PRIORITY:
+                self._queue_pending(episode)
+                logger.info(f"QUEUED for digest (p{episode['priority']}): {title}")
+            else:
+                logger.info(f"Off-topic (p{episode['priority']}), recorded but not queued: {title}")
             return True
         except Exception as e:
             logger.error(f"Error processing {title}: {e}")
@@ -438,19 +458,22 @@ Transcript:
             if os.path.exists(audio_file):
                 os.remove(audio_file)
 
-    def _add_pending(self, episode):
+    def _record_processed(self, episode):
+        """Mark in the master dedup DB so we never re-download/transcribe it."""
         episode_id = hashlib.sha256(episode["url"].encode()).hexdigest()[:16]
-        # mark processed in master DB so we never re-transcribe it
         self.db.setdefault("episodes", {})[episode_id] = {
             "url": episode["url"], "title": episode["title"], "feed": episode["feed"],
             "processed": episode["summarized_at"], "episode_id": episode_id,
         }
         self.db["last_updated"] = datetime.now(timezone.utc).isoformat()
         self.db["version"] = "4.0"
-        self.pending["episodes"].append(episode)
         self.processed_urls.add(episode["url"])
         self.processed_titles.add(episode["title"])
         _atomic_write(EMAILED_DB_FILE, self.db)
+
+    def _queue_pending(self, episode):
+        """Add a relevant episode to the unsent digest queue."""
+        self.pending["episodes"].append(episode)
         _atomic_write(PENDING_FILE, self.pending)
 
     def collect(self):
@@ -495,9 +518,15 @@ Transcript:
 
     # ----- digest email --------------------------------------------------- #
     def send_digest(self):
-        episodes = self.pending["episodes"]
+        # Only send finance/macro-relevant episodes; drop priority-1 noise
+        # (and clear any low-priority leftovers so they don't accumulate).
+        episodes = [e for e in self.pending["episodes"]
+                    if e.get("priority", 3) >= MIN_DIGEST_PRIORITY]
         if not episodes:
-            logger.info("No pending episodes — nothing to send")
+            logger.info("No pending episodes to send")
+            if self.pending["episodes"]:
+                self.pending["episodes"] = []
+                _atomic_write(PENDING_FILE, self.pending)
             return True
 
         today = datetime.now(PARIS_TZ).strftime("%Y-%m-%d")
@@ -571,7 +600,8 @@ margin-bottom:8px;}}
     def _episode_card_html(self, ep):
         prov = f" ({ep['provider']})" if ep.get("provider") else ""
         date = self._fmt_date(ep.get("published", ""))
-        tags = "".join(f'<span class="tag">{t}</span>' for t in ep.get("regions", [])[:8])
+        tag_list = ep.get("tags") or ep.get("regions") or []
+        tags = "".join(f'<span class="tag">{t}</span>' for t in tag_list[:10])
         listen = (f'<div class="listen"><a href="{ep["url"]}" target="_blank">▶ Listen to episode</a></div>'
                   if ep.get("url") else "")
         return f"""<div class="card">
@@ -586,11 +616,11 @@ margin-bottom:8px;}}
     def _episode_card_text(self, ep):
         prov = f" ({ep['provider']})" if ep.get("provider") else ""
         date = self._fmt_date(ep.get("published", ""))
-        tags = ", ".join(ep.get("regions", []))
+        tags = ", ".join(ep.get("tags") or ep.get("regions") or [])
         head = (f"[{ep.get('priority', 3)}/5] {ep['title']}\n"
                 f"{ep['feed']}{prov} · {date}\n")
         if tags:
-            head += f"Regions: {tags}\n"
+            head += f"Tags: {tags}\n"
         body = self._summary_to_text(ep["summary"])
         link = f"\nListen: {ep['url']}" if ep.get("url") else ""
         return f"{head}{'-' * 50}\n{body}{link}"
@@ -671,7 +701,9 @@ margin-bottom:8px;}}
         logger.info(f"Pipeline start — mode={RUN_MODE}, whisper={WHISPER_MODEL}, "
                     f"claude_model={CLAUDE_MODEL or 'default'}")
         start = datetime.now()
-        if RUN_MODE in ("collect", "digest", "both"):
+        # digest = send-only (fast): the overnight collect passes fill the queue,
+        # so the morning email goes out immediately instead of transcribing first.
+        if RUN_MODE in ("collect", "both"):
             self.collect()
         if RUN_MODE in ("digest", "both"):
             self.send_digest()

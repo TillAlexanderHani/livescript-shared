@@ -2,12 +2,21 @@ name: Podcast Pipeline (Claude)
 
 on:
   schedule:
-    # Times are UTC. Europe/Paris = UTC+2 (summer) / UTC+1 (winter).
-    - cron: '0 5 * * *'    # DIGEST  — ~07:00 Paris: send the daily brief
-    - cron: '0 9 * * *'    # collect
-    - cron: '0 13 * * *'   # collect
-    - cron: '0 17 * * *'   # collect
-    - cron: '0 21 * * *'   # collect
+    # Times are UTC. London = UTC+1 (BST, summer) / UTC+0 (GMT, winter).
+    # Odd minutes (:07/:37/:47) dodge GitHub's top-of-hour scheduler congestion,
+    # which routinely delays or drops :00 scheduled runs.
+    #
+    # COLLECT — transcribe + summarize new episodes into the pending queue.
+    - cron: '47 9 * * *'   # ~10:47 London
+    - cron: '47 13 * * *'  # ~14:47 London
+    - cron: '47 17 * * *'  # ~18:47 London
+    - cron: '47 21 * * *'  # ~22:47 London
+    - cron: '47 0 * * *'   # ~01:47 London — last overnight collect
+    #
+    # DIGEST — send-only (fast). Early, with a backup attempt; send_digest is
+    # idempotent (one email per day) so the backup is harmless if the first ran.
+    - cron: '7 4 * * *'    # ~05:07 London — primary digest
+    - cron: '37 4 * * *'   # ~05:37 London — backup digest
   workflow_dispatch:
     inputs:
       mode:
@@ -40,9 +49,10 @@ jobs:
       - name: Determine run mode
         id: mode
         run: |
+          SCHED="${{ github.event.schedule }}"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             MODE="${{ inputs.mode }}"
-          elif [ "${{ github.event.schedule }}" = "0 5 * * *" ]; then
+          elif [ "$SCHED" = "7 4 * * *" ] || [ "$SCHED" = "37 4 * * *" ]; then
             MODE="digest"
           else
             MODE="collect"
