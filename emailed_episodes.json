@@ -10800,8 +10800,36 @@
       "feed": "Standard Chartered India - Money Insights",
       "processed": "2026-06-08T16:55:05.115820+00:00",
       "episode_id": "c945cf6e0c4b8de5"
+    },
+    "91aeea3d11e002ea": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a701a565-6060-4653-a9cf-8f421993f62f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The High Cost of AI Memory",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-06-08T23:07:03.929920+00:00",
+      "episode_id": "91aeea3d11e002ea"
+    },
+    "21b1e447aa329a61": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/ab26d2eb-f5f1-4401-bba1-58c71a012159/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=ab26d2eb-f5f1-4401-bba1-58c71a012159&feed=tc4zxWgX",
+      "title": "Apple’s Big Announcements, The Bull Case for Chips, and Under-the-Radar AI Plays  6/8/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-08T23:14:17.555540+00:00",
+      "episode_id": "21b1e447aa329a61"
+    },
+    "2ad8e93c18906236": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19292213-cut-to-the-chase-the-return-of-capital-raising.mp3",
+      "title": "Cut to the Chase! The return of capital raising",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-08T23:16:33.132050+00:00",
+      "episode_id": "2ad8e93c18906236"
+    },
+    "800c3e0d136b1dc8": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC5854677851.mp3",
+      "title": "Energy Credit Market Returns Reflect Sector Discipline",
+      "feed": "PIMCO Pod",
+      "processed": "2026-06-08T23:18:49.468561+00:00",
+      "episode_id": "800c3e0d136b1dc8"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-08T16:55:05.115860+00:00"
+  "last_updated": "2026-06-08T23:18:49.468604+00:00"
 }
