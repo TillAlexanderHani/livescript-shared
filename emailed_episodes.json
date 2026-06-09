@@ -10828,8 +10828,22 @@
       "feed": "PIMCO Pod",
       "processed": "2026-06-08T23:18:49.468561+00:00",
       "episode_id": "800c3e0d136b1dc8"
+    },
+    "59d3245d5e60b16a": {
+      "url": "https://traffic.megaphone.fm/CLS6537493219.mp3",
+      "title": "Alex Sacerdote - How to Invest Through Technology Cycles - [Invest Like the Best, EP.477]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-06-09T12:35:39.185373+00:00",
+      "episode_id": "59d3245d5e60b16a"
+    },
+    "221fde1386364256": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/b3f0234a-8e62-4074-b319-72ab9cc75739/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=b3f0234a-8e62-4074-b319-72ab9cc75739&feed=IFy3imsg&t=podcast&e=nx-s1-5850410&p=510325&d=566&size=9060607",
+      "title": "U OK, UK?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-09T12:38:59.866123+00:00",
+      "episode_id": "221fde1386364256"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-08T23:18:49.468604+00:00"
+  "last_updated": "2026-06-09T12:38:59.866164+00:00"
 }
