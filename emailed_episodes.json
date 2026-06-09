@@ -10849,8 +10849,22 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-06-09T16:29:46.649542+00:00",
       "episode_id": "8a8e6a7bc4aba7a8"
+    },
+    "36c1e491347ca886": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/2ac3bc46-f7fe-4e8d-bc40-e28ee31eb109/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=2ac3bc46-f7fe-4e8d-bc40-e28ee31eb109&feed=tc4zxWgX",
+      "title": "Wild Stock Swings, The “K” Comes for Housing, and The Evolving Capex Trade 6/9/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-09T19:58:49.604162+00:00",
+      "episode_id": "36c1e491347ca886"
+    },
+    "bf86b24c110a798b": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/19267709-ep86-how-china-is-building-a-global-carbon-market-with-jeff-huang-aex-markets.mp3",
+      "title": "Ep86 How China is Building a Global Carbon Market with Jeff Huang, AEX Markets",
+      "feed": "Asia Climate Finance Podcast",
+      "processed": "2026-06-09T20:04:07.764529+00:00",
+      "episode_id": "bf86b24c110a798b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-09T16:29:46.649588+00:00"
+  "last_updated": "2026-06-09T20:04:07.764572+00:00"
 }
