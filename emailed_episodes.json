@@ -10842,8 +10842,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-06-09T12:38:59.866123+00:00",
       "episode_id": "221fde1386364256"
+    },
+    "8a8e6a7bc4aba7a8": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260608_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead Special Edition – Conversations at NIFA 2026",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-06-09T16:29:46.649542+00:00",
+      "episode_id": "8a8e6a7bc4aba7a8"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-09T12:38:59.866164+00:00"
+  "last_updated": "2026-06-09T16:29:46.649588+00:00"
 }
