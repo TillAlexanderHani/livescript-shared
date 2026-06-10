@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Private Markets at an Inflection Point",
+      "published": "Wed, 10 Jun 2026 12:00:00 -0000",
+      "url": "https://traffic.megaphone.fm/GLD6480023256.mp3",
+      "feed": "Goldman Sachs Exchanges",
+      "provider": "Goldman Sachs",
+      "priority": 2,
+      "tags": [
+        "Private Credit",
+        "Private Equity",
+        "Fed",
+        "Rates",
+        "IPO",
+        "Carry",
+        "Risk sentiment",
+        "Credit",
+        "DPI",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nGoldman Sachs' capital solutions and external investing heads discuss private markets at an inflection point, with the post-2022 rate shock having gummed up the private equity distribution cycle and raised questions about private credit quality. The macro backdrop — elevated rates, geopolitical uncertainty, and the gap between public and private market performance — is the central driver, with cautious optimism around a normalisation in deal activity and distributions over 2026-2028.\n\n**Key points**\n- Private markets grew 6x from post-GFC to 2022; the Fed's ~500bp rate hike stalled activity, with distributions as a share of NAV falling to 8-10% vs. a historical norm of 15-20%.\n- Average buyout hold period has stretched to ~7 years (from ~5.5 years); average venture-to-IPO time is now 14 years, keeping liquidity locked.\n- Private credit default rates remain around 2% (vs. 10%+ in prior stress cycles); retail participation in private credit grew ~60% p.a. over five years and now represents ~20% of the market, with liquidity-mismatch concerns but no systemic credit problem cited.\n- Secondary market volume was ~$250bn in 2025; GS estimates it could reach $500bn over the next 3-5 years.\n- Geopolitics (Middle East conflict) and lingering inflation are identified as the key risks keeping rates higher for longer and delaying the IPO/M&A reopening.\n- GS sees 2026 deal activity poised for recovery, with potential for distribution levels above the 2021 peak within 2-3 years if macro normalises.\n\n**FX / rates implications**\n- The prolonged high-rate environment reinforcing private market indigestion is the same backdrop pressuring EM carry trades — any delay in Fed cuts keeps USD/DXY supported and EM risk appetite in check.\n- A recovery in global risk appetite and IPO/M&A activity (the bullish GS scenario) would be unambiguously risk-on, supportive of EM FX carry and compressing EM credit spreads.\n- Geopolitical escalation or an inflation resurgence — the key downside risks flagged — would extend USD strength and weigh on high-beta EM currencies (BRL, COP, IDR, PHP).\n\n**Watch list**\n- Fed rate path: any re-acceleration of inflation or Middle East escalation delaying cuts is the swing factor cited most explicitly.\n- IPO pipeline build and large 2026 listings as a barometer of risk-on confidence returning.\n- Private credit retail-vehicle redemption trends as a potential early signal of broader credit stress.",
+      "summarized_at": "2026-06-10T12:51:33.872542+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-10"
 }

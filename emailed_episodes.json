@@ -10842,8 +10842,36 @@
       "feed": "PIMCO Pod",
       "processed": "2026-06-10T07:33:40.298589+00:00",
       "episode_id": "800c3e0d136b1dc8"
+    },
+    "88a0a0af0bfc4c37": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0527_AI_Nestle.mp3?dest-id=1534493",
+      "title": "Welcome Agent Zero",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-06-10T12:48:35.678418+00:00",
+      "episode_id": "88a0a0af0bfc4c37"
+    },
+    "121458e775245d94": {
+      "url": "https://traffic.megaphone.fm/GLD6480023256.mp3",
+      "title": "Private Markets at an Inflection Point",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-06-10T12:51:33.872542+00:00",
+      "episode_id": "121458e775245d94"
+    },
+    "7449d86933d490d1": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095",
+      "title": "Two indicators for lowering the rent",
+      "feed": "Planet Money",
+      "processed": "2026-06-10T12:54:28.056597+00:00",
+      "episode_id": "7449d86933d490d1"
+    },
+    "f8005bacead36bcd": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH7143777255.mp3",
+      "title": "The World Cup economy",
+      "feed": "Reuters Econ World",
+      "processed": "2026-06-10T12:58:19.935575+00:00",
+      "episode_id": "f8005bacead36bcd"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-10T07:33:40.298626+00:00"
+  "last_updated": "2026-06-10T12:58:19.935615+00:00"
 }
