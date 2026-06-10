@@ -10884,8 +10884,22 @@
       "feed": "PIMCO Pod",
       "processed": "2026-06-10T17:07:24.948891+00:00",
       "episode_id": "3deaeb9ed6508ac9"
+    },
+    "a71a6616ed570aa7": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/cb2ae58a-c64c-4891-9f87-46f7670ed28e.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Who Owns Travel Loyalty?",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-06-10T20:04:11.938165+00:00",
+      "episode_id": "a71a6616ed570aa7"
+    },
+    "4e4ed0ed1faa9448": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/0790b4e7-6830-41f9-b7c0-dc4fe385bcea/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=0790b4e7-6830-41f9-b7c0-dc4fe385bcea&feed=tc4zxWgX",
+      "title": "Markets Ready for SpaceX IPO, Proposals for Prediction Markets, and The Big Business of the Knicks 6/10/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-10T20:12:28.976680+00:00",
+      "episode_id": "4e4ed0ed1faa9448"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-10T17:07:24.948933+00:00"
+  "last_updated": "2026-06-10T20:12:28.976725+00:00"
 }
