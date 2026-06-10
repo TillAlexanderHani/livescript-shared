@@ -10891,8 +10891,15 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-06-09T23:19:24.031392+00:00",
       "episode_id": "2d225947822108a6"
+    },
+    "c2ad4c4441f5b240": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a282b1cc022d9c4fe137366/media.mp3",
+      "title": "When Nixon put America first and took the dollar off gold",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-06-10T05:13:22.953874+00:00",
+      "episode_id": "c2ad4c4441f5b240"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-09T23:19:24.031426+00:00"
+  "last_updated": "2026-06-10T05:13:22.953906+00:00"
 }
