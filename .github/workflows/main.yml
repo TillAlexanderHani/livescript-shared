@@ -127,15 +127,15 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git pull origin main --rebase || true
-          CHANGED=0
+          # Stage each valid state file, THEN check the index. `git diff --quiet`
+          # ignores untracked files, so staging first is what lets a brand-new
+          # pending_digest.json get persisted (this was the silent-no-email bug).
           for f in emailed_episodes.json pending_digest.json; do
             if [ -f "$f" ] && python -c "import json; json.load(open('$f'))" 2>/dev/null; then
-              if ! git diff --quiet "$f"; then
-                git add "$f"; CHANGED=1
-              fi
+              git add "$f"
             fi
           done
-          if [ "$CHANGED" = "1" ]; then
+          if ! git diff --cached --quiet; then
             git commit -m "Update state [$(date -u '+%F %H:%M UTC')] - ${{ steps.mode.outputs.mode }}"
             git push
             echo "State committed."

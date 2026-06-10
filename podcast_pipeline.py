@@ -707,6 +707,12 @@ margin-bottom:8px;}}
             self.collect()
         if RUN_MODE in ("digest", "both"):
             self.send_digest()
+        elif RUN_MODE == "collect" and datetime.now(timezone.utc).hour >= 5:
+            # Safety net: if GitHub dropped the early-morning digest crons, let the
+            # first collect run past the digest window deliver it. send_digest is
+            # idempotent (one email per day), so this is a no-op on normal days.
+            logger.info("Past digest window — attempting catch-up send")
+            self.send_digest()
         logger.info(f"Pipeline done in {datetime.now() - start} | "
                     f"pending={len(self.pending['episodes'])}")
 
