@@ -10870,8 +10870,22 @@
       "feed": "Reuters Econ World",
       "processed": "2026-06-10T12:58:19.935575+00:00",
       "episode_id": "f8005bacead36bcd"
+    },
+    "439ea71364740c35": {
+      "url": "https://traffic.megaphone.fm/BLM3114133322.mp3",
+      "title": "Credit Crunch: AI IPOs, Tech Supply and Credit Without Peace",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-06-10T17:02:19.990736+00:00",
+      "episode_id": "439ea71364740c35"
+    },
+    "3deaeb9ed6508ac9": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC8425832356.mp3",
+      "title": "Rupture and Resilience",
+      "feed": "PIMCO Pod",
+      "processed": "2026-06-10T17:07:24.948891+00:00",
+      "episode_id": "3deaeb9ed6508ac9"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-10T12:58:19.935615+00:00"
+  "last_updated": "2026-06-10T17:07:24.948933+00:00"
 }
