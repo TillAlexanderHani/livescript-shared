@@ -10898,8 +10898,15 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-06-10T20:12:28.976680+00:00",
       "episode_id": "4e4ed0ed1faa9448"
+    },
+    "6bb6c99a3cddedee": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19329116-cut-to-the-chase-the-real-signal.mp3",
+      "title": "Cut to the Chase! The real signal",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-11T05:19:29.853730+00:00",
+      "episode_id": "6bb6c99a3cddedee"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-10T20:12:28.976725+00:00"
+  "last_updated": "2026-06-11T05:19:29.853763+00:00"
 }

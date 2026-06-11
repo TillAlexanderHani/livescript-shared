@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! The real signal",
+      "published": "Thu, 11 Jun 2026 10:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19329116-cut-to-the-chase-the-real-signal.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "Fed",
+        "UST 10y",
+        "CPI",
+        "Inflation",
+        "Brent",
+        "WTI",
+        "S&P 500",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nUS headline CPI printed at 4.2% YoY — a 3-year high driven almost entirely by energy — but core inflation came in softer than feared, limiting broadening of price pressures. New Fed Chair Kevin Warsh is expected to hold rates steady through year-end with an initially hawkish tone, while markets repriced: S&P 500 fell 1.6% and long-dated UST yields rose overnight, a risk-off signal with direct EM carry and flow implications.\n\n**Key points**\n- Headline CPI +4.2% YoY; energy contributed ~60% of the monthly increase — Middle East conflict is the dominant driver\n- Core CPI softer than expected; goods prices contracted, core services eased, shelter inflation declined; consistent with Fed's 2% medium-term target\n- Real average hourly earnings -0.7% YoY — consumer income squeeze limits demand-side inflation pass-through\n- Oil threshold: if Brent/WTI stays below $120/bbl, StanChart expects inflation to peak in Q2 and converge toward 2% by mid-2027\n- Warsh framing: hawkish posture upfront to preserve credibility, but AI-driven productivity gains expected to eventually create space for cuts\n- Equity sell-off attributed partly to psychological signal from Magnificent 7 equity issuance and IPO activity, suggesting AI capex cycle is maturing and becoming capital-intensive; further 4–6 week correction expected\n\n**FX / rates implications**\n- Softer core CPI limits the urgency for Fed hikes, capping near-term USD upside — a modest relief for EM FX broadly, particularly high-beta LATAM (MXN, BRL) and rate-sensitive EM Asia (INR, IDR)\n- Rising long-end UST yields compress EM carry and pressure duration positions across the curve; watch for BI, RBI and Banxico reaction functions if the long end continues to back up\n- Equity risk-off and AI-capex maturity signal could trigger EM portfolio outflows, widening credit spreads and pressuring local rates; KRW and TWD most exposed via tech equity linkage\n- Oil below $120/bbl keeps commodity-importing EM (INR, PHP, IDR) current accounts from deteriorating sharply\n\n**Watch list**\n- Brent/WTI vs. $120/bbl — breach would reset the inflation and EM FX narrative\n- Next Fed communications from Warsh for tone shift (hawkish-to-neutral pivot timeline)\n- US long-end UST yields: further rise accelerates EM carry unwind\n- S&P 500 over the next 4–6 weeks for risk-off depth — key trigger for EM capital flow reversal",
+      "summarized_at": "2026-06-11T05:19:29.853730+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-11"
 }
