@@ -10947,8 +10947,36 @@
       "feed": "IMF Podcasts",
       "processed": "2026-06-11T17:47:28.273110+00:00",
       "episode_id": "c36975cd5e792979"
+    },
+    "ba4168893f138e54": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/cd685d70-58a4-4d7d-9f36-d0cbead2ea23/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=cd685d70-58a4-4d7d-9f36-d0cbead2ea23&feed=tc4zxWgX",
+      "title": "The Exchange 6/11/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-11T20:11:57.380439+00:00",
+      "episode_id": "ba4168893f138e54"
+    },
+    "0ac078358e1c6c0b": {
+      "url": "https://mcdn.podbean.com/mf/web/s6g59w2mbg5wq3vf/hot_commodity_podcast_june_11_wasde.mp3",
+      "title": "June WASDE: All quiet on the WASDE front, mostly",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-06-11T20:16:32.591224+00:00",
+      "episode_id": "0ac078358e1c6c0b"
+    },
+    "84431e4c55ef5c06": {
+      "url": "https://traffic.megaphone.fm/BLM5016056435.mp3",
+      "title": "Macro Matters: JPMorgan’s Misra on Rates, Credit and Warsh Fed",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-06-11T20:20:40.274843+00:00",
+      "episode_id": "84431e4c55ef5c06"
+    },
+    "29c6dff62b8daa90": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a2b0111622531b86448b15c/media.mp3",
+      "title": "Can Trump make a deal with Iran?",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-06-11T20:24:58.704295+00:00",
+      "episode_id": "29c6dff62b8daa90"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-11T17:47:28.273158+00:00"
+  "last_updated": "2026-06-11T20:24:58.704338+00:00"
 }
