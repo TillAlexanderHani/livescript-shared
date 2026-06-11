@@ -10926,8 +10926,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-06-11T13:23:19.874411+00:00",
       "episode_id": "5d0e92354da7772c"
+    },
+    "580472a097672966": {
+      "url": "https://mcdn.podbean.com/mf/web/fymzas38ty79688u/260610AARFXandEcon_KAL-1-XAWZR2BP.mp3",
+      "title": "Global FX & Economics: UK Outlook, GBP and SEK",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-06-11T17:30:46.096749+00:00",
+      "episode_id": "580472a097672966"
+    },
+    "5ebc7a8585a2b525": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/vhz8wqswhb9myxfr/Macrovoices-2026-06-11-Larry-Mcdonald.mp3",
+      "title": "MacroVoices #536 Larry Mcdonald: The Migration is Upon us",
+      "feed": "Macro Voices",
+      "processed": "2026-06-11T17:42:43.815045+00:00",
+      "episode_id": "5ebc7a8585a2b525"
+    },
+    "c36975cd5e792979": {
+      "url": "https://traffic.libsyn.com/secure/imfpodcast/Michele_Ruta-Cooperation-MIX_2.mp3?dest-id=355221",
+      "title": "Trade among Geopolitical Rivals: Michele Ruta",
+      "feed": "IMF Podcasts",
+      "processed": "2026-06-11T17:47:28.273110+00:00",
+      "episode_id": "c36975cd5e792979"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-11T13:23:19.874478+00:00"
+  "last_updated": "2026-06-11T17:47:28.273158+00:00"
 }
