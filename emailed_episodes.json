@@ -11087,8 +11087,29 @@
       "feed": "MERICS China Podcast",
       "processed": "2026-06-12T16:55:09.488690+00:00",
       "episode_id": "509fbca79817dada"
+    },
+    "d39815c7903fb3c2": {
+      "url": "https://mcdn.podbean.com/mf/web/ukax9bdiph3mf7fy/260612_AARGFIMS_KAL-1-LLVM2HUC.mp3",
+      "title": "Global Rates: European Rate Markets – looking ahead over 2H26",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-06-12T19:50:39.114625+00:00",
+      "episode_id": "d39815c7903fb3c2"
+    },
+    "135b2af15da30e38": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/72dadc5b-c750-4dfd-8967-9b22fb6c9890/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=72dadc5b-c750-4dfd-8967-9b22fb6c9890&feed=tc4zxWgX",
+      "title": "SpaceX Soars in Trading Debut 6/12/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-12T19:59:39.605764+00:00",
+      "episode_id": "135b2af15da30e38"
+    },
+    "37802bd0cb3b15a9": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19335321-the-esn-has-landed.mp3",
+      "title": "The ESN has landed",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-06-12T20:08:20.297853+00:00",
+      "episode_id": "37802bd0cb3b15a9"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-12T16:55:09.488735+00:00"
+  "last_updated": "2026-06-12T20:08:20.297896+00:00"
 }
