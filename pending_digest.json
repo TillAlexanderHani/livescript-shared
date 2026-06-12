@@ -1,4 +1,24 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Brexit at 10: What comes next? With Anand Menon",
+      "published": "Fri, 12 Jun 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a2b19d4440b9d7bbf85a85b/media.mp3",
+      "feed": "The Economics Show",
+      "provider": "The Economist",
+      "priority": 2,
+      "tags": [
+        "GBP",
+        "EUR",
+        "Trade",
+        "UK",
+        "ECB",
+        "BoE",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nA retrospective on Brexit's economic impact ten years on, featuring a UK politics academic assessing the damage to UK GDP, trade flows, and the prospects for any EU reset or eventual rejoining. Relevant mainly as background on GBP structural drivers and the UK's ongoing semi-detached relationship with its largest trading partner.\n\n**Key points**\n- Academic consensus places Brexit's GDP drag broadly in line with pre-referendum long-run forecasts; one NBER working paper estimates a 6-8% hit to UK GDP per capita (comparable to an average war), though the guest is skeptical of the upper end, citing an overly optimistic counterfactual.\n- Services trade proved more resilient than models predicted, partly because COVID accelerated virtual delivery; goods trade barriers remain the primary drag.\n- UK-EU reset negotiations are stalled: an agriculture deal, ETS linkage, and electricity market participation are on the table, but a youth mobility deal (EU wants domestic university fees for European students; UK refuses) is blocking progress. A follow-up summit has slipped from May to June to mid-July 2026.\n- Red lines — no customs union, no single market, no freedom of movement — severely cap the economic upside of any reset.\n- UK public opinion has shifted toward preferring closer EU ties, but a pro-rejoin majority is not overwhelming; immigration remains the dominant political variable that any such campaign would have to navigate.\n\n**FX / rates implications**\n- GBP: structurally, persistent trade underperformance and a weak productivity outlook are long-run GBP headwinds; any meaningful reset would be modestly GBP-positive at the margin, but the stalled summit timeline reduces near-term catalyst risk.\n- UK gilt market: fiscal drag from lower trend growth keeps the BoE's neutral rate debate live; no near-term Brexit-specific catalyst.\n\n**Watch list**\n- UK-EU summit rescheduled for mid-July 2026 — watch for agriculture/ETS deal headlines or further slippage as a GBP micro-catalyst.\n- Labour leadership dynamics: any shift in red lines toward closer EU alignment would be a GBP tailwind to monitor.",
+      "summarized_at": "2026-06-12T05:34:32.013112+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-12"
 }
