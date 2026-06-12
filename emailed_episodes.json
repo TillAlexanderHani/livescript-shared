@@ -10996,8 +10996,64 @@
       "feed": "The Economics Show",
       "processed": "2026-06-12T05:34:32.013112+00:00",
       "episode_id": "0dd9fb04e37293e0"
+    },
+    "0c9b5ba3256de22e": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19334999-from-dollar-to-yen-answering-policy-questions-from-around-the-world.mp3",
+      "title": "From dollar to yen: answering policy questions from around the world",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-06-12T12:49:41.536886+00:00",
+      "episode_id": "0c9b5ba3256de22e"
+    },
+    "4b2f694d33411bd5": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a2be329662bc7c7f3b5f3b9/media.mp3",
+      "title": "The ECB’s next move",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-06-12T12:51:53.977372+00:00",
+      "episode_id": "4b2f694d33411bd5"
+    },
+    "71a568e874e41707": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_RASMUSSEN_.mp3?dest-id=1929056",
+      "title": "Ep. 362: Dan Rasmussen on Private Equity's Stranded Assets, Private Credit, and the AI Bubble",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-06-12T13:07:22.239633+00:00",
+      "episode_id": "71a568e874e41707"
+    },
+    "278a9e2852437947": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3cfa0968-658f-4cce-a2df-b466015e5042/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How a Vibecoded Newsletter Is Making the Hay Market More Transparent",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-06-12T13:15:40.164624+00:00",
+      "episode_id": "278a9e2852437947"
+    },
+    "46a6ccf0046cbeac": {
+      "url": "https://traffic.megaphone.fm/BLM4349064490.mp3",
+      "title": "State of Distressed Debt: Ellias on Reorganizations’ Global Bazaar",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-06-12T13:29:17.111716+00:00",
+      "episode_id": "46a6ccf0046cbeac"
+    },
+    "71e0a259ffe28d1a": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19335030-through-the-noise-investor-froth-scaled-back-but-not-eliminated.mp3",
+      "title": "Through the noise: Investor froth scaled back, but not eliminated",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-12T13:31:47.864686+00:00",
+      "episode_id": "71e0a259ffe28d1a"
+    },
+    "9a8d4f3d076f700e": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/92dee605-66e2-4d39-aab3-b84f9028e8be/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=92dee605-66e2-4d39-aab3-b84f9028e8be&feed=IFy3imsg&t=podcast&e=nx-s1-5855738&p=510325&d=569&size=9119539",
+      "title": "Inflation is bad, work from home sad, FIFA World Cup tix NOT deal to be had",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-12T13:34:04.826016+00:00",
+      "episode_id": "9a8d4f3d076f700e"
+    },
+    "8b90b09a2923af4e": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260612_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - Not Rocking the Boat",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-06-12T13:38:53.735303+00:00",
+      "episode_id": "8b90b09a2923af4e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-12T05:34:32.013149+00:00"
+  "last_updated": "2026-06-12T13:38:53.735349+00:00"
 }
