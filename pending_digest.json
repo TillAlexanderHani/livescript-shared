@@ -1,4 +1,24 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Anjney Midha's Plan to Radically Lower the Price of Compute",
+      "published": "Sat, 13 Jun 2026 08:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/90cd8aa8-11c9-4cd3-813a-b467011c7f57/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 2,
+      "tags": [
+        "Capex",
+        "Copper",
+        "TWD",
+        "TSMC",
+        "Gold",
+        "Energy",
+        "Iron Ore"
+      ],
+      "summary": "**Summary**\nOdd Lots interviews Anjney Midha (AMP PBC, early Anthropic investor) on the economics of AI compute infrastructure. The EM read-through is indirect but non-trivial: AI's capex supercycle is a durable structural driver of power grid and copper demand, while TSMC's explicit role as the semiconductor supply-chain chokepoint keeps Taiwan at the geopolitical centre of this theme.\n\n**Key points**\n- Compute prices for long-term GPU leases roughly doubled between January and June 2026, confirming unrelenting procurement intensity and no sign of capex deceleration at the infrastructure layer\n- Average industry data-centre utilisation runs below 70%; xAI's Colossus cluster (500,000 GB300 GPUs in Memphis) was running below 60% chip utilisation and below 11% model-flop utilisation — structural waste that paradoxically sustains procurement demand rather than reducing it\n- TSMC named as the decisive gatekeeper: foundry allocation decisions determine which compute providers can scale, giving Taiwan outsized and under-appreciated leverage over the global AI supply chain\n- Labs are buying call options on future compute clusters as hedging instruments, signalling early-stage financialisation of compute capacity\n- Episode's VanEck RAAX sponsorship frames the investor backdrop explicitly: central banks loading gold, AI capex driving copper and energy infrastructure demand, currency volatility — consistent with the structural commodity bid\n\n**FX / rates implications**\n- TSMC's gatekeeping role reinforces the structural TWD bid; any cross-strait escalation or capacity shock is a direct catalyst with no obvious hedge\n- Sustained hyperscale data-centre buildout is a multi-year copper and power infrastructure demand driver — supportive of CLP and PEN (copper-linked EM FX) and energy-exporter fiscal positions\n- Rising AI ROI scepticism (Uber COO flagged unclear returns; discussed in episode) is the key risk: a capex deceleration would hit copper and energy demand and flip the commodity-EM-FX impulse\n\n**Watch list**\n- TSMC H2 2026 capacity guidance and allocation decisions — bellwether for semiconductor supply tightness and TWD sentiment\n- Earnings commentary from hyperscalers (Microsoft, Google, Amazon) on AI capex budgets as leading indicator for copper/energy demand trajectory",
+      "summarized_at": "2026-06-13T11:43:30.143870+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-13"
 }
