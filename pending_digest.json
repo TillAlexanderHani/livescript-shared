@@ -1,4 +1,64 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Emerging Markets Outlook and Strategy for 2H26",
+      "published": "Mon, 15 Jun 2026 11:16:07 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/s259b7bc3ngtkkb7/AAREMOS2H26_KAL-1-JCTU07WM.mp3",
+      "feed": "At Any Rate Podcast",
+      "provider": "J.P. Morgan",
+      "priority": 5,
+      "tags": [
+        "Fed",
+        "Brent",
+        "Carry",
+        "Inflation",
+        "Elections",
+        "BRL",
+        "MXN",
+        "IDR",
+        "PHP",
+        "KRW",
+        "COP",
+        "PEN",
+        "Risk sentiment",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nJPMorgan's 2H26 mid-year EM outlook designates EM FX as the most preferred asset class, local rates neutral with selective carry, and sovereign credit near 20-year tights. Global growth is tracking 2.5%, EM at 4% (ex-China 3.5%), underpinned by the AI/tech capex cycle, broadening labor markets, and still-supportive financial conditions. The expected US-Iran deal and Strait of Hormuz reopening this week are the near-term bullish catalyst, with oil settling around $80 the base case.\n\n**Key points**\n- EM YTD returns: local FX +6.3%, sovereign credit +1.5–3%, EM equities +22.2%\n- Core inflation running ~50bp above EM central bank targets; headline likely peaked May/June if oil holds near $80, but goods and services pass-through still working through in H2\n- EM central bank split: 6 hiking, 5 cutting; defensive hikers (BI/IDR, BSP/PHP, Turkey, South Africa) respond to FX/credibility pressure — pressure may ease with lower oil; standard tighteners (BoK/KRW, RBI/INR) driven by domestic macro; high yielders (BCB/BRL, Hungary) cutting\n- Fed on hold is the EM anchor; real yield repricing is flagged as the more damaging tail risk vs nominal moves\n- EMBIG at ~230bp, MBX CCC ~17bp from 2007 all-time tight; all-in yield ~6.25%; growth narrative is the only credible widening catalyst\n- Colombia second round imminent (right-center candidate leading), Peru vote count nearing conclusion, Brazil presidential election in fall (Lula competitive in early polling)\n\n**FX / rates implications**\n- EM FX long preferred in mid-to-high yielders with proactive CB tightening and no BOP stress — EMEA and LATAM broadly favored over EM Asia where energy-import drag is concentrated\n- MXN underperforms LATAM peers on fiscal constraints and tighter domestic financial conditions\n- IDR and PHP defensive-hike premium may compress if Hormuz deal and lower oil reduce BOP pressure; watch BI and BSP forward guidance\n- Local rates neutral overall; high-yielder carry (BRL, select LATAM) most likely to flip bullish on lower oil anchoring inflation expectations; KRW and INR curves pricing further hikes\n- EM credit: stay long near tights — only a growth shock dislodges spreads from here\n\n**Watch list**\n- US-Iran deal signing and Strait of Hormuz reopening (this week — binary catalyst)\n- Brent trajectory — $80 as the threshold for H2 CPI path and CB reaction functions\n- Fed tone — any tightening pivot is the primary systemic EM tail risk; watch real yield channel\n- Colombia second-round presidential election (~1 week out; right-center favored)\n- Peru final count\n- Brazil presidential election (fall 2026; market scrutiny intensifies as Lula race tightens)\n- US midterms (fall 2026; trade and fiscal policy implications for EM, particularly South America geopolitics)",
+      "summarized_at": "2026-06-15T15:37:38.440315+00:00"
+    },
+    {
+      "title": "You've Never Had It So Good: The Reality of Real-Time Revealed",
+      "published": "Mon, 15 Jun 2026 14:21:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0528_DB_360_POD.mp3?dest-id=1534493",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "provider": "TMI - Treasury Management International",
+      "priority": 2,
+      "tags": [
+        "Fintech",
+        "ISO 20022",
+        "Swift"
+      ],
+      "summary": "**Summary**\nThis TMI TreasuryCast episode covers corporate treasury technology adoption — specifically real-time payments, Swift Instant Cash Reporting (ICR), ISO 20022 standardisation, and AI-driven cash flow forecasting. Speakers are from Equinor (head of cash management infrastructure) and Deutsche Bank (global head of cash management). The discussion is operational and vendor-facing, with no market or macro content.\n\n**Key points**\n- Equinor has centralised treasury onto a single ERP with an in-house bank and cash pooling structure, now layering real-time visibility via Swift ICR through a single Deutsche Bank API integration.\n- Real-time data is framed as intraday operational tool — payment confirmations, anomaly detection, intraday credit-line release — not a driver of long-term liquidity positioning.\n- Deutsche Bank urges bank-agnostic standardisation so multi-bank corporates can aggregate data without bespoke connections per institution.\n- AI use cases highlighted: cash flow forecasting and order-to-cash reconciliation; Equinor is piloting AI forecasting but leadership acknowledges 100% accuracy is unattainable.\n- Governance emphasis: clear mandate rules are required to prevent real-time data generating noise or micro-management.\n\n**Watch list**\n- Broader ISO 20022 migration timeline and Swift ICR adoption curve — relevant as a plumbing layer for EM payment corridors (LATAM, APAC) where Equinor operates, though no specific market catalysts flagged in this episode.",
+      "summarized_at": "2026-06-15T15:39:23.372979+00:00"
+    },
+    {
+      "title": "Carmen Li's Plan to Build a Futures Market for Compute",
+      "published": "Mon, 15 Jun 2026 08:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/60472ab3-350e-4e47-a612-b4670121babd/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 2,
+      "tags": [
+        "CME",
+        "AI",
+        "Commodities",
+        "GPU-Futures",
+        "Tech",
+        "Carry"
+      ],
+      "summary": "**Summary**\nCarmen Lee, CEO of Compute Exchange and Silicon Data, outlines the build-out of GPU compute futures and options in partnership with CME Group (pending CME approval), positioning GPU capacity as a tradeable commodity analogous to oil. The episode is primarily a market-structure story about a nascent asset class; direct transmission to EM FX or rates is minimal, but the AI capex super-cycle and its semiconductor supply-chain implications remain a background factor for TWD and KRW exposures.\n\n**Key points**\n- Silicon Data launched the world's first GPU price indices on the Bloomberg terminal in 2025, drawing on 100+ data sources and 150,000+ daily traded prices; CME futures/options launch expected within months, pending CME approval.\n- H100 on-demand GPU rental rates rose ~8% over the past three months; B200 prices, after an initial post-launch dip, have rebounded above launch levels — a steeper demand recovery than prior chip-generation cycles (A100, H100), suggesting a tighter supply/demand equilibrium than consensus expected.\n- Measured daily volatility on the H100 index runs 20-30%, in line with liquid commodity benchmarks, supporting the hedging rationale.\n- Contracts will be financially settled (not physical delivery), mirroring oil futures mechanics; basis risk between index price and actual cloud-provider cost is acknowledged and modelled.\n- GPU residual value study: H100 chips retain ~85 cents on the dollar one year post-use, ~84 cents at year two — better than auto depreciation curves, relevant for balance-sheet holders financing GPU inventory.\n- 38% documented performance variance for nominally identical A100 chips across providers is the core fungibility problem that indices must normalise; Silicon Data uses six months of historical trades and factor decomposition to address this.\n\n**Watch list**\n- CME regulatory approval for GPU futures/options — the key catalyst for market launch.\n- B200 and H100 on-demand price trends as new data-centre capacity (announced 25bn+ investments) translates into live GPU availability.",
+      "summarized_at": "2026-06-15T15:47:03.479806+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-15"
 }
