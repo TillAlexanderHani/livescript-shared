@@ -11136,8 +11136,15 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-06-13T11:43:30.143870+00:00",
       "episode_id": "cb624f40584f653c"
+    },
+    "b935ef5a925dacd6": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19334863-cut-to-the-chase-in-for-the-long-term-part-2.mp3",
+      "title": "Cut to the Chase! In for the long term – Part 2",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-15T06:12:30.056629+00:00",
+      "episode_id": "b935ef5a925dacd6"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-13T11:43:30.143915+00:00"
+  "last_updated": "2026-06-15T06:12:30.056665+00:00"
 }
