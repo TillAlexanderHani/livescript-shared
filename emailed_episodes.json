@@ -11171,8 +11171,36 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-06-15T15:48:55.834569+00:00",
       "episode_id": "d1b70668d6bf7c6c"
+    },
+    "098411f625f58a6c": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/2bc5bfb3-f409-426b-8d79-e3f367c7c8de.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Bull Case After the Pullback in Stocks",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-06-15T20:42:53.734810+00:00",
+      "episode_id": "098411f625f58a6c"
+    },
+    "178c4c08a8cd0809": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/fe3226c8-0299-4c38-9790-071dae6b5c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=fe3226c8-0299-4c38-9790-071dae6b5c71&feed=tc4zxWgX",
+      "title": "Iran Peace Framework, Tech Takes Off, and Investing in World Cup Infrastructure 6/15/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-15T20:48:29.266520+00:00",
+      "episode_id": "178c4c08a8cd0809"
+    },
+    "c3486d419b759806": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC6493611369.mp3",
+      "title": "How Large Is Private Credit’s Total Addressable Market, Really?",
+      "feed": "PIMCO Pod",
+      "processed": "2026-06-15T20:52:01.153229+00:00",
+      "episode_id": "c3486d419b759806"
+    },
+    "1121f11156b3cdb8": {
+      "url": "https://traffic.libsyn.com/secure/franklintempletontalkingmarkets/FT_Podcast_AOR_June2026_Final_1.mp3?dest-id=584964",
+      "title": "Anatomy of a Recession Update: Resilience",
+      "feed": "Talking Markets with Franklin Templeton",
+      "processed": "2026-06-15T20:55:43.740287+00:00",
+      "episode_id": "1121f11156b3cdb8"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-15T15:48:55.834610+00:00"
+  "last_updated": "2026-06-15T20:55:43.740317+00:00"
 }
