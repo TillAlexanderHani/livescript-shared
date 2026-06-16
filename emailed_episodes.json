@@ -11255,8 +11255,36 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-06-16T21:03:55.591790+00:00",
       "episode_id": "71cd933a1dfd64f9"
+    },
+    "9d89d6376182dcb6": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/e29f10f1-3194-4963-9791-cf09591ddde5.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Warsh’s Opening Act at the Fed",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-06-16T23:16:43.716233+00:00",
+      "episode_id": "9d89d6376182dcb6"
+    },
+    "f9dff1a696e4b9bd": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/19355443-can-guatemala-s-democracy-hold.mp3",
+      "title": "Can Guatemala's Democracy Hold?",
+      "feed": "Horizontes de Latinoamérica (S&P Global)",
+      "processed": "2026-06-16T23:22:20.795016+00:00",
+      "episode_id": "f9dff1a696e4b9bd"
+    },
+    "fcc78cddba140f68": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/74e48265-934a-445d-af34-4b796c18ee4a/group-item/3d789113-8e54-468d-8777-eebe52f8ac39/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Why is oil so cheap? With David Wech",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-06-16T23:28:50.593646+00:00",
+      "episode_id": "fcc78cddba140f68"
+    },
+    "53ebf55c6d9618fd": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19354050-cut-to-the-chase-how-long-lasting-will-the-peace-deal-be.mp3",
+      "title": "Cut to the Chase! How long-lasting will the peace deal be?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-16T23:29:47.715679+00:00",
+      "episode_id": "53ebf55c6d9618fd"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-16T21:03:55.591836+00:00"
+  "last_updated": "2026-06-16T23:29:47.715716+00:00"
 }
