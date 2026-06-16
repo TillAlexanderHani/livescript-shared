@@ -1,4 +1,21 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Your American Dream is pending review",
+      "published": "Tue, 16 Jun 2026 07:00:06 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/93b4aeda-44d9-47be-8a5f-a1aada08b9b9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=93b4aeda-44d9-47be-8a5f-a1aada08b9b9&feed=IFy3imsg&t=podcast&e=nx-s1-5859411&p=510325&d=471&size=7537981",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Immigration",
+        "Labor market",
+        "Trade",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nThis Planet Money/Indicator episode covers confusion around a Trump administration green-card policy shift requiring some temporary visa holders to return to their home country before applying for permanent residency, then a partial walk-back after business-lobby pushback. It is primarily a social/immigration policy story with limited direct market relevance, though it touches on US labor supply and skilled-worker dynamics.\n\n**Key points**\n- The administration announced that aliens in the US temporarily seeking a green card must generally return to their home country to apply, barring extraordinary circumstances.\n- After business-lobby complaints, USCIS issued a statement saying the policy will have no noticeable impact on highly qualified applicants and skilled professionals who followed the law, without clarifying criteria.\n- Affected individuals (a chemistry professor on track for tenure, a tech engineer, a Brazilian-American's mother on an expired temporary visa) describe fear, panic, and uncertainty about jobs, housing, and family separation.\n- Immigration attorney Mauricio Garcia notes USCIS interview requirements tightened after the Biden era and expects significant litigation challenging the new policy's legal basis.\n- USCIS statements used language about prioritizing immigration that is culturally/financially beneficial while preventing what it called mass third-world migration, declining to clarify definitions.\n\n**FX / rates implications**\nNo direct FX or rates read-through; this is a domestic US immigration/labor-policy story rather than a macro or monetary catalyst. Indirectly, tighter high-skilled immigration policy could marginally affect US labor supply and sectors reliant on foreign talent (tech, academia, healthcare), a secondary input for US growth/inflation narratives that the Fed monitors, but the episode offers no quantitative basis to act on.\n\n**Watch list**\n- Potential litigation against the USCIS policy, as flagged by immigration attorneys, which could shape eventual implementation and business-lobby response.\n- Further USCIS guidance or clarification on which applicants are deemed to provide qualifying economic benefit and thus avoid the home-country return requirement.",
+      "summarized_at": "2026-06-16T14:47:41.062336+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-16"
 }
