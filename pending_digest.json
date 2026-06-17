@@ -1,4 +1,69 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The financial scams that brought Albania to the brink of war",
+      "published": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a31523f780d0f7579ad9fd6/media.mp3",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "provider": "Financial Times",
+      "priority": 2,
+      "tags": [
+        "IMF",
+        "World Bank",
+        "Shadow banking",
+        "Fiscal",
+        "Crypto",
+        "Washington Consensus",
+        "Carry",
+        "Credit"
+      ],
+      "summary": "**Summary**\nHistorical FT podcast on Albania's 1990s pyramid-scheme collapse: how post-communist financial vacuum, IMF Washington Consensus shock therapy, and regulatory capture enabled Ponzi schemes to absorb roughly the equivalent of Albania's entire GDP, culminating in ~2,000 deaths and near civil war in 1997. The episode's macro relevance lies in its structural lessons on shadow banking, IMF conditionality, and the dynamics of unregulated high-yield financial innovation — with explicit modern parallels drawn to crypto and shadow banking sectors.\n\n**Key points**\n- Three dysfunctional state banks post-1990 created a credit vacuum filled by unregulated \"investment firms\"; some originated as legitimate businesses (hotels, supermarkets), others were outright criminal/smuggling enterprises\n- By mid-1996, Vefa alone held $120m in deposits (~5% of GDP); at peak, two-thirds of Albanians had exposure; total liabilities approached full GDP\n- Schemes offered 47% monthly interest at the extreme; government, IMF, and World Bank characterised Albania as a Washington Consensus success story as late as 1996\n- IMF 1999 post-mortem admitted treating schemes as positive contributors to growth — a rare institutional self-indictment; shock therapy left no regulatory or supervisory infrastructure\n- Collapse triggered army/police desertion, mass looting of Soviet-era armories, ~2,000 deaths; Italy-led UN peacekeeping force required; IMF/World Bank bailout conditioned on zero depositor compensation\n- Episode draws explicit parallel to crypto: unregulated high-yield promises, political donation-driven regulatory capture in the US, and risk of legitimate actors being swept up with fraudulent ones in a crisis\n\n**FX / rates implications**\n- Shadow banking read-through for EM: the Albania dynamic — regulated banks dysfunctional, unregulated NBFI fills the void, systemic risk builds invisibly — maps loosely onto China NBFI stress, Vietnam property credit, and crypto-adjacent capital flows in EM\n- IMF conditionality mechanics (no depositor bailout as prerequisite for programme lending) remain a live template for EM sovereign restructuring negotiations\n\n**Watch list**\n- US crypto regulatory evolution (post-2024 election cycle) and spillover into EM capital flows and dollar-substitute demand\n- China NBFI / shadow credit stress as structural analogue to the Albania vacuum dynamic",
+      "summarized_at": "2026-06-17T05:39:20.969208+00:00"
+    },
+    {
+      "title": "\"But China!\": Robert Wright on the AI Race and Our Coming Cosmic Reckoning",
+      "published": "Wed, 17 Jun 2026 02:00:00 -0000",
+      "url": "https://pdcn.co/e/rss.art19.com/episodes/87399f31-4c0c-4e8d-9d4e-93f572ca5589.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Sinica Podcast (China)",
+      "provider": "Kaiser Kuo",
+      "priority": 2,
+      "tags": [
+        "CNY",
+        "CNH",
+        "Trade",
+        "Tariffs",
+        "China",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nA lengthy philosophical conversation between Kaiser Kuo (Sinica Podcast) and author Robert Wright on the geopolitical and existential stakes of the US-China AI race, framed through Wright's new book *The God Test*. The episode is primarily intellectual — evolutionary biology, cognitive empathy, global governance — but the US-China tech-decoupling thread runs throughout and has weak, indirect read-throughs for EM traders via CNY and broader risk sentiment.\n\n**Key points**\n- Wright argues US chip export controls on China have backfired on their own terms: supply constraints forced Chinese labs toward efficiency innovations, producing DeepSeek, and effectively accelerated Chinese domestic semiconductor development rather than curtailing it.\n- The \"But China\" argument — invoking Beijing as justification for blocking AI regulation, safety review processes, and international governance — is characterised as a convenient talking point for Silicon Valley capital, with Trump reportedly rescinding a frontier-model pre-release review EO after lobbying from his AI adviser David Sacks.\n- Anthropic's geopolitical positioning (Dario Amodei co-authoring a WSJ op-ed with Matt Pottinger calling for US chip dominance over China) is discussed critically; Wright argues the race framing and sprint dynamic are precisely what make careful AI evaluation impossible.\n- DeepSeek's open-weight model strategy is framed as a deliberate response to chip restrictions — building a global developer ecosystem where closed US frontier models cannot easily compete.\n- No economic data, FX levels, rates, or central bank content discussed.\n\n**FX / rates implications**\n- The chip-control-backfire narrative, if it gains policy traction in Washington, marginally reduces the tail risk of further semiconductor export escalation — a modest positive for CNY/CNH and Taiwan-linked supply-chain sentiment (TWD).\n- Sustained US-China AI rivalry and the \"arms race\" framing remain a structural headwind for risk sentiment in EM Asia; any escalation toward data-centre sabotage scenarios flagged by Wright would be a sharp risk-off catalyst.\n\n**Watch list**\n- Any reversal or softening of US chip export controls toward China as a policy signal.\n- Follow-on AI governance dialogue between Washington and Beijing (Wright notes a recent summit produced a commitment to at least begin talks).",
+      "summarized_at": "2026-06-17T05:52:48.441496+00:00"
+    },
+    {
+      "title": "The Week That Was - 15 Jun: Inflation Data in, Markets Rise",
+      "published": "Wed, 17 Jun 2026 08:00:00 +0530",
+      "url": "https://www.buzzsprout.com/1885786/episodes/19359277-the-week-that-was-15-jun-inflation-data-in-markets-rise.mp3",
+      "feed": "Standard Chartered India - Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "INR",
+        "USDINR",
+        "RBI",
+        "USD",
+        "DXY",
+        "Fed",
+        "ECB",
+        "Brent",
+        "WTI",
+        "S&P 500",
+        "Inflation",
+        "CPI",
+        "Risk sentiment",
+        "India GDP"
+      ],
+      "summary": "**Summary**\nIndia's May CPI printed at 3.93% YoY (vs 3.48% in April), while FY26 GDP surprised to the upside at 7.7% (vs 7.1% FY25) — a constructive macro mix for INR but with inflation trending higher and the RBI flagging a 5.1% average for the year ahead. The dominant weekly catalyst was geopolitics: US-Iran peace deal optimism drove crude ~6% lower, directly fueling INR's sharpest single-day gain in weeks and a broad equity recovery.\n\n**Key points**\n- India CPI May: 3.93% YoY (Apr: 3.48%); food inflation 4.78%; fuel prices rose for the first time in four years; rural inflation (4.25%) outpacing urban (3.53%)\n- RBI projects inflation averaging ~5.1% for the coming year, explicitly flagging Middle East energy-cost risk\n- India FY26 GDP: 7.7% (FY25: 7.1%), beat; GFCF growth at 10.8% in Q4 signals a firm capex cycle; services resilient, manufacturing slowed to 7.3% in Q4\n- US CPI May: headline 4.2% YoY (3-year high), driven by energy/gas from Middle East conflict; core CPI softer MoM — mixed signal for the Fed\n- ECB delivered its first hike since 2023 (+25bps), revised inflation forecasts higher, citing Middle East energy pressures\n- Brent/WTI fell ~6% on the week to ~$87/bbl, extending below $83 on Monday on Iran deal optimism\n- Nifty +1.1% on the week (Nifty Bank +4%), NASDAQ swung -2% then +2.5% around the US CPI print; IT sector lagged on AI disruption concerns\n\n**FX / rates implications**\n- INR: crude oil decline is the primary near-term driver — lower oil compresses India's import bill and CAD, USDINR moved to ~85.11 on Friday and extended gains to ~84.7 on Monday; further oil downside would sustain INR bid\n- RBI's 5.1% inflation forecast and the uptick in food/fuel components push back near-term rate-cut expectations; any re-acceleration in CPI could flip the RBI more hawkish\n- US CPI at 4.2% (3-year high) keeps the Fed on hold or hawkish-biased — a headwind for EM carry broadly; core softness is the sole dovish offset and may not be enough to shift Fed pricing materially\n- A confirmed Iran peace deal on 19 June would sustain crude downside — structurally bullish for oil-importing EM FX: INR, IDR, PHP all benefit through the same CAD/terms-of-trade channel\n\n**Watch list**\n- US-Iran peace deal signing targeted for 19 June — binary outcome for crude and EM risk sentiment\n- Brent: watch $83/bbl; break lower would extend oil-importer EM FX gains\n- RBI guidance: next meeting — how the MPC frames the food/fuel inflation uptick against the strong GDP print will set rate-cut timeline expectations\n- Fed reaction to 4.2% CPI: watch for hawkish repricing in UST/DXY that could cap EM FX gains\n- India FPI flows: strong GDP print may attract debt/equity inflows — monitor weekly NSDL data",
+      "summarized_at": "2026-06-17T05:54:16.009448+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-17"
 }
