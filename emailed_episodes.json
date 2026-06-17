@@ -11325,8 +11325,22 @@
       "feed": "Reuters Econ World",
       "processed": "2026-06-17T13:17:00.733516+00:00",
       "episode_id": "a65e1c1fdcde4030"
+    },
+    "b634daf00722c7bc": {
+      "url": "https://traffic.megaphone.fm/GLD9584741007.mp3",
+      "title": "How the US-Iran Deal Could Affect Oil Prices",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-06-17T16:52:05.984911+00:00",
+      "episode_id": "b634daf00722c7bc"
+    },
+    "fc91390f614ce4c7": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_06172026_Libsyn.mp3?dest-id=4287628",
+      "title": "China's Economy Is Stronger and Weaker Than You Think",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-06-17T17:00:37.824473+00:00",
+      "episode_id": "fc91390f614ce4c7"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-17T13:17:00.733558+00:00"
+  "last_updated": "2026-06-17T17:00:37.824516+00:00"
 }
