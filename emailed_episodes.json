@@ -11353,8 +11353,15 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-06-17T20:03:45.968608+00:00",
       "episode_id": "f4df59370408ac79"
+    },
+    "aa1cc2b3e8bf22f6": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/6b5584db-f5ff-477e-ad17-3b7d2f1a2f65.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Can Policy Solve AI’s Chipflation?",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-06-17T23:12:13.132547+00:00",
+      "episode_id": "aa1cc2b3e8bf22f6"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-17T20:03:45.968642+00:00"
+  "last_updated": "2026-06-17T23:12:13.132597+00:00"
 }
