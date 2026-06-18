@@ -11374,8 +11374,43 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-06-18T05:31:05.995999+00:00",
       "episode_id": "9925407abed791cc"
+    },
+    "f759c1d73cc3d44f": {
+      "url": "https://mcdn.podbean.com/mf/web/94gsgcwn983ravyq/G7_Summit_Podcast_Audio_18Jun26_GPS-5341241-0.mp3",
+      "title": "In Focus: G7 Summit",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-06-18T12:44:27.872903+00:00",
+      "episode_id": "f759c1d73cc3d44f"
+    },
+    "09a8d65752304dfb": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a3392c32a769315ba2ee191/media.mp3",
+      "title": "Energy, El Niño and economic growth",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-06-18T12:46:42.489802+00:00",
+      "episode_id": "09a8d65752304dfb"
+    },
+    "c79a2eaf6e99f9c4": {
+      "url": "https://traffic.megaphone.fm/GLD9588200882.mp3",
+      "title": "Maverick Capital Co-CIOs on Finding the AI Winners",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-06-18T12:50:03.942574+00:00",
+      "episode_id": "c79a2eaf6e99f9c4"
+    },
+    "5f943b50281ee59b": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/60f6b6ac-8fe5-49e8-80a2-b46c01750478/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Jeremy Grantham on How to Tell If a Bubble Is About to Burst",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-06-18T12:59:35.994664+00:00",
+      "episode_id": "5f943b50281ee59b"
+    },
+    "b316cadbf2557024": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/1bdfcff5-7c15-4f6f-8ac9-679eeda3b353/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=1bdfcff5-7c15-4f6f-8ac9-679eeda3b353&feed=IFy3imsg&t=podcast&e=nx-s1-5861870&p=510325&d=566&size=9063114",
+      "title": "Are we in a new era of permanently higher prices?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-18T13:02:05.040547+00:00",
+      "episode_id": "b316cadbf2557024"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-18T05:31:05.996043+00:00"
+  "last_updated": "2026-06-18T13:02:05.040590+00:00"
 }
