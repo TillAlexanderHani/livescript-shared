@@ -11437,8 +11437,50 @@
       "feed": "The Americas Quarterly Podcast",
       "processed": "2026-06-18T17:18:18.562276+00:00",
       "episode_id": "d77d746fc8424cf5"
+    },
+    "1b2461c7b8881201": {
+      "url": "https://mcdn.podbean.com/mf/web/ugfy2sg9x2r824gp/AAR_Kaneva_61826KAL-1-BTSPURK49tv6z.mp3",
+      "title": "Global Commodities: Seeing the Invisible",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-06-18T20:29:53.646992+00:00",
+      "episode_id": "1b2461c7b8881201"
+    },
+    "5976c76ece226b39": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a733b9db-5f8d-442b-808e-f670d72ecfe8.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Inside the AI Debt Surge",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-06-18T20:32:00.910574+00:00",
+      "episode_id": "5976c76ece226b39"
+    },
+    "19c8653065d97596": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/503f39fc-e2cb-4c54-b52d-3c5c7311a7c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=503f39fc-e2cb-4c54-b52d-3c5c7311a7c8&feed=tc4zxWgX",
+      "title": "Apple Price Hike, Oil Prices Fall on Iran Agreement, and a SpaceX Bear 6/18/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-18T20:39:01.737410+00:00",
+      "episode_id": "19c8653065d97596"
+    },
+    "9ca195b29e3242ee": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/cg7w6v3e6nr36adm/Macrovoices-2026-06-18-Brent-Johnson.mp3",
+      "title": "MacroVoices #537 Brent Johnson: There’s No Turning Back",
+      "feed": "Macro Voices",
+      "processed": "2026-06-18T20:50:34.619134+00:00",
+      "episode_id": "9ca195b29e3242ee"
+    },
+    "329438b49e169bf6": {
+      "url": "https://traffic.megaphone.fm/BLM3794225793.mp3",
+      "title": "Macro Matters: BE’s Anna Wong on Warsh, Fed & Inflation Outlook",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-06-18T20:53:46.313402+00:00",
+      "episode_id": "329438b49e169bf6"
+    },
+    "c0a96f5dda6a79f1": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a344c1a6f90df4cb7b75f82/media.mp3",
+      "title": "Kevin Warsh’s first remarks",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-06-18T20:57:39.746276+00:00",
+      "episode_id": "c0a96f5dda6a79f1"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-18T17:18:18.562320+00:00"
+  "last_updated": "2026-06-18T20:57:39.746321+00:00"
 }
