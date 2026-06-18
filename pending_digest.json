@@ -1,4 +1,47 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "264: Is Tokenization the Next Evolution of Global Financial Market Infrastructure? Ft. Rob Goldstein, COO of BlackRock",
+      "published": "Thu, 18 Jun 2026 04:00:00 -0000",
+      "url": "https://rss.art19.com/episodes/54337a8f-e06d-4ca7-baad-26f16a4e7f2f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "BlackRock - The Bid",
+      "provider": "BlackRock",
+      "priority": 2,
+      "tags": [
+        "Tokenization",
+        "Digital Assets",
+        "Bitcoin",
+        "Stablecoin",
+        "BlackRock",
+        "Blockchain",
+        "FinTech",
+        "Capital Markets"
+      ],
+      "summary": "**Summary**\nBlackRock COO Rob Goldstein outlines the firm's strategic conviction on tokenization — the representation of traditional assets (stocks, bonds, funds) as digital certificates on blockchain rails — as the next evolution of market infrastructure. While not a near-term FX/rates catalyst, the long-run implications for EM market access and capital flows merit attention, particularly Goldstein's explicit framing of India, Brazil, and China as beneficiaries of democratized digital portfolio access.\n\n**Key points**\n- Global digital wallet assets estimated at ~$4tn today; BlackRock's executive committee reached near-unanimous consensus that figure at least doubles to $8tn by 2030.\n- Tokenization is distinct from crypto: blockchain is the shared enabling technology, but tokenization applies to conventional assets — equities, bonds, funds — rather than native digital coins.\n- Adoption remains early-stage institutionally; BlackRock's strategy centers on bridging traditional capital markets with digital-asset infrastructure rather than replacing the former.\n- Regulatory clarity in the US is cited as the critical gating condition for broader uptake.\n- BlackRock's Bitcoin ETF is flagged as the prototype \"bridge\" product — traditional wrapper, on-chain asset.\n\n**FX / rates implications**\n- EM angle: Goldstein singles out India, Brazil, and China as markets where phone-based tokenized access could materially expand retail capital-market participation, with potential long-run implications for domestic savings mobilization and cross-border capital flows.\n- Stablecoin growth embedded in the $4–8tn wallet projection is a structural USD-demand variable worth monitoring as a slow-moving driver of dollar liquidity offshore.\n\n**Watch list**\n- US digital-asset regulatory framework — any legislative progress unlocks the institutional buildout Goldstein describes.\n- Growth in stablecoin market cap as a proxy for digital-wallet adoption trajectory.",
+      "summarized_at": "2026-06-18T05:28:40.746819+00:00"
+    },
+    {
+      "title": "Cut to the Chase! The Fed’s new era: Warsh debut",
+      "published": "Thu, 18 Jun 2026 10:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19364723-cut-to-the-chase-the-fed-s-new-era-warsh-debut.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "S&P 500",
+        "Inflation",
+        "Risk sentiment",
+        "Carry",
+        "Rates"
+      ],
+      "summary": "**Summary**\nThe Fed held rates unchanged at 3.50–3.75% in a unanimous vote, but new Chair Warsh's debut FOMC delivered a distinctly hawkish pivot in tone and communication architecture. The easing bias was stripped from the statement, price stability was explicitly prioritised over the employment mandate, and nine of eighteen participants projected a 2026 rate hike — a significant shift in the dot distribution that markets must reprice. For EM FX/rates traders, a higher-for-longer Fed with an ascendant hawkish chair is the dominant regime shift: it sustains USD demand, compresses carry appeal, and raises the hurdle for EM central bank easing cycles.\n\n**Key points**\n- Fed held at 3.50–3.75%; unanimous vote but statement tilted hawkish — easing bias removed, no forward guidance offered.\n- 2026 SEP: employment revised lower, inflation revised higher; 9/18 dots now show a 2026 hike.\n- Warsh signalled a structural communications overhaul: fewer Governor speeches, potential elimination of the dot plot, returning the Fed toward the pre-Bernanke opacity model.\n- Despite the hawkish read, Standard Chartered expects rates on hold through year-end, citing improving inflation data tied to the US-Iran MOU agreement.\n- S&P 500 sold off post-FOMC; firm sees support at 7,300 (50-day MA) then 7,000; attributes weakness partly to heavy pre-FOMC equity positioning.\n\n**FX / rates implications**\n- Hawkish hold + 2026 hike skew = renewed USD/DXY upside pressure; broad EM FX headwind, with high-beta/high-carry units (BRL, MXN, IDR, INR) most exposed to position unwind.\n- Removal of easing bias and dot-plot hawkishness pushes US front-end rates higher, compressing EM-US rate differentials and eroding carry.\n- Equity risk-off (S&P weakness) amplifies EM outflow risk via the risk-sentiment channel, particularly for equity-linked EM FX.\n- If dot plot is eventually scrapped, forward rate guidance becomes less anchored — a source of volatility for duration positioning in local EM bond markets.\n\n**Watch list**\n- Next FOMC in ~six weeks: Warsh framed it as the timeline for potential action — any deterioration in inflation data could revive hike talk.\n- US CPI prints: Warsh explicitly flagged inflation as the dominant mandate; upside surprises could accelerate the 2026 hike timeline.\n- S&P 500 at 7,300 / 7,000: a break lower would deepen risk-off and pressure high-beta EM currencies.\n- Fed speakers: Warsh signalled a pullback in Governor communications, so any remaining speeches carry elevated signal value.",
+      "summarized_at": "2026-06-18T05:31:05.995999+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-18"
 }
