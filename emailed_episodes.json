@@ -11549,8 +11549,36 @@
       "feed": "Capital Economics Weekly Briefing",
       "processed": "2026-06-19T13:44:51.623600+00:00",
       "episode_id": "d9e581163d8c4d5d"
+    },
+    "629c38dd1e714f27": {
+      "url": "https://mcdn.podbean.com/mf/web/mxuzgg5em5auzz6u/260619_AARGFIMS_KAL-1-TSKXO8HI.mp3",
+      "title": "Global Rates: Scandi and BoE Central Bank wrap up, UK politics (again)",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-06-19T16:24:14.283884+00:00",
+      "episode_id": "629c38dd1e714f27"
+    },
+    "f401bacde8111b3f": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0911_INNO25_BCG.mp3?dest-id=1534493",
+      "title": "Boston Consulting Group Forges a Future-Ready Treasury",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-06-19T16:25:58.741243+00:00",
+      "episode_id": "f401bacde8111b3f"
+    },
+    "a02518e03573ea42": {
+      "url": "https://mcdn.podbean.com/mf/web/aahqm8ed9krnzazs/260619_GDP_Greg_KAL-1-K1H9IMII.mp3",
+      "title": "Global Data Pod: W. European Economics",
+      "feed": "Global Data Pod",
+      "processed": "2026-06-19T16:29:02.874517+00:00",
+      "episode_id": "a02518e03573ea42"
+    },
+    "5c935ef7cd1da539": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC9173540169.mp3",
+      "title": "Hawkish-Leaning Committee, Reform-Minded Chair: Warsh’s First Fed Meeting",
+      "feed": "PIMCO Pod",
+      "processed": "2026-06-19T16:33:32.486398+00:00",
+      "episode_id": "5c935ef7cd1da539"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-19T13:44:51.623631+00:00"
+  "last_updated": "2026-06-19T16:33:32.486440+00:00"
 }
