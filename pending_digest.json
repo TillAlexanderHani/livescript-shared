@@ -1,4 +1,26 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "China wanted western tech. Now, the tables have turned. With John Minnich",
+      "published": "Fri, 19 Jun 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a3424594a187774ac9cd0b4/media.mp3",
+      "feed": "The Economics Show",
+      "provider": "The Economist",
+      "priority": 3,
+      "tags": [
+        "CNY",
+        "Trade",
+        "Tariffs",
+        "EUR",
+        "INR",
+        "Copper",
+        "Iron Ore",
+        "Risk sentiment",
+        "China"
+      ],
+      "summary": "**Summary**\nAcademic deep-dive on China's decades-long technology transfer playbook — joint ventures, local content requirements, \"trading the market for technology\" — and whether Western governments can reverse-engineer that model to capture Chinese industrial know-how. Relevant to traders tracking US-China tech competition, EU-China investment flows under new IAA legislation, and China's industrial dominance in EVs, batteries and rail as a driver of commodity demand and geopolitical risk premia.\n\n**Key points**\n- Post-WTO \"indigenous innovation\" policy most effective where China held monopsony buyer power: high-speed rail (Ministry of Railways as sole buyer pitting Kawasaki/Alstom/Siemens/Bombardier against each other), wind turbines (70% local content requirement forced foreign firms to train Chinese supplier base; China's global capacity share went from ~1% to ~20-30% in half a decade)\n- Semiconductors/electronics exempted because China was an export-processing hub — foreign firms could credibly threaten relocation; exports peaked near 40% of Chinese GDP, constraining Beijing's leverage\n- EU's Industrial Accelerator Act (IAA) targets investments >€100m from countries with ≥40% global production share, requiring technology spillovers; effectiveness hinges on centralizing FDI regulation to prevent forum-shopping across member states\n- China increasingly polices outbound technology transfers, especially to India and potential competitors; enforcement gaps mean greenfield Chinese manufacturing abroad may still transfer know-how inadvertently\n\n**FX / rates implications**\n- EU-China investment friction from IAA conditions adds regulatory drag to EUR/CNY capital flows; escalation or Chinese retaliation risk is a mild EUR negative\n- China's dominance in EVs, batteries and drones is a medium-term structural bid for copper and iron ore demand — supportive for commodity-linked EM FX including CLP and BRL\n- Ongoing tech competition and tightening export controls reinforce structural risk-off pressure on KRW and TWD given semiconductor supply-chain exposure\n- India explicitly named as a likely target for Chinese technology export restrictions — a partial cap on the supply-chain diversion tailwind that has supported INR\n\n**Watch list**\n- EU IAA first major Chinese investment approvals or rejections and any retaliatory trade measures from Beijing\n- Chinese export control licensing actions targeting India or Southeast Asia\n- US CFIUS or Section 301 updates on Chinese high-tech FDI eligibility",
+      "summarized_at": "2026-06-19T06:07:22.173501+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-19"
 }

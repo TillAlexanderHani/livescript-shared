@@ -11479,8 +11479,15 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-06-18T20:57:39.746276+00:00",
       "episode_id": "c0a96f5dda6a79f1"
+    },
+    "b4f5b8ea9167de00": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a3424594a187774ac9cd0b4/media.mp3",
+      "title": "China wanted western tech. Now, the tables have turned. With John Minnich",
+      "feed": "The Economics Show",
+      "processed": "2026-06-19T06:07:22.173501+00:00",
+      "episode_id": "b4f5b8ea9167de00"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-18T20:57:39.746321+00:00"
+  "last_updated": "2026-06-19T06:07:22.173546+00:00"
 }
