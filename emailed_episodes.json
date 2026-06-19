@@ -11486,8 +11486,71 @@
       "feed": "The Economics Show",
       "processed": "2026-06-19T06:07:22.173501+00:00",
       "episode_id": "b4f5b8ea9167de00"
+    },
+    "70858b7029a108bf": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19371028-no-silver-bullet-for-doves.mp3",
+      "title": "No silver bullet for doves",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-06-19T13:05:57.599941+00:00",
+      "episode_id": "70858b7029a108bf"
+    },
+    "fe86ccc5c10e679c": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a350cfe4a187774acee36a4/media.mp3",
+      "title": "The Fed under new management",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-06-19T13:09:12.607625+00:00",
+      "episode_id": "fe86ccc5c10e679c"
+    },
+    "329da331287205dc": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_WOLF2.mp3?dest-id=1929056",
+      "title": "Ep. 363: Martin Wolf on AI's Colossal Impact, Central Banking Risks, and the Democratic Recession",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-06-19T13:16:56.999872+00:00",
+      "episode_id": "329da331287205dc"
+    },
+    "7b553c76f4ce7cbd": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3b7f6933-fbbc-4e6e-a0de-b46d00ff8723/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-06-19T13:26:42.366130+00:00",
+      "episode_id": "7b553c76f4ce7cbd"
+    },
+    "f7233137530d7e5c": {
+      "url": "https://traffic.megaphone.fm/BLM6702489595.mp3",
+      "title": "EM Lens: Credit Index Futures Can Improve EM Balance Sheets",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-06-19T13:31:07.945070+00:00",
+      "episode_id": "f7233137530d7e5c"
+    },
+    "393f218fed1c273f": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19370896-through-the-noise-navigating-shifting-sands.mp3",
+      "title": "Through the Noise: Navigating shifting sands",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-19T13:33:02.513621+00:00",
+      "episode_id": "393f218fed1c273f"
+    },
+    "beeef297d856574d": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/c2666c84-41b5-4e97-9ccb-2ca03f85bfd3/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=c2666c84-41b5-4e97-9ccb-2ca03f85bfd3&feed=IFy3imsg&t=podcast&e=nx-s1-5863554&p=510325&d=548&size=8778066",
+      "title": "How your phone keeps you scrolling ... even when you want to stop",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-19T13:34:52.920213+00:00",
+      "episode_id": "beeef297d856574d"
+    },
+    "aa404b82dc1a58a7": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260619_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - Meet the New Boss",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-06-19T13:41:10.667458+00:00",
+      "episode_id": "aa404b82dc1a58a7"
+    },
+    "d9e581163d8c4d5d": {
+      "url": "https://media.transistor.fm/14b6f3f9/06db88d9.mp3",
+      "title": "Tough economic choices in a fragile peace",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-06-19T13:44:51.623600+00:00",
+      "episode_id": "d9e581163d8c4d5d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-19T06:07:22.173546+00:00"
+  "last_updated": "2026-06-19T13:44:51.623631+00:00"
 }
