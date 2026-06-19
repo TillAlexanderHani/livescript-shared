@@ -11598,8 +11598,15 @@
       "feed": "The GlobalCapital Podcast",
       "processed": "2026-06-19T19:35:45.923486+00:00",
       "episode_id": "feacabb3ec48094e"
+    },
+    "c2f6dbfaab16c4e6": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1933&size=30936172",
+      "title": "The real horror of ‘Alien’ and how it explains why we’re not paid enough",
+      "feed": "Planet Money",
+      "processed": "2026-06-19T22:47:01.662854+00:00",
+      "episode_id": "c2f6dbfaab16c4e6"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-19T19:35:45.923529+00:00"
+  "last_updated": "2026-06-19T22:47:01.662897+00:00"
 }
