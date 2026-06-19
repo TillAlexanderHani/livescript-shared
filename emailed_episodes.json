@@ -11577,8 +11577,29 @@
       "feed": "PIMCO Pod",
       "processed": "2026-06-19T16:33:32.486398+00:00",
       "episode_id": "5c935ef7cd1da539"
+    },
+    "1ec3b85f01e14491": {
+      "url": "https://mcdn.podbean.com/mf/web/bwyb9mrwyd6qh9w9/AARFXMIDYR260619.mp3",
+      "title": "Global FX: Bullish Beta, Bullish Dollar",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-06-19T19:27:12.117781+00:00",
+      "episode_id": "1ec3b85f01e14491"
+    },
+    "57fd2ad6bd957342": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1007_INNO25_Bertrand_Ivan.mp3?dest-id=1534493",
+      "title": "The Art of Implementation: Bringing Treasury Innovation to Life",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-06-19T19:28:42.223835+00:00",
+      "episode_id": "57fd2ad6bd957342"
+    },
+    "feacabb3ec48094e": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19371412-the-waiting-games-me-issuance-digital-capital-markets-and-french-covered-bonds.mp3",
+      "title": "The waiting games: ME issuance, digital capital markets and French covered bonds",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-06-19T19:35:45.923486+00:00",
+      "episode_id": "feacabb3ec48094e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-19T16:33:32.486440+00:00"
+  "last_updated": "2026-06-19T19:35:45.923529+00:00"
 }
