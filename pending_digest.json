@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How Substack Creators Are Covering This Strange Markets Era",
+      "published": "Sat, 20 Jun 2026 08:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/af2e1113-d234-4b94-89ce-b46d0139fa3f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 2,
+      "tags": [
+        "China",
+        "Semiconductors",
+        "DRAM",
+        "S&P 500",
+        "AI",
+        "Chip controls",
+        "Labor",
+        "CNY"
+      ],
+      "summary": "**Summary**\nAn Odd Lots live-show panel with Substack/newsletter authors — James Van Gelen (Satrini Research), Jasmine Sun, and Sam Ro (TKR) — discusses AI's impact on financial media, investment research, and the broader labor market. The episode has minimal direct EM FX/rates content but contains one actionable market call on semiconductor hardware and useful China tech color.\n\n**Key points**\n- Van Gelen's spicy take: the next Chinese \"DeepSeek moment\" will be in hardware, not models — specifically DRAM/memory. CXMT (China's Micron analogue) is set to IPO, injecting capital into Chinese memory production; NAND flash is ~100x cheaper than DRAM, creating strong economic incentive to close the gap. He views the \"AI bottleneck\" trade (long memory complex) as crowded and vulnerable.\n- Jasmine Sun, fresh from China: Chinese AI labs are severely compute-constrained by US chip controls, leaving little capacity for safety/alignment research. China's AI culture is \"techno-deterministic\" rather than ideologically optimistic — individuals adopt or get left behind. Humanoid robots and quadrupeds are already in live factory and pharmacy deployment in Hangzhou.\n- Sam Ro: advocates actively monitoring macro stress events rather than ignoring them — drawdowns are frequent even in secular bull markets; post-ATH 12-month returns are historically positive but vigilance builds investor resilience.\n- AI job displacement discussion is abstract and long-horizon; note the consensus view that large-scale reskilling programs have no successful historical precedent in the US.\n\n**FX / rates implications**\n- CXMT IPO and Chinese memory capacity build-out risk intensifying the US-China chip-control standoff — any US export control escalation is a CNY/CNH and broader EM risk-off catalyst via China growth fears.\n- A DRAM price collapse (Van Gelen's thesis) would lower AI infrastructure costs globally, accelerating automation-driven labor displacement — a long-run fiscal drag for EM sovereigns with weak social safety nets.\n\n**Watch list**\n- CXMT IPO timing and US regulatory response — watch for BIS/Commerce Dept action on Chinese memory chip producers as a China-tech sentiment trigger.\n- US chip export control policy evolution: any tightening incremental to existing rules would pressure CNH and Korea's memory/semis complex (KRW, SK Hynix, Samsung).",
+      "summarized_at": "2026-06-20T11:42:41.530596+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-20"
 }
