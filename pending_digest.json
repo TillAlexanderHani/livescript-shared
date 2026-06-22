@@ -1,4 +1,82 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "From Seconds to Strategy",
+      "published": "Mon, 22 Jun 2026 12:25:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1024_INNO25_GROSEMANS.mp3?dest-id=1534493",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "provider": "TMI - Treasury Management International",
+      "priority": 2,
+      "tags": [
+        "EUR",
+        "SEPA",
+        "ISO 20022",
+        "CBDC",
+        "Stablecoins",
+        "Payments",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nBNP Paribas global payments head Wim Grossman walks through Europe's instant payments regulatory overhaul — mandatory SEPA Instant reachability, Verification of Payee (VOP) rollout, removal of the €100,000 cap, and the November 2026 ISO 20-022 structured-address deadline. For an EM trader the primary read-through is indirect: European payment-rail modernisation sets the benchmark for cross-border settlement speed and data richness that corridor partners — including EM correspondent banks — will increasingly be expected to match.\n\n**Key points**\n- Eurozone SEPA Instant PSP coverage now above 91% by count, higher by transaction volume; VOP live from October 2025 with name-account verification before funds leave.\n- €100,000 cap on instant payments removed October 2025; high-value corporate use remains limited by intraday liquidity pre-positioning costs and opportunity cost of trapped bank liquidity outside business hours.\n- ISO 20-022 mandatory structured addresses by November 2026; LEI requirements likely post-2027; Grossman warns minimalist compliance creates compounding technical debt.\n- BNP Paribas already routing instant-payment messages to foreign correspondent banks for clearing into non-SEPA real-time schemes — cross-border instant corridors expanding.\n- Tokenised deposits, stablecoins and CBDCs flagged as complementary rather than disruptive; atomic settlement cited as the key unsolved problem existing rails cannot address; fragmentation of privately issued euro tokens is regulators' main concern.\n- AI embedded in pre-execution fraud flagging; data quality (ISO 20-022 structured data) is the binding constraint on AI utility.\n\n**FX / rates implications**\n- Faster SEPA settlement and cross-border instant links incrementally reduce FX float and cut-off friction on EUR-denominated corridors touching EM (MXN, BRL trade invoicing; Asian supply-chain EUR payments); tighter settlement windows compress the arbitrage window on FX legs.\n- CBDC/stablecoin atomic settlement commentary is directionally relevant to EM central banks (PBoC mBridge, RBI digital rupee pilots) — European regulatory stance on fragmentation shapes the interoperability template EM regulators will reference.\n\n**Watch list**\n- November 2026: ISO 20-022 structured-address hard deadline — watch for European bank system-change announcements affecting EM correspondent relationships.\n- Post-2027 LEI mandate rollout: could tighten KYC/AML friction on EM cross-border flows through European correspondent banks.",
+      "summarized_at": "2026-06-22T15:12:09.677881+00:00"
+    },
+    {
+      "title": "Grace Shao on What the World Should Know About Chinese AI",
+      "published": "Mon, 22 Jun 2026 08:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ec8ef41e-9021-43ba-a6fb-b46d013a0fc5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 3,
+      "tags": [
+        "CNY",
+        "CNH",
+        "HKD",
+        "Trade",
+        "Tariffs",
+        "Risk sentiment",
+        "China",
+        "EM Asia"
+      ],
+      "summary": "**Summary**\nBloomberg Odd Lots interviews independent researcher Grace Shao on the structure and trajectory of China's AI industry, recorded in Hong Kong. The episode is most relevant to the EM trader as a window into US-China tech rivalry, China's domestic stack-building away from Nvidia/CUDA, and a wave of Chinese AI IPOs landing in Hong Kong — all of which feed the capital-flow and geopolitical-risk narrative around CNH and HK markets.\n\n**Key points**\n- DeepSeek V4 delayed 3-4 months to re-engineer inference onto Huawei chips, becoming a shared open-weight foundation for China's model ecosystem — a deliberate signal of domestic-stack viability, not a full Nvidia replacement.\n- Chinese AI labs (Zhipu/GLM, MiniMax, Moonshot/Kimi) publicly valued at $20-30bn, IPO'd in HK at $6-8bn; Moonshot preparing for HK listing; ARR projections at $1-1.2bn for leading names — actual revenue generation, not just hype.\n- US chip export controls are the primary bottleneck; labs respond by focusing capex on post-training optimisation, waiting out data exclusivity windows (paying ~1/10th the price after 3-6 months), and accepting big-tech compute buyouts of data-centre contracts.\n- Tencent building a WeChat-native agent (1.4bn MAU) though facing internal pushback; Beijing regulators quickly cautioned banks and state entities against adopting foreign AI (Claude/OpenAI) after brief open-claw enthusiasm — data-sovereignty concern explicit.\n- Chinese government frames AI as top-down economic KPI: provincial infrastructure (buildings, compute, dormitories) provided to startups; 11-12 AI pilot zones active; energy not a bottleneck given pre-built grid from urbanisation buildout.\n- Hardware/robotics edge: China's manufacturing cluster means robots produced at <50% global cost; EV-to-production cycle 15 months vs 3-5 years for legacy OEMs; battery life (2-hr limit) remains the binding constraint on physical AI.\n\n**FX / rates implications**\n- Ongoing US chip export controls sustain a geopolitical risk premium in CNH; DeepSeek's Huawei pivot reduces but does not eliminate China's import dependency on advanced semiconductors — marginally positive for China's trade balance over time.\n- HK AI IPO pipeline (Moonshot next) supports near-term institutional inflows into HK equities, underpinning HKD demand at the fixing band.\n- Beijing's swift restriction on foreign AI adoption in state-linked entities (banks, SOEs) reinforces data-sovereignty policy posture — a channel through which US-China tech tension can escalate into broader risk-off for EM Asia.\n- US enterprises increasingly hybrid-routing workloads to Chinese open-source models (GLM, Kimi) for cost; if this trend broadens it implies demand for CNH-denominated API services and incremental FX flow.\n\n**Watch list**\n- Moonshot/Kimi HK IPO timeline and pricing — key sentiment gauge for China tech flows into HKD.\n- Any new round of US BIS export-control action targeting Huawei AI chips or cloud services — binary risk event for CNH.\n- Tencent WeChat agent formal launch and regulatory clearance — could re-rate Tencent and drive HK tech index.",
+      "summarized_at": "2026-06-22T15:21:57.636810+00:00"
+    },
+    {
+      "title": "Credit Crunch: BlackRock’s Rosenberg on Systematic, AI Impacts",
+      "published": "Mon, 22 Jun 2026 10:30:00 -0000",
+      "url": "https://traffic.megaphone.fm/BLM9262440740.mp3",
+      "feed": "Bloomberg FICC Focus",
+      "provider": "Bloomberg Intelligence",
+      "priority": 3,
+      "tags": [
+        "UST 10y",
+        "Fed",
+        "Inflation",
+        "Credit",
+        "Risk sentiment",
+        "Fiscal",
+        "Carry",
+        "DXY"
+      ],
+      "summary": "**Summary**\nBlackRock Systematic's Jeffrey Rosenberg dissects the structural breakdown in stock-bond negative correlation and the secular rise in US Treasury term premium — arguing that persistent supply-side inflation shocks have robbed the Fed of its \"divine coincidence\" and permanently altered the fixed-income landscape. For EM traders, this reframes the global risk-free rate backdrop: higher, more volatile US long-end yields with weaker bond-equity diversification reduce the carry cushion for EM and amplify UST-driven EM rate volatility.\n\n**Key points**\n- Stock-bond correlation has oscillated near zero since 2020, versus reliably negative for the prior 30 years; bonds failed again to hedge equity drawdowns in March 2025.\n- The driver: four consecutive supply-side shocks (COVID, Ukraine, tariffs, Iran conflict) vs. 30 years of demand-side shocks in a below-target inflation world — flipping the Fed's \"divine coincidence\" into \"cursed conflict\" between its dual mandates.\n- Term premium is in the early stages of a secular re-pricing higher: fiscal deficits, reshoring capex, AI investment demand, and inflation uncertainty all push long-end real yields up; Rosenberg sees the LDI bid meeting supply at progressively higher clearing yields rather than capping them.\n- Above-5% yield levels attract duration buyers (LDI, pension immunisers), creating range-bound near-term dynamics, but the secular direction is for a steeper, higher term premium curve.\n- AI/LLMs are enabling systematic credit managers to extract far richer signal from broker research (full document context vs. just buy/sell/hold + price target), raising the skill component while retaining breadth advantages — a structural shift toward continuous-time portfolio management in credit.\n\n**FX / rates implications**\n- A structurally higher and more volatile UST term premium is a headwind for EM local-currency bond markets: it compresses carry appeal, raises the hurdle rate for foreign inflows into EM duration, and tends to support DXY — negative for EM FX broadly.\n- The loss of reliable bond-equity diversification increases cross-asset correlation in risk-off episodes, meaning EM FX and rates are more exposed to simultaneous UST sell-offs alongside equity drawdowns (no flight-to-quality UST rally to cushion EM positions).\n- For carry-dependent EM books (INR, IDR, MXN, BRL), a regime where the Fed faces conflicting objectives means shallower and slower cut cycles, keeping US short rates elevated and reducing carry return per unit of FX vol.\n\n**Watch list**\n- Fed communication on the inflation-growth trade-off (\"cursed conflict\" framing): any signal of accelerated cuts could temporarily restore negative stock-bond correlation and support EM duration.\n- US 30y yield and term premium trackers (ACM, KW): a sustained push through 5% on the long end would test LDI demand and pressure EM sovereign spreads.\n- Supply-shock pipeline: further tariff escalation or energy disruptions extend the inflationary shock sequence Rosenberg identifies as the root cause of the correlation regime shift.",
+      "summarized_at": "2026-06-22T15:28:24.112517+00:00"
+    },
+    {
+      "title": "InvesTips from the CIO’s desk – Forex fortunes",
+      "published": "Mon, 22 Jun 2026 20:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19383286-investips-from-the-cio-s-desk-forex-fortunes.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 2,
+      "tags": [
+        "USD",
+        "EUR",
+        "Forex",
+        "Inflation",
+        "Trade",
+        "Interest rates"
+      ],
+      "summary": "**Summary**\nStandard Chartered's retail-facing podcast delivers an introductory explainer on the foreign exchange market aimed at everyday investors. The episode covers no proprietary views, no market calls, and no EM-specific content — relevance to a professional EM FX/rates trader is minimal.\n\n**Key points**\n- Describes FX as the world's largest financial market, driven by supply and demand for currencies\n- Lists five textbook drivers of currency moves: interest rate differentials (carry), inflation, economic growth, trade balance (current account), and geopolitical/headline risk\n- Recommends retail investors access currencies via ETFs or multi-currency fixed deposits rather than direct spot trading, citing unpredictability and transaction costs\n- No specific currency pairs, levels, data prints, central bank views or market forecasts are offered at any point",
+      "summarized_at": "2026-06-22T15:29:21.650998+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-22"
 }
