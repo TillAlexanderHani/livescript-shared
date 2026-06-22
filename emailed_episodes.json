@@ -11612,8 +11612,15 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-06-20T11:42:41.530596+00:00",
       "episode_id": "9137b64c5867c3df"
+    },
+    "bc53069d94fb8dfa": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19381655-cut-to-the-chase-key-demand-for-gold-remains-intact.mp3",
+      "title": "Cut to the Chase! Key demand for gold remains intact",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-22T06:16:47.784845+00:00",
+      "episode_id": "bc53069d94fb8dfa"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-20T11:42:41.530642+00:00"
+  "last_updated": "2026-06-22T06:16:47.784884+00:00"
 }
