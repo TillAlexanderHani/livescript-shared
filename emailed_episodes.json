@@ -11696,8 +11696,22 @@
       "feed": "Standard Chartered India - Money Insights",
       "processed": "2026-06-23T04:56:46.248566+00:00",
       "episode_id": "37a86a81c959af6a"
+    },
+    "7f53cb871681fa81": {
+      "url": "https://traffic.megaphone.fm/CLS2722061524.mp3",
+      "title": "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-06-23T12:37:29.229989+00:00",
+      "episode_id": "7f53cb871681fa81"
+    },
+    "302b84ee017b46d0": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/04389987-39f7-48d5-8ec0-769bc7490dec/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=04389987-39f7-48d5-8ec0-769bc7490dec&feed=IFy3imsg&t=podcast&e=nx-s1-5866762&p=510325&d=528&size=8452894",
+      "title": "Why the $250 bill would be good … For criminals!",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-23T12:40:57.768065+00:00",
+      "episode_id": "302b84ee017b46d0"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-23T04:56:46.248610+00:00"
+  "last_updated": "2026-06-23T12:40:57.768134+00:00"
 }
