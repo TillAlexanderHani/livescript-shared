@@ -11717,8 +11717,22 @@
       "feed": "Goldman Sachs Exchanges",
       "processed": "2026-06-23T16:17:49.836104+00:00",
       "episode_id": "84eb3b2d8fac3b20"
+    },
+    "2d61c2d54355364b": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/89e89307-9b9a-406d-af0c-728f9a35bad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=89e89307-9b9a-406d-af0c-728f9a35bad8&feed=tc4zxWgX",
+      "title": "Fading Memory, Retail Renaissance, and Standby on SpaceX 6/23/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-23T19:40:22.510260+00:00",
+      "episode_id": "2d61c2d54355364b"
+    },
+    "db1188e7f6ca5b1a": {
+      "url": "https://traffic.libsyn.com/secure/imfpodcast/Jeffrey_Frieden-Coercion--MIX_2.mp3?dest-id=355221",
+      "title": "Jeffry Frieden: The Cost of Geoeconomic Coercion",
+      "feed": "IMF Podcasts",
+      "processed": "2026-06-23T19:45:21.074466+00:00",
+      "episode_id": "db1188e7f6ca5b1a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-23T16:17:49.836145+00:00"
+  "last_updated": "2026-06-23T19:45:21.074505+00:00"
 }
