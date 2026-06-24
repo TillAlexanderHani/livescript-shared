@@ -79,6 +79,28 @@
       ],
       "summary": "**Summary**\nThis Planet Money/Throughline episode traces the history of election prediction markets from 16th-century papal betting through the Curb Exchange outside the NYSE to the 1988 founding of the Iowa Electronic Markets (IEM) and the eventual rise of Kalshi and Polymarket. The only tangentially relevant angle for a macro trader is the brief discussion of political risk hedging — corporations calling the IEM seeking to offset exposure to candidate-specific policy risk — and the CFTC's role in granting the IEM a limited no-action exemption to operate.\n\n**Key points**\n- The IEM, founded by University of Iowa economists after polls missed Jesse Jackson's 1988 Michigan caucus upset, beat traditional polls 74% of the time between 1988 and 2004.\n- CFTC issued a no-action letter allowing the IEM to operate under strict caps: max $500 per participant, no paid advertising, no-profit structure, elections only.\n- Pre-WWII Curb Exchange election markets were used by political machines to publicly back candidates while privately hedging the opposing side — an early documented example of political risk hedging.\n- Modern platforms (Kalshi, Polymarket) have replicated the IEM's core contract design at vastly greater scale and asset breadth.\n- Election markets historically faded in the 1940s partly because horse racing offered far higher frequency — an analogy to liquidity migration toward higher-velocity venues.",
       "summarized_at": "2026-06-24T12:15:15.927554+00:00"
+    },
+    {
+      "title": "Fed talk",
+      "published": "Wed, 24 Jun 2026 13:00:00 -0000",
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH4109652575.mp3",
+      "feed": "Reuters Econ World",
+      "provider": "Reuters",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "ECB",
+        "EUR",
+        "Inflation",
+        "Risk sentiment",
+        "Forward guidance",
+        "Rates"
+      ],
+      "summary": "**Summary**\nKevin Warsh, the new Fed chair, is dismantling the post-Bernanke era of expansive forward guidance — shorter statements, no rate path signalling, and a full communications review underway. For EM traders, this regime shift matters acutely: reduced Fed transparency injects structural volatility into US rates and the dollar, repricing carry and capital flow assumptions across EM.\n\n**Key points**\n- Warsh's first press conference was perceived as hawkish by markets even though the statement was not — his first communication under the new, less-explicit regime inadvertently moved pricing toward earlier/deeper hikes.\n- The dot plot is explicitly under review; Warsh views it as a mechanism that spoon-feeds long-end pricing rather than letting supply/demand set it.\n- Press conferences may be made discretionary rather than post-every-meeting, which would itself become a signal — any unscheduled presser would be treated as event-risk.\n- Historical ECB case study: forward guidance credibility eroded when Lagarde committed to no 2022 hike and then was forced to execute the fastest hiking cycle on record; Warsh is partly motivated by avoiding the same trap.\n- Internal Fed debate is also muddied by the sheer volume of regional president speak — Warsh wants to reduce noise, not just change the chair's tone.\n\n**FX / rates implications**\n- Higher structural volatility in UST 10y = wider EM rate differentials are less stable anchors for carry; high-yielders like INR, IDR, BRL, MXN face choppier funding backdrop.\n- If market reads Warsh as hawkish by default (as it did at his first presser), USD/DXY bias stays bid, pressuring EM FX broadly — watch USDINR, USDMXN, USDBRL for dollar-driven stress.\n- Discretionary press conferences would compress information flow into fewer, higher-volatility events; EM vol surfaces should reprice around FOMC dates accordingly.\n- ECB is flagged as already moving to raise rates first among majors in 2026 inflation episode — EUR support, with knock-on for EM via risk-on channels if ECB action anchors global inflation expectations.\n\n**Watch list**\n- Fed communications review outcome: timeline and scope of dot plot/press conference changes.\n- Next FOMC meeting: watch whether Warsh's statement language is deliberately neutral or again reads hawkish — that sets the new baseline for USD and UST.\n- ECB rate decision: described as \"first among majors\" to hike in the current cycle; confirmation would strengthen EUR and signal global rate divergence.\n- UST 10y level: with less Fed hand-holding, supply/demand dynamics reassert — any auction tail or fiscal news hits harder.",
+      "summarized_at": "2026-06-24T16:09:02.190613+00:00"
     }
   ],
   "last_digest_date": "2026-06-24"
