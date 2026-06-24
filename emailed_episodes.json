@@ -11787,8 +11787,15 @@
       "feed": "Reuters Econ World",
       "processed": "2026-06-24T16:09:02.190613+00:00",
       "episode_id": "54ee96065a1dc461"
+    },
+    "60b753db0a57f6fd": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/0049e013-8744-4774-95b2-c20c11abc5d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=0049e013-8744-4774-95b2-c20c11abc5d0&feed=tc4zxWgX",
+      "title": "Memory’s Micron Moment, Congressional Clash, and Just a June Swoon? 6/24/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-24T19:28:58.643867+00:00",
+      "episode_id": "60b753db0a57f6fd"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-24T16:09:02.190643+00:00"
+  "last_updated": "2026-06-24T19:28:58.643910+00:00"
 }
