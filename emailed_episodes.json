@@ -11766,8 +11766,22 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-06-24T05:09:06.867874+00:00",
       "episode_id": "7a48ec4c0092ed4b"
+    },
+    "29f367b914c9b244": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910",
+      "title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
+      "feed": "Planet Money",
+      "processed": "2026-06-24T12:15:15.927554+00:00",
+      "episode_id": "29f367b914c9b244"
+    },
+    "554f87da7d581529": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/10e72db5-3a7e-44a7-beb4-3021b8d5cb8f/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=10e72db5-3a7e-44a7-beb4-3021b8d5cb8f&feed=IFy3imsg&t=podcast&e=nx-s1-5868593&p=510325&d=594&size=9506987",
+      "title": "How stock options made him an overnight millionaire",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-24T12:17:37.799676+00:00",
+      "episode_id": "554f87da7d581529"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-24T05:09:06.867922+00:00"
+  "last_updated": "2026-06-24T12:17:37.799716+00:00"
 }
