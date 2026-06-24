@@ -1,4 +1,69 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The US dollar’s ‘immigrant’ origins",
+      "published": "Wed, 24 Jun 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a3acbd6d80106fbdf15b22b/media.mp3",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "provider": "Financial Times",
+      "priority": 3,
+      "tags": [
+        "USD",
+        "DXY",
+        "Fed",
+        "CNY",
+        "Reserve currency",
+        "Swap lines",
+        "De-dollarization",
+        "Stablecoins",
+        "Risk sentiment",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nFT podcast traces the dollar's origins from a 16th-century Bohemian silver mine to frame a live central-banker debate on whether USD dominance is fracturing. The core macro insight — that the dollar's durability historically rested on decentralised merchant demand rather than sovereignty — implies it could outlive the current US-led system even as American geopolitical leverage erodes. The final segment contains the most actionable market content.\n\n**Key points**\n- Multiple central bank governors and finance ministers are actively debating whether dollar dominance can persist; author Brendan Greeley reports these conversations are ongoing after recent CB meetings\n- Washington is signalling it may use Fed swap lines as a geopolitical lever; non-US central banks are quietly discussing contingency dollar-swap arrangements among themselves as a last-resort backstop\n- One unnamed CB governor confirmed increasing dollar reserves — doubling down, not diversifying — as a precautionary buffer against potential US swap-line withdrawal\n- Gulf states (Saudi Arabia specifically cited) hold large dollar reserves and could serve as regional dollar liquidity providers if Fed lines are restricted\n- Stablecoins framed as a Treasury-sanctioned mechanism to propagate dollar usage offshore without direct Fed control — a modern echo of the historical Eurodollar dynamic\n- The Eurodollar market described as offshore dollar creation without Fed permission, with limited US regulatory reach, drawing an explicit historical parallel to the 16th-century copy-of-copy coin spread\n\n**FX / rates implications**\n- Swap line weaponisation is a latent tail risk for EM central banks: any dollar funding stress episode that excludes certain jurisdictions would spike USD demand and compress EM FX broadly — watch for any White House/Treasury conditioning language\n- The \"doubling down on dollars\" signal from at least one CB governor argues against a consensus EM reserve-diversification trade; undermines structural short-USD or long-gold positioning premised on CB de-dollarisation\n- CNY as challenger faces the historical trust barrier illustrated by the rejected Mexican eagle coin — merchant/trade network inertia favours USD incumbency despite geopolitical pressure\n- Dollar system resilience (merchant demand over sovereignty) implies DXY displacement requires broad trade-network rewiring, not merely US fiscal deterioration\n\n**Watch list**\n- Fed swap line policy: any White House or Treasury statement conditioning lines on geopolitical compliance is the key trigger\n- IMF COFER quarterly reserve data: watch USD share for inflection away from the \"doubling down\" narrative\n- US stablecoin legislation: passage accelerates offshore dollar proliferation and reinforces dollar hegemony\n- PBoC bilateral swap line expansion and CNY SWIFT share for signs of meaningful internationalisation",
+      "summarized_at": "2026-06-24T05:00:29.032811+00:00"
+    },
+    {
+      "title": "Data Centers aren't the bubble with Eugene McGrane",
+      "published": "Tue, 23 Jun 2026 23:00:00 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/7fca960b-e4e2-4e99-9be2-f48ba8acd3ec/group-item/e55058c2-735b-4be1-8858-e9e242015eaf/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "feed": "The HC Commodities Podcast",
+      "provider": "HC Group",
+      "priority": 2,
+      "tags": [
+        "Capex",
+        "AI Infrastructure",
+        "Power",
+        "Data Centers",
+        "Real Estate",
+        "S&P 500",
+        "Risk sentiment",
+        "Credit"
+      ],
+      "summary": "**Summary**\nEugene McGrane of Cushman & Wakefield makes the case that data center infrastructure is not a bubble in the traditional sense — the physical compute layer is structurally undersupplied, demand is pre-leased, and vacancy rates are near zero — even if AI equity valuations are frothy. The distinction matters for macro traders because massive capex flows into hard infrastructure are a distinct risk from the speculative premium in AI stocks.\n\n**Key points**\n- Global data center capacity under construction has risen from ~12.5 GW in 2025 to 32 GW currently, ~80% in the US; individual hyperscaler projects (e.g. Meta's Hyperion, Louisiana) are 5-6 GW each.\n- Pre-leasing on projects under construction is near-complete; vacancy rates are minimal, undercutting the overcapacity narrative.\n- Power access — not land or chips — is the primary bottleneck; ERCOT interconnection queue deposits have reached $5,000/MW with mandatory 4-5 year offtake commitments.\n- Berkshire Hathaway committed $80bn to Google's infrastructure buildout, cited as validation that these assets underwrite on conventional NPV at current cost of capital (not zero-rate unicorn math).\n- Commonwealth Fusion Systems has a signed 200 MW PPA with Dominion Energy (Virginia), targeting 2030 delivery — first commercial fusion deployment.\n- Key risk framed: companies building solely to maintain competitive parity (Buffett's \"capital investment trap\") rather than to generate incremental returns — most acute for Google/Alphabet.\n\n**FX / rates implications**\n- The capex supercycle reinforces USD demand via US-centric infrastructure spend and reshoring; directionally supportive of DXY and US rate stickiness if investment sustains above-trend growth.\n- A 30% equity drawdown scenario (discussed hypothetically) would compress risk appetite broadly — negative carry for EM FX — but the guest argues data center assets would remain cash-flow positive, limiting contagion to the real economy relative to a pure financial shock.\n- Fusion/advanced energy breakthroughs, if commercialized, would structurally alter global energy commodity pricing (Brent, gas, coal) with asymmetric EM impact on energy-exporter currencies (COP, MXN) and importer relief (INR, PHP).\n\n**Watch list**\n- SpaceX IPO pricing/performance as a sentiment barometer for AI-adjacent risk assets.\n- Commonwealth Fusion / Dominion 200 MW PPA milestones (2030 target) — monitor for fusion commercialization signals.\n- ERCOT interconnection queue pricing as a real-time stress gauge on US power infrastructure demand.",
+      "summarized_at": "2026-06-24T05:08:08.739933+00:00"
+    },
+    {
+      "title": "Cut to the Chase! The Magnificent Seven and the correction",
+      "published": "Wed, 24 Jun 2026 10:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19393842-cut-to-the-chase-the-magnificent-seven-and-the-correction.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "S&P 500",
+        "Magnificent Seven",
+        "AI Capex",
+        "Fed",
+        "FOMC",
+        "UST 10y",
+        "Inflation",
+        "Risk sentiment",
+        "IPO",
+        "DXY"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Daniel Lam flags that the Magnificent Seven has entered correction territory (down 10%), driven by narrowing net income growth versus the rest of S&P 500, a maturing AI capex cycle pushing hyperscalers to tap external capital, and a hawkish FOMC tilt prioritizing inflation control over employment support. For EM FX/rates traders, the risk-off impulse from US equity weakness and a higher-for-longer Fed narrative is the key transmission channel.\n\n**Key points**\n- Mag 7 down 10%, triggering rotation into broader S&P 500 names as earnings growth differential narrows\n- 2025 IPO pipeline estimated at 3x the combined volume of the prior four years, absorbing liquidity and contributing to the correction\n- FOMC hawkish tilt: recent meeting showed Fed prioritizing inflation control over labor market support, pushing rate cut expectations further out\n- US macro backdrop is \"good news is bad news\" — strong data sustains inflation pressure, delaying easing\n- Lam sees S&P 500 support at 100-day MA ~7,050, then 6,750 as potential add levels\n- Middle East de-escalation cited as a potential inflation relief valve that could eventually reduce tail risk of further hikes\n\n**FX / rates implications**\n- Higher-for-longer Fed directly supports USD/DXY, pressuring EM carry and keeping USDINR, USDMXN, USDBRL biased to the upside near term\n- Risk-off from Mag 7 correction can trigger EM equity outflows, widening EM credit spreads and adding depreciation pressure on high-beta EM FX (IDR, PHP, BRL, COP)\n- Any durable equity stabilization at 7,050 support could restore risk appetite and provide EM relief\n\n**Watch list**\n- S&P 500 100-day MA at 7,050 and secondary support at 6,750\n- Next US inflation print (CPI/PCE) for Fed trajectory re-pricing\n- Middle East ceasefire developments as an oil/inflation wildcard",
+      "summarized_at": "2026-06-24T05:09:06.867874+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-24"
 }
