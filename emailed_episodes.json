@@ -11822,8 +11822,36 @@
       "feed": "PIMCO Pod",
       "processed": "2026-06-25T05:03:47.167569+00:00",
       "episode_id": "edc80923f363496f"
+    },
+    "62cac0e603f9c50f": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a3cbb6a5a67dba1ad7616e8/media.mp3",
+      "title": "Equity league tables with a side of history",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-06-25T12:09:44.690039+00:00",
+      "episode_id": "62cac0e603f9c50f"
+    },
+    "ee4e9a36b2f3c4bf": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/c2695185-bd74-4f28-9efa-b47300f4a97a/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How the 1994 World Cup Transformed the Business of Football Forever",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-06-25T12:21:15.945398+00:00",
+      "episode_id": "ee4e9a36b2f3c4bf"
+    },
+    "03b4a9f8a64afa0f": {
+      "url": "https://traffic.megaphone.fm/BLM4339365937.mp3",
+      "title": "Macro Matters: Huw Worthington on ECB, Gilts and Rate Outlook",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-06-25T12:25:35.970560+00:00",
+      "episode_id": "03b4a9f8a64afa0f"
+    },
+    "86443962c721e01b": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/774d8334-071e-4b89-8dd9-c4ff60a82980/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=774d8334-071e-4b89-8dd9-c4ff60a82980&feed=IFy3imsg&t=podcast&e=nx-s1-5869549&p=510325&d=526&size=8421964",
+      "title": "AI is pumping out books. Are they any good?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-25T12:27:36.662710+00:00",
+      "episode_id": "86443962c721e01b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-25T05:03:47.167612+00:00"
+  "last_updated": "2026-06-25T12:27:36.662752+00:00"
 }
