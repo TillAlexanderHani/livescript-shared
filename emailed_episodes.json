@@ -11976,8 +11976,36 @@
       "feed": "Capital Economics Weekly Briefing",
       "processed": "2026-06-26T16:19:24.032431+00:00",
       "episode_id": "eec4f648ff2c50ec"
+    },
+    "0e10bbcc7e563513": {
+      "url": "https://mcdn.podbean.com/mf/web/eeaniwiy6vyyjgqi/AAREM260626_KAL-1-2P9WWVJL.mp3",
+      "title": "EM Fixed Income: Mid-year outlook, amid a moving target backdrop",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-06-26T19:27:06.323821+00:00",
+      "episode_id": "0e10bbcc7e563513"
+    },
+    "cc33a5abfaedbca7": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19405862-brewing-a-bromance-between-burnham-and-bonds.mp3",
+      "title": "Brewing a bromance between Burnham and bonds",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-06-26T19:33:54.417946+00:00",
+      "episode_id": "cc33a5abfaedbca7"
+    },
+    "0c58592d0a87ab46": {
+      "url": "https://mcdn.podbean.com/mf/web/neetdfju2em9hs5a/Podcast_06-26-26.mp3",
+      "title": "Current spring row crop conditions: How we lookin’, are we cookin'?",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-06-26T19:37:18.851437+00:00",
+      "episode_id": "0c58592d0a87ab46"
+    },
+    "3464af63a520eb13": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP.mp3?dest-id=4287628",
+      "title": "Kenya's China Debt Restructuring Explained",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-06-26T19:42:53.542575+00:00",
+      "episode_id": "3464af63a520eb13"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-26T16:19:24.032467+00:00"
+  "last_updated": "2026-06-26T19:42:53.542618+00:00"
 }
