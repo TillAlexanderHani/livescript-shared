@@ -1,4 +1,51 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "S&P to 8,000 This Year?",
+      "published": "Fri, 26 Jun 2026 04:00:00 -0000",
+      "url": "https://traffic.megaphone.fm/GLD6774384043.mp3",
+      "feed": "Goldman Sachs The Markets",
+      "provider": "Goldman Sachs",
+      "priority": 3,
+      "tags": [
+        "S&P 500",
+        "Fed",
+        "UST 10y",
+        "DXY",
+        "KRW",
+        "TWD",
+        "Risk sentiment",
+        "Carry",
+        "Inflation",
+        "Equities"
+      ],
+      "summary": "**Summary**\nGoldman's head of Americas equity sales trading lays out a constructive S&P 500 bull case targeting 8,000, anchored in record earnings momentum and a broadening buyback bid. The single most important risk flagged for EM traders: markets are currently pricing ~40 bps of Fed hikes by year-end following a more hawkish-than-expected Warsh-led June FOMC — Goldman's own economists do not expect a hike, and a hold would function as an effective ease, which is the key binary for USD/EM dynamics.\n\n**Key points**\n- June FOMC (Warsh's first meeting as chair) characterised as more hawkish than expected; rates market pricing ~40 bps of hikes by year-end\n- Goldman economists do not expect any hike; a hold = effective cut in market perception\n- Two June IPOs totalled $140 bn notional — first and second largest primary capital raises in US history within a two-week window; retail demand accelerating\n- Record single-day volume: 34 bn shares traded on one session, surpassing Liberation Day 2025\n- Corporate buybacks broadening materially — 50–60 active programs/day on Goldman's desk vs. ~10 two years ago; record repurchase year expected even with some Mag Seven pauses\n- Semis and semi-equipment the dominant crowded momentum trade; Korea and Taiwan cited as the primary equity expression\n- Near-term headwind: pension rebalancing estimated at ~$30 bn in US equity sales over June 29–30\n- Q1 median EPS +14% YoY; Q2 consensus at +9% YoY, seen as achievable\n\n**FX / rates implications**\n- Hawkish Fed repricing (40 bps hikes priced) is the core USD-positive risk for EM — if Goldman's no-hike base case holds, a hold-as-cut dynamic would compress USD/DXY and support INR, IDR, MXN, BRL carry\n- Korea and Taiwan flagged as high-concentration equity plays in semis; crowded positioning creates tail risk for KRW and TWD on any semis de-rating or profit-taking\n- $30 bn end-of-month pension equity selling could briefly lift UST demand, nudging yields lower — a marginal positive for EM duration heading into July\n- Continued S&P strength and record institutional/retail bid sustains the risk-on backdrop underpinning EM carry, but semi crowding is an idiosyncratic volatility source in KRW and TWD\n\n**Watch list**\n- Fed hold vs. hike: 40 bps priced in by year-end — any labour/CPI data shifting that pricing is the dominant USD/EM catalyst\n- Pension rebalancing flows June 29–30: potential near-term US equity soft patch and UST bid\n- Q2 US earnings season (early July): 9% YoY consensus is the hurdle; beat or miss sets tone for H2 risk appetite and EM flows\n- Semis positioning in KRW/TWD: monitor for squeeze or unwind as hedge funds cited as short Mag Seven to fund semi exposure",
+      "summarized_at": "2026-06-26T05:01:40.512669+00:00"
+    },
+    {
+      "title": "265: Inflation and Investing: What Sticky Prices Mean for Portfolios Today - Ask Me Anything",
+      "published": "Fri, 26 Jun 2026 04:00:00 -0000",
+      "url": "https://rss.art19.com/episodes/028cb1c5-bd62-41ac-b54f-6c4559d69180.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "BlackRock - The Bid",
+      "provider": "BlackRock",
+      "priority": 3,
+      "tags": [
+        "Fed",
+        "ECB",
+        "Inflation",
+        "CPI",
+        "UST 10y",
+        "Bund",
+        "Brent",
+        "Copper",
+        "CNY",
+        "DXY",
+        "Carry",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nBlackRock's Global TAA senior PM and International Equities CIO argue that AI infrastructure capex, fiscal expansion, and Middle East supply constraints have structurally re-anchored inflation above target across Western economies, validating a short-duration bias since 2021. For EM FX/rates traders the key transmission is higher-for-longer Fed and ECB, sustained USD firmness, and commodity price floors — all headwinds for rate-sensitive EM carry.\n\n**Key points**\n- US tech sector guiding ~$800 bn in AI capex this year, driving excess demand in electricity, copper, chips and construction; global electricity demand growth from AI equivalent to adding a Japan per year\n- ~80 million barrels of crude and refined products reported trapped in the Persian Gulf at time of recording; Middle East supply constraints lifting oil and broader commodity prices\n- ECB renewed its hiking cycle at time of recording; Fed rate cuts priced only toward year-end — five-plus years of consecutive above-target inflation misses across Western central banks\n- China flagged explicitly as a deflationary outlier: closed consumption basket and housing market drag have kept it in a low/negative inflation regime, contrasting sharply with US and Europe\n- Stock-bond correlation turns positive when inflation exceeds target, undermining 60/40 diversification; BlackRock has held short nominal duration since 2021\n- Pricing power concentrated in energy, AI infrastructure, and commodities (copper, gas); food and consumer-staple companies squeezed by input costs with no pass-through ability\n\n**FX / rates implications**\n- Sticky US inflation plus delayed Fed cuts keeps DXY supported — broad headwind for EM Asia and LATAM high-beta FX (MXN, BRL, IDR, PHP)\n- Persistent oil and copper supply constraints provide a floor for commodity-linked EM currencies: CLP and PEN (copper/metals), COP and MXN (oil)\n- China's deflationary divergence limits aggressive PBoC easing; CNY stability maintained but no strong upside catalyst from domestic demand\n- ECB resuming hikes compresses EUR carry drag versus EM, marginally supportive for EM carry trades funded in EUR\n\n**Watch list**\n- US CPI/PCE/PPI prints: any upside surprise pushes Fed cuts further out, reinforcing USD strength\n- Persian Gulf crude situation: escalation risks an oil spike that widens EM commodity divergence\n- LME copper: proxy for AI infrastructure demand intensity and a direct signal for CLP and PEN",
+      "summarized_at": "2026-06-26T05:05:52.943232+00:00"
+    }
+  ],
   "last_digest_date": "2026-06-26"
 }

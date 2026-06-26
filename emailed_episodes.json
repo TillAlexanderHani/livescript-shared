@@ -11885,8 +11885,29 @@
       "feed": "PIMCO Pod",
       "processed": "2026-06-25T23:14:49.635414+00:00",
       "episode_id": "5ea733c5c33a57a7"
+    },
+    "e247ab36505b13af": {
+      "url": "https://traffic.megaphone.fm/GLD6774384043.mp3",
+      "title": "S&P to 8,000 This Year?",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-06-26T05:01:40.512669+00:00",
+      "episode_id": "e247ab36505b13af"
+    },
+    "ef107062a6a16393": {
+      "url": "https://rss.art19.com/episodes/028cb1c5-bd62-41ac-b54f-6c4559d69180.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "265: Inflation and Investing: What Sticky Prices Mean for Portfolios Today - Ask Me Anything",
+      "feed": "BlackRock - The Bid",
+      "processed": "2026-06-26T05:05:52.943232+00:00",
+      "episode_id": "ef107062a6a16393"
+    },
+    "5525de68a50e9f8f": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a3da31989bd87284089d71c/media.mp3",
+      "title": "How to win at AI (if you’re not the US or China), with AI minister Kanishka Narayan",
+      "feed": "The Economics Show",
+      "processed": "2026-06-26T05:11:40.680392+00:00",
+      "episode_id": "5525de68a50e9f8f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-25T23:14:49.635458+00:00"
+  "last_updated": "2026-06-26T05:11:40.680455+00:00"
 }
