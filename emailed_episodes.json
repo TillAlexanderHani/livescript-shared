@@ -11955,8 +11955,29 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-06-26T12:38:04.735488+00:00",
       "episode_id": "0572750b157c50b2"
+    },
+    "7eddb29a2fc912b0": {
+      "url": "https://mcdn.podbean.com/mf/web/zm2fdi9igfmhgf3k/AARFX260626_KAL-1-LXYNF9CF.mp3",
+      "title": "Global FX: Mid-Year Outlook pushbacks, payrolls, CNY, GBP",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-06-26T16:06:02.006844+00:00",
+      "episode_id": "7eddb29a2fc912b0"
+    },
+    "3984cb6a9a84c4f1": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV3867456588.mp3",
+      "title": "The Rebasement Trade",
+      "feed": "Macro Trading Floor",
+      "processed": "2026-06-26T16:13:35.290969+00:00",
+      "episode_id": "3984cb6a9a84c4f1"
+    },
+    "eec4f648ff2c50ec": {
+      "url": "https://media.transistor.fm/ae0da15f/7da291d6.mp3",
+      "title": "AI's macro boost, a hawkish Fed and Burnham's balancing act",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-06-26T16:19:24.032431+00:00",
+      "episode_id": "eec4f648ff2c50ec"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-26T12:38:04.735527+00:00"
+  "last_updated": "2026-06-26T16:19:24.032467+00:00"
 }
