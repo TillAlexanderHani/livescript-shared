@@ -12053,8 +12053,15 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-06-27T11:25:21.479317+00:00",
       "episode_id": "93710e4fea6fb7e3"
+    },
+    "764192035d43a1b4": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19415843-cut-to-the-chase-the-taiwanese-equities-rally.mp3",
+      "title": "Cut to the Chase! The Taiwanese equities rally",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-29T05:22:30.866206+00:00",
+      "episode_id": "764192035d43a1b4"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-27T11:25:21.479352+00:00"
+  "last_updated": "2026-06-29T05:22:30.866250+00:00"
 }
