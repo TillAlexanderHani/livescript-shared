@@ -12060,8 +12060,29 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-06-29T05:22:30.866206+00:00",
       "episode_id": "764192035d43a1b4"
+    },
+    "60c8addfeff1ab73": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f5c05315-7559-4fa4-a6da-b47400f7cb90/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Baidu's CFO on How It Became a Full-Stack AI Player",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-06-29T14:01:52.225920+00:00",
+      "episode_id": "60c8addfeff1ab73"
+    },
+    "a8d0aa492798777b": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19416523-investips-from-the-cio-s-desk-who-wants-to-be-average.mp3",
+      "title": "InvesTips from the CIO’s desk – Who wants to be average?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-06-29T14:02:46.546757+00:00",
+      "episode_id": "a8d0aa492798777b"
+    },
+    "d77d9e277430566f": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/869fbae9-6e1f-4f35-9aa1-03e8e3125a7d/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=869fbae9-6e1f-4f35-9aa1-03e8e3125a7d&feed=IFy3imsg&t=podcast&e=nx-s1-5872779&p=510325&d=561&size=8977850",
+      "title": "What you should know about your student loans",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-29T14:04:03.486481+00:00",
+      "episode_id": "d77d9e277430566f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-29T05:22:30.866250+00:00"
+  "last_updated": "2026-06-29T14:04:03.486512+00:00"
 }
