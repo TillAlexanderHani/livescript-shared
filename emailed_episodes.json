@@ -12081,8 +12081,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-06-29T14:04:03.486481+00:00",
       "episode_id": "d77d9e277430566f"
+    },
+    "25aec778a997c1a5": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/c2952563-fa5d-499b-a1e4-ebd631069e70.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Comeback for Europe’s Bull Market?",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-06-29T22:46:01.327414+00:00",
+      "episode_id": "25aec778a997c1a5"
+    },
+    "29cd126b10680c01": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/4c6c6d39-43c9-4430-92f0-26b2efaa38e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=4c6c6d39-43c9-4430-92f0-26b2efaa38e4&feed=tc4zxWgX",
+      "title": "Another Comcast Spinoff, AI Spending Risks, and Drill Down on Dislocations 6/29/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-29T22:53:01.303206+00:00",
+      "episode_id": "29cd126b10680c01"
+    },
+    "928a0bf9abe87546": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC1087184583.mp3",
+      "title": "The Credit Market Lens: What BDC Redemptions and NAV Pressures Mean for Investors",
+      "feed": "PIMCO Pod",
+      "processed": "2026-06-29T22:56:41.527291+00:00",
+      "episode_id": "928a0bf9abe87546"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-29T14:04:03.486512+00:00"
+  "last_updated": "2026-06-29T22:56:41.527332+00:00"
 }
