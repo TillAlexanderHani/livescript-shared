@@ -12137,8 +12137,15 @@
       "feed": "Horizontes de Latinoamérica (S&P Global)",
       "processed": "2026-06-30T16:34:13.606921+00:00",
       "episode_id": "65f16ae521736440"
+    },
+    "29ec37c7ecd7b285": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/172318e3-1b6d-49b6-9fbd-30bb1a871bb6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=172318e3-1b6d-49b6-9fbd-30bb1a871bb6&feed=tc4zxWgX",
+      "title": "Hold Off on Hikes, Deals in the Driver’s Seat, and Luxury Lodging 6/30/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-06-30T19:33:28.364467+00:00",
+      "episode_id": "29ec37c7ecd7b285"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-30T16:34:13.606959+00:00"
+  "last_updated": "2026-06-30T19:33:28.364512+00:00"
 }
