@@ -12144,8 +12144,15 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-06-30T19:33:28.364467+00:00",
       "episode_id": "29ec37c7ecd7b285"
+    },
+    "beaa0ab27c95ff80": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/07b74963-3936-4bb8-bf21-a757cffb8453.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Market Shift Investors May Be Missing",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-06-30T23:01:35.584128+00:00",
+      "episode_id": "beaa0ab27c95ff80"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-30T19:33:28.364512+00:00"
+  "last_updated": "2026-06-30T23:01:35.584175+00:00"
 }
