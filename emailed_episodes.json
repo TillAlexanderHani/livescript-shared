@@ -12116,8 +12116,15 @@
       "feed": "Standard Chartered India - Money Insights",
       "processed": "2026-06-30T04:55:49.751998+00:00",
       "episode_id": "0dceb9d270e5ea52"
+    },
+    "0580f44db73980bd": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/6217ccac-c1ff-40e2-8f1e-30d358dd237c/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=6217ccac-c1ff-40e2-8f1e-30d358dd237c&feed=IFy3imsg&t=podcast&e=nx-s1-5875440&p=510325&d=609&size=9755255",
+      "title": "What Iran teaches us about why wars start",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-06-30T12:06:23.091666+00:00",
+      "episode_id": "0580f44db73980bd"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-06-30T04:55:49.752040+00:00"
+  "last_updated": "2026-06-30T12:06:23.091709+00:00"
 }
