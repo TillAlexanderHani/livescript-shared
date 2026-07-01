@@ -1,4 +1,49 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The 1980s Garfield buyout that changed corporate finance",
+      "published": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a43f6596771af4aa4fcda0f/media.mp3",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "provider": "Financial Times",
+      "priority": 2,
+      "tags": [
+        "Private Equity",
+        "Leveraged Buyouts",
+        "Junk Bonds",
+        "Credit",
+        "Corporate Debt",
+        "Interest Rates",
+        "Latin America debt crisis"
+      ],
+      "summary": "**Summary**\nThis is a financial-history episode on the 1980s leveraged buyout (LBO) boom, centered on former US Treasury Secretary William E. Simon and the 1982 Gibson Greeting Cards deal (owner of Garfield the cat IP), which is credited as the deal that put private equity on the map. While largely historical/narrative, it touches on structural themes — debt-fueled financial engineering, junk bonds, and bank capital reallocation away from EM sovereign lending — that echo in today's leverage and credit-cycle debates.\n\n**Key points**\n- Simon's firm Wesray bought Gibson Greeting Cards from RCA for $80mn, injecting only $1mn equity (partly $330k each from Simon and partner Ray Chambers) and borrowing $79mn; sold via IPO 18 months later for ~$290mn, a roughly 200x return on invested equity.\n- LBO fundraising exploded from $250mn (1981) to $14.6bn (1987) after SEC rules loosened private fund capital-raising limits.\n- A key financing driver: banks that had built large syndicated lending teams for Mexico and Brazil pivoted that capital into LBOs after the early-1980s Latin American debt crisis hit.\n- Michael Milken's Drexel Burnham Lambert junk-bond machine (sub-investment-grade debt) supplied the capital firepower enabling larger, more aggressive takeovers; Milken was later indicted (racketeering, securities fraud) and Drexel collapsed.\n- Studies of 317 LBOs (1995-2000) found little evidence of operational improvement — the main effect was a sustained rise in financial leverage, not value creation.\n\n**FX / rates implications**\n- Historical parallel: the shift of syndicated bank lending away from Mexico/Brazil sovereign debt toward domestic LBOs after the Latin American debt crisis is a reminder of how EM sovereign credit stress can trigger large capital reallocation shocks — relevant lens for MXN/BRL sovereign spread and bank-lending-appetite dynamics today.\n- Broader point from the discussion: elevated global corporate leverage (fewer AAA-rated firms now than in the 1980s) increases systemic fragility to rate/credit shocks — relevant background for credit-spread and risk-sentiment monitoring that indirectly affects EM risk appetite and carry trades.\n\n**Watch list**\n- No specific near-term data, catalysts, or levels flagged; purely historical/analytical content with limited near-term trading relevance.",
+      "summarized_at": "2026-07-01T05:20:34.549015+00:00"
+    },
+    {
+      "title": "What's driving the Markets?",
+      "published": "Wed, 01 Jul 2026 08:00:00 +0530",
+      "url": "https://www.buzzsprout.com/1885786/episodes/19428893-what-s-driving-the-markets.mp3",
+      "feed": "Standard Chartered India - Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "INR",
+        "USDINR",
+        "RBI",
+        "Fed",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Gold",
+        "Brent",
+        "Oil",
+        "ECB",
+        "BoJ",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStanChart India's Chief Investment Strategist reviews global and Indian macro drivers: a Fed holding rates through year-end 2026 under hawkish new Chair Warsh, easing Middle East oil risk, RBI's capital-flow measures, and a commodity correction led by a stronger dollar. Direct relevance for EM Asia FX/rates via India's BOP, rupee liquidity, and the JGB/UST rate backdrop.\n\n**Key points**\n- US Fed expected to hold rates through year-end 2026; new Chair Warsh's hawkish tone has tightened financial conditions, lifted USD, and pressured gold/equities, but is seen as jawboning rather than a real hike signal.\n- Trump's interim Iran deal cut US crude over 35% from its April peak toward pre-conflict levels, easing the inflation outlook.\n- ECB hiked for the first time in ~3 years; BoJ raised its policy rate to 1%, a 31-year high; China easing to support domestic demand.\n- UST 10y yield down 32-35bp from May's peak as oil fell below $75/bbl.\n- RBI's June measures aim to draw USD 60-80bn of inflows into FY27, flipping India's balance of payments from deficit to surplus/neutral and lifting system rupee liquidity above INR 5-6 trillion by September 2026.\n- India 10-year yield has fallen to ~6.75%; market debating whether any RBI hike is needed at all given capital-flow measures and receding oil.\n- DXY trading above 101 (highest since March 2025); gold down ~10% in three months, below $400/oz level cited (likely mis-transcribed, directionally sharply lower), pressured by strong USD and higher-for-longer rate expectations.\n- 2026 southwest monsoon expected near-normal (90-95% of LPA); a weak monsoon remains India's key domestic inflation/rural-demand risk.\n\n**FX / rates implications**\n- Higher-for-longer Fed narrows US-India rate differentials, a headwind to FII flows, but RBI's targeted USD inflow measures (60-80bn) directly offset this pressure and support INR/rupee liquidity.\n- Falling credit-to-deposit ratio and improving liquidity point to lower short-term Indian yields and tighter corporate bond spreads; long end anchored by steep sovereign curve and new 15/30/40-year supply.\n- Dollar strength (DXY >101) and reduced conflict risk premium are broadly bearish for EM commodity-linked currencies and gold; a Fed pause later seen capping USD upside and limiting further gold downside.\n- Easing Brent (toward $75) is a tailwind for India's current account/import bill and INR stability.\n\n**Watch list**\n- US inflation data for Fed policy clues.\n- Monsoon progress (currently tracking 90-95% of LPA) as the key risk to Indian food inflation and rural demand.\n- RBI policy stance (wait-and-watch) and pace of the USD 60-80bn inflow measures into FY27.\n- Middle East conflict developments and Strait of Hormuz shipping traffic.",
+      "summarized_at": "2026-07-01T05:31:02.895184+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-01"
 }
