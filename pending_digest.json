@@ -43,6 +43,45 @@
       ],
       "summary": "**Summary**\nStanChart India's Chief Investment Strategist reviews global and Indian macro drivers: a Fed holding rates through year-end 2026 under hawkish new Chair Warsh, easing Middle East oil risk, RBI's capital-flow measures, and a commodity correction led by a stronger dollar. Direct relevance for EM Asia FX/rates via India's BOP, rupee liquidity, and the JGB/UST rate backdrop.\n\n**Key points**\n- US Fed expected to hold rates through year-end 2026; new Chair Warsh's hawkish tone has tightened financial conditions, lifted USD, and pressured gold/equities, but is seen as jawboning rather than a real hike signal.\n- Trump's interim Iran deal cut US crude over 35% from its April peak toward pre-conflict levels, easing the inflation outlook.\n- ECB hiked for the first time in ~3 years; BoJ raised its policy rate to 1%, a 31-year high; China easing to support domestic demand.\n- UST 10y yield down 32-35bp from May's peak as oil fell below $75/bbl.\n- RBI's June measures aim to draw USD 60-80bn of inflows into FY27, flipping India's balance of payments from deficit to surplus/neutral and lifting system rupee liquidity above INR 5-6 trillion by September 2026.\n- India 10-year yield has fallen to ~6.75%; market debating whether any RBI hike is needed at all given capital-flow measures and receding oil.\n- DXY trading above 101 (highest since March 2025); gold down ~10% in three months, below $400/oz level cited (likely mis-transcribed, directionally sharply lower), pressured by strong USD and higher-for-longer rate expectations.\n- 2026 southwest monsoon expected near-normal (90-95% of LPA); a weak monsoon remains India's key domestic inflation/rural-demand risk.\n\n**FX / rates implications**\n- Higher-for-longer Fed narrows US-India rate differentials, a headwind to FII flows, but RBI's targeted USD inflow measures (60-80bn) directly offset this pressure and support INR/rupee liquidity.\n- Falling credit-to-deposit ratio and improving liquidity point to lower short-term Indian yields and tighter corporate bond spreads; long end anchored by steep sovereign curve and new 15/30/40-year supply.\n- Dollar strength (DXY >101) and reduced conflict risk premium are broadly bearish for EM commodity-linked currencies and gold; a Fed pause later seen capping USD upside and limiting further gold downside.\n- Easing Brent (toward $75) is a tailwind for India's current account/import bill and INR stability.\n\n**Watch list**\n- US inflation data for Fed policy clues.\n- Monsoon progress (currently tracking 90-95% of LPA) as the key risk to Indian food inflation and rural demand.\n- RBI policy stance (wait-and-watch) and pace of the USD 60-80bn inflow measures into FY27.\n- Middle East conflict developments and Strait of Hormuz shipping traffic.",
       "summarized_at": "2026-07-01T05:31:02.895184+00:00"
+    },
+    {
+      "title": "The Road to Centralised Payments",
+      "published": "Wed, 01 Jul 2026 10:54:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/treasurycast/TMI-Serrala-WebinarMay26_Pod.mp3?dest-id=1534493",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "provider": "TMI - Treasury Management International",
+      "priority": 2,
+      "tags": [
+        "Treasury",
+        "Liquidity",
+        "Cash management",
+        "Fraud",
+        "Corporate finance",
+        "Fiscal",
+        "SAP S4HANA"
+      ],
+      "summary": "**Summary**\nThis TMI webinar with Surala, RTX, Sun Chemical and Chevron treasury executives covers corporate treasury design for centralized payments and in-house banking/payment factory models. It is a corporate finance operations discussion rather than a markets or macro story, but it touches themes (liquidity visibility, fraud controls, cash forecasting) relevant to how large multinationals manage global cash and funding.\n\n**Key points**\n- Panelists stress that centralized payments should follow business strategy, not precede it; models range from coordinated decentralized to full payment factories/in-house banking, with most large firms landing on hybrid structures.\n- RTX centralizes banking relationships, core payment infrastructure (SWIFT/gateways), liquidity management and intercompany multilateral netting, while leaving local payment execution decentralized under a strong policy/compliance/audit framework.\n- Sun Chemical runs a fully integrated treasury-owns-everything-that-touches-the-bank-statement model across the Americas, EMEA and now Asia Pacific.\n- Chevron began centralizing payments in the early 2000s (post-Texaco/Unocal integration), built a US pay-on-behalf structure, and is now migrating its payment factory into S/4HANA and SAP's Advanced Payment Management, citing major lessons on data cleansing/governance across three legacy ERP environments.\n- Common success factors cited: clarity of design intent, integrated technology/operating-model execution, and C-suite sponsorship; failures typically stem from poor translation of business requirements into system configuration, not any single component.\n- Centralization is framed as enabling better cash-flow visibility for CFOs, fraud/duplicate-payment risk reduction, vendor-negotiation leverage, and as a data foundation for emerging AI-driven cash forecasting and analytics tools.\n\n**FX / rates implications**\nNone directly — no currencies, central banks, rates or market pricing are discussed; implications are limited to how better corporate cash visibility could feed AI-driven treasury forecasting.\n\n**Watch list**\n- Broader corporate adoption of AI-driven cash forecasting/fraud analytics tools as centralized data foundations mature (mentioned as an emerging trend by RTX and Chevron).",
+      "summarized_at": "2026-07-01T12:28:19.639775+00:00"
+    },
+    {
+      "title": "Why Trump wants to rip up his own trade deal",
+      "published": "Wed, 01 Jul 2026 07:00:02 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/c86c3c23-c4f6-4259-bf1c-e38563c8fc57/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=c86c3c23-c4f6-4259-bf1c-e38563c8fc57&feed=IFy3imsg&t=podcast&e=nx-s1-5876506&p=510325&d=570&size=9127061",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 3,
+      "tags": [
+        "USMCA",
+        "USD",
+        "MXN",
+        "CAD",
+        "Trade",
+        "Tariffs",
+        "Mexico",
+        "Canada"
+      ],
+      "summary": "**Summary**\nThe USMCA trade pact between the US, Mexico, and Canada reaches a July 1, 2026 sunset-clause review deadline, with Trump signaling he'd rather see the deal terminated than extended — a reversal from his 2020 praise of the agreement he negotiated. The outcome shapes tariff treatment and trade flows across North America, a secondary but relevant read for macro traders tracking US trade policy risk more broadly.\n\n**Key points**\n- USMCA (2020) succeeded NAFTA (1994) and included a novel sunset clause with a review deadline of July 1, 2026.\n- Three options at review: lock in the deal for 16 years; annual reviews for up to 10 years with expiry if unresolved; or six-months-notice withdrawal by any party.\n- Trump has said he'd \"rather have it terminated\" despite earlier calling USMCA the \"largest, fairest, most balanced\" trade deal.\n- Existing US tariffs of up to 50% on steel and aluminum imports from Canada/Mexico remain in place despite USMCA.\n- Mexico is negotiating directly with the US pre-deadline; Canada has taken a more conciliatory, seemingly less effective posture.\n- Sticking points include Canadian dairy protectionism, Chinese EV imports, and North American auto-parts content thresholds (Trump reportedly wants 50% US-made parts).\n- Experts frame the review as zero-sum/adversarial compared to 1990s NAFTA talks, risking a \"lose-lose\" outcome (e.g., pricier, less globally competitive North American autos).\n\n**FX / rates implications**\n- MXN and CAD carry event risk around the review outcome; prolonged uncertainty (the \"option B\" annual-review scenario) could weigh on both currencies via reduced trade-policy visibility for exporters.\n- Escalation toward tariffs/withdrawal would be a negative risk-sentiment catalyst with knock-on effects for broader USD/trade-sensitive EM FX, though direct spillover to Asia/other LATAM is limited.\n- Existing sectoral tariffs (steel, aluminum) already function as a drag on Mexican/Canadian trade-linked sentiment independent of USMCA's fate.\n\n**Watch list**\n- July 1, 2026 trilateral review meeting outcome (today).\n- Any move toward six-month withdrawal notice by the US, Mexico, or Canada.\n- Progress or breakdown in bilateral US-Mexico negotiations versus Canada's stalled approach.",
+      "summarized_at": "2026-07-01T12:51:26.522002+00:00"
     }
   ],
   "last_digest_date": "2026-07-01"

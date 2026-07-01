@@ -12172,8 +12172,29 @@
       "feed": "Standard Chartered India - Money Insights",
       "processed": "2026-07-01T05:31:02.895184+00:00",
       "episode_id": "693a74a69ac33695"
+    },
+    "8bb518438c306da9": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/TMI-Serrala-WebinarMay26_Pod.mp3?dest-id=1534493",
+      "title": "The Road to Centralised Payments",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-07-01T12:28:19.639775+00:00",
+      "episode_id": "8bb518438c306da9"
+    },
+    "71d3d8157957e85f": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684",
+      "title": "Can the Trump administration make college cheaper?",
+      "feed": "Planet Money",
+      "processed": "2026-07-01T12:32:36.490607+00:00",
+      "episode_id": "71d3d8157957e85f"
+    },
+    "d724d6947781443a": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/c86c3c23-c4f6-4259-bf1c-e38563c8fc57/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=c86c3c23-c4f6-4259-bf1c-e38563c8fc57&feed=IFy3imsg&t=podcast&e=nx-s1-5876506&p=510325&d=570&size=9127061",
+      "title": "Why Trump wants to rip up his own trade deal",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-01T12:51:26.522002+00:00",
+      "episode_id": "d724d6947781443a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-01T05:31:02.895227+00:00"
+  "last_updated": "2026-07-01T12:51:26.522060+00:00"
 }
