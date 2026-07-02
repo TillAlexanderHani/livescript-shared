@@ -12242,8 +12242,29 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-07-02T12:33:20.168971+00:00",
       "episode_id": "d840663c719d660f"
+    },
+    "df92f172d548032e": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a4601aba736775b26f40730/media.mp3",
+      "title": "El Niño on the horizon",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-07-02T15:59:59.702940+00:00",
+      "episode_id": "df92f172d548032e"
+    },
+    "584da2039200d868": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/19431842-what-would-an-andy-burnham-premiership-mean-for-the-uk-economy-and-markets.mp3",
+      "title": "What would an Andy Burnham premiership mean for the UK economy and markets?",
+      "feed": "Standard Chartered Macro Bytes",
+      "processed": "2026-07-02T16:09:17.546480+00:00",
+      "episode_id": "584da2039200d868"
+    },
+    "588b6cc5d50a69de": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/a6d25bcd-776a-4414-aa05-a4e71c3ff32d/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=a6d25bcd-776a-4414-aa05-a4e71c3ff32d&feed=IFy3imsg&t=podcast&e=nx-s1-5878888&p=510325&d=530&size=8485495",
+      "title": "Does the new Fed chair care about jobs?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-02T16:32:49.671716+00:00",
+      "episode_id": "588b6cc5d50a69de"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-02T12:33:20.169012+00:00"
+  "last_updated": "2026-07-02T16:32:49.671763+00:00"
 }
