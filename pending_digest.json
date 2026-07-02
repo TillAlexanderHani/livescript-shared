@@ -1,4 +1,47 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "266: 2026 Midyear Outlook: Scarcity vs. Abundance in the Age of AI",
+      "published": "Thu, 02 Jul 2026 04:00:00 -0000",
+      "url": "https://rss.art19.com/episodes/e70cb99e-9f6c-4caa-be04-99378f56e202.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "BlackRock - The Bid",
+      "provider": "BlackRock",
+      "priority": 3,
+      "tags": [
+        "AI",
+        "S&P 500",
+        "UST 10y",
+        "Inflation",
+        "Geopolitics",
+        "Oil",
+        "Europe",
+        "Credit",
+        "Infrastructure",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nBlackRock Investment Institute head Jean Boivin lays out the firm's 2026 mid-year outlook, framed as \"scarcity versus abundance\": AI-driven capex is colliding with structural constraints on labor, energy, capital and physical inputs, even as AI raises the prospect of a historic growth breakout. For a macro trader, the takeaway is a higher-for-longer rate regime and a call for more tactical, less asset-class-bound portfolio construction.\n\n**Key points**\n- AI capex intentions have been revised up ~30% in six months, from a prior $5-8 trillion estimate, with build-out front-loaded and increasingly backed by real revenue evidence.\n- BlackRock frames six \"big calls\" investors are implicitly making: AI cost trajectory, rate direction, geopolitical choke points, US equity leadership, growth breakout potential, and portfolio construction philosophy.\n- Debate on AI and rates is two-sided: efficiency gains could lower inflation/rates, but AI's resource and capital demands could instead push rates structurally higher.\n- Strait of Hormuz cited as a live geopolitical choke-point risk during the recent Middle East escalation; markets shrugged it off on hopes of reopening, but a prolonged closure was flagged as a potential historic supply shock.\n- BlackRock maintains an overweight to US equities on AI, but stresses future returns will be more stock/theme-specific (\"disruption\" winners/losers) than broad index beta.\n- Advocates moving beyond traditional asset-class labels toward thematic/mega-force-based diversification (e.g., infrastructure as an AI/energy-transition play rather than a standalone asset class).\n\n**FX / rates implications**\n- A \"rates stay elevated, don't fall much\" base case reinforces a higher-for-longer USD rate anchor, a modest headwind for EM carry trades reliant on Fed easing.\n- Renewed emphasis on European income/credit (rates markets seen as having over-priced ECB-area hikes) is a mild EUR/European rates signal, though no explicit EUR call is made.\n- Geopolitical choke-point risk (Strait of Hormuz) is a reminder of tail risk to oil supply chains and thus to EM oil importers' terms of trade and inflation if tensions resurface.\n\n**Watch list**\n- AI capex trajectory and whether earnings evidence continues to validate the ~30% upward revision to spending forecasts.\n- Strait of Hormuz reopening progress as a geopolitical/oil-supply catalyst.\n- Whether US trend growth shows any signs of breaking out from the 150-year 2% norm toward the 3.5% median forecast now being discussed.",
+      "summarized_at": "2026-07-02T04:52:54.311641+00:00"
+    },
+    {
+      "title": "Cut to the Chase! Warsh and the AI paradigm shift",
+      "published": "Thu, 02 Jul 2026 10:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19434362-cut-to-the-chase-warsh-and-the-ai-paradigm-shift.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "Fed",
+        "ECB",
+        "UST 10y",
+        "USD",
+        "Inflation",
+        "Risk sentiment",
+        "S&P 500",
+        "Oil"
+      ],
+      "summary": "**Summary**\nFed Chair Powell (referred to as \"Wash\" in transcript, likely a transcription error for Powell) spoke at the ECB Forum on Central Banking in Sintra, Portugal, striking a hawkish tone on inflation while devoting significant focus to the AI-driven productivity boom as a structural shift lifting US potential growth. The comments have implications for the shape of the US yield curve and broader risk appetite, both key inputs for EM positioning.\n\n**Key points**\n- Fed reiterated commitment to returning inflation to the 2% target, with hawkish rhetoric seen as an effort to keep near-term financial conditions tight and preserve inflation-fighting credibility, avoiding market-priced rate cuts.\n- Recent drop in inflation expectations attributed mainly to falling oil prices, which has helped lower medium-term bond yields and reduce bond market volatility.\n- Fed sees the AI revolution as still in its \"first or second innings,\" driving a boom in US capital expenditure, currently concentrated in demand for AI-related products but expected to eventually boost supply-side productivity.\n- This contrasts with the prior decade of underinvestment when firms prioritized financial engineering (share buybacks) over capex.\n- US structural productivity has run in the high-2% range over the past four quarters, even before the latest generation of AI models, implying trend potential growth is moving higher despite a subdued labor market.\n\n**FX / rates implications**\n- Base case is a re-steepening of the US yield curve: sticky/higher long end (reflecting higher potential growth and productivity) paired with an easing short end (rate cuts still expected).\n- A steeper UST curve with easing front-end rates is typically supportive of carry trades and risk appetite, a moderate tailwind for EM FX and local rates.\n- Equity rally expected to broaden beyond AI mega-caps into cyclicals, notably US financials benefiting from improving net interest margins — a signal of sustained risk-on conditions globally.\n\n**Watch list**\n- Further Fed commentary from the Sintra ECB Forum for signals on the pace and timing of short-end rate cuts.\n- US productivity and labor market data for confirmation of the higher potential growth thesis.\n- UST 10-year yield behavior as the curve re-steepening thesis plays out.",
+      "summarized_at": "2026-07-02T05:08:06.952576+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-02"
 }
