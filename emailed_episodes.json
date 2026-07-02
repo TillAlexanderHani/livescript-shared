@@ -12235,8 +12235,15 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-07-02T05:08:06.952576+00:00",
       "episode_id": "2b1404a80ad3008d"
+    },
+    "d840663c719d660f": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a4414656771af4aa406e948/media.mp3",
+      "title": "New UK prime minister, same bond market",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-07-02T12:33:20.168971+00:00",
+      "episode_id": "d840663c719d660f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-02T05:08:06.952614+00:00"
+  "last_updated": "2026-07-02T12:33:20.169012+00:00"
 }
