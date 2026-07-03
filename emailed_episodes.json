@@ -12354,8 +12354,50 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-07-03T12:49:11.016212+00:00",
       "episode_id": "52b773f705dc3a98"
+    },
+    "f53d70726661099a": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/4e4ee35a-ca86-4010-aa36-e45ef1acdc38.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "America’s Frontier-Market Origin Story",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-03T15:46:38.450642+00:00",
+      "episode_id": "f53d70726661099a"
+    },
+    "140480cf5023dd83": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/f00eb039-e768-472c-ab94-2ec63d37f28a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=f00eb039-e768-472c-ab94-2ec63d37f28a&feed=tc4zxWgX",
+      "title": "Bringing Back the Barbell, OpenAI’s Government Proposal, and Winter is Ending 7/2/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-03T15:53:08.485672+00:00",
+      "episode_id": "140480cf5023dd83"
+    },
+    "20416165f7b96879": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19440140-banks-beefing-up-buy-backs-as-sterling-market-anticipates-bright-future.mp3",
+      "title": "Banks beefing up buy-backs as sterling market anticipates bright future",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-07-03T15:57:24.551076+00:00",
+      "episode_id": "20416165f7b96879"
+    },
+    "72e904e3d48fefde": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_JANSEN_.mp3?dest-id=1929056",
+      "title": "Ep. 365: Stefan Jansen on Agentic AI, ML Workflows, and the Evolution of Machine Learning for Trading",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-07-03T16:04:33.292887+00:00",
+      "episode_id": "72e904e3d48fefde"
+    },
+    "3d9f39be2483b232": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8e5cf07d-8bf4-43a2-9703-b47b014a5166/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-07-03T16:17:11.535452+00:00",
+      "episode_id": "3d9f39be2483b232"
+    },
+    "2184f6a60bbcbbe2": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19440145-through-the-noise-peak-hawkishness.mp3",
+      "title": "Through the noise: Peak hawkishness?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-03T16:26:07.770342+00:00",
+      "episode_id": "2184f6a60bbcbbe2"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-03T12:49:11.016280+00:00"
+  "last_updated": "2026-07-03T16:26:07.770383+00:00"
 }
