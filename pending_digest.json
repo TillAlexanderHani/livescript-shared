@@ -1,4 +1,75 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Europe’s dovish turn?",
+      "published": "Thu, 02 Jul 2026 15:30:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a476ed78890f0eef3f5e8bc/media.mp3",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 3,
+      "tags": [
+        "EUR",
+        "GBP",
+        "ECB",
+        "BoE",
+        "Brent",
+        "Inflation",
+        "CPI",
+        "Fiscal",
+        "Trade"
+      ],
+      "summary": "**Summary**\nHSBC's Simon Wells lays out a more dovish outlook for the ECB and Bank of England, arguing a recent geopolitical peace deal has pushed the oil futures curve sharply lower, capping the eurozone inflation peak below prior forecasts. That, combined with a looming fiscal drag in 2027, raises the odds both central banks skip further hikes — a shift relevant to any trader tracking DM rate paths and cross-asset risk sentiment.\n\n**Key points**\n- Eurozone H1 activity was resilient; leading indicators softened but avoided recessionary levels.\n- Post peace-deal oil curve decline should lower the eurozone inflation peak by roughly half a point, to around 3.4% near year-end, versus the mid-May forecast.\n- Lower inflation reduces second-round wage/price risk, giving the ECB room to hold rather than hike further at the September or December meetings.\n- Market pricing still implies one more quarter-point hike each from the ECB and BoE by year-end, but Wells sees risks skewed toward the ECB staying on hold (\"doves of peace\").\n- Eurozone fiscal impulse turns from expansionary (German defense/infrastructure spending, tail-end EU Recovery and Resilience Facility disbursements) to contractionary in 2027, an estimated 0.4% of GDP tightening per ECB projections.\n- UK growth pattern of strong Q1 fading through the year likely repeats; HSBC forecasts just 1% growth in both 2026 and 2027, with the BoE seen on hold given a softer labour market, though inflation expectations remain more elevated than in the eurozone.\n- Trade has not rescued Germany; eurozone export volumes are flat versus six-to-seven years ago, missing the AI-driven global trade upswing.\n- Relative bright spots: Spain, Greece, Portugal, Scandinavia, and parts of Eastern Europe.\n\n**FX / rates implications**\n- A lower oil-driven inflation path and dovish ECB/BoE repricing argue for a softer EUR and GBP rate-hike premium, with downside risk to short-end eurozone and UK yields versus current market pricing.\n- Lower oil prices are a modest positive terms-of-trade/inflation channel for EM oil importers (India, Philippines, Turkey-adjacent EM) via softer imported inflation.\n\n**Watch list**\n- ECB and BoE decisions in September and December, contingent on the oil futures curve holding.\n- UK autumn budget as a swing factor for growth and BoE stance.\n- German fiscal expansion pace versus fading EU Recovery and Resilience Facility disbursements into 2027.",
+      "summarized_at": "2026-07-03T11:58:22.650731+00:00"
+    },
+    {
+      "title": "Why didn’t the Iran war cause a recession? With Tyler Goodspeed",
+      "published": "Fri, 03 Jul 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a46b6658890f0eef3bca608/media.mp3",
+      "feed": "The Economics Show",
+      "provider": "The Economist",
+      "priority": 4,
+      "tags": [
+        "Oil",
+        "Brent",
+        "WTI",
+        "China",
+        "Inflation",
+        "Recession risk",
+        "Risk sentiment",
+        "Geopolitics",
+        "Fed",
+        "Commodities"
+      ],
+      "summary": "**Summary**\nEconomist Tyler Goodspeed (chief economist, ExxonMobil; author of a new book on the history of recessions) explains why the Iran war and Strait of Hormuz disruption failed to trigger the widely-feared global recession, despite dire IEA warnings of the biggest energy crisis in history. Drawing on 132 recessions across US/UK history since 1700, he argues recessions are fundamentally unforecastable and typically require multiple simultaneous shocks rather than a single energy disruption, which matters for how EM traders should weight tail risks from Middle East conflict.\n\n**Key points**\n- The global economy proved resilient: lower oil-intensity of output, a more diversified energy supply, smaller core OPEC market share, responsive US shale supply, and large strategic/commercial petroleum reserves cushioned the shock versus the 1973 embargo.\n- Chinese oil demand was a key adjustment margin, but it's unclear whether this reflects deliberate policy (stockpile drawdown or paused restocking) or genuinely weaker underlying Chinese growth in H1 2026 than official statistics suggest.\n- Energy shocks remain historically the most potent recession trigger because oil is a non-substitutable input across transport, heating, and agriculture (fertilizer costs) over any 12-month horizon, and a complement to capital.\n- Contrary to popular narrative, June 2008 (not 1973/1979/1990) was the all-time peak in real energy prices, costing average US households $2,000/year more and contributing heavily to the 2008 mortgage crisis and GFC.\n- Central bank rate hikes in response to energy-driven inflation are a key transmission channel from oil shocks to recession, contingent on whether inflation expectations stay anchored.\n- AI bubble fears are downplayed: physical infrastructure buildouts (canals, railroads, fiber, and by extension AI compute) historically follow smooth S-curves; valuation crashes are more likely a casualty of a recession (rate or energy shock) than a cause of one.\n\n**FX / rates implications**\n- No recession materializing despite the Hormuz disruption reduces near-term tail risk for oil-importing EM Asia currencies (INR, PHP, THB) that are typically most sensitive to Brent spikes via current-account and inflation channels.\n- Weaker-than-headline Chinese demand (an acknowledged live debate) is a soft negative signal for CNY and commodity-linked EM Asia currencies, and for industrial metals/iron ore demand.\n- Energy-driven inflation remains the key channel by which oil shocks could still force EM and DM central banks (Fed included) toward hawkish surprises, indirectly pressuring EM local rates and carry trades.\n- Downplaying AI-bubble-driven recession risk is modestly supportive of broader risk sentiment and carry strategies.\n\n**Watch list**\n- Whether China's demand weakness reflects a genuine growth slowdown versus stockpile policy, a swing factor for oil prices and EM Asia commodity currencies.\n- Any renewed Strait of Hormuz tension or oil price re-acceleration, historically the shock type with outsized recession-transmission power.\n- Inflation expectations anchoring: if unmoored by the energy shock, central banks may tighten further, a risk for EM carry and rates positioning.",
+      "summarized_at": "2026-07-03T12:10:44.842085+00:00"
+    },
+    {
+      "title": "The Week Ahead - A funny thing happened on the way to the forum",
+      "published": "Fri, 03 Jul 2026 09:55:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260703_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "feed": "Nomura - The Week Ahead",
+      "provider": "Nomura",
+      "priority": 5,
+      "tags": [
+        "USD",
+        "Fed",
+        "EUR",
+        "ECB",
+        "CNY",
+        "PBoC",
+        "Brent",
+        "UST 10y",
+        "MYR",
+        "BNM",
+        "NZD",
+        "RBNZ",
+        "Inflation",
+        "CPI",
+        "PPI"
+      ],
+      "summary": "**Summary**\nNomura's Week Ahead covers a dovish US jobs miss and Fed Chair Kevin Warsh's Sintra comments, a surprisingly dovish ECB tilt on the back of falling oil prices, and China's inflation/policy outlook including a new PBoC liquidity tool — plus RBNZ and BNM decisions next week. All are directly relevant to EM Asia rates and global risk transmission.\n\n**Key points**\n- US June NFP came in at 57k vs Nomura's below-consensus 70k forecast, with negative revisions; unemployment ticked down to 4.2% but household survey data was noisy. Warsh at the ECB's Sintra forum emphasized \"disinflationary productivity\" from AI and criticized official statistics, reinforcing a dovish, wait-and-see Fed reaction function; Mervin King named co-chair of the Fed's communications task force.\n- ECB commentary at Sintra was more dovish than expected given the Brent crude decline post US-Iran deal; Nomura now expects only one more ECB hike (September, depo rate to 2.5%), dropping its prior December hike call. Euro area core/services inflation surprised softer, partly airfare-driven.\n- China: June CPI seen flat at 1.2% y/y, PPI at -4% (was +4% pre-war), roughly half oil-related; PBoC introduced a new overnight reverse repo tool priced at 1.25% (below consensus), but Nomura sees no policy rate cut this year, expecting more reliance on fiscal stimulus given weak domestic demand despite strong nominal exports.\n- RBNZ expected to hike 25bp (rates toward 3% neutral); BNM Malaysia expected to hold at 2.75%, with a hike pushed to Q4 (more hawkish than consensus).\n\n**FX / rates implications**\n- Softer US jobs data and dovish Warsh rhetoric argue for lower UST yields and a softer USD bias, supportive of EM Asia carry trades broadly.\n- Falling Brent crude eases China PPI/import costs and benefits oil-importing EM Asia (INR, PHP, THB); China's fiscal-led stimulus path over monetary easing implies a more gradual CNY/CNH trajectory.\n- MYR: BNM hold plus a later, more hawkish hike path than consensus is a modest positive for rate differentials versus peers.\n\n**Watch list**\n- French ruling July 7 on Marine Le Pen's eligibility for 2027 presidential race.\n- China June CPI/PPI data release next week.\n- RBNZ and BNM policy decisions next week; Fed personnel/task-force announcements expected \"next week\" per Warsh.\n- US markets closed for July 4th holiday, thinning liquidity.",
+      "summarized_at": "2026-07-03T12:49:11.016212+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-03"
 }

@@ -12326,8 +12326,36 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-07-02T23:29:57.410330+00:00",
       "episode_id": "9e1afa4185d6c4fe"
+    },
+    "36d0a2399df9ecb6": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a476ed78890f0eef3f5e8bc/media.mp3",
+      "title": "Europe’s dovish turn?",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-07-03T11:58:22.650731+00:00",
+      "episode_id": "36d0a2399df9ecb6"
+    },
+    "837319b825c0286b": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a46b6658890f0eef3bca608/media.mp3",
+      "title": "Why didn’t the Iran war cause a recession? With Tyler Goodspeed",
+      "feed": "The Economics Show",
+      "processed": "2026-07-03T12:10:44.842085+00:00",
+      "episode_id": "837319b825c0286b"
+    },
+    "ee9b30ec480342eb": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/2366d734-4c7a-43be-94ed-54b009ec1cea/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=2366d734-4c7a-43be-94ed-54b009ec1cea&feed=IFy3imsg&t=podcast&e=nx-s1-5877728&p=510325&d=2071&size=33148429",
+      "title": "Obama's new Presidential Center and his tricky relationship with the South Side",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-03T12:45:37.474716+00:00",
+      "episode_id": "ee9b30ec480342eb"
+    },
+    "52b773f705dc3a98": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260703_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - A funny thing happened on the way to the forum",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-07-03T12:49:11.016212+00:00",
+      "episode_id": "52b773f705dc3a98"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-02T23:29:57.410370+00:00"
+  "last_updated": "2026-07-03T12:49:11.016280+00:00"
 }
