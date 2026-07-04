@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Global FX: Payrolls prognosis, yen, GBP and HUF",
+      "published": "Fri, 03 Jul 2026 12:16:03 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/a75weg4u2ic447as/AARKCV260703_KAL-1-NT5ZPDNA.mp3",
+      "feed": "At Any Rate Podcast",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "Fed",
+        "NFP",
+        "JPY",
+        "GBP",
+        "EUR",
+        "NOK",
+        "SEK",
+        "HUF",
+        "Carry",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nJP Morgan's FX strategists dissect a weaker-than-expected July NFP print and its knock-on effects for the dollar, Fed pricing, and global carry trades — directly relevant given the Fed is the dominant driver of EM FX/rates positioning.\n\n**Key points**\n- Headline NFP missed; 3-month moving average payrolls growth revised down to 111K from 188K, closer to what economists see as true labor market strength (~100K/month).\n- Unemployment rate unexpectedly dipped to 4.2%, but alongside a falling participation rate, so not an unambiguous positive; 4.2% would sit below the FOMC's 4.3% year-end forecast if sustained.\n- Rates market pulled 5-6bp of July Fed cut pricing; December '26 pricing now below 30bp; dollar fell 0.8-1% versus most majors.\n- House view remains bullish USD/bullish risk on sticky inflation forcing a later Fed hike debate, but house cautions against extrapolating post-NFP price action beyond a few days.\n- Yen was the most active currency pre-NFP (breached 162), with markets on intervention watch; MOF has stayed quiet, possibly recalibrating tactics after limited effect of April/May intervention, with speculation of covert/ambush-style action or even US-Japan-Korea coordination (seen as low probability).\n- Sterling: bullish call intact post-Reeves' fiscal discipline comments; EUR/GBP broke below 0.8620 and could extend toward 0.84 based on prior post-budget patterns.\n- NOK: large Norges Bank FX purchase ($524mn) had muted market impact; EUR/NOK near fair value ~11.25, bullish NOK if dollar turns two-way.\n- SEK: better PMI/tendency data supports building short SEK positions (GBP/SEK, USD/SEK) as market underpriced Swedish growth-to-carry regime shift.\n- HUF: seen as bullish long-term convergence/appreciation story (ERM/euro adoption path) despite ~100bp of priced NBH cuts eroding carry; HUF real effective exchange rate still cheap vs CE3 peers.\n- EM Asia/broad EM carry theme reinforced by Goldilocks NFP outcome — reduces fears of Fed hikes needed to defend EM currencies, supportive of high-yielders; Czech National Bank and Saudi (SAB) cited as hiking cycles anchoring carry.\n\n**FX / rates implications**\n- Softer NFP reduces near-term Fed hike risk, supportive of EM carry trades broadly (EM high-yielders outperformed post-print) — directly relevant to EM Asia and LATAM carry positioning even though not explicitly detailed for INR/IDR/MXN/BRL here.\n- Dollar weakness (DXY -0.8-1%) is data-dependent, not a structural shift; desk maintains bullish USD bias into later-year Fed hike repricing, cautioning against chasing post-NFP dollar weakness.\n- Yen intervention risk elevated into illiquid US holiday session; a soft-CPI-style spot hammering could open door to follow-through action.\n\n**Watch list**\n- Two more US employment reports before September FOMC needed for fuller labor market read.\n- Japanese MOF verbal/actual intervention action over the next 24 hours, especially during the low-liquidity US holiday session.\n- UK autumn budget/Labour Party conference for fiscal details affecting sterling.\n- Hungary NBH rate cut delivery vs ~100bp priced, and HUF REER convergence trade.",
+      "summarized_at": "2026-07-04T04:28:01.426693+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-04"
 }
