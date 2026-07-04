@@ -12410,8 +12410,22 @@
       "feed": "At Any Rate Podcast",
       "processed": "2026-07-04T04:28:01.426693+00:00",
       "episode_id": "ec3798da9e60d242"
+    },
+    "2a54620eb2d303b6": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/7d8eccd9-c606-44d9-92ee-1b43d2e3d223/group-item/1468d7e8-ba5e-4d53-8c55-f63d4d5a35cc/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "De-Dollarization, Debasement & Diversification: Precious Metals with Nicky Shiels",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-07-04T11:19:40.797349+00:00",
+      "episode_id": "2a54620eb2d303b6"
+    },
+    "f93df9b7446b52c4": {
+      "url": "https://media.transistor.fm/1da7d835/d2bd9306.mp3",
+      "title": "From boom to bust: the AI equity rally in its final phase",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-07-04T11:31:54.027481+00:00",
+      "episode_id": "f93df9b7446b52c4"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-04T04:28:01.426733+00:00"
+  "last_updated": "2026-07-04T11:31:54.027521+00:00"
 }
