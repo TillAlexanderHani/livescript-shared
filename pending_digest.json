@@ -1,26 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "Credit Crunch: Wellington’s Fitzgerald on Convexity Over Carry",
-      "published": "Wed, 01 Jul 2026 10:30:00 -0000",
-      "url": "https://traffic.megaphone.fm/BLM1314140077.mp3",
-      "feed": "Bloomberg FICC Focus",
-      "provider": "Bloomberg Intelligence",
-      "priority": 3,
-      "tags": [
-        "Fed",
-        "FOMC",
-        "UST 10y",
-        "Credit",
-        "Inflation",
-        "Fiscal",
-        "Carry",
-        "Risk sentiment",
-        "AI capex"
-      ],
-      "summary": "**Summary**\nWellington Management's Connor Fitzgerald discusses corporate credit positioning in a historically tight-spread environment, with relevance to a macro trader via his views on new Fed Chair Worsh's policy approach, US fiscal dominance, and rate-volatility spillover into credit spreads.\n\n**Key points**\n- Investment grade spreads are near all-time tights in long-dated maturities, driven by massive hyperscaler/AI capex-funded debt issuance reaching what he calls truly historic levels.\n- Fitzgerald favors moving up in quality and up the capital structure (secured over unsecured, IG over HY), reducing spread duration rather than reaching for yield in this environment.\n- New Fed Chair Worsh delivered a notably short FOMC statement, signaling a shift away from heavy forward guidance toward more discretionary, less communicative policy - expected to raise term premium and rate volatility, especially in longer-dated tenors and potentially the whole curve.\n- Fiscal dominance is flagged as more important than Fed policy for the outlook: large US deficits (7-9% even absent war or recession) have supported growth and kept inflation above target; the fiscal impulse from recent legislation is expected to fade in the back half of the year, a risk into next year.\n- Historically low household bond allocations, an aging population, and rising insurance/annuity demand are cited as multi-year structural tailwinds for fixed income demand, offsetting heavy supply for now.\n\n**FX / rates implications**\n- More Fed unpredictability and higher term premium point to elevated US rate volatility, a headwind for carry trades and EM local-currency debt broadly, since higher and more volatile UST yields typically pressure EM FX and widen EM credit spreads.\n- If Worsh leans toward higher real rates to fight inflation, credit spreads widen further and risk sentiment sours - a negative read-through for EM FX carry (INR, IDR, MXN, BRL) and broader risk assets.\n- A fading US fiscal impulse next year could eventually cool the USD-supportive US growth outperformance story, a theme EM FX traders should track for signs of a dollar-cycle inflection.\n\n**Watch list**\n- Fed Chair Worsh's subsequent communications and statement style as a signal of the policy framework shift and term-premium trajectory.\n- Fading US fiscal support expected into next year - watch growth and inflation data for confirmation.\n- Pace of hyperscaler/AI-related IG bond issuance as a structural driver of wider credit spreads and potential contagion to broader risk sentiment.",
-      "summarized_at": "2026-07-05T19:00:00.701786+00:00"
-    }
-  ],
-  "last_digest_date": "2026-07-05"
+  "episodes": [],
+  "last_digest_date": "2026-07-06"
 }
