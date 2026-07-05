@@ -12424,8 +12424,15 @@
       "feed": "Capital Economics Weekly Briefing",
       "processed": "2026-07-04T11:31:54.027481+00:00",
       "episode_id": "f93df9b7446b52c4"
+    },
+    "b61db269c2b4158c": {
+      "url": "https://traffic.megaphone.fm/BLM1314140077.mp3",
+      "title": "Credit Crunch: Wellington’s Fitzgerald on Convexity Over Carry",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-07-05T19:00:00.701786+00:00",
+      "episode_id": "b61db269c2b4158c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-04T11:31:54.027521+00:00"
+  "last_updated": "2026-07-05T19:00:00.701836+00:00"
 }
