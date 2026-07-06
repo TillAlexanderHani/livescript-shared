@@ -12459,8 +12459,22 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-07-06T19:42:29.890305+00:00",
       "episode_id": "f7b86bdfd3dbdf86"
+    },
+    "713d95f8faaf345a": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/78c92992-21d9-4841-9c61-7aacc26e573a.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Next Leg of the Bull Market?",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-06T22:52:31.905016+00:00",
+      "episode_id": "713d95f8faaf345a"
+    },
+    "9409f8d16673dec2": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC5944602444.mp3",
+      "title": "The Credit Market Lens: A Growing Divide in Leveraged Finance",
+      "feed": "PIMCO Pod",
+      "processed": "2026-07-06T22:56:34.591536+00:00",
+      "episode_id": "9409f8d16673dec2"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-06T19:42:29.890352+00:00"
+  "last_updated": "2026-07-06T22:56:34.591571+00:00"
 }
