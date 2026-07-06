@@ -12438,8 +12438,15 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-07-06T05:03:18.989426+00:00",
       "episode_id": "05ca9fbeb0b1d416"
+    },
+    "ac9a01b6ffd4c560": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/fe99dd42-b676-467a-a970-323bdf909cb5/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=fe99dd42-b676-467a-a970-323bdf909cb5&feed=IFy3imsg&t=podcast&e=nx-s1-5883604&p=510325&d=540&size=8644736",
+      "title": "Why the US is losing the drone war",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-06T13:41:16.876423+00:00",
+      "episode_id": "ac9a01b6ffd4c560"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-06T05:03:18.989470+00:00"
+  "last_updated": "2026-07-06T13:41:16.876464+00:00"
 }
