@@ -12431,8 +12431,15 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-07-05T19:00:00.701786+00:00",
       "episode_id": "b61db269c2b4158c"
+    },
+    "05ca9fbeb0b1d416": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19439483-cut-to-the-chase-the-return-of-goldilocks.mp3",
+      "title": "Cut to the Chase! The return of goldilocks",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-06T05:03:18.989426+00:00",
+      "episode_id": "05ca9fbeb0b1d416"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-05T19:00:00.701836+00:00"
+  "last_updated": "2026-07-06T05:03:18.989470+00:00"
 }

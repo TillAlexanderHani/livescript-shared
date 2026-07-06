@@ -1,4 +1,23 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! The return of goldilocks",
+      "published": "Mon, 06 Jul 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19439483-cut-to-the-chase-the-return-of-goldilocks.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "Fed",
+        "UST 10y",
+        "Inflation",
+        "Risk sentiment",
+        "Growth"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Daniel Lam reviews the latest US macro data — June non-farm payrolls and the ISM manufacturing index — arguing the combination points to a return of a Goldilocks environment: labour market cooling but not overheating, growth resilient, and inflation pressures easing. This directly reshapes Fed rate-cut timing expectations, a key driver for EM FX and rates.\n\n**Key points**\n- June NFP rose 57,000, below estimates, down from an upward-revised 129,000 in May; two-month revisions cut 74,000 jobs, leaving the 3-month average at a still-solid 111,000.\n- Job growth remains above the 30,000-50,000 monthly pace needed to keep unemployment stable.\n- Unemployment fell to 4.2%, but driven by lower labour force participation rather than hiring strength — a metric to watch given tightening immigration curbs constraining labour supply.\n- June ISM manufacturing index fell to 53.3 from 54 (as stated, though headline direction implies contradjango in new orders), with new orders easing to 56 from 56.8; employment sub-index improved to 49.7 from 48.6 but remains below 50 (contraction, slower pace).\n- Price pressures (prices paid, supplier delivery times) eased for a second straight month after peaking in April, with further cooling expected as commodity prices normalize.\n\n**FX / rates implications**\n- The data has pushed market pricing of the next Fed cut from September to December 2026; Standard Chartered still expects no Fed cut this year, a hawkish-relative-to-market view.\n- A later/absent Fed cut supports USD and keeps UST yields firmer for longer, a headwind for EM Asia and LATAM carry trades (INR, IDR, PHP, MXN, BRL, COP) that benefit from Fed easing.\n- Easing US price pressures, if sustained, caps upside in UST yields longer-term, but near-term the delayed cut path argues for a more cautious stance on EM FX longs and carry positioning.\n\n**Watch list**\n- Further declines in the US unemployment rate as a signal of tightening labour supply.\n- Commodity price trends as a driver of continued disinflation in ISM prices-paid data.\n- December Fed meeting as the next realistic window for a rate move, per repriced market expectations.",
+      "summarized_at": "2026-07-06T05:03:18.989426+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-06"
 }
