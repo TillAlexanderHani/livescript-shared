@@ -12445,8 +12445,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-07-06T13:41:16.876423+00:00",
       "episode_id": "ac9a01b6ffd4c560"
+    },
+    "3b7c9b4a9a9f5155": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/3bdbca61-62b6-4fdd-8fc9-0a5a76ee674a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=3bdbca61-62b6-4fdd-8fc9-0a5a76ee674a&feed=tc4zxWgX",
+      "title": "Rotation Nation, AI in the Classroom, and Betting’s Soccer Boost 7/6/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-06T19:33:39.867420+00:00",
+      "episode_id": "3b7c9b4a9a9f5155"
+    },
+    "f7b86bdfd3dbdf86": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7ed31c1e-3cf5-467d-a302-b47b014db8c5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "These Are the Sharps Actually Making Money on Prediction Markets",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-07-06T19:42:29.890305+00:00",
+      "episode_id": "f7b86bdfd3dbdf86"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-06T13:41:16.876464+00:00"
+  "last_updated": "2026-07-06T19:42:29.890352+00:00"
 }
