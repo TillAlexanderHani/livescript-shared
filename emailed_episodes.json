@@ -12487,8 +12487,22 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-07-07T04:45:49.862912+00:00",
       "episode_id": "583ad2050ef66705"
+    },
+    "a1ab49e32fe2b20c": {
+      "url": "https://traffic.megaphone.fm/CLS7913917793.mp3",
+      "title": "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-07-07T12:30:59.913053+00:00",
+      "episode_id": "a1ab49e32fe2b20c"
+    },
+    "f8a1027aeec5c18e": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/17b19868-de74-4b49-91ae-5b7c348954cf/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=17b19868-de74-4b49-91ae-5b7c348954cf&feed=IFy3imsg&t=podcast&e=nx-s1-5884037&p=510325&d=569&size=9119957",
+      "title": "We're in a renter's market (believe it or not)",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-07T12:34:28.557138+00:00",
+      "episode_id": "f8a1027aeec5c18e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-07T04:45:49.862970+00:00"
+  "last_updated": "2026-07-07T12:34:28.557178+00:00"
 }
