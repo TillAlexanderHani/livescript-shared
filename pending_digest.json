@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! The silver bullet",
+      "published": "Tue, 07 Jul 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19449813-cut-to-the-chase-the-silver-bullet.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "JPY",
+        "USDJPY",
+        "BoJ",
+        "DXY",
+        "JGB",
+        "Inflation",
+        "Carry",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Daniel Lam addresses client questions on whether Dollar-Yen has peaked, with USDJPY at its highest level since 1986. The core debate is whether the Bank of Japan will intervene to defend the yen, and at what level, as the currency's weakness feeds back into accelerating domestic inflation.\n\n**Key points**\n- USDJPY has hit its highest level since 1986; verbal intervention from both the BOJ and the US Treasury has so far been ineffective.\n- Clients previously flagged 161 as a key intervention level, but Lam believes that level is losing effectiveness, with the BOJ's likely line of defense shifting to 165-166.\n- Bear-steepening of the JGB curve signals the market expects the BOJ to stay easy.\n- June Tokyo CPI (a leading indicator for national inflation) beat expectations, with higher energy prices spreading into non-energy goods.\n- Japan's growth remains resilient, helped by large energy reserves cushioning the energy crisis.\n- Market-based inflation expectations remain within the BOJ's tolerance range but are rising quickly.\n- Despite firming inflation and growth, markets price only about two BOJ hikes over the next 12 months, pushing meaningful tightening beyond that horizon.\n- Core inflation is still below 2%, partly due to government energy subsidies, but BOJ's own forecasts see it rising above 2%, making continued inaction harder to justify.\n\n**FX / rates implications**\n- USDJPY trend remains a key regional risk-sentiment driver; a BOJ intervention (verbal or actual) near 165-166 could trigger broad USD-Asia unwind and yen-funded carry-trade unwind, impacting high-yielders like INR, IDR, PHP.\n- A weaker yen exacerbates Japanese inflation, creating pressure for eventual BOJ tightening, which if realized would compress the JPY funding carry that has supported EM Asia FX positioning.\n- JGB curve bear-steepening reflects rising term premia expectations; any shift in BOJ stance could ripple into global bond yields and risk appetite.\n\n**Watch list**\n- BOJ rhetoric/action around the 165-166 USDJPY level as the next intervention threshold.\n- Upcoming Tokyo and national CPI prints for signs of inflation momentum broadening beyond energy.\n- BOJ policy meetings over the next 6-12 months for signs of a shift away from staying behind the curve.",
+      "summarized_at": "2026-07-07T04:45:49.862912+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-07"
 }
