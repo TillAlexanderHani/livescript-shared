@@ -12501,8 +12501,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-07-07T12:34:28.557138+00:00",
       "episode_id": "f8a1027aeec5c18e"
+    },
+    "cf2e61188252c7d3": {
+      "url": "https://traffic.megaphone.fm/BLM2358409731.mp3",
+      "title": "Credit Crunch: Investor Survey 3Q - Rates, IG vs. HY, US vs. EU",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-07-07T19:34:20.465741+00:00",
+      "episode_id": "cf2e61188252c7d3"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-07T12:34:28.557178+00:00"
+  "last_updated": "2026-07-07T19:34:20.465782+00:00"
 }
