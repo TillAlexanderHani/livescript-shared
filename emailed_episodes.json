@@ -12536,8 +12536,36 @@
       "feed": "The HC Commodities Podcast",
       "processed": "2026-07-08T04:22:46.763022+00:00",
       "episode_id": "1b6f1f646445ab9a"
+    },
+    "ebbf26e277eb4715": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a4d27bc195f863605c119de/media.mp3",
+      "title": "South Sea Bubble: the shoemaker’s son who sparked Britain’s first financial crisis",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-07-08T11:38:00.575345+00:00",
+      "episode_id": "ebbf26e277eb4715"
+    },
+    "ca5a2beee2385b29": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5877869&p=510289&d=2232&size=35715535",
+      "title": "Our mission: Find the world’s best economic ideas (Summer School World Tour)",
+      "feed": "Planet Money",
+      "processed": "2026-07-08T11:43:13.447912+00:00",
+      "episode_id": "ca5a2beee2385b29"
+    },
+    "2261a0a328fc87dc": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19455980-cut-to-the-chase-the-summer-market-checklist.mp3",
+      "title": "Cut to the Chase! The summer market checklist",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-08T11:44:55.354324+00:00",
+      "episode_id": "2261a0a328fc87dc"
+    },
+    "d7d2bd2fac3a387d": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/a5eeb457-2b63-499f-bc64-cf9e00cf27bf/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=a5eeb457-2b63-499f-bc64-cf9e00cf27bf&feed=IFy3imsg&t=podcast&e=nx-s1-5884996&p=510325&d=593&size=9500718",
+      "title": "Cracking down on egg prices",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-08T11:47:07.531983+00:00",
+      "episode_id": "d7d2bd2fac3a387d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-08T04:22:46.763067+00:00"
+  "last_updated": "2026-07-08T11:47:07.532025+00:00"
 }
