@@ -12522,8 +12522,22 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-07-07T22:58:58.261173+00:00",
       "episode_id": "80d2ccdfd0b616b9"
+    },
+    "0e7c9aa9c0493389": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d914d212-96a7-44ad-8703-d5fb226a963d/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d914d212-96a7-44ad-8703-d5fb226a963d&feed=tc4zxWgX",
+      "title": "Bulls on Course, Valley of the Deals, and CNBC Investigates 7/7/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-08T04:08:19.518834+00:00",
+      "episode_id": "0e7c9aa9c0493389"
+    },
+    "1b6f1f646445ab9a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/9a350e61-ffbf-403a-bd06-7e4714fe8105/group-item/7c8d27c8-b21f-4b8a-8fae-30dc932502e5/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Whale Oil with Eric Jay Dolin (Summer Repeat)",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-07-08T04:22:46.763022+00:00",
+      "episode_id": "1b6f1f646445ab9a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-07T22:58:58.261216+00:00"
+  "last_updated": "2026-07-08T04:22:46.763067+00:00"
 }
