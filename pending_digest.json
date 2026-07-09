@@ -1,4 +1,71 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "3 Things That Could Break the Summer Rally",
+      "published": "Wed, 08 Jul 2026 21:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/924d2f15-74be-4199-b024-bdbe496293bb.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "UST 10y",
+        "Brent",
+        "Oil",
+        "Risk sentiment",
+        "Inflation",
+        "S&P 500",
+        "Credit"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's fixed income team flags three risks that could disrupt an otherwise favorable summer rally: a surprise Fed rate hike, a slowdown in AI capex from US hyperscalers, and renewed conflict in Iran affecting oil flows through the Strait of Hormuz. For an EM trader, all three are transmission channels — via Fed policy, US tech earnings/risk appetite, and oil prices — that could quickly spill into EM FX and rates.\n\n**Key points**\n- Base case: US inflation undershoots Fed expectations in H2, keeping rates unchanged rather than hiking as markets currently price; market assigns roughly 1-in-3 odds of a Fed hike on July 29th.\n- Earnings season starts next week; focus is on hyperscaler AI capex plans, expected to rise from over $800bn this year to roughly $1.2 trillion next year — any hesitation to spend (given recent underperformance of big tech spenders) is a risk to the broader earnings/AI narrative.\n- Iran: base case is gradual re-normalization of flows through the Strait of Hormuz with Brent forecast near $75/bbl in 12 months (close to current levels), but reports of renewed hostilities and a fragile ceasefire were noted as of recording; US SPR is at its lowest-ever level, reducing shock-absorption capacity.\n- Historical seasonality is supportive: July is historically one of the best months for US high yield, and the S&P 500 hasn't fallen in July since 2014.\n\n**FX / rates implications**\n- A surprise Fed hike (not base case, ~33% priced) would be USD-positive and UST yield-positive, pressuring EM Asia and LATAM FX and steepening carry-unwind risk.\n- A pullback in AI capex/hyperscaler spend would hit US risk sentiment and equities, a negative for EM risk appetite and capital flows broadly.\n- Escalation of the Iran conflict, combined with a depleted US SPR, is an upside oil-price risk (Brent base case $75) — a negative terms-of-trade shock for oil importers (India, Philippines, Thailand) and a positive for oil-linked LATAM/EM exporters (Colombia, Mexico).\n\n**Watch list**\n- FOMC meeting July 29th — hike probability currently priced near one-in-three.\n- Q2 US tech/hyperscaler earnings starting next week, particularly AI capex guidance.\n- Strait of Hormuz ceasefire durability and any escalation of Iran hostilities; Brent oil price versus the $75/bbl 12-month forecast.",
+      "summarized_at": "2026-07-09T04:39:47.968755+00:00"
+    },
+    {
+      "title": "The Exchange 7/8/26",
+      "published": "Wed, 8 Jul 2026 19:03:04 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/27bac783-daca-40ea-85e6-55b95a25bf97/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=27bac783-daca-40ea-85e6-55b95a25bf97&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Brent",
+        "WTI",
+        "Oil",
+        "UST 10y",
+        "Iran",
+        "NATO",
+        "Ukraine",
+        "Russia",
+        "Risk sentiment",
+        "Geopolitics"
+      ],
+      "summary": "**Summary**\nEpisode centers on a geopolitical whiplash day: Trump declared the Iran ceasefire over and threatened a fresh strike, sending Brent/WTI up roughly $7 intraday before markets pared losses; simultaneously he struck an unexpectedly conciliatory tone at the NATO summit in Ankara, unifying allies on defense spending and Ukraine support. For an EM trader, this is a risk-sentiment and oil-shock day that bleeds into Asia FX via energy import costs.\n\n**Key points**\n- Oil spiked ~$7 on Trump's Iran ceasefire-collapse comments before he suggested prices would fall \"dramatically\"; Strait of Hormuz (20% of global oil flow) remains a flashpoint given Iranian missile activity near tankers.\n- Strong 10-year UST auction (best bid-to-cover since Feb, dealers took least since January) despite heavy AI-related corporate issuance (Amazon, Meta) — no signs of investor indigestion on sovereign supply.\n- Ariel Investments' Charlie Bobrinskoy warned markets are too complacent on Iran, citing 1973 and 1979 oil-shock precedents; argues global strategic reserves are near two-decade lows and consumption now exceeds production, a bullish oil setup independent of the ceasefire outcome.\n- Trump authorized Ukraine to produce Patriot missile systems domestically; BCA's Marco Papic says the 3-year Russia-Ukraine \"equilibrium\" is breaking down as Ukrainian drone strikes hit Russian refineries, pushing European diesel/nat gas prices higher.\n- Segment teased (not delivered in this transcript) on whether rising oil renews pressure on Korea and Japan.\n\n**FX / rates implications**\n- Sustained higher oil is a negative terms-of-trade shock for oil-importing EM Asia (INR, KRW, PHP particularly exposed); watch import bills and current-account pressure if Brent holds gains.\n- Firm UST 10-year auction results are constructive for global rates sentiment and could support carry trades if yields stay contained despite heavy supply.\n- European gas/diesel price gains from Ukraine's refinery strikes add to global inflation risk, a headwind for DM/EM central bank easing paths.\n\n**Watch list**\n- Whether Trump follows through on renewed Iran strikes; Strait of Hormuz tanker incidents as an oil-price catalyst.\n- Russia-Ukraine trajectory: Kremlin decision to negotiate a ceasefire vs. escalate mobilization.\n- Strategic petroleum reserve refill dynamics globally amid persistently tight supply.",
+      "summarized_at": "2026-07-09T04:46:20.067830+00:00"
+    },
+    {
+      "title": "Cut to the Chase! ‘Non-exuberance’ in the summer months",
+      "published": "Thu, 09 Jul 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19456917-cut-to-the-chase-non-exuberance-in-the-summer-months.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "China",
+        "Hang Seng",
+        "Equities",
+        "Risk sentiment",
+        "Korea",
+        "Taiwan",
+        "Semiconductors",
+        "Asia ex-Japan",
+        "Fund rotation"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Daniel Lam discusses the rebound in the Hang Seng Index and Asia ex-Japan equities, framing it around a retreating US dollar, reduced Middle East tension, and rotation out of crowded semiconductor trades into 'non-exuberance' areas for the quiet summer. The core thesis links a softer dollar and lower safe-haven demand directly to renewed appetite for China and broader Asia ex-Japan risk assets.\n\n**Key points**\n- Hang Seng Index has recovered well off its year low of roughly 22,500, helped by reduced Middle East geopolitical stress and a less-stressed global environment reducing safe-haven USD demand.\n- CIO team upgraded Asia ex-Japan equities to overweight weeks ago; China is the key overweight market within the region, primarily on valuation discount versus global equities, though valuation alone is not viewed as sufficient — a catalyst was needed.\n- The falling dollar (driven by reduced safe-haven demand and weaker oil prices) is identified as that catalyst for narrowing China's valuation gap.\n- US, Japan, Korea and Taiwan equities are highly correlated via AI/semiconductor value chain exposure (Korea=memory, Taiwan=foundries); first-half exuberance in these names, plus USD strength in May/June, drove rotation out of Hang Seng.\n- With semiconductor stocks now consolidating, money is rotating into 'non-exuberance' areas for the summer: US healthcare, US financials, European equities, and Chinese equities.\n- US tech is expected to rally again once consolidation ends, likely late Q3 or Q4 2026.\n\n**FX / rates implications**\n- A softer USD/DXY driven by fading safe-haven demand is the explicit channel supporting Asia ex-Japan risk assets, including China — consistent with broad EM Asia currency tailwinds (CNY, KRW, TWD) if dollar weakness persists.\n- Fund rotation out of crowded US/Korea/Taiwan semiconductor exposure and into China/Europe/US non-tech sectors implies periodic outflow pressure on KRW and TWD versus inflows supporting CNH/CNY sentiment.\n- Weaker oil prices cited alongside USD softness reinforces a broader risk-on, lower-inflation-pressure backdrop supportive of EM carry trades generally.\n\n**Watch list**\n- Pace of semiconductor stock consolidation and timing of any US tech rally (flagged for late Q3/Q4 2026) as a potential reversal trigger for the current rotation.\n- Middle East geopolitical developments, which underpin the current reduced safe-haven USD demand narrative.\n- Hang Seng Index levels relative to the 22,500 year-low as a gauge of China equity sentiment continuation.",
+      "summarized_at": "2026-07-09T04:52:44.625422+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-09"
 }
