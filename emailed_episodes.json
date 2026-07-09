@@ -12592,8 +12592,29 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-07-09T04:52:44.625422+00:00",
       "episode_id": "82c67707e4b32992"
+    },
+    "971a16acf7f7221a": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Pod-2-The-Future-of-Money.mp3?dest-id=1534493",
+      "title": "The Future of Money: Better Outcomes, or Just More Complexity?",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-07-09T12:26:28.489065+00:00",
+      "episode_id": "971a16acf7f7221a"
+    },
+    "26147957dd3376ff": {
+      "url": "https://traffic.megaphone.fm/BLM5791852440.mp3",
+      "title": "FX Moment: US Fundamentals Set Up Early 2H Dollar Revival",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-07-09T12:44:08.971738+00:00",
+      "episode_id": "26147957dd3376ff"
+    },
+    "8f131ee0c6a8e532": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/621b3b1b-914d-4477-8923-d99d932ec36a/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=621b3b1b-914d-4477-8923-d99d932ec36a&feed=IFy3imsg&t=podcast&e=nx-s1-5885026&p=510325&d=567&size=9076071",
+      "title": "Why Google fell behind in the AI race",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-09T12:45:55.890967+00:00",
+      "episode_id": "8f131ee0c6a8e532"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-09T04:52:44.625464+00:00"
+  "last_updated": "2026-07-09T12:45:55.891006+00:00"
 }
