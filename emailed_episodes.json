@@ -12613,8 +12613,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-07-09T12:45:55.890967+00:00",
       "episode_id": "8f131ee0c6a8e532"
+    },
+    "ea223c0bf0d92871": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a4f5e3b81fe1f6460182926/media.mp3",
+      "title": "Critical minerals and the Malacca Strait",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-07-09T16:19:10.160733+00:00",
+      "episode_id": "ea223c0bf0d92871"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-09T12:45:55.891006+00:00"
+  "last_updated": "2026-07-09T16:19:10.160767+00:00"
 }
