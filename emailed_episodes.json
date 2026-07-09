@@ -12641,8 +12641,36 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-07-09T19:45:02.533000+00:00",
       "episode_id": "caaac766de808925"
+    },
+    "a70c39c5133e634f": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/60e867c7-c22e-4faf-a07c-0769ca9dc29d.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The AI Divide Between the U.S. and Japan",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-09T23:01:29.509981+00:00",
+      "episode_id": "a70c39c5133e634f"
+    },
+    "62bd7968e976eb0b": {
+      "url": "https://traffic.megaphone.fm/GLD2494383530.mp3?updated=1783373622",
+      "title": "Ken Griffin on US-China Tensions and AI",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-07-09T23:05:08.995640+00:00",
+      "episode_id": "62bd7968e976eb0b"
+    },
+    "cc19d47a758e4c34": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/4wuz8zw3ikk3w4jj/Macrovoices-2026-07-09-Adam-Parker.mp3",
+      "title": "MacroVoices #540 Adam Parker: Beyond the AI Bubble: Diversifying Portfolios in an Earnings-Driven Market",
+      "feed": "Macro Voices",
+      "processed": "2026-07-09T23:11:36.505331+00:00",
+      "episode_id": "cc19d47a758e4c34"
+    },
+    "35cf3b33164bfda0": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ee665e22-5abb-4981-a58d-b481016ff97e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "One of the World's Largest Hedge Funds on Its 86x Growth in Token Spending",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-07-09T23:18:50.197573+00:00",
+      "episode_id": "35cf3b33164bfda0"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-09T19:45:02.533048+00:00"
+  "last_updated": "2026-07-09T23:18:50.197615+00:00"
 }
