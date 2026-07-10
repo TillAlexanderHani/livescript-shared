@@ -12725,8 +12725,43 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-07-10T13:19:05.526962+00:00",
       "episode_id": "909a19508646cc83"
+    },
+    "6ef0056ec5dd298d": {
+      "url": "https://traffic.megaphone.fm/GLD1065183560.mp3",
+      "title": "Why the US Dollar Could  Continue to Strengthen",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-07-10T16:09:38.548193+00:00",
+      "episode_id": "6ef0056ec5dd298d"
+    },
+    "7ca39e78ee3ea39e": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a50c6d5bafe2fa6a7f3da2a/media.mp3",
+      "title": "Competing global forces",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-07-10T16:12:01.103763+00:00",
+      "episode_id": "7ca39e78ee3ea39e"
+    },
+    "56fbd0b3b6f6d2bf": {
+      "url": "https://mcdn.podbean.com/mf/web/zytzjhx7hqe8s2xw/260710_GDP_Greg_KAL-1-LBLGUSLO.mp3",
+      "title": "Global Data Pod: Upside growth risks in the Euro area as Le Pen runs",
+      "feed": "Global Data Pod",
+      "processed": "2026-07-10T16:15:00.588499+00:00",
+      "episode_id": "56fbd0b3b6f6d2bf"
+    },
+    "deed3333d2e0d5a2": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260710_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead – Déjà vu?",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-07-10T16:36:53.995328+00:00",
+      "episode_id": "deed3333d2e0d5a2"
+    },
+    "6ec870e179bec4fe": {
+      "url": "https://media.transistor.fm/709b8c2c/fec651a0.mp3",
+      "title": "Jennifer McKeown on where next for the advanced economies",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-07-10T16:40:30.155866+00:00",
+      "episode_id": "6ec870e179bec4fe"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-10T13:19:05.527007+00:00"
+  "last_updated": "2026-07-10T16:40:30.155907+00:00"
 }
