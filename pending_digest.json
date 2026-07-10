@@ -1,4 +1,69 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! The earnings tailwind",
+      "published": "Fri, 10 Jul 2026 09:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19472788-cut-to-the-chase-the-earnings-tailwind.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "S&P 500",
+        "Earnings",
+        "Technology",
+        "AI",
+        "Risk sentiment",
+        "China",
+        "Asia ex-Japan",
+        "Geopolitics",
+        "Equities"
+      ],
+      "summary": "**Summary**\nStandard Chartered's daily briefing argues that despite renewed Middle East tensions, global equities remain near record highs because investors are looking through geopolitical noise toward the US Q2 earnings season, which is seen as the most important market catalyst in the coming weeks.\n\n**Key points**\n- S&P 500 Q2 earnings are expected to grow roughly 24% year-on-year, with strong growth persisting through the rest of 2026 before moderating to a still-healthy pace in 2027.\n- Resilient corporate profits are cited as the reason markets have withstood volatility from geopolitics, trade concerns and energy price swings.\n- Technology and AI-linked companies are expected to again beat earnings expectations, driven by strong demand for semiconductors, data centers and AI infrastructure; this season should help validate whether massive AI capex is generating adequate returns.\n- Profit growth is broadening beyond tech: even excluding the tech sector, S&P 500 earnings are still expected to grow at a double-digit pace.\n- Asia ex-Japan is flagged as a preferred equity market, with China singled out for improving earnings visibility.\n\n**FX / rates implications**\n- A resilient, broadening US earnings season supports risk-on sentiment globally, which is typically constructive for EM carry trades and EM FX/rates via improved capital flows and reduced credit spreads.\n- Continued strength in US corporate earnings alongside elevated equity valuations could keep US yields and the dollar range-bound absent a growth shock, a mildly supportive backdrop for EM Asia and LATAM currencies.\n- Improving China earnings visibility, if sustained, is a positive read-through for CNY, KRW, TWD and other China-proxy EM Asia currencies given trade and supply-chain linkages.\n\n**Watch list**\n- US Q2 earnings season kickoff and management commentary on demand, capex and forward guidance.\n- AI/tech sector earnings results as a gauge of whether infrastructure investment is generating returns.\n- Middle East geopolitical developments as a potential source of episodic volatility despite the constructive earnings backdrop.",
+      "summarized_at": "2026-07-10T04:46:57.013996+00:00"
+    },
+    {
+      "title": "H2 2026 India Market Outlook",
+      "published": "Fri, 10 Jul 2026 09:00:00 +0530",
+      "url": "https://www.buzzsprout.com/1885786/episodes/19473202-h2-2026-india-market-outlook.mp3",
+      "feed": "Standard Chartered India - Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "INR",
+        "RBI",
+        "India GSEC",
+        "Gold",
+        "USD",
+        "Brent",
+        "Carry",
+        "Inflation",
+        "BOP",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nStandard Chartered's India Chief Investment Strategist reviews a volatile H1 2026 — driven by the Middle East conflict and energy crisis — and lays out an H2 2026 outlook that turns constructive as oil retraces toward pre-conflict levels, easing inflation risk and supporting a India balance-of-payments swing from deficit to surplus.\n\n**Key points**\n- FY26 real GDP came in at 7.7%; FY27 growth is forecast at 6.5% with inflation near 5%, implying 11-12% nominal GDP growth.\n- RBI held the repo rate at 5.25% in the June MPC, flagging oil-driven inflation risk but favoring capital-flow measures over rate hikes; a December 2025 cut was the last move.\n- RBI measures are expected to draw USD 60-80bn in FY27, lifting banking system liquidity to INR 5-6 trillion by September 2026 (from ~INR 1.6 trillion in May 2026) and pushing BOP toward surplus.\n- 10-year G-Sec yield fell to a multi-week low, now around 6.75%, aided by index-inclusion flows and FAR-eligible long tenor issuance (15/30/40yr papers).\n- INR gold rose ~6.2% YTD even as USD gold fell ~7%, due to ~5% INR depreciation and higher import duties; India's Nifty 50 was among the weakest major global benchmarks in USD terms in H1.\n- StanChart is overweight equities (large caps, financials, consumer discretionary), overweight gold, overweight short-end and long-end bonds (core curve-steepener), underweight energy sector.\n\n**FX / rates implications**\n- USDINR: expected BOP improvement (deficit to surplus/neutral) and RBI USD inflow measures should relieve INR pressure and support gradual stabilization/appreciation bias; downside risk if oil re-spikes or monsoon disappoints.\n- Rates: RBI seen on hold through F27 with limited hike risk; curve steepener view (short yields down on liquidity, long yields anchored) — relevant for INR rates positioning and carry trades.\n- Gold: constructive medium-term as Fed pause caps USD upside and limits gold downside; structural EM central bank gold buying supports prices, relevant given broader EM reserve diversification trends.\n- Oil: retracement toward pre-conflict levels is the key swing factor easing India's twin inflation/currency pressures — read-through for other oil-sensitive EM Asia importers (IDR, PHP, KRW, THB).\n\n**Watch list**\n- Monsoon progression — a deficit is flagged as a major upside inflation/growth risk.\n- Middle East conflict re-escalation risk to oil prices and INR.\n- RBI capital-flow measures progress toward the USD 60-80bn FY27 target and banking liquidity trajectory into September 2026.\n- Q1 FY27 corporate earnings for signs of input-cost normalization after the oil shock.",
+      "summarized_at": "2026-07-10T04:49:24.078087+00:00"
+    },
+    {
+      "title": "The yen",
+      "published": "Wed, 08 Jul 2026 12:00:00 -0000",
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH2885028021.mp3",
+      "feed": "Reuters Econ World",
+      "provider": "Reuters",
+      "priority": 5,
+      "tags": [
+        "JPY",
+        "USDJPY",
+        "BoJ",
+        "Fed",
+        "Carry",
+        "UST 10y",
+        "JGB",
+        "Risk sentiment",
+        "Inflation"
+      ],
+      "summary": "**Summary**\nThe Japanese yen has fallen to roughly 162 per dollar, its weakest since 1986, driven by energy shocks, a wide US-Japan rate gap, and a dovish new PM. For an EM trader this matters directly: the yen underpins the global carry trade, and Japan is a massive holder of US Treasuries and foreign assets, so sharp yen moves and any Ministry of Finance intervention have contagion potential across global rates, risk assets and EM funding costs.\n\n**Key points**\n- Yen at ~162/USD, lowest since 1986; energy shocks (2022 Ukraine war, recent Iran conflict) forced Japan to buy dollars/sell yen to import energy.\n- PM Sanae Takaichi, an Abenomics protégé, is seen as tolerant of a weak yen and skeptical of rate hikes, favoring fiscal/monetary stimulus.\n- BoJ hiked to a 31-year high of 1% last month but it did little for the yen since other major central banks are hiking too, keeping the rate gap wide.\n- Japan intervened late April/early May, spending ~$72bn (record monthly amount) to move USDJPY from 162 to 155 — effect fully evaporated within a month; shorts on yen near 2-year highs.\n- Japan holds ~$1.3tn in FX reserves (intervention war chest); market believes new defended line is ~165, not the old 162.\n- Japan's debt/GDP ~200%, but mostly domestically held; BoJ can't let JGB yields spike, so tightening is deliberately slow (hikes roughly every six months).\n- MoF reportedly shifting from escalating verbal warnings to surprise intervention tactics; US Treasury (Trump admin) tacitly tolerant of yen-supportive intervention since it implies a weaker dollar stance.\n\n**FX / rates implications**\n- Persistent JPY weakness sustains carry-trade flows funding EM and US/European assets; a sharp yen reversal (intervention-driven) could trigger rapid unwind of carry positions, hitting high-yield EM FX (INR, IDR, MXN, BRL) and risk assets broadly.\n- Wide BoJ-Fed rate differential remains the core driver; any narrowing (Fed cuts or faster BoJ hikes) would pressure USD broadly and could support EM currencies via reduced funding costs.\n- Japan's Treasury holdings mean large-scale JPY intervention (dollar sales) can pressure UST yields, a spillover channel relevant to global rates positioning.\n\n**Watch list**\n- USDJPY 165 level — seen by analysts as Tokyo's likely new intervention threshold.\n- Further BoJ rate decisions (hikes roughly every six months) and any acceleration.\n- Yen short positioning (near 2-year highs) — a squeeze could amplify any intervention's impact.\n- US Treasury currency manipulator report and Trump administration's stance on dollar strength/weakness.",
+      "summarized_at": "2026-07-10T04:56:59.183982+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-10"
 }

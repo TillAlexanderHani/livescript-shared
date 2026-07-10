@@ -12669,8 +12669,36 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-07-09T23:18:50.197573+00:00",
       "episode_id": "35cf3b33164bfda0"
+    },
+    "90cc6f7c57d38c2a": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a4ffb6ccf487ba3a998bd92/media.mp3",
+      "title": "The economics of weight loss, with Rebecca Diamond and Claer Barrett",
+      "feed": "The Economics Show",
+      "processed": "2026-07-10T04:45:41.692183+00:00",
+      "episode_id": "90cc6f7c57d38c2a"
+    },
+    "841bccaebc65cdf2": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19472788-cut-to-the-chase-the-earnings-tailwind.mp3",
+      "title": "Cut to the Chase! The earnings tailwind",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-10T04:46:57.013996+00:00",
+      "episode_id": "841bccaebc65cdf2"
+    },
+    "6da5e5014f093c60": {
+      "url": "https://www.buzzsprout.com/1885786/episodes/19473202-h2-2026-india-market-outlook.mp3",
+      "title": "H2 2026 India Market Outlook",
+      "feed": "Standard Chartered India - Money Insights",
+      "processed": "2026-07-10T04:49:24.078087+00:00",
+      "episode_id": "6da5e5014f093c60"
+    },
+    "c8671cee31ec82e5": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH2885028021.mp3",
+      "title": "The yen",
+      "feed": "Reuters Econ World",
+      "processed": "2026-07-10T04:56:59.183982+00:00",
+      "episode_id": "c8671cee31ec82e5"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-09T23:18:50.197615+00:00"
+  "last_updated": "2026-07-10T04:56:59.184016+00:00"
 }
