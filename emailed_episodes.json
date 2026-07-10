@@ -12697,8 +12697,36 @@
       "feed": "Reuters Econ World",
       "processed": "2026-07-10T04:56:59.183982+00:00",
       "episode_id": "c8671cee31ec82e5"
+    },
+    "6fc47cb6cfe69f38": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19473930-sterling-shrugs-dollar-crowds-yen-cracks.mp3",
+      "title": "Sterling shrugs, dollar crowds, yen cracks",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-07-10T12:47:12.841441+00:00",
+      "episode_id": "6fc47cb6cfe69f38"
+    },
+    "e4d0c5bee40575a3": {
+      "url": "https://traffic.megaphone.fm/BLM3865992185.mp3",
+      "title": "State of Distressed Debt: C Street CEO Henes on Board Dynamics",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-07-10T13:15:49.611084+00:00",
+      "episode_id": "e4d0c5bee40575a3"
+    },
+    "3e1187cc06474298": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19473783-through-the-noise-eye-on-earnings-as-iran-tensions-return.mp3",
+      "title": "Through the noise: Eye on earnings as Iran tensions return",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-10T13:17:25.685473+00:00",
+      "episode_id": "3e1187cc06474298"
+    },
+    "909a19508646cc83": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/3287a992-1c46-4b55-8742-378ee51bf8cb/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=3287a992-1c46-4b55-8742-378ee51bf8cb&feed=IFy3imsg&t=podcast&e=nx-s1-5887680&p=510325&d=532&size=8517259",
+      "title": "SK Hynix to the moon, Gen-Z to their rooms, and Connecticut tax reform looms",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-10T13:19:05.526962+00:00",
+      "episode_id": "909a19508646cc83"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-10T04:56:59.184016+00:00"
+  "last_updated": "2026-07-10T13:19:05.527007+00:00"
 }
