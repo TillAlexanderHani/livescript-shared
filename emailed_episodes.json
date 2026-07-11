@@ -12816,8 +12816,15 @@
       "feed": "Global Data Pod",
       "processed": "2026-07-11T10:50:08.717984+00:00",
       "episode_id": "6474e1912ae40e2e"
+    },
+    "b764a10e7b8c145b": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV6381475156.mp3",
+      "title": "The Orange Variable",
+      "feed": "Macro Trading Floor",
+      "processed": "2026-07-11T14:46:18.579679+00:00",
+      "episode_id": "b764a10e7b8c145b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-11T10:50:08.718050+00:00"
+  "last_updated": "2026-07-11T14:46:18.579714+00:00"
 }
