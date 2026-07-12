@@ -1,29 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "The Korean Levered ETFs Shaking Markets All Around the World",
-      "published": "Fri, 10 Jul 2026 08:00:00 +0000",
-      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/59c7d65a-dfbb-447c-8ed4-b482014569c9/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "feed": "Odd Lots (Bloomberg)",
-      "provider": "Bloomberg",
-      "priority": 4,
-      "tags": [
-        "KRW",
-        "Korea",
-        "SK Hynix",
-        "Samsung",
-        "Leveraged ETFs",
-        "S&P 500",
-        "Real yields",
-        "UST 10y",
-        "Momentum",
-        "Risk sentiment",
-        "Credit",
-        "Retail flows"
-      ],
-      "summary": "**Summary**\nOdd Lots speaks with Barclays' Alex Altman (\"Altie\") about the explosive growth of single-stock levered ETFs, using this week's Korea-driven market action (Samsung earnings, SK Hynix's US listing) as the entry point. The conversation matters for an EM trader because Korea has become \"ground zero\" for retail-driven leverage that is now materially amplifying underlying share moves and creating mechanical, non-discretionary flow in global markets.\n\n**Key points**\n- Global levered-ETF AUM peaked near $250-270bn; APAC AUM tripled from $12-13bn to $50-55bn, while US AUM rose from ~$120bn (April lows) to north of $200bn.\n- Korean AUM growth has come mostly from new share creation/inflows (retail buying), unlike the US where growth is mostly price-driven; 93% of Korean levered ETFs are retail-owned vs ~75% in the US.\n- Mechanics: triple-levered funds must rebalance daily (sell more on down days, buy more on up days), creating a growing short-gamma dimension in equity markets that partially offsets long-gamma overwriting flows.\n- Leverage is sourced via swaps with prime brokers, contributing to (but not the main driver of) tighter bank balance sheets/higher financing rates — multi-manager hedge funds (~$1trn AUM, tripled since Covid) are cited as the bigger balance-sheet user.\n- US household equity exposure is 34% of wealth (record high, above dot-com), vs 26% in real estate — the widest gap on record, raising the stakes of any sharp equity drawdown for US consumption.\n- Barclays' quant \"Betty\" model (19 inputs, no sentiment) has flagged record overbought/momentum-crowded conditions since late May, implying weak two-month forward S&P asymmetry, though earnings and fiscal deficit spending are cushioning downside.\n- 10yr real yields near 95th percentile (~2.3%) argue for S&P multiples of 14-18x vs current ~20x — a valuation gap attributed partly to record-high margins.\n\n**FX / rates implications**\n- No direct EM FX/rates calls made, but Korea's retail-leveraged equity dynamics are a channel to watch for KRW volatility and capital-flow swings tied to chip-sector single stocks (Samsung, SK Hynix).\n- Elevated US real yields and record IG bond issuance signal ongoing competition for capital that could pressure risk assets broadly, an indirect headwind for EM carry trades if it triggers a US equity correction.\n- A disorderly US equity drawdown (16trn/50% GDP-equivalent wealth impairment scenario discussed) would be a global risk-off trigger with spillover to EM FX.\n\n**Watch list**\n- SK Hynix's US listing and ongoing Korean single-stock levered ETF flows for signs of feedback loops into underlying shares.\n- Barclays' Betty indicator for shifts out of overbought/momentum-crowded territory.\n- Bank balance-sheet capacity/financing rates as a stress point if leverage and multi-strat AUM keep growing.",
-      "summarized_at": "2026-07-12T18:47:09.994530+00:00"
-    }
-  ],
-  "last_digest_date": "2026-07-12"
+  "episodes": [],
+  "last_digest_date": "2026-07-13"
 }
