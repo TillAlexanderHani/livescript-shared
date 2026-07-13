@@ -12879,8 +12879,22 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-07-13T19:14:53.024459+00:00",
       "episode_id": "f7b893c6c11b434f"
+    },
+    "5bbada27e1dd9bff": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/e33d92dc-a416-4fe3-8b44-bb80149ad9d6.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Lower Prices, Bigger Market: The Next Phase of GLP-1 Drugs",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-13T22:43:08.583576+00:00",
+      "episode_id": "5bbada27e1dd9bff"
+    },
+    "aa908c212ca09faa": {
+      "url": "https://traffic.libsyn.com/secure/franklintempletontalkingmarkets/FT_Podcast_AOR_July2026_v4.mp3?dest-id=584964",
+      "title": "Anatomy of a Recession: Two Macro Economic Risks Fading",
+      "feed": "Talking Markets with Franklin Templeton",
+      "processed": "2026-07-13T22:56:30.398731+00:00",
+      "episode_id": "aa908c212ca09faa"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-13T19:14:53.024499+00:00"
+  "last_updated": "2026-07-13T22:56:30.398765+00:00"
 }
