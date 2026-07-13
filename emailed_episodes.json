@@ -12872,8 +12872,15 @@
       "feed": "MERICS China Podcast",
       "processed": "2026-07-13T16:21:42.899893+00:00",
       "episode_id": "c4aed227a48fea36"
+    },
+    "f7b893c6c11b434f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/a0883df0-ab38-49b4-ada1-158ccd96c702/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=a0883df0-ab38-49b4-ada1-158ccd96c702&feed=tc4zxWgX",
+      "title": "Oil Climbs on Hormuz Tensions, Apple’s OpenAI Lawsuit, and Earnings Season Eve 7/13/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-13T19:14:53.024459+00:00",
+      "episode_id": "f7b893c6c11b434f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-13T16:21:42.899933+00:00"
+  "last_updated": "2026-07-13T19:14:53.024499+00:00"
 }
