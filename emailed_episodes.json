@@ -12837,8 +12837,15 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-07-12T18:47:09.994530+00:00",
       "episode_id": "d61c546203f49478"
+    },
+    "8b15a8e61280ea30": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19484060-cut-to-the-chase-fear-and-greed.mp3",
+      "title": "Cut to the Chase! Fear and greed",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-13T04:25:34.078753+00:00",
+      "episode_id": "8b15a8e61280ea30"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-12T18:47:09.994579+00:00"
+  "last_updated": "2026-07-13T04:25:34.078789+00:00"
 }
