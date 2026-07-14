@@ -12928,8 +12928,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-07-14T11:26:28.068848+00:00",
       "episode_id": "bcec693608593263"
+    },
+    "e4b0195705738998": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/19492089-can-latin-america-lead-the-global-critical-minerals-market.mp3",
+      "title": "Can Latin America Lead the Global Critical Minerals Market?",
+      "feed": "Horizontes de Latinoamérica (S&P Global)",
+      "processed": "2026-07-14T15:16:18.208407+00:00",
+      "episode_id": "e4b0195705738998"
+    },
+    "0a9a250ae60521fa": {
+      "url": "https://traffic.megaphone.fm/BLM1796357623.mp3",
+      "title": "All Options Considered: Equity Derivatives With Susquehanna",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-07-14T15:19:12.580941+00:00",
+      "episode_id": "0a9a250ae60521fa"
+    },
+    "3efc5b17968e39a7": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC8287774622.mp3",
+      "title": "The Credit Market Lens: A Higher Bar for Earnings Season",
+      "feed": "PIMCO Pod",
+      "processed": "2026-07-14T15:21:10.356753+00:00",
+      "episode_id": "3efc5b17968e39a7"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-14T11:26:28.068891+00:00"
+  "last_updated": "2026-07-14T15:21:10.356795+00:00"
 }
