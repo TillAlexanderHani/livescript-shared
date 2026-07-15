@@ -12970,8 +12970,64 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-07-15T04:02:35.638077+00:00",
       "episode_id": "da5a505274bebe78"
+    },
+    "4f336d933bc1bead": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0713_ING_CEE.mp3?dest-id=1534493",
+      "title": "Getting to Know Central and Eastern Europe is the Key to Unlocking Opportunities",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-07-15T11:16:53.273448+00:00",
+      "episode_id": "4f336d933bc1bead"
+    },
+    "d02a672d50bb7630": {
+      "url": "https://traffic.megaphone.fm/GLD7158451322.mp3",
+      "title": "The Growth of the Space Industry",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-07-15T11:19:56.773988+00:00",
+      "episode_id": "d02a672d50bb7630"
+    },
+    "5d39e13eeddea845": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/76ab7e86-21ca-493f-b818-5bdaa593ef88/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=76ab7e86-21ca-493f-b818-5bdaa593ef88&feed=tc4zxWgX",
+      "title": "Kevin Warsh Testifies, IBM’s Warning, and the Incredible Shrinking AI Model 7/14/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-15T11:27:09.366210+00:00",
+      "episode_id": "5d39e13eeddea845"
+    },
+    "7775719fb6212a29": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a5656da70c881d75cf1f756/media.mp3",
+      "title": "The financial crash that created Britain’s first prime minister",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-07-15T11:32:52.628427+00:00",
+      "episode_id": "7775719fb6212a29"
+    },
+    "a85c8529fac673d8": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5879536&p=510362&d=2321&size=37148718",
+      "title": "Building things and breaking things in China (Summer School World Tour)",
+      "feed": "Planet Money",
+      "processed": "2026-07-15T11:38:58.376768+00:00",
+      "episode_id": "a85c8529fac673d8"
+    },
+    "5b63809e1b21e1e9": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/bd23e5d4-7937-47fb-ac52-b92a52948651/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=bd23e5d4-7937-47fb-ac52-b92a52948651&feed=IFy3imsg&t=podcast&e=nx-s1-5893745&p=510325&d=537&size=8600015",
+      "title": "Why your neighbor might be paying less for their car",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-15T11:48:29.237877+00:00",
+      "episode_id": "5b63809e1b21e1e9"
+    },
+    "dbebecc915a6e3d6": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_07152026_Libsyn.mp3?dest-id=4287628",
+      "title": "The New Security Landscape Taking Shape in Asia",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-07-15T11:55:40.155195+00:00",
+      "episode_id": "dbebecc915a6e3d6"
+    },
+    "008fe266de3aff9d": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a568661f821a8210942f1b8/media.mp3",
+      "title": "Everything is awesome … for banks",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-07-15T11:58:07.060800+00:00",
+      "episode_id": "008fe266de3aff9d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-15T04:02:35.638112+00:00"
+  "last_updated": "2026-07-15T11:58:07.060850+00:00"
 }
