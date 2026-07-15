@@ -1,4 +1,26 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! Cooler inflation and Warsh",
+      "published": "Wed, 15 Jul 2026 10:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19496092-cut-to-the-chase-cooler-inflation-and-warsh.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "USD",
+        "DXY",
+        "Fed",
+        "CPI",
+        "Inflation",
+        "UST 10y",
+        "Risk sentiment",
+        "Fiscal",
+        "Carry"
+      ],
+      "summary": "**Summary**\nStandard Chartered's CIO of Fixed Income and FX reviews the June US CPI report and new Fed Chair Warsh's first semi-annual Congressional testimony, both released overnight on July 15th. The combination points to peak inflation and peak Fed hawkishness, a call with direct implications for EM carry trades and rate-hold expectations into 2026.\n\n**Key points**\n- Headline CPI fell 0.4% month-on-month, the first monthly decline in consumer prices in years, driven by falling gasoline prices; Core CPI was unchanged.\n- Annual headline and core inflation slowed to 3.5% and 2.6% respectively, both below market expectations.\n- Shelter rose only 0.1%, the smallest increase since January 2021; Core Goods fell 0.1%, suggesting tariff pass-through is moderating.\n- US equities rose and bond yields fell on the print, with short-end Treasury yields falling more than long-end, implying markets are pricing a less hawkish Fed.\n- Long-end term premium stayed elevated on lingering fiscal concerns.\n- Fed Chair Warsh stuck to his prepared script, reaffirmed price-stability commitment, but notably also referenced full employment (absent from his June press conference); he called the Fed's balance sheet too large post-GFC and confirmed a task force is reviewing balance-sheet policy, with findings due only at year-end.\n\n**FX / rates implications**\n- A soft CPI print plus a slow-moving balance-sheet review supports a Fed-on-hold call through 2026, a supportive backdrop for EM carry (INR, IDR, MXN, BRL, COP, PEN) via lower US front-end yields and steady-to-softer DXY.\n- Removal of forward guidance and Warsh's balance-sheet-shrinkage inclination are flagged as fresh sources of volatility, warranting diversification and hedging discipline across EM books.\n- Elevated long-end term premium on fiscal concerns keeps the UST curve steep, a factor for EM local-rates duration positioning.\n\n**Watch list**\n- Middle East conflict escalation as a wildcard risk to the soft-inflation, low-volatility thesis.\n- Fed balance-sheet task force, work starting after summer with findings due at year-end.\n- Incoming US inflation and Fed commentary for confirmation of the peak-hawkishness thesis.",
+      "summarized_at": "2026-07-15T04:02:35.638077+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-15"
 }
