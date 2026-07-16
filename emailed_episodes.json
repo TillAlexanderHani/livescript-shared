@@ -13089,8 +13089,43 @@
       "feed": "At Any Rate Podcast",
       "processed": "2026-07-16T18:51:53.431584+00:00",
       "episode_id": "2c6822ff423f2822"
+    },
+    "6778d78388a182cf": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a58a874c152a357db16cbb6/media.mp3",
+      "title": "The surging demand for Asia's AI hardware",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-07-16T22:44:37.036311+00:00",
+      "episode_id": "6778d78388a182cf"
+    },
+    "64ce2cb0afe3b654": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/34279ff1-989c-4dab-9a4b-2bc17e99eb14.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "A Test for Capital Markets: Funding AI",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-16T22:45:40.937664+00:00",
+      "episode_id": "64ce2cb0afe3b654"
+    },
+    "03ea504fde3ffb59": {
+      "url": "https://traffic.megaphone.fm/BLM8619223533.mp3",
+      "title": "Macro Matters: BI’s Adelberg on Housing, MBS and Prepay Risk",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-07-16T22:59:44.320053+00:00",
+      "episode_id": "03ea504fde3ffb59"
+    },
+    "af216a6188cdd9ba": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/19504398-latin-america-joins-the-space-race.mp3",
+      "title": "Latin America Joins the Space Race",
+      "feed": "The Americas Quarterly Podcast",
+      "processed": "2026-07-16T23:02:19.550347+00:00",
+      "episode_id": "af216a6188cdd9ba"
+    },
+    "97e42671134a8e9b": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC8053491811.mp3",
+      "title": "Real Estate: From Repricing to Relevance",
+      "feed": "PIMCO Pod",
+      "processed": "2026-07-16T23:05:26.272551+00:00",
+      "episode_id": "97e42671134a8e9b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-16T18:51:53.431625+00:00"
+  "last_updated": "2026-07-16T23:05:26.272605+00:00"
 }
