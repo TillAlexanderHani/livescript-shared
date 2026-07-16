@@ -13040,8 +13040,29 @@
       "feed": "Thoughts on the Market",
       "processed": "2026-07-15T22:46:15.508035+00:00",
       "episode_id": "eb216b3345a09fcb"
+    },
+    "ac951f95fbda7bb1": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/8bf4d231-0a26-4e27-a133-832933a6b83b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=8bf4d231-0a26-4e27-a133-832933a6b83b&feed=tc4zxWgX",
+      "title": "The Exchange 7/15/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-16T03:57:12.193368+00:00",
+      "episode_id": "ac951f95fbda7bb1"
+    },
+    "d3be5de409d639a5": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19501267-cut-to-the-chase-us-bank-earnings.mp3",
+      "title": "Cut to the Chase! US bank earnings",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-16T04:03:06.831779+00:00",
+      "episode_id": "d3be5de409d639a5"
+    },
+    "acad4596d265e4ef": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC7007530201.mp3",
+      "title": "Fed Policymaker Comments Raise the Stakes for Inflation Data",
+      "feed": "PIMCO Pod",
+      "processed": "2026-07-16T04:05:32.777774+00:00",
+      "episode_id": "acad4596d265e4ef"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-15T22:46:15.508077+00:00"
+  "last_updated": "2026-07-16T04:05:32.777818+00:00"
 }

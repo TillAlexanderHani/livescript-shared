@@ -1,4 +1,67 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The Exchange 7/15/26",
+      "published": "Wed, 15 Jul 2026 19:04:11 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/8bf4d231-0a26-4e27-a133-832933a6b83b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=8bf4d231-0a26-4e27-a133-832933a6b83b&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "Inflation",
+        "CPI",
+        "PPI",
+        "Oil",
+        "Brent",
+        "WTI",
+        "DXY",
+        "Risk sentiment",
+        "S&P 500",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nA volatile US session dominated by a sharp tech/semiconductor sell-off (SOX ETF down ~5%), a fresh escalation in US strikes on Iran near the Strait of Hormuz, and diverging Fed rhetoric ahead of the Kevin Warsh chairmanship. For an EM trader, the Fed governor comments and the Iran-driven oil dynamics are the most transmissible threads.\n\n**Key points**\n- SOX ETF down almost 5%; Western Digital -10%, Sandisk -12%; SpaceX shares fell below their $135 IPO price to $134, down from a $225 high, on lock-up concerns rather than fundamentals.\n- Fed Governor Lisa Cook struck a hawkish tone: prepared to act if disinflation stalls, says risks have shifted toward price stability over employment, calls inflation \"too high\" even as tariff effects wane; contrasts with a more dovish John Williams same morning, while incoming chair Kevin Warsh has said little.\n- US launched fresh strikes on Iran for a 5th straight day, targeting military sites around the Strait of Hormuz; Trump threatened energy targets and power plants next; Iran's FM says no negotiations planned. Oil prices eased off a one-month high settle despite the escalation, still well below levels seen when the conflict began (was ~$120s).\n- June PPI fell 0.3% (more than expected), a day after a softer-than-expected June CPI, reducing near-term odds of a hike; Rich Bernstein (Janus Henderson) argues inflation stays structurally sticky (deglobalization, fiscal/defense-driven \"guns and butter\" dynamic akin to the 1960s) and favors non-US and small-cap equities over the Mag 7/S&P 500.\n- BlackRock AUM hit $15.34tn (+22% y/y), best stock day in over a year; PayPal surged 16-20% on a reported $53bn+ take-private bid from Stripe/Advent/Block.\n\n**FX / rates implications**\n- Cook's hawkish tilt vs. Williams' dovish lean adds two-sided uncertainty to the Fed path under incoming chair Warsh; a more hawkish reaction function would support USD/DXY and pressure EM carry trades broadly.\n- Continued Iran strikes and Strait of Hormuz risk are an upside oil-price tail risk despite today's pullback — a genuine escalation (energy target hits) would hurt oil-importing EM Asia currencies (INR, PHP, IDR) via terms-of-trade and inflation, while supporting LATAM oil exporters' currencies (COP, MXN to a lesser extent).\n- Softer PPI/CPI prints reduce near-term hike odds, a marginal USD negative/EM-supportive signal, but Bernstein's sticky-inflation, non-US-outperformance thesis argues against over-extrapolating disinflation.\n- Broad risk-off in tech (SOX -5%, Nasdaq volatility) is a risk-sentiment headwind for EM FX beta trades if it spreads beyond mega-cap tech.\n\n**Watch list**\n- Fed messaging into the Warsh transition — watch for further Cook/Williams/Warsh commentary for the reaction function.\n- Iran conflict trajectory: further US strikes on energy targets/power plants could reprice oil sharply.\n- Upcoming Mag 7 earnings (Alphabet 7/23, Meta/Microsoft 7/29, Apple/Amazon 7/30) as a risk-sentiment catalyst.\n- PayPal board meeting around July 20 on the Stripe/Advent bid.",
+      "summarized_at": "2026-07-16T03:57:12.193368+00:00"
+    },
+    {
+      "title": "Cut to the Chase! US bank earnings",
+      "published": "Thu, 16 Jul 2026 09:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19501267-cut-to-the-chase-us-bank-earnings.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "S&P 500",
+        "Credit",
+        "Risk sentiment",
+        "Inflation",
+        "Fiscal",
+        "US equities"
+      ],
+      "summary": "**Summary**\nStandard Chartered's daily podcast reviews the kickoff of US Q2 earnings season, led by major US banks reporting results well above consensus on both earnings and revenue. This is a broad US equities/credit read rather than an EM-specific one, but it frames the risk backdrop (equity strength, capital markets activity, macro caution) that feeds into global risk appetite.\n\n**Key points**\n- Major US banks beat consensus on earnings and revenue, driven by a surge in equity trading and record investment banking fees.\n- Fee strength was fueled by AI-related capital markets activity and mega IPOs/equity offerings, including the SpaceX IPO.\n- Elevated market volatility also supported capital markets revenue.\n- US consumer credit metrics remain stable, with resilient American consumer spending.\n- Bank management guidance was broadly raised, though tougher year-on-year comparisons are flagged for H2.\n- Constructive US bank regulation was noted, referencing the Fed's June bank stress test results and capital requirements.\n- Caution remains around Middle East conflict risk, inflation, and large US fiscal deficits.\n- Bank valuations are seen as elevated but supported by growth; pullbacks viewed as buying opportunities.\n- Standard Chartered's US sector preference is a barbell of technology, communication services (AI growth exposure) and healthcare (defensive growth).\n- Consensus expects Q2 US earnings growth of more than 20%; Standard Chartered favors US equities within global equities and recommends under-invested investors add exposure.\n\n**FX / rates implications**\n- Strong US bank earnings and elevated market volatility support a constructive US risk backdrop, a mild tailwind for global risk sentiment that can support EM carry trades and portfolio flows when sustained.\n- Persistent references to inflation risk and large US fiscal deficits are a reminder of upside risk to UST yields, a key driver for EM Asia and LATAM rates and USD funding costs.\n- Middle East conflict risk is flagged as a macro uncertainty that could pressure oil prices and broader risk sentiment.\n\n**Watch list**\n- Continued US Q2 bank and corporate earnings reports, with consensus expecting over 20% earnings growth.\n- Fed's June bank stress test outcomes and any follow-through on capital requirement easing.\n- Middle East conflict developments as a source of macro/oil-price risk.\n- US fiscal deficit and inflation trajectory as drivers of UST yields.",
+      "summarized_at": "2026-07-16T04:03:06.831779+00:00"
+    },
+    {
+      "title": "Fed Policymaker Comments Raise the Stakes for Inflation Data",
+      "published": "Wed, 15 Jul 2026 19:23:00 -0000",
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC7007530201.mp3",
+      "feed": "PIMCO Pod",
+      "provider": "PIMCO",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Carry",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nFed Governor Christopher Waller delivered unexpectedly hawkish remarks, becoming the first FOMC voter to publicly float a conditional rate-hike path this year if inflation runs hot again, just before June CPI cooled but core PCE remained sticky at 3.4% y/y. This divergence between softer CPI and firmer PCE raises the stakes for every incoming inflation print through year end and directly shapes Fed policy risk that transmits to global USD and rates markets, including EM.\n\n**Key points**\n- Waller (voting FOMC member) said the Fed would need to consider tightening near-term if core inflation ran hot again this week.\n- June headline CPI cooled notably, effectively taking a near-term hike off the table, but core CPI was unchanged; core PCE has accelerated to 3.4% (May), above the Fed's 2% target and PIMCO's tolerated range.\n- Fed Chair Kevin Warsh testified the same day inflation fight is not \"accomplished\" despite the softer CPI.\n- PIMCO estimates June core PCE printed near 0.2% m/m, soft enough to buy the Fed more time; next PCE release is July 30, 2026, the day after the Fed's next policy decision.\n- FOMC as of June is roughly split between hold and additional-tightening camps, with Warsh potentially the swing vote; Waller was previously in the hold camp.\n- PIMCO's baseline: Fed on hold through 2026, but has trimmed easing expectations; explicitly not forecasting hikes.\n- Divergence between CPI/PCE partly reflects AI-related software/financial services price effects (memory costs, portfolio fees); September NIPA benchmark revisions could narrow this gap.\n\n**FX / rates implications**\n- A more hawkish Fed reaction function (tolerance for hikes on persistent, even supply-driven, inflation) is USD-supportive and a headwind for EM Asia and LATAM carry trades (INR, IDR, PHP, MXN, BRL) if realized.\n- Higher-for-longer or renewed hike risk raises UST yields, tightening EM local-rates differentials and pressuring EM FX via reduced carry appeal.\n- Conversely, PIMCO's own base case (soft June PCE, Fed on hold) argues against imminent USD strength — keeps EM carry trades intact near-term, but tail risk skews toward Fed hawkishness given FOMC split.\n\n**Watch list**\n- July 30, 2026: core PCE release, one day after the next FOMC decision — key swing data given Waller's 0.3% \"hot print\" threshold.\n- Monthly core PCE trajectory needs to average ~0.2% for remainder of 2026 to hit FOMC's 3.3% full-year median projection.\n- September NIPA benchmark revisions to PCE categories (software/portfolio services), which could retroactively cool the inflation narrative.\n- Any further hawkish commentary from FOMC centrists (e.g., Powell) aligning with Waller's stance.",
+      "summarized_at": "2026-07-16T04:05:32.777774+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-16"
 }
