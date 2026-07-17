@@ -13124,8 +13124,29 @@
       "feed": "PIMCO Pod",
       "processed": "2026-07-16T23:05:26.272551+00:00",
       "episode_id": "97e42671134a8e9b"
+    },
+    "72f95c021619751c": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/4226cfa3-f6e8-4fa3-95bc-8e665bffb1da/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=4226cfa3-f6e8-4fa3-95bc-8e665bffb1da&feed=tc4zxWgX",
+      "title": "Nibbling at Nvidia, Building Backlash, and Korea’s Volatility Curb 7/16/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-17T04:05:28.450965+00:00",
+      "episode_id": "72f95c021619751c"
+    },
+    "36946679e2744723": {
+      "url": "https://rss.art19.com/episodes/8472bfae-f1eb-4fd0-92af-5fe2fabd0c27.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "267: Defense Investing in a New Era of Geopolitics, AI, and Global Security Transformation",
+      "feed": "BlackRock - The Bid",
+      "processed": "2026-07-17T04:09:34.269397+00:00",
+      "episode_id": "36946679e2744723"
+    },
+    "48be16b098de3824": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a5911137a878a33800f3e4b/media.mp3",
+      "title": "Should private credit be public?",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-07-17T04:44:17.502959+00:00",
+      "episode_id": "48be16b098de3824"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-16T23:05:26.272605+00:00"
+  "last_updated": "2026-07-17T04:44:17.503023+00:00"
 }

@@ -1,4 +1,65 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Nibbling at Nvidia, Building Backlash, and Korea’s Volatility Curb 7/16/26",
+      "published": "Thu, 16 Jul 2026 18:28:35 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/4226cfa3-f6e8-4fa3-95bc-8e665bffb1da/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=4226cfa3-f6e8-4fa3-95bc-8e665bffb1da&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "KRW",
+        "CNY",
+        "Risk sentiment",
+        "Semiconductors",
+        "S&P 500"
+      ],
+      "summary": "**Summary**\nA US-tech-heavy session (Nvidia, hyperscaler capex, Netflix, housing data) is punctuated by two genuinely macro-relevant threads for an EM trader: a hawkish Fed intervention from a voting FOMC member, and a violent equity-market episode in South Korea that regulators are moving to contain. Both carry direct read-through to USD, UST yields and EM Asia risk appetite.\n\n**Key points**\n- Dallas Fed President Lorie Logan (2026 voter) explicitly called for the Fed to raise rates, saying \"it's time to finish the job of restoring price stability\"; she sees the June CPI improvement as insufficient, notes core non-housing services inflation stuck near 3% for two years, and flags upside risk from tariffs/oil pass-through and wage pressure.\n- Market pricing (per anchors' discussion) implies a 75% chance of a rate hike by December on short-term futures, even as 5-year forward breakevens sit at 2.25%, suggesting the market still expects inflation to normalize without further tightening — a hawk/market pricing gap worth tracking.\n- South Korea's KOSPI is down >20% over the past month (still +62% YTD); SK Hynix is down ~30% in July, on pace for its worst month since 2008, including a record -15% single day; Samsung+SK Hynix are 50-60% of the index. Regulators are cracking down on single-stock leveraged ETFs that amplified the swings, and SK Hynix's Nasdaq listing is seen as reducing the access-premium/leverage distortion.\n- China tech (Alibaba, Baidu, Tencent) and CXMT flagged as cheaper, capex-light AI alternatives gaining relative favor; DRAM/NAND capacity additions from China/Japan seen pressuring memory pricing over coming years.\n\n**FX / rates implications**\n- A more hawkish Fed voter re-pricing higher-for-longer would support USD broadly and pressure EM Asia and LATAM carry trades (INR, IDR, PHP, MXN, BRL) if the rhetoric gains traction across the Committee; watch UST yields for confirmation.\n- KOSPI/SK Hynix volatility and index-concentration risk are a KRW sentiment risk factor — sharp equity drawdowns in Korea can trigger foreign outflows and won weakness even absent a fundamental FX catalyst; regulatory curbs on leveraged products may dampen realized vol going forward.\n- Broader chip/memory-sector de-rating (Samsung, SK Hynix, Taiwan Semi) is a read on global tech demand and could weigh on TWD, KRW export-driven currencies if it extends.\n\n**Watch list**\n- Fed voters' commentary through the coming weeks for signs Logan's hawkish stance is spreading (next FOMC pricing shifts).\n- South Korean regulatory action on leveraged ETFs and any follow-through KOSPI/KRW volatility.\n- China DRAM/NAND capacity ramp (CXMT) as a medium-term price/margin risk for the memory complex.",
+      "summarized_at": "2026-07-17T04:05:28.450965+00:00"
+    },
+    {
+      "title": "267: Defense Investing in a New Era of Geopolitics, AI, and Global Security Transformation",
+      "published": "Fri, 17 Jul 2026 04:00:00 -0000",
+      "url": "https://rss.art19.com/episodes/8472bfae-f1eb-4fd0-92af-5fe2fabd0c27.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "BlackRock - The Bid",
+      "provider": "BlackRock",
+      "priority": 2,
+      "tags": [
+        "Defense",
+        "Geopolitics",
+        "Fiscal",
+        "Risk sentiment",
+        "Trade"
+      ],
+      "summary": "**Summary**\nA BlackRock podcast discussion on the structural boom in global defense spending, driven by rising geopolitical fragmentation and superpower competition. While not an FX/rates episode, it touches on fiscal spending trends and geopolitical risk themes relevant to macro positioning.\n\n**Key points**\n- US 2026 enacted defense budget for equipment and R&D is 60% higher than five years ago; international growth has been even faster as countries catch up on under-investment.\n- US venture capital investment in defense tech rose almost 300% in 2025 versus five years prior; the industry is shifting from consolidation (five US \"prime\" contractors) toward deconsolidation as startups enter.\n- \"Attritable\" (low-cost, mass-produced, expendable) weapons like drones are displacing legacy \"exquisite\" (high-cost, high-capability) systems; in the first 16 days of the Iran war, US and allies used ~1,800 Patriot missiles ($4mn each), equal to almost three years of production.\n- Plan to increase production of key missile interceptors like the Patriot by 200-300% by the early 2030s; bottlenecks include outdated solid rocket motor manufacturing.\n- Defense budgets are largely uncorrelated with the macro economy, driven instead by threat environment, offering portfolio diversification.\n\n**FX / rates implications**\n- No direct FX or EM rates read-through; defense spending is framed as fiscally driven and threat-driven rather than macro-cyclical, limiting transmission to USD, UST yields, or EM currencies.\n- Elevated and sustained defense outlays across many countries (deficit-financed in several cases) could be a background contributor to sovereign fiscal trajectories and bond supply globally, a secondary theme for rates traders tracking fiscal deficits.\n\n**Watch list**\n- Ongoing geopolitical conflicts (Gaza ceasefire dynamics, Russia-Ukraine, Iran-US/Persian Gulf tensions) as potential risk-sentiment triggers.\n- Pace of NATO/allied defense budget increases and any associated fiscal deficit widening in DM economies through the early 2030s.",
+      "summarized_at": "2026-07-17T04:09:34.269397+00:00"
+    },
+    {
+      "title": "Should private credit be public?",
+      "published": "Thu, 16 Jul 2026 20:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a5911137a878a33800f3e4b/media.mp3",
+      "feed": "Financial Times Unhedged",
+      "provider": "Financial Times",
+      "priority": 3,
+      "tags": [
+        "Private credit",
+        "Credit",
+        "Financial stability",
+        "ECB",
+        "Fiscal",
+        "Retail investing",
+        "Risk sentiment",
+        "Blackstone",
+        "BlackRock"
+      ],
+      "summary": "**Summary**\nFT Unhedged's Katie Martin and Robert Armstrong debate whether retail investors should gain access to private credit and private equity, against a backdrop of mounting warning headlines: BlackRock's private credit fund honored under 40% of redemption requests, the Financial Stability Board flagged private credit vulnerabilities in May, and the ECB warned that private-credit-fueled AI lending poses financial-stability risk. For a macro trader, this is a read on credit-market plumbing, systemic-risk narratives and the direction of the multi-trillion-dollar alternative asset industry rather than a direct EM FX driver.\n\n**Key points**\n- Private credit funds use quarterly redemption gates (often ~5% of assets per quarter); when redemption demand spikes above that, liquidity dries up fast — a structural feature, not a bug, per Armstrong.\n- September 2024's \"credit cockroaches\" episode (fraud/due-diligence failures at a couple of funds) spooked markets but hasn't produced broader systemic contagion so far.\n- Valuation opacity is a live concern: fund managers have discretion in marking private assets, creating potential for smoothed/inflated NAVs versus public-market comparables.\n- Despite the negative headlines, institutional investors committed fresh billions to private credit in early July, suggesting spreads/pricing have cheapened enough to attract buyers.\n- Big alt managers (Blackstone, KKR, Apollo) are increasingly targeting retail/retirement money (401(k)s) and idle European bank deposits as institutional demand plateaus; retail fee loads (~1.25%) remain a key sticking point.\n\n**FX / rates implications**\n- Limited direct EM FX/rates transmission; relevant mainly as a barometer of global credit-market stress and risk appetite — renewed private-credit stress could tighten broader credit conditions and dent risk sentiment, a background negative for EM carry trades.\n- Persistent institutional demand for private credit despite the warnings signals credit markets remain resilient, consistent with the supportive risk backdrop that has favored EM carry year-to-date.\n\n**Watch list**\n- Further FSB/ECB commentary on private credit and systemic risk.\n- Redemption/gate activity at major private credit funds (BlackRock, Blackstone, KKR, Apollo) as a stress gauge.\n- Regulatory moves on retail access to private markets (401(k) inclusion, fee structures).",
+      "summarized_at": "2026-07-17T04:44:17.502959+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-17"
 }
