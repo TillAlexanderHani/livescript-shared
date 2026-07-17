@@ -13250,8 +13250,29 @@
       "feed": "MERICS China Podcast",
       "processed": "2026-07-17T19:22:54.202125+00:00",
       "episode_id": "56f75c011760022b"
+    },
+    "c7197499a8d847e4": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/60833cf5-c006-4777-adec-3b473ed95f0b.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Why Your Medical Bill Is So High",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-17T22:39:54.507144+00:00",
+      "episode_id": "c7197499a8d847e4"
+    },
+    "e79e42c30a7eee26": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/f2a2f5b7-4ca6-47f3-b711-c03d1c62cca4/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=f2a2f5b7-4ca6-47f3-b711-c03d1c62cca4&feed=tc4zxWgX",
+      "title": "China’s New AI Model, Tap-to-Pay Troubles, and Underdog Plays the Field 7/17/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-17T22:51:10.789417+00:00",
+      "episode_id": "e79e42c30a7eee26"
+    },
+    "24d035ae6a4830fc": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743",
+      "title": "Can World Cup mania grow MLS in the U.S.?",
+      "feed": "Planet Money",
+      "processed": "2026-07-17T22:55:23.765719+00:00",
+      "episode_id": "24d035ae6a4830fc"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-17T19:22:54.202175+00:00"
+  "last_updated": "2026-07-17T22:55:23.765756+00:00"
 }
