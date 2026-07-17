@@ -13145,8 +13145,57 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-07-17T04:44:17.502959+00:00",
       "episode_id": "48be16b098de3824"
+    },
+    "54b65e97fe12214a": {
+      "url": "https://traffic.megaphone.fm/GLD1244006044.mp3",
+      "title": "The 'Market of Stocks' vs. the 'Stock Market'",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-07-17T11:11:37.030417+00:00",
+      "episode_id": "54b65e97fe12214a"
+    },
+    "2cfe26c825eaa442": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19507588-pound-outperforms-but-for-how-long.mp3",
+      "title": "Pound outperforms, but for how long?",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-07-17T11:14:19.097280+00:00",
+      "episode_id": "2cfe26c825eaa442"
+    },
+    "7b622ba58d3e59b8": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/bmjx98y4tht9bv32/Macrovoices-2026-07-16-Anas-Alhajji.mp3",
+      "title": "MacroVoices #541 Dr. Anas Alhajji: Bab el-Mandeb: The Next Oil Chokepoint Nobody's Watching",
+      "feed": "Macro Voices",
+      "processed": "2026-07-17T11:32:49.842697+00:00",
+      "episode_id": "7b622ba58d3e59b8"
+    },
+    "b75e938bf14a3670": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_GREELEY_rename.mp3?dest-id=1929056",
+      "title": "Ep. 367: Brendan Greeley on The Almighty Dollar, 500 Years of History, and the Eurodollar Market",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-07-17T11:38:23.445516+00:00",
+      "episode_id": "b75e938bf14a3670"
+    },
+    "3914992b957fb96d": {
+      "url": "https://traffic.megaphone.fm/BLM5671494788.mp3",
+      "title": "EM Lens: William Blair’s Assalin Remains Bullish on EM Outlook",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-07-17T11:49:13.436763+00:00",
+      "episode_id": "3914992b957fb96d"
+    },
+    "0a326975ed69e65c": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19507324-through-the-noise-inflation-cools-but-focus-shifts-back-to-oil.mp3",
+      "title": "Through the Noise: Inflation cools, but focus shifts back to oil",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-17T11:50:46.602114+00:00",
+      "episode_id": "0a326975ed69e65c"
+    },
+    "23408dbfa4b19025": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/fe5aa50f-3c35-468c-8712-2e04587f1c71/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=fe5aa50f-3c35-468c-8712-2e04587f1c71&feed=IFy3imsg&t=podcast&e=nx-s1-5896492&p=510325&d=621&size=9947516",
+      "title": "The Strait of Hormuz no-fee, China cuts down on pollution and IMAX's economic Odyssey",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-17T11:53:19.264572+00:00",
+      "episode_id": "23408dbfa4b19025"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-17T04:44:17.503023+00:00"
+  "last_updated": "2026-07-17T11:53:19.264617+00:00"
 }
