@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The UK's new team",
+      "published": "Thu, 16 Jul 2026 15:30:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a59e76b78e0412bc6f9d238/media.mp3",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 3,
+      "tags": [
+        "GBP",
+        "UK",
+        "BoE",
+        "Gilts",
+        "Fiscal",
+        "Elections",
+        "Inflation",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nHSBC's Macro Brief covers the UK political transition as Andy Burnham prepares to take over as the fifth PM in five years on 20 July, with HSBC UK economist Liz Martin assessing the constrained fiscal backdrop and policy plans (devolution, council housebuilding). Relevant mainly as a GBP/gilt sentiment read given fiscal-credibility concerns reminiscent of the 2022 Liz Truss episode.\n\n**Key points**\n- UK Q1 GDP grew a strong 0.6% q/q, but momentum has since faded: GDP fell 0.1% in April and rose 0.1% in May, netting to a flat level.\n- Labour market is softening, with vacancies notably lower; job creation is a challenge for the new government.\n- Elevated gilt yields mean high debt-servicing costs, constraining room for tax/spend policy.\n- Burnham's devolution push aims to shift growth incentives to local authorities, but UK collects far less tax locally than developed-world peers; Wales/Scotland devolution since 2000 hasn't clearly outperformed England.\n- Burnham has pledged the biggest council housebuilding program since the post-war era, but rising construction costs and public borrowing needs remain hurdles.\n- Any new spending likely requires more tax, less welfare, or more borrowing — all politically or market-sensitive; a later budget is expected, prolonging uncertainty that has weighed on consumer/investor confidence for two straight years.\n- Bond market currently sanguine because Burnham has committed to existing fiscal rules, seen as guarding against a repeat of the 2022 Truss mini-budget shock.\n- World Cup and hot weather expected to give a small temporary GDP boost via hospitality spending in July, despite a negative June footfall hit from extreme heat.\n\n**FX / rates implications**\n- GBP and gilts are sensitive to fiscal credibility signals; markets are pricing continuity given Burnham's stated adherence to fiscal rules, limiting near-term gilt risk premium, but any deviation risks a Truss-style repricing in yields and sterling.\n- A delayed budget extends a period of policy uncertainty that could weigh on UK consumer confidence and growth, a soft negative for GBP versus other DM currencies.\n\n**Watch list**\n- Timing and content of the new Chancellor's first budget.\n- Any fiscal rule commitments or deviations from Burnham's government.\n- UK gilt yield moves as a gauge of fiscal credibility.",
+      "summarized_at": "2026-07-18T14:41:59.684177+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-18"
 }
