@@ -13292,8 +13292,15 @@
       "feed": "The Economics Show",
       "processed": "2026-07-19T04:12:41.618534+00:00",
       "episode_id": "c0fff1f54a24b52b"
+    },
+    "d882d56b0f29ea9e": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/6ccc1564-7473-4f6b-8abd-9329ff23b843/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=6ccc1564-7473-4f6b-8abd-9329ff23b843&feed=IFy3imsg&t=podcast&e=nx-s1-5898423&p=510325&d=203&size=3258078",
+      "title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-19T11:03:54.080028+00:00",
+      "episode_id": "d882d56b0f29ea9e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-19T04:12:41.618574+00:00"
+  "last_updated": "2026-07-19T11:03:54.080071+00:00"
 }
