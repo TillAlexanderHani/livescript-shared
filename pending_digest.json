@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The US-Iran war has not triggered a food crisis — yet. With Adam Hanieh and Susannah Savage",
+      "published": "Fri, 17 Jul 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a58f190461a6a4190c63509/media.mp3",
+      "feed": "The Economics Show",
+      "provider": "The Economist",
+      "priority": 4,
+      "tags": [
+        "Strait of Hormuz",
+        "Oil",
+        "Brent",
+        "Fertilizer",
+        "China",
+        "India",
+        "Thailand",
+        "Food security",
+        "Inflation",
+        "Trade"
+      ],
+      "summary": "**Summary**\nThe episode examines whether the Strait of Hormuz closure following the US-Iran war (attacks began earlier in 2026) has triggered the feared global food/fertilizer crisis. The Gulf supplies ~a third of world fertilizer exports (urea, sulfur, ammonia) and ~50% of sulfur exports critical to phosphate fertilizer production, making it a hidden but critical node in global food supply chains and a commodity-shock transmission channel relevant to EM growth and inflation.\n\n**Key points**\n- Gulf states (Saudi Aramco, ADNOC) diversified petrodollar surpluses ($4.3trn in sovereign wealth funds) into fertilizer/petrochemical production, tied to China absorbing ~1 in 4 barrels of Gulf oil.\n- Fertilizer and food price indices have NOT spiked as in 2008 or 2022 (post-Ukraine invasion); nitrogen fertilizer prices have largely reverted to pre-war levels.\n- China prioritized domestic urea supply first, then released exports once domestic planting was secured, easing global prices — a key stabilizing factor.\n- Thailand (major rice exporter) saw fertilizer prices up ~30% and diesel up ~60% during the shock, raising planting-season concerns for Southeast Asian rice supply.\n- India absorbed high fertilizer import costs via subsidies (a fiscal cost, not passed to farmers/food prices), cushioning consumer inflation but straining its budget.\n- Phosphate fertilizer prices remain elevated (sulfuric acid still ~50% Gulf-sourced); Trump admin cancelled countervailing duties on Moroccan phosphate imports to ease this, without success so far.\n- An incoming El Niño/possible \"Super Niño\" adds independent downside risk to crop yields (drought/flooding), compounding fertilizer-driven yield risk, especially in Sub-Saharan Africa.\n\n**FX / rates implications**\n- Sustained elevated phosphate/fertilizer costs are a fiscal and current-account risk for India (subsidy burden) and a rural-income/inflation risk for Thailand, Indonesia and other Southeast Asian rice economies if yields disappoint at August harvest.\n- Any re-escalation in the Strait of Hormuz would be a fresh oil/gas price shock, a classic negative-terms-of-trade event for Asian net energy importers (INR, THB, PHP, IDR) and positive for LATAM energy/commodity exporters.\n- China's fertilizer export policy is a swing factor for global ag input costs, indirectly bearing on EM Asia food inflation trajectories.\n\n**Watch list**\n- August harvest yields in Southeast Asia (Thailand rice) as a read on realized fertilizer-shock damage.\n- Phosphate/sulfuric acid price trends and Morocco tariff relief effectiveness.\n- Strait of Hormuz tension escalation/de-escalation and any renewed shipping disruption.\n- El Niño/Super Niño development and its regional crop-yield impact.",
+      "summarized_at": "2026-07-19T04:12:41.618534+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-19"
 }
