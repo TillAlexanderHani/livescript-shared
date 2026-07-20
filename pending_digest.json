@@ -1,4 +1,67 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! ‘Non-exuberance’ in the summer months – Part 2",
+      "published": "Mon, 20 Jul 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19506949-cut-to-the-chase-non-exuberance-in-the-summer-months-part-2.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "CNY",
+        "Hang Seng",
+        "USD",
+        "DXY",
+        "China equities",
+        "S&P 500",
+        "Risk sentiment",
+        "Trade",
+        "Tariffs",
+        "Fund rotation"
+      ],
+      "summary": "**Summary**\nA Standard Chartered strategy podcast reiterates a call to rotate out of \"exuberance\" sectors (AI/semiconductors) into \"non-exuberance\" plays for the quiet summer months, including US healthcare, US financials, European equities and especially Hong Kong/China equities via the Hang Seng Index. While the direct asset focus is equities rather than EM FX/rates, the underlying drivers — a falling US dollar and fund rotation away from US tech — are directly relevant macro themes.\n\n**Key points**\n- The Hang Seng Index has recovered strongly from its 2026 year-low near 22,500, supported by fund rotation and a weakening US dollar.\n- Soft US CPI data and Trump's inability to durably re-escalate Middle East tensions (a 20% levy on \"homeless ships\" announced then walked back) are cited as catalysts weighing on the dollar and supporting risk assets.\n- Hang Seng constituents are mostly internet-related tech, distinct from the AI/high-tech names in the US, Korea, Taiwan and Japan; even strong earnings from that latter group have been sold off, reinforcing the rotation narrative.\n- The strategist expects the Hang Seng to consolidate near 25,000 short-term before testing 26,000 and 27,000.\n\n**FX / rates implications**\n- A softer USD/DXY backdrop, if it persists, is broadly supportive of EM Asia FX and risk sentiment, consistent with capital rotating out of concentrated US tech exposure.\n- Fund flows into Hong Kong/China equities are a proxy for broader EM Asia risk appetite and could be a tailwind for CNH/CNY sentiment and regional currencies correlated with China.\n\n**Watch list**\n- US CPI prints and any further dollar softening as a rotation catalyst.\n- Hang Seng technical levels: 25,000 (near-term consolidation), 26,000 and 27,000 (upside targets).\n- Middle East tension headlines and US tariff/levy announcements for risk-sentiment swings.",
+      "summarized_at": "2026-07-20T12:23:16.260653+00:00"
+    },
+    {
+      "title": "India Fixed Income Outlook: FY2026-27",
+      "published": "Mon, 20 Jul 2026 16:00:00 +0530",
+      "url": "https://www.buzzsprout.com/1885786/episodes/19518500-india-fixed-income-outlook-fy2026-27.mp3",
+      "feed": "Standard Chartered India - Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "INR",
+        "USDINR",
+        "RBI",
+        "UST 10y",
+        "Fed",
+        "FOMC",
+        "Carry",
+        "Fiscal",
+        "Inflation",
+        "FPI"
+      ],
+      "summary": "**Summary**\nStandard Chartered India's Chief Investment Strategist reviews FY2025-26 fixed income dynamics and lays out the FY2026-27 outlook, centered on RBI liquidity policy, FCNR(B) deposit flows, and bond demand-supply dynamics. This is directly relevant to INR rates and FX given large forecasted capital inflows and RBI's evolving forward book management.\n\n**Key points**\n- FY25-26: RBI cut repo rates 125bps, ran INR 8 trillion of OMO purchases, and cut CRR by 100bps, but yields still rose 75-100bps on hawkish forward guidance and tight liquidity from FX intervention.\n- RBI's net short forward dollar book ballooned to $106 billion by May 2026 as it sold dollars forward rather than in spot to support INR without draining liquidity.\n- FCNR(B) deposit scheme (with RBI bearing hedging costs) could attract $40-60 billion, versus $34 billion raised under a similar 2013 scheme; expected to lift banking system liquidity by 5-6 trillion rupees by September 2026.\n- Additional inflow channels: concessionary forex swaps for PSU ECBs ($15-25bn potential), FAR (Fully Accessible Route) universe expansion to 15/30/40-year GSecs supporting Bloomberg index inclusion (~0.7% weight, ~$25bn), and removal of capital gains/withholding tax on T-bills ($10-20bn over 12-18 months).\n- 10-year GSec fell to a multi-week low in June 2026, ending the month down 25bps, with GSec-to-AAA corporate spread compressing 20-22bps.\n\n**FX / rates implications**\n- Large prospective FX-linked capital inflows ($65-105bn combined across schemes) should stabilize INR and ease BOP pressure, a bullish structural setup for the rupee even as RBI's forward book creates deferred 3-5 year dollar-sale obligations.\n- Shorter-tenor INR yields and corporate bond spreads are expected to compress on improving liquidity and weak credit demand, while long-end yields stay anchored given a steep sovereign curve — favoring long bonds/SDLs and corporate/money market bond funds per Standard Chartered's recommendation.\n- Fed's hawkish hold at the June FOMC and Middle East ceasefire-related easing are cited as external factors reinforcing INR stabilization and the yield decline.\n\n**Watch list**\n- Pace of FCNR(B) deposit inflows and RBI's forward book unwind through September 2026.\n- FAR bond issuance (15/30/40yr) and Bloomberg index inclusion progress.\n- Credit-to-deposit ratio and CD issuance trends as a gauge of bank funding pressure easing.",
+      "summarized_at": "2026-07-20T12:25:42.178528+00:00"
+    },
+    {
+      "title": "Why Have China-Japan Relations Fallen Apart?",
+      "published": "Mon, 20 Jul 2026 08:53:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_07202026_Libsyn.mp3?dest-id=4287628",
+      "feed": "The China-Global South Podcast",
+      "provider": "China-Global South Project",
+      "priority": 2,
+      "tags": [
+        "China",
+        "Japan",
+        "Taiwan",
+        "Geopolitics",
+        "Trade",
+        "PBoC"
+      ],
+      "summary": "**Summary**\nThis episode covers the sharp deterioration in China-Japan relations following PM Takaichi's remarks that a China-Taiwan conflict would threaten Japan's survival, examining Chinese economic retaliation, regional security realignment, and US alliance dynamics. It is a geopolitics/security discussion with limited direct market data, but touches on trade restrictions and regional risk that could have second-order EM Asia implications.\n\n**Key points**\n- China has cut rare earth exports to Japan by roughly 90%, halted tourism, and suspended academic exchanges since Takaichi's November remarks.\n- China has expanded Coast Guard and naval operations east of Taiwan and near the Senkaku/Diaoyu Islands, normalizing what it calls law enforcement patrols in disputed waters.\n- Japan is deepening defense ties with the Philippines (including decommissioning naval vessels for transfer) and Indonesia, prompting Beijing to accuse Tokyo of \"re-militarization.\"\n- The Trump administration has pressured Japan and South Korea to increase defense spending while treating Southeast Asian allies (Philippines) more favorably.\n- A potential Xi-Takaichi meeting could occur at the APEC summit in November; Xi is reportedly expected to visit the US around late September.\n- China is pressuring African and other countries to exclude Taiwanese participants from international conferences amid a perceived opening from reduced US support for Taiwan under Trump.\n\n**FX / rates implications**\n- No direct FX/rates content, but China's rare-earth export curbs on Japan illustrate Beijing's willingness to weaponize trade/supply chains — a risk factor relevant to broader China-related trade and tariff themes affecting CNY and regional Asia FX sentiment.\n- Escalating China-Japan-Taiwan tensions represent a tail-risk geopolitical overhang for regional risk sentiment; an acute Taiwan Strait or Senkaku incident would likely trigger broad EM Asia FX risk-off, particularly for TWD, KRW, and JPY, with spillover to regional carry trades.\n\n**Watch list**\n- Possible Xi-Takaichi meeting at the APEC summit in November.\n- Xi Jinping's anticipated visit to the US around late September and its impact on Taiwan arms sales decisions.\n- Any further Chinese trade/economic retaliation measures against Japan (rare earths, tourism, other exports).",
+      "summarized_at": "2026-07-20T12:33:41.384359+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-20"
 }
