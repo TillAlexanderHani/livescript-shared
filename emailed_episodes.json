@@ -13418,8 +13418,29 @@
       "feed": "Asia Climate Finance Podcast",
       "processed": "2026-07-21T19:17:58.241348+00:00",
       "episode_id": "d8c7094c8eb8b112"
+    },
+    "e1b1a024f5a6a01d": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/3906f213-9abf-401a-81a0-f1353804a3dc.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Global Rate Debate",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-21T22:42:32.198627+00:00",
+      "episode_id": "e1b1a024f5a6a01d"
+    },
+    "9424a198791a80e9": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a5fb3b9fa136e7931c547de/media.mp3",
+      "title": "The forecast for prediction markets",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-07-21T22:49:57.218524+00:00",
+      "episode_id": "9424a198791a80e9"
+    },
+    "bad33c698c48fb81": {
+      "url": "https://traffic.libsyn.com/secure/franklintempletontalkingmarkets/FY26-1516_FT_TalkingMarketsPodcast_DeepInsightsonAIfromProfessionalInvestors_Putnam_0726.mp3?dest-id=584964",
+      "title": "Still Early Innings for Artificial Intelligence",
+      "feed": "Talking Markets with Franklin Templeton",
+      "processed": "2026-07-21T22:52:20.552969+00:00",
+      "episode_id": "bad33c698c48fb81"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-21T19:17:58.241388+00:00"
+  "last_updated": "2026-07-21T22:52:20.553014+00:00"
 }
