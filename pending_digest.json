@@ -1,4 +1,69 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "AI Spending: A New Engine for the Global Economy",
+      "published": "Tue, 21 Jul 2026 00:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/fcca4570-6d8a-45b9-862d-47fbad1a3171.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 4,
+      "tags": [
+        "AI CAPEX",
+        "USD",
+        "Semiconductors",
+        "KRW",
+        "TWD",
+        "JPY",
+        "EUR",
+        "Fiscal",
+        "Trade",
+        "Growth"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's quarterly economist roundtable (part 1 of 2) frames the AI-driven capex cycle as the dominant force in the global economy, tracing how US hyperscaler spending is fueling growth abroad — particularly in Asia — more than domestically, while Europe lags far behind and wrestles with a structural fiscal squeeze.\n\n**Key points**\n- US hyperscaler/AI-related capex estimates revised up to $1.2-1.4tn by 2027-28 (~3.5% of GDP), but ~60% of that spend is high import-content equipment, so it's adding only ~40bp to US GDP growth this year and next.\n- Asia semiconductor exports to the US are growing ~90%, tightly correlated with US IT capex; Korea, Taiwan and Japan are the biggest beneficiaries.\n- Morgan Stanley sees a broader Asian \"capex super-cycle\": AI/semis ($380bn in 2026), energy ($900bn — far larger than AI), defense, and industrial reshoring; expected to run 3-4 more years given healthy corporate balance sheets (corporate debt/GDP below 2019 levels).\n- US household net worth has risen $55tn in five years, partly AI-driven, supporting upper-income consumer spending — growth is narrowly concentrated in AI-linked investment and wealth effects.\n- Europe's AI investment plans are roughly 1/20th the size of the top US hyperscalers'; fiscal policy faces structural headwinds from aging costs, rising defense spending, and higher debt-servicing costs, with growth (currently ~1% potential) seen as the only real solution; Germany's fiscal package has yet to spur meaningful private investment.\n\n**FX / rates implications**\n- Sustained semiconductor export strength is a structural positive for KRW and TWD, and supportive for JPY-linked tech exporters; a broadening capex cycle (energy, defense, reshoring) extends the growth tailwind for North Asia beyond the AI narrative alone.\n- US growth resilience being import-heavy and wealth-effect driven (not broad-based) argues against outsized USD strength purely from domestic demand; equity-driven wealth effects tie US consumption resilience to risk sentiment/S&P 500 performance.\n- EUR faces a structural growth and fiscal disadvantage versus US/Asia, reinforcing the case for EUR underperformance until German/French private investment materially recovers.\n\n**Watch list**\n- Part 2 of the roundtable (following day) will cover inflation and policy implications of this growth outlook — relevant for Fed/ECB rate paths.\n- Signs of German/French private investment pickup as a Europe growth catalyst.\n- Any deceleration in US-bound Asian semiconductor export growth as a signal the capex super-cycle is peaking.",
+      "summarized_at": "2026-07-21T04:03:06.655946+00:00"
+    },
+    {
+      "title": "Big Tech on Deck, Congress’ Midterm To-Do List, and Cyclospora Outbreak 7/20/26",
+      "published": "Mon, 20 Jul 2026 18:20:31 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d4c566e4-926f-4877-aa99-0426c4c5289b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d4c566e4-926f-4877-aa99-0426c4c5289b&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Oil",
+        "Brent",
+        "WTI",
+        "Iran",
+        "Strait of Hormuz",
+        "Risk sentiment",
+        "Semiconductors",
+        "S&P 500",
+        "Geopolitics",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nUS markets rebounded on an AI-infrastructure bid even as the S&P has not made a new closing high since June, while a ninth consecutive night of US strikes on Iran, a new Houthi maritime embargo threat against Saudi Arabia, and $4+ national gasoline prices keep an oil-supply risk premium alive. None of the content is EM-specific, but the oil/geopolitics and risk-sentiment threads carry direct transmission into EM currencies and rates.\n\n**Key points**\n- Iran conflict: ninth straight night of US strikes; two US soldiers confirmed killed in strikes on Al Tanf/Jordan base; Iran suspended MOU commitments but signaled talks could resume; Trump vowed retaliation for soldier deaths.\n- Houthis declared an immediate maritime embargo on Saudi Arabia, threatening the Bab al-Mandeb strait as an alternate oil route alongside the Strait of Hormuz (traffic there already at a three-week low).\n- Oil prices off session highs on Iran talk-resumption comments; gasoline back above $4/gallon nationally.\n- Chinese open-weight AI models (Moonshot's Kimi K3, Alibaba's Qwen) triggered a tech/semiconductor selloff last week (Philly Semiconductor Index down 10% on the week, in bear-market territory, -20% from June 22 peak); guests (Doug Clinton, Darrell Cronk of Wells Fargo Investment Institute) call it positioning/momentum unwind, not a fundamental AI-demand hit, and expect a bounce near 50/200-day moving averages.\n- Congress has fewer than 20 legislative days before midterms, with a September 30 government-shutdown deadline, a Pentagon reconciliation funding fight (~$60bn provision), Clarity Act, and a possible Russia sanctions bill in play — Pentagon Iran-strike funding from the prior $150bn appropriation reportedly running low.\n- Paramount-Warner Bros Discovery merger hit with a US court temporary restraining order (up to 14 days) on antitrust grounds; costly for Paramount given a ticking fee past September 30 deadline.\n\n**FX / rates implications**\n- Escalating Iran conflict and new Red Sea/Hormuz-adjacent chokepoint threats (Houthi embargo) are a bullish oil-supply-risk catalyst — negative for EM oil importers (INR, PHP, IDR, TRY-type sensitivity) via terms-of-trade and current-account pressure if sustained; watch Brent/WTI reaction if embargo becomes enforceable.\n- Broad risk-off in tech/semis (SOX bear market) is a risk-sentiment headwind that can pressure high-beta EM Asia FX (KRW, TWD, MYR) given their tech-export linkages, though guests view this as consolidation, not a fundamental turn — a stabilization here would support carry trades broadly.\n- No direct Fed/DXY commentary in this episode, limiting the immediate USD read-through, but sustained oil strength plus fiscal deadline uncertainty (shutdown risk end-September) are latent UST/dollar catalysts.\n\n**Watch list**\n- Whether the Houthi maritime embargo on Saudi Arabia becomes operationally enforceable — a second chokepoint disruption alongside Hormuz.\n- Iran-US diplomatic signals following Iran's talk-resumption comments and Rubio's openness to diplomacy.\n- US government funding/shutdown deadline September 30 and Pentagon reconciliation funding vote.\n- This week's hyperscaler earnings (Alphabet, Intel, ServiceNow) for capex guidance and semiconductor demand signals.",
+      "summarized_at": "2026-07-21T04:09:31.511229+00:00"
+    },
+    {
+      "title": "Cut to the Chase! ‘Non-exuberance’ in the summer months – Part 3",
+      "published": "Tue, 21 Jul 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19522952-cut-to-the-chase-non-exuberance-in-the-summer-months-part-3.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "S&P 500",
+        "Risk sentiment",
+        "Hang Seng Index",
+        "KRW",
+        "TWD",
+        "Equities",
+        "US equities",
+        "Carry"
+      ],
+      "summary": "**Summary**\nStandard Chartered's daily flags that US equity positioning has been unwinding since end-May, dropping from +2 standard deviations to around +0.4/+0.5, but argues this is still too high relative to prior unwind cycles, implying more downside risk ahead for US equities. The episode ties this to a broader \"non-exuberance\" rotation theme, with Korean and Taiwan equities showing wobbles while the Hang Seng Index holds up as a fund-rotation beneficiary.\n\n**Key points**\n- US equity positioning fell from +2 SD peak to roughly +0.4/+0.5 SD since end-May, still elevated versus history.\n- In 2-3 prior unwind episodes, positioning fell below zero before the S&P 500 bottomed, suggesting current levels are not yet capitulation.\n- Systematic/model-driven flow signals show an absence of positive near-term return bias for the S&P 500; model-driven investors are skewed to the downside.\n- The US economic surprise index (actual vs expected data) appears to have peaked, removing a tailwind for equity bulls.\n- Seasonality is unfavorable: July entries into US equities rarely produce material gains on a 3-month forward basis historically.\n- Korean and Taiwan equities showed weakness ('wobbles') while the Hang Seng Index outperformed, consistent with a rotation into value/defensive plays.\n\n**FX / rates implications**\n- A continued unwind in US equity positioning and risk-off skew is a broad negative-risk-sentiment signal that can pressure high-beta EM Asia currencies (KRW, TWD) while supporting rotation-beneficiary markets like Hong Kong/China equities.\n- Recommended rotation into defensive US sectors (healthcare, financials) and global value plays (Hang Seng) suggests reduced risk appetite, a mild negative for EM carry trades broadly until positioning resets further.\n\n**Watch list**\n- Further deterioration in US equity positioning (below zero historically marks prior bottoms) as a signal for risk sentiment turning.\n- Continued relative performance of Korean/Taiwan equities versus Hang Seng Index as a rotation gauge.\n- US economic surprise index trend for signs of renewed acceleration or further peaking.",
+      "summarized_at": "2026-07-21T04:17:13.674114+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-21"
 }

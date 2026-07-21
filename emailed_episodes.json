@@ -13348,8 +13348,29 @@
       "feed": "PIMCO Pod",
       "processed": "2026-07-20T22:54:26.387224+00:00",
       "episode_id": "db0c0c6e6ed0bc6c"
+    },
+    "0b8afb690bfacdf3": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/fcca4570-6d8a-45b9-862d-47fbad1a3171.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "AI Spending: A New Engine for the Global Economy",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-21T04:03:06.655946+00:00",
+      "episode_id": "0b8afb690bfacdf3"
+    },
+    "3da358aff927ce7a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d4c566e4-926f-4877-aa99-0426c4c5289b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d4c566e4-926f-4877-aa99-0426c4c5289b&feed=tc4zxWgX",
+      "title": "Big Tech on Deck, Congress’ Midterm To-Do List, and Cyclospora Outbreak 7/20/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-21T04:09:31.511229+00:00",
+      "episode_id": "3da358aff927ce7a"
+    },
+    "e81ddc117cc9d2bb": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19522952-cut-to-the-chase-non-exuberance-in-the-summer-months-part-3.mp3",
+      "title": "Cut to the Chase! ‘Non-exuberance’ in the summer months – Part 3",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-21T04:17:13.674114+00:00",
+      "episode_id": "e81ddc117cc9d2bb"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-20T22:54:26.387271+00:00"
+  "last_updated": "2026-07-21T04:17:13.674154+00:00"
 }
