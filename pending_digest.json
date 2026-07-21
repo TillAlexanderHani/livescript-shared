@@ -103,6 +103,45 @@
       ],
       "summary": "**Summary**\nThis episode contrasts housing markets in Syracuse, NY and Austin, TX following major semiconductor plant announcements (Micron's $100bn memory chip plant near Syracuse, Samsung's earlier plant near Austin), examining why supply-side regulatory differences cause home prices to diverge sharply after similar demand shocks. It is a domestic US regional economics story with no EM FX/rates or global macro content.\n\n**Key points**\n- Micron announced up to $100bn investment near Syracuse in 2022, projected to create 50,000 jobs over a decade; Syracuse home prices already up ~30% over three years, with a local agent forecasting prices could double in 4-5 years absent a construction surge.\n- Samsung's 2021 semiconductor plant announcement near Austin coincided with falling home prices there, driven by a construction boom (large national homebuilders building on spec) and an unwind of pandemic-era in-migration.\n- Austin's building-friendly permitting/zoning and Texas Sunbelt-style light regulation enabled rapid supply response; Anadaga County (Syracuse) is 74% zoned single-family, with costly, slow multifamily permitting, environmental and wage regulations limiting new supply.\n- New York State has passed measures to streamline multifamily permitting and created a low-interest loan fund for builders to try to close the gap.\n\n**FX / rates implications**\nNone directly — this is a US regional housing/microeconomics piece with no bearing on USD, Fed policy, EM currencies or rates.\n\n**Watch list**\n- Whether Syracuse-area rezoning and streamlined permitting materialize quickly enough to expand housing supply before the bulk of Micron's 50,000 jobs arrive over the next decade.\n- Pace of home price appreciation in Syracuse (currently ~30% over 3 years) as a bellwether for other US regions receiving large CHIPS Act-style manufacturing investment.",
       "summarized_at": "2026-07-21T11:48:20.055698+00:00"
+    },
+    {
+      "title": "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]",
+      "published": "Tue, 21 Jul 2026 08:00:00 -0000",
+      "url": "https://traffic.megaphone.fm/CLS1352215254.mp3",
+      "feed": "Invest Like the Best",
+      "provider": "Colossus",
+      "priority": 4,
+      "tags": [
+        "Natural Gas",
+        "LNG",
+        "Commodities",
+        "Electricity",
+        "Nuclear",
+        "AI data centers",
+        "US energy",
+        "Inflation",
+        "Trade"
+      ],
+      "summary": "**Summary**\nEnergy investor Matthew Smith (Chrono Meter Partners) argues the US is heading into a structural natural gas supply deficit starting 2028, driven by AI data-center demand colliding with rising LNG export commitments (15 to 35 BCF/day by 2030) against a max deliverable production ceiling of ~130-132 BCF/day. He sees working gas storage breached to unprecedented lows by 2029-2030, calling upside price risk \"unbounded and convex\" — a global commodity supply story with knock-on effects for allies dependent on US LNG.\n\n**Key points**\n- Natural gas is over 40% of US power generation and overtaking petroleum as the most important domestic fuel.\n- US LNG export capacity rises from ~15 BCF/day today to 35 BCF/day by 2030 on already-financed, hard-to-halt projects; the US will be roughly a third of global gas supply.\n- Base case AI compute demand adds ~5 BCF/day; extreme case (fuel cells, distributed gen) could hit 12-15 BCF/day by early 2030s.\n- Gas curve is currently complacent: spot ~$3.50-3.60, 2028 futures ~$6.27, flat into 2029-2030 — he expects a sharp repricing, potentially $8-10+/MCF, as utilities start hedging 2028 supply.\n- Processing, gathering and interstate pipeline buildout (only one new interstate pipe in 12 years) are binding constraints beyond raw resource in the ground.\n- Winners: Expand Energy (trading 4x EBITDA), Range Resources, utility-scale solar (XIFR, Clearway), residential solar, large-scale nuclear (Westinghouse AP1000 via Cameco, BWXT); losers: US consumers, fuel-cell/distributed gen-set makers (Bloom, Caterpillar), gas turbine E&C firms.\n\n**FX / rates implications**\n- Direct transmission channel is global gas/commodity prices, not EM FX per se: a US LNG supply squeeze or curtailment of contracted cargoes would tighten global gas balances, pressuring Asian LNG importers (Japan, Korea, and by extension regional energy-import costs relevant to KRW, THB, PHP, INR current-account/inflation dynamics) and forcing Europe toward costlier gas or renewed Russian dependence (EUR/GBP energy-cost sensitivity).\n- If realized, higher US electricity/gas costs feed into US inflation prints, complicating Fed easing expectations and indirectly pressuring DXY/UST yields — a slow-burn 2028+ risk rather than a near-term trade.\n- Commodity desks should treat US natural gas as an emerging convexity story analogous to prior LNG-driven Europe/Asia gas spikes (Russia-Ukraine, 2022 polar vortex).\n\n**Watch list**\n- 2028 gas futures curve repricing as utilities begin contracting/hedging physical supply.\n- US working gas storage draws relative to historical ranges starting mid-2028.\n- Progress on new interstate pipeline permitting and large-scale nuclear (AP1000) commitments (2033-2034 targeted online dates).\n- Any move to curtail contracted (not just spot) LNG cargoes, which would directly hit Japan/Korea utility counterparties and Europe.",
+      "summarized_at": "2026-07-21T15:35:05.486336+00:00"
+    },
+    {
+      "title": "The Credit Market Lens: Rich Spreads, Cheap Treasuries, and an Incomplete Explanation",
+      "published": "Tue, 21 Jul 2026 15:23:00 -0000",
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC1466030077.mp3",
+      "feed": "PIMCO Pod",
+      "provider": "PIMCO",
+      "priority": 3,
+      "tags": [
+        "Credit",
+        "UST 10y",
+        "Spreads",
+        "Risk sentiment",
+        "Fixed income",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nPIMCO's Lotfy Karui examines whether unusually tight US corporate credit spreads are an artifact of cheap Treasury valuations rather than genuine credit richness. The episode is a fixed-income relative-value piece, most relevant to a macro trader as a read on how much of today's tight credit spreads reflect Treasury/swap technicals versus real fundamental strength.\n\n**Key points**\n- The thesis tested: if Treasuries are cheap relative to interest rate swaps, spreads-to-Treasuries mechanically look tighter than spreads-to-swaps would suggest.\n- A scatter plot of monthly changes in swap spreads versus corporate spreads-to-Treasuries shows almost no relationship in the US, undercutting the mechanical explanation for spread moves (though a structural/level effect from negative swap spreads is acknowledged).\n- US swap spreads are driven largely by Treasury supply, dealer balance sheet constraints, regulatory capital costs, and hedging flows — factors largely orthogonal to corporate credit risk.\n- Europe differs: EUR credit spreads-to-Bunds show a much stronger co-movement with swap spreads, reflecting a more swap-centric market structure and shared exposure to bank funding conditions, amplified by financials' large weight in the Bloomberg Euro Aggregate IG index.\n- Day-to-day, US corporate spread changes remain driven mainly by fundamentals, technicals, and the economic cycle rather than Treasury-swap mechanics.\n\n**FX / rates implications**\n- Confirms current tight USD IG/HY spreads are not simply a Treasury-cheapness illusion — genuine credit richness persists, consistent with resilient risk sentiment and carry-friendly conditions supportive of EM credit and FX.\n- Treasury supply and dealer balance sheet constraints affecting US swap spreads are a structural theme relevant to UST 10y term premium and repo/funding dynamics that indirectly shape global USD funding costs relevant to EM issuers.\n- EUR credit's greater swap sensitivity flags bank funding stress as a faster transmission channel into European risk pricing than in the US.\n\n**Watch list**\n- Ongoing Treasury issuance/supply trends and their effect on swap spreads and repo/funding conditions.\n- Divergence between US and EUR credit-swap co-movement as a signal of relative banking-sector funding stress.",
+      "summarized_at": "2026-07-21T15:44:15.686343+00:00"
     }
   ],
   "last_digest_date": "2026-07-21"
