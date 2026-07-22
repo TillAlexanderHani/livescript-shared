@@ -13453,8 +13453,29 @@
       "feed": "The China-Global South Podcast",
       "processed": "2026-07-22T04:28:59.426516+00:00",
       "episode_id": "ae948340b0c684c5"
+    },
+    "26de98c0e9e12c4d": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/0693299d-27bb-4307-8213-bce60fadfd84/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=0693299d-27bb-4307-8213-bce60fadfd84&feed=tc4zxWgX",
+      "title": "No TAM Troubles, The Debt Debate, and a Defense Deficit 7/21/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-22T11:37:14.231794+00:00",
+      "episode_id": "26de98c0e9e12c4d"
+    },
+    "7cb70a73ce6b7608": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a5f8f9cc8dfbe44d8f012c8/media.mp3",
+      "title": "The trader who made $100mn from the 1929 crash — only to lose it all",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-07-22T11:43:25.078353+00:00",
+      "episode_id": "7cb70a73ce6b7608"
+    },
+    "47a22c92af5674b6": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/f61e67e8-a131-4811-a339-67ade6d9f092/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=f61e67e8-a131-4811-a339-67ade6d9f092&feed=IFy3imsg&t=podcast&e=nx-s1-5902341&p=510325&d=501&size=8032426",
+      "title": "Can Y’all Street outflank Wall Street?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-22T11:52:25.929331+00:00",
+      "episode_id": "47a22c92af5674b6"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-22T04:28:59.426558+00:00"
+  "last_updated": "2026-07-22T11:52:25.929389+00:00"
 }
