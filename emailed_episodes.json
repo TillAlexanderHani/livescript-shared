@@ -13579,8 +13579,22 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-07-23T19:34:28.155609+00:00",
       "episode_id": "23246bfdc382c956"
+    },
+    "4a1f42934a5ed3dd": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d24817b9-adc8-4e4e-8be3-673b18581497/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d24817b9-adc8-4e4e-8be3-673b18581497&feed=tc4zxWgX",
+      "title": "Tech Trashed and Rising Risks 7/23/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-23T22:49:32.069009+00:00",
+      "episode_id": "4a1f42934a5ed3dd"
+    },
+    "3351e5285f468a53": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a625dad562e3ad88605a224/media.mp3",
+      "title": "How JPMorgan won",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-07-23T22:59:40.708105+00:00",
+      "episode_id": "3351e5285f468a53"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-23T19:34:28.155650+00:00"
+  "last_updated": "2026-07-23T22:59:40.708140+00:00"
 }
