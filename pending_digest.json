@@ -1,4 +1,24 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! A look at the Euro area",
+      "published": "Thu, 23 Jul 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19531050-cut-to-the-chase-a-look-at-the-euro-area.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "EUR",
+        "ECB",
+        "Euro Stoxx 50",
+        "Germany",
+        "Fiscal",
+        "Bund",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Daniel Lam covers Euro-area equities, noting the Euro Stoxx 50's steady climb since late-March lows on optimism over German fiscal stimulus. The key swing factor for a continued uptrend is the timing and execution of Germany's fiscal package, a dynamic with implications for Bund yields and EUR strength.\n\n**Key points**\n- Euro-area July ZEW Expectations Index rose to 23.4 from 9.5 in June; Germany's ZEW beat estimates, climbing to 26.3 from 10.5.\n- Current conditions indices remain depressed: -37.7 for the Euro area and -77.6 for Germany, showing a gap between sentiment and actual activity.\n- Europe is caught in a self-reinforcing cycle: any sign of re-acceleration tightens financial conditions via higher yields and a stronger Euro, making the economy dependent on timely public spending to validate the optimism already priced by markets.\n- If fiscal execution lags, expectations may keep outpacing activity, leaving tighter financial conditions to weigh on growth before fiscal policy delivers full support.\n- StanChart favors European financials (strong balance sheets, attractive shareholder returns) and industrials (benefiting from fiscal stimulus, AI investment, and electrification-driven capital goods demand).\n\n**FX / rates implications**\n- A stronger EUR from improving sentiment and rising yields is itself a tightening channel that could cap the equity rally if not matched by real fiscal deployment — a dynamic worth monitoring for EUR/USD and broader DXY positioning, which anchors EM Asia and LATAM crosses.\n- Bund yield moves tied to fiscal stimulus expectations are a read-through for global core rates sentiment relevant to EM local-currency rates positioning.\n\n**Watch list**\n- Pace and timing of Germany's fiscal package deployment as the key catalyst for whether the equity/EUR uptrend is validated or fades.\n- Next ZEW survey and Euro-area current conditions data for signs the sentiment-activity gap is closing.",
+      "summarized_at": "2026-07-23T04:19:46.592453+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-23"
 }
