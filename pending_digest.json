@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Data Centers’ Political Battle",
+      "published": "Thu, 23 Jul 2026 21:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/e9e33cec-9f47-4b35-8490-89ab07c8f77b.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 3,
+      "tags": [
+        "AI CapEx",
+        "Data Centers",
+        "Hyperscalers",
+        "Semiconductors",
+        "Growth",
+        "Credit",
+        "Elections",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's Public Policy team addresses growing political and community pushback against US data center construction, and explains why the firm still expects robust AI capital spending despite this friction. The framing matters for macro traders because AI-CAPEX is described as an increasingly important component of the US growth outlook.\n\n**Key points**\n- An estimated $156 billion of data center projects were canceled or delayed in 2025; Q1 2026 alone saw almost the same amount.\n- Opposition stems from rising electricity bills, water/environmental concerns, construction impacts, and bipartisan state-legislature action.\n- Morgan Stanley forecasts just under $1 trillion in AI-CAPEX in 2026 from this segment alone, with a broader thematic AI-CAPEX estimate (including NeoClouds) of approximately $877 billion, with risks skewed higher.\n- The firm frames this as a supply-side risk (permitting, grid interconnection, siting) rather than a demand-side one; compute demand proxies (global weekly token usage) continue rising.\n- Political uncertainty ahead of the 2028 US presidential election may be pulling forward hyperscaler capex before execution/political risk intensifies.\n- Longer construction timelines (up to three years or more) incentivize early capacity build-out.\n- US equity strategy (Mike Wilson) favors hyperscalers over semiconductors near-term on CapEx discipline discounting.\n\n**FX / rates implications**\n- Primarily a US equity/growth-composition story; limited direct EM FX/rates transmission, but sustained near-$1 trillion AI-CAPEX supports the US growth and productivity narrative feeding into Fed policy expectations and broader risk sentiment that indirectly affects EM carry trades.\n- Onsite/behind-the-meter power solutions (fuel cells, turbines, storage) could shift capex geography and beneficiary sectors, a theme relevant to global energy and commodity demand.\n\n**Watch list**\n- State legislature actions on data center siting/environmental rules.\n- 2026 AI-CAPEX realization versus the ~$877 billion thematic estimate.\n- Hyperscaler vs semiconductor equity positioning shifts as CapEx discipline scrutiny grows.",
+      "summarized_at": "2026-07-24T04:00:41.355383+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-24"
 }
