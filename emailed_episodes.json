@@ -13649,8 +13649,36 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-07-24T12:07:08.863746+00:00",
       "episode_id": "9c803a6c27f244c0"
+    },
+    "45a94485d95e7723": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0713_EI_Parneci.mp3?dest-id=1534493",
+      "title": "Every Day Should be a School Day in Transaction Banking",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-07-24T15:19:54.863211+00:00",
+      "episode_id": "45a94485d95e7723"
+    },
+    "b6abbc9602fbdea1": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a6291dd4fac21e67fcd5cd5/media.mp3",
+      "title": "Is China catching up with the US in AI? With Kyle Chan",
+      "feed": "The Economics Show",
+      "processed": "2026-07-24T15:24:48.398546+00:00",
+      "episode_id": "b6abbc9602fbdea1"
+    },
+    "ece60b180ecffeaa": {
+      "url": "https://traffic.megaphone.fm/BLM9037885682.mp3",
+      "title": "Credit Crunch: Bright Meadow’s Rilander on MBS, Housing Policy",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-07-24T15:35:47.447448+00:00",
+      "episode_id": "ece60b180ecffeaa"
+    },
+    "73f47049fb76bd42": {
+      "url": "https://media.transistor.fm/8dee28d0/49e34fdf.mp3",
+      "title": "Trade wars, shooting wars and the AI investment boom",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-07-24T15:43:49.889030+00:00",
+      "episode_id": "73f47049fb76bd42"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-24T12:07:08.863787+00:00"
+  "last_updated": "2026-07-24T15:43:49.889073+00:00"
 }
