@@ -19,6 +19,106 @@
       ],
       "summary": "**Summary**\nMorgan Stanley's Public Policy team addresses growing political and community pushback against US data center construction, and explains why the firm still expects robust AI capital spending despite this friction. The framing matters for macro traders because AI-CAPEX is described as an increasingly important component of the US growth outlook.\n\n**Key points**\n- An estimated $156 billion of data center projects were canceled or delayed in 2025; Q1 2026 alone saw almost the same amount.\n- Opposition stems from rising electricity bills, water/environmental concerns, construction impacts, and bipartisan state-legislature action.\n- Morgan Stanley forecasts just under $1 trillion in AI-CAPEX in 2026 from this segment alone, with a broader thematic AI-CAPEX estimate (including NeoClouds) of approximately $877 billion, with risks skewed higher.\n- The firm frames this as a supply-side risk (permitting, grid interconnection, siting) rather than a demand-side one; compute demand proxies (global weekly token usage) continue rising.\n- Political uncertainty ahead of the 2028 US presidential election may be pulling forward hyperscaler capex before execution/political risk intensifies.\n- Longer construction timelines (up to three years or more) incentivize early capacity build-out.\n- US equity strategy (Mike Wilson) favors hyperscalers over semiconductors near-term on CapEx discipline discounting.\n\n**FX / rates implications**\n- Primarily a US equity/growth-composition story; limited direct EM FX/rates transmission, but sustained near-$1 trillion AI-CAPEX supports the US growth and productivity narrative feeding into Fed policy expectations and broader risk sentiment that indirectly affects EM carry trades.\n- Onsite/behind-the-meter power solutions (fuel cells, turbines, storage) could shift capex geography and beneficiary sectors, a theme relevant to global energy and commodity demand.\n\n**Watch list**\n- State legislature actions on data center siting/environmental rules.\n- 2026 AI-CAPEX realization versus the ~$877 billion thematic estimate.\n- Hyperscaler vs semiconductor equity positioning shifts as CapEx discipline scrutiny grows.",
       "summarized_at": "2026-07-24T04:00:41.355383+00:00"
+    },
+    {
+      "title": "Are Hedge Funds Still Bullish on AI Stocks?",
+      "published": "Fri, 24 Jul 2026 10:37:00 -0000",
+      "url": "https://traffic.megaphone.fm/GLD1585719002.mp3",
+      "feed": "Goldman Sachs The Markets",
+      "provider": "Goldman Sachs",
+      "priority": 3,
+      "tags": [
+        "S&P 500",
+        "Risk sentiment",
+        "Carry",
+        "Credit",
+        "Equities"
+      ],
+      "summary": "**Summary**\nGoldman Sachs' Vinny Lynn (Prime Insights and Analytics) discusses a sharp unwind in the momentum trade, driven by hedge fund de-risking in AI/tech names, even as the S&P 500 has stayed broadly flat. This is a single-stock/equity-positioning story rather than an FX or EM rates discussion, but it offers a useful cross-asset read on risk appetite and leverage.\n\n**Key points**\n- High-beta momentum basket down 32% from highs, now only up 16% YTD after being up 60%+ in June; TMT momentum long-short pair down almost 40% from highs, the sharpest drawdown in five years.\n- Tech-focused hedge funds have cut length at the largest scale in 10 years, on par with summer 2024; selling rotated from hyperscalers to semiconductors/memory to tech hardware/infrastructure names.\n- Global semiconductor net allocation among hedge funds fell from a peak of 24% (record high) in June to 18% now, still well above the 10% level at the start of the year.\n- Momentum factor realized volatility hit its highest level in 45 years outside of recessions; equity fundamental long-short gross exposure fell from 5-year highs to the 65th percentile versus the last three years.\n- Average hedge fund performance up 9% YTD through June, among the best first halves in 20 years, aided by low stock correlations and high single-stock volatility favoring stock-pickers.\n- Some AI-trade buying has resurfaced in the last three sessions as momentum stabilizes; suggested trade is buying the dip in US AI infrastructure/equipment names via option structures like call spreads given elevated volatility.\n\n**FX / rates implications**\n- No direct EM FX or rates content; relevance is via global risk sentiment — a disorderly unwind in the largest, most crowded equity trade (AI/tech momentum) is a proxy for broader risk-appetite and deleveraging dynamics that can spill into EM risk assets and carry trades if it re-accelerates.\n- Reduced macro hedges alongside AI de-grossing implies positioning is still fragile; a re-widening of stock correlations or a fresh volatility spike could trigger broader de-risking that typically pressures high-beta EM FX and credit spreads.\n\n**Watch list**\n- Mega-cap hyperscaler earnings next week — AI capex trajectory into 2026 and any signs of revenue/profit conversion.\n- Whether single-stock correlations start rising again post-earnings, which would signal broader macro de-risking beyond just the AI trade.",
+      "summarized_at": "2026-07-24T11:26:23.971443+00:00"
+    },
+    {
+      "title": "Competing US narratives",
+      "published": "Thu, 23 Jul 2026 15:30:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a632c56a51cbd54e227e422/media.mp3",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Fed",
+        "S&P 500",
+        "Inflation",
+        "Brent",
+        "Risk sentiment",
+        "Credit"
+      ],
+      "summary": "**Summary**\nHSBC's Macro Brief examines competing narratives driving US equity markets since the early-June record high: strong growth and blowout earnings versus high oil prices, elevated inflation, and Fed rate-hike risk tied to AI capex spending. For an EM trader, the key transmission channels are US rate direction, USD strength, oil prices, and global risk sentiment spillovers, especially into AI-linked equity markets like Taiwan.\n\n**Key points**\n- 85% of S&P companies have beaten earnings expectations this quarter, with earnings growth running near 25% y/y.\n- Bank/broker median EPS growth was 34%; investment banking fees up 30-60% y/y; equities trading revenue up 45-90% y/y, with Asia a bright spot.\n- Hyperscalers plan capex approaching $1 trillion from 2027 onward, raising questions about monetization and earnings sustainability.\n- Next FOMC meeting is 28-29 July; new Fed Chair Kevin Worsh notes inflation has run above 2% for over five years, suggesting hawkish bias tied to oil-driven and AI-related inflationary pressures.\n- AI-related debt/equity issuance is crowding out buyers in long-dated Treasuries, contributing to a steepening curve even as front-end rates face hike risk.\n- Taiwan equities, closely tied to the AI trade, have swung from best performers (Jan-May) to down 30-40% amid volatility.\n\n**FX / rates implications**\n- A Fed bias toward hiking (one or two hikes flagged as plausible) on inflation concerns would support USD and pressure EM Asia FX, particularly high-beta AI-linked currencies like TWD and KRW.\n- Elevated long-end UST yields amid heavy AI-related debt issuance could keep global term premia sticky, a headwind for EM local-currency bonds and carry trades.\n- Renewed geopolitical tensions pushing oil higher add to EM inflation pass-through risk, particularly for oil-importing Asian economies (India, Philippines, Thailand).\n\n**Watch list**\n- FOMC meeting, 28-29 July.\n- AI-linked equity/capex earnings disclosures and mega-cap IPO issuance (potentially $300-400bn) as a liquidity-absorption test for markets.\n- Long-end UST yield behavior versus front-end policy expectations for curve-steepening signals.",
+      "summarized_at": "2026-07-24T11:29:04.847328+00:00"
+    },
+    {
+      "title": "Samm Sacks and Paul Triolo on WAIC 2026, Xi's AI Speech, and Kimi K3",
+      "published": "Thu, 23 Jul 2026 16:00:00 -0000",
+      "url": "https://pdcn.co/e/rss.art19.com/episodes/809ac611-caa0-4610-9bf5-20b604654a90.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Sinica Podcast (China)",
+      "provider": "Kaiser Kuo",
+      "priority": 2,
+      "tags": [
+        "China",
+        "CNY",
+        "PBoC",
+        "Trade",
+        "Tariffs",
+        "Geopolitics",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nSinica hosts Sam Sachs and Paul Triolo fresh from Shanghai's WAIC 2026 AI conference, covering Xi Jinping's first in-person AI speech, the new World AI Cooperation Organization (WAICO), Moonshot's Kimi K3 model release, and the intensifying US-China fight over open-weight AI models. It's a technology/geopolitics deep dive with limited direct FX/rates content, but touches US-China strategic competition dynamics relevant to broader China risk sentiment.\n\n**Key points**\n- Xi Jinping made his first appearance at WAIC, delivering China's most extensive leadership statement on AI, emphasizing both AI diffusion to the Global South and AI safety/\"secure and orderly development.\"\n- WAICO launched with 29 founding member states (no major Western countries), offering 5,000 AI training slots for developing countries and regional cooperation centers with ASEAN, Arab League, AU, CELAC, SCO, BRICS.\n- Moonshot AI's Kimi K3 (2.8 trillion parameters, million-token context) is the fourth Chinese frontier-class model released in a month, alongside DeepSeek, Zhipu, and Alibaba's Qwen, narrowing the US-China AI gap.\n- Axios reported the Trump administration is weighing entity-listing, executive orders on liability, and supply-chain rules to shut Chinese open-weight models out of the US market, creating tension with US firms (Microsoft, Airbnb, DoorDash, Coinbase) that rely on cheaper Chinese models.\n- A first US-China AI safety dialogue is expected around September, though guests noted friction over Anthropic's Claude/Fable model being withheld from China.\n\n**FX / rates implications**\n- No direct currency or rates discussion; relevance to CNY/PBoC is limited to the broader US-China tech/trade friction backdrop that periodically feeds into risk sentiment and tariff-related headline risk ahead of a September Trump-Xi summit.\n- Escalating US restrictions on Chinese AI models could be read as an incremental data point in the broader tech/trade decoupling narrative that traders monitor for tariff and export-control escalation risk.\n\n**Watch list**\n- September 2026: expected first US-China AI safety dialogue and possible Trump-Xi summit in Washington — a venue where broader trade/tariff signals could emerge.\n- US administration's response to Kimi K3 and Chinese open-weight models (entity listing, executive order on liability) — a bellwether for tech-related US-China tension trajectory.",
+      "summarized_at": "2026-07-24T12:03:41.711456+00:00"
+    },
+    {
+      "title": "Through the noise: Geopolitics, policy and earnings",
+      "published": "Fri, 24 Jul 2026 16:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19542544-through-the-noise-geopolitics-policy-and-earnings.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "Fed",
+        "ECB",
+        "BoJ",
+        "BoE",
+        "JPY",
+        "GBP",
+        "EUR",
+        "WTI",
+        "Oil",
+        "Inflation",
+        "S&P 500",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMiddle East escalation (Houthi Red Sea blockade, resumed US-Iran hostilities) has pushed up energy prices and bond yields ahead of a packed central bank week (Fed, BoJ, BoE), while US big tech Q2 earnings and Japan/Europe bank results round out the catalysts. The read-through for a global macro trader is mainly via oil, the dollar and rate-hold signals rather than direct EM mentions.\n\n**Key points**\n- European gas prices back to March peaks; US gasoline still below recent peaks; Iran has avoided striking Saudi Arabia/UAE, signaling restraint.\n- WTI expected to trade in a $70-90/bbl range over coming months, limiting broader economic impact.\n- ECB held rates this week but probability of one more 25bp hike later this year has risen if gas prices stay elevated.\n- Fed expected to hold at 3.5-3.75%; BoJ to hold at 1% with bias toward faster normalization if yen weakness lifts imported inflation; BoE expected to hold at 3.75% after a 7-2 vote split in June.\n- US tech earnings expected strong: S&P 500 tech sector Q2 EPS growth seen at 65.6% y/y, 57% for full-year 2026, driven by AI capex monetization; Standard Chartered overweight US tech/communication services.\n- Japan and Europe (ex-UK) bank earnings expected constructive; Japan banks benefiting from BoJ's two 25bp hikes (Dec, June); European bank NPL ratios at historic lows per EBA's June 2026 risk assessment.\n\n**FX / rates implications**\n- DXY expected range-bound 100.3-102 as a neutral Fed caps yields; any hawkish inflation-risk emphasis could lift yields and support USD.\n- USDJPY: gradual downside bias, break below 160 opens 155-158 range, contingent on narrower US-Japan rate differential.\n- GBPUSD seen range-bound 1.32-1.35, supported by energy-driven inflation concerns lifting gilt yields but capped by weak activity/fiscal uncertainty.\n- Broadly supportive for risk sentiment (equities, credit) if central banks hold as expected, a backdrop generally favorable for EM carry.\n\n**Watch list**\n- Fed, BoJ and BoE policy decisions next week; BoE decision specifically due on the 30th.\n- US Iran conflict trajectory and any rebound in US gasoline prices ahead of November midterms.\n- US big tech earnings for AI monetization signals; Japan and Europe bank Q2 results.",
+      "summarized_at": "2026-07-24T12:05:14.126638+00:00"
+    },
+    {
+      "title": "Three beefs: U.S. and Brazil, Taco Bell and liability, Waymo and trial lawyers",
+      "published": "Fri, 24 Jul 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/85617407-b683-481f-a9ad-6426720c9962/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=85617407-b683-481f-a9ad-6426720c9962&feed=IFy3imsg&t=podcast&e=nx-s1-5905782&p=510325&d=562&size=8996658",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Trade",
+        "Tariffs",
+        "BRL",
+        "Fiscal",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nA lighthearted NPR Indicator episode covering three unrelated US news items: new US tariffs on Brazil tied to a payments dispute, foodborne illness litigation against Taco Bell, and the safety/legal debate around self-driving cars. Only the Brazil tariff segment has direct EM market relevance.\n\n**Key points**\n- The US raised tariffs on most Brazilian products to 25%, up from a temporary blanket 10%, partly justified by objections to Brazil's PIX instant payment system.\n- PIX, run by Brazil's Central Bank, enables free instant bank-to-bank payments and has displaced cash and cards in much of Brazil; a US trade group representing Visa, Mastercard and Meta complains the central bank mandates banks promote PIX and blocked Meta's WhatsApp payment service.\n- Brazil's central bank chief dismissed the complaint, comparing it to arguing that public sanitation hurts water-truck operators' revenue; other countries are reportedly studying PIX for adoption.\n- Separately, a cyclosporiasis outbreak (4,173 confirmed US cases) potentially linked to Taco Bell lettuce has spurred strict-liability lawsuits — a US consumer/legal story with no EM linkage.\n- A Waymo self-driving car safety data release (94% fewer serious-injury crashes claimed) is fueling a US legislative and trial-lawyer/insurance debate — again domestic and non-market moving for EM.\n\n**FX / rates implications**\n- Escalating US-Brazil tariff tension (10%→25%) is a fresh trade-policy irritant for BRL; sustained or broadened tariffs could weigh on Brazilian export competitiveness and risk sentiment toward BRL assets, though the episode gives no market pricing or BCB policy reaction.\n- No direct read-through for other EM Asia or LATAM currencies from this episode.\n\n**Watch list**\n- Further escalation or retaliation in the US-Brazil tariff dispute, and any BCB or Brazilian government response regarding PIX regulation.",
+      "summarized_at": "2026-07-24T12:07:08.863746+00:00"
     }
   ],
   "last_digest_date": "2026-07-24"

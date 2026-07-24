@@ -13607,8 +13607,50 @@
       "feed": "The China-Global South Podcast",
       "processed": "2026-07-24T04:08:52.361465+00:00",
       "episode_id": "2a11d24a19989f44"
+    },
+    "f9fb2c67e5a5e2f3": {
+      "url": "https://traffic.megaphone.fm/GLD1585719002.mp3",
+      "title": "Are Hedge Funds Still Bullish on AI Stocks?",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-07-24T11:26:23.971443+00:00",
+      "episode_id": "f9fb2c67e5a5e2f3"
+    },
+    "f3d9e0b071f4d956": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a632c56a51cbd54e227e422/media.mp3",
+      "title": "Competing US narratives",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-07-24T11:29:04.847328+00:00",
+      "episode_id": "f3d9e0b071f4d956"
+    },
+    "693c9c51b65244a6": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/2050514a-2131-40e9-bc90-b48f0113d17c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How Franchise Restaurants Opened the Door to the Gig Economy",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-07-24T11:46:40.998946+00:00",
+      "episode_id": "693c9c51b65244a6"
+    },
+    "a8ad01c1678a1b26": {
+      "url": "https://pdcn.co/e/rss.art19.com/episodes/809ac611-caa0-4610-9bf5-20b604654a90.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Samm Sacks and Paul Triolo on WAIC 2026, Xi's AI Speech, and Kimi K3",
+      "feed": "Sinica Podcast (China)",
+      "processed": "2026-07-24T12:03:41.711456+00:00",
+      "episode_id": "a8ad01c1678a1b26"
+    },
+    "f254656aad329ed3": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19542544-through-the-noise-geopolitics-policy-and-earnings.mp3",
+      "title": "Through the noise: Geopolitics, policy and earnings",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-24T12:05:14.126638+00:00",
+      "episode_id": "f254656aad329ed3"
+    },
+    "9c803a6c27f244c0": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/85617407-b683-481f-a9ad-6426720c9962/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=85617407-b683-481f-a9ad-6426720c9962&feed=IFy3imsg&t=podcast&e=nx-s1-5905782&p=510325&d=562&size=8996658",
+      "title": "Three beefs: U.S. and Brazil, Taco Bell and liability, Waymo and trial lawyers",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-24T12:07:08.863746+00:00",
+      "episode_id": "9c803a6c27f244c0"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-24T04:08:52.361512+00:00"
+  "last_updated": "2026-07-24T12:07:08.863787+00:00"
 }
