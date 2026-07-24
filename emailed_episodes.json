@@ -13691,8 +13691,36 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-07-24T19:33:59.608102+00:00",
       "episode_id": "b4ddf810db303fe1"
+    },
+    "c9c67442d67db3ec": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a008ace2-6cc5-4737-b82e-db901d192bdc.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "An Odyssey Through Market History",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-24T22:47:44.701053+00:00",
+      "episode_id": "c9c67442d67db3ec"
+    },
+    "c876c19b47fe978f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/ea967be1-a85e-47d3-842c-daa787af41a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=ea967be1-a85e-47d3-842c-daa787af41a1&feed=tc4zxWgX",
+      "title": "Semis Suffer, Capex Concerns Crop Up, and Bullish Bets 7/24/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-24T22:59:10.863872+00:00",
+      "episode_id": "c876c19b47fe978f"
+    },
+    "4d1bb6f2c45dca8b": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894831&p=510362&d=2318&size=37096473",
+      "title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
+      "feed": "Planet Money",
+      "processed": "2026-07-24T23:09:30.795558+00:00",
+      "episode_id": "4d1bb6f2c45dca8b"
+    },
+    "463204926bb84833": {
+      "url": "https://mcdn.podbean.com/mf/web/29k6t74skb2mcw4m/Podcast_07-24-26.mp3",
+      "title": "What’s driving the edible oil markets?",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-07-24T23:17:39.997996+00:00",
+      "episode_id": "463204926bb84833"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-24T19:33:59.608146+00:00"
+  "last_updated": "2026-07-24T23:17:39.998038+00:00"
 }
