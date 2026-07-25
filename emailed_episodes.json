@@ -13733,8 +13733,15 @@
       "feed": "The GlobalCapital Podcast",
       "processed": "2026-07-25T04:05:44.303221+00:00",
       "episode_id": "57e4efe77d38423b"
+    },
+    "95743da8ed35182b": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_CLARIDA.mp3?dest-id=1929056",
+      "title": "Ep. 368: Richard Clarida on the Warsh Fed, the AI Capex Boom, and Global Economic Fragmentation",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-07-25T22:48:18.538192+00:00",
+      "episode_id": "95743da8ed35182b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-25T04:05:44.303266+00:00"
+  "last_updated": "2026-07-25T22:48:18.538237+00:00"
 }
