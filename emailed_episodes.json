@@ -13719,8 +13719,22 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "processed": "2026-07-24T23:17:39.997996+00:00",
       "episode_id": "463204926bb84833"
+    },
+    "d61fbedfbcd19429": {
+      "url": "https://mcdn.podbean.com/mf/web/irca5f4uye2iygt6/07242026_MMTVuse.mp3",
+      "title": "Global Data Pod Weekender: The eagle and snake",
+      "feed": "Global Data Pod",
+      "processed": "2026-07-25T04:01:03.052172+00:00",
+      "episode_id": "d61fbedfbcd19429"
+    },
+    "57e4efe77d38423b": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19545548-the-bully-of-the-curve.mp3",
+      "title": "The bully of the curve",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-07-25T04:05:44.303221+00:00",
+      "episode_id": "57e4efe77d38423b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-24T23:17:39.998038+00:00"
+  "last_updated": "2026-07-25T04:05:44.303266+00:00"
 }
