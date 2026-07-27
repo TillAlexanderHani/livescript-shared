@@ -13768,8 +13768,15 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "processed": "2026-07-27T16:11:13.110927+00:00",
       "episode_id": "1c67ac46ebd9dcd6"
+    },
+    "f8e08c77fee8fece": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/27273650-428a-41c1-8463-7211b6771553/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=27273650-428a-41c1-8463-7211b6771553&feed=tc4zxWgX",
+      "title": "Big Tech’s Big Week, Time for Some A.I.R (AI regulators), and a China Chip Debut 7/27/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-27T19:10:01.851912+00:00",
+      "episode_id": "f8e08c77fee8fece"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-27T16:11:13.110967+00:00"
+  "last_updated": "2026-07-27T19:10:01.851953+00:00"
 }
