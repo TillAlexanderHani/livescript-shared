@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Designing for Certainty: Treasury Priorities in India and China",
+      "published": "Mon, 27 Jul 2026 15:16:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0714_BOA_India_POD.mp3?dest-id=1534493",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "provider": "TMI - Treasury Management International",
+      "priority": 2,
+      "tags": [
+        "INR",
+        "CNY",
+        "RBI",
+        "Trade",
+        "Cross-border payments",
+        "Regulatory reform",
+        "Treasury",
+        "Liquidity"
+      ],
+      "summary": "**Summary**\nThis Bank of America-sourced piece looks at how corporate treasury priorities are shifting in India and China, moving away from chasing the best FX rate toward cash-flow predictability, settlement certainty, and compliance. It matters to an EM trader mainly for the structural India regulatory story and the ongoing internationalisation of INR trade flows, though the piece itself is a corporate-treasury operations discussion, not a markets call.\n\n**Key points**\n- Intra-Asia trade is now close to 60% of regional exports, adding currency and entity complexity for corporate treasurers.\n- RBI is shifting from a prescriptive to a principles-based regulatory approach, delegating more authority to banks and speeding approvals — described as the biggest change in 30 years.\n- Cross-border payment simplification in India: non-residents can now open INR accounts, and Indian corporates can open offshore dollar accounts; document requirements have shrunk sharply.\n- INR-based trade invoicing is growing, letting corporates shift FX exposure from local subsidiaries to group level, notable because INR is not yet part of global liquidity pools.\n- In China, treasury focus is on real-time payment tracking via APIs, AI-assisted reconciliation for high-volume cross-border e-commerce, and machine-learning cash positioning; a locally headquartered industrial group found offshore FX centralisation unworkable given onshore trade flows.\n\n**FX / rates implications**\n- Growing INR trade invoicing and RBI's principles-based shift are incremental steps toward greater INR convertibility/liquidity over time, a slow-moving structural tailwind for INR internationalisation rather than a near-term trading catalyst.\n- No direct read-through for CNY, rates, or broader EM risk sentiment; this is a corporate operations/regulatory-process story, not a policy-rate or FX-intervention signal.\n\n**Watch list**\n- Further RBI circulars simplifying cross-border payment documentation and delegated bank authority.\n- Adoption pace of INR trade invoicing among multinational corporates as a gauge of gradual INR liquidity pool development.",
+      "summarized_at": "2026-07-27T16:11:13.110927+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-27"
 }
