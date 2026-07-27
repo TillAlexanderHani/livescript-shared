@@ -13775,8 +13775,22 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-07-27T19:10:01.851912+00:00",
       "episode_id": "f8e08c77fee8fece"
+    },
+    "0cd404cb192ec0f2": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/8a2d411d-533b-42e3-925f-f53518b8d0b3.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "A More Selective Stock Market",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-27T22:47:03.387444+00:00",
+      "episode_id": "0cd404cb192ec0f2"
+    },
+    "c015cd0e8dc84b43": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC6304570871.mp3",
+      "title": "The Credit Market Lens: The Return of Financial Engineering – Not 2008, But Not Nothing",
+      "feed": "PIMCO Pod",
+      "processed": "2026-07-27T22:58:57.300962+00:00",
+      "episode_id": "c015cd0e8dc84b43"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-27T19:10:01.851953+00:00"
+  "last_updated": "2026-07-27T22:58:57.301005+00:00"
 }
