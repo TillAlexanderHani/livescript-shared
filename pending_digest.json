@@ -1,4 +1,71 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "EM Lens: Identifying Alpha Opportunities in EM Equities",
+      "published": "Tue, 28 Jul 2026 10:30:00 -0000",
+      "url": "https://traffic.megaphone.fm/BLM5050503530.mp3",
+      "feed": "Bloomberg FICC Focus",
+      "provider": "Bloomberg Intelligence",
+      "priority": 5,
+      "tags": [
+        "EM equities",
+        "USD",
+        "DXY",
+        "Copper",
+        "BRL",
+        "COP",
+        "VND",
+        "CNY",
+        "TWD",
+        "KRW",
+        "INR",
+        "Carry",
+        "Risk sentiment",
+        "Oil",
+        "Commodities",
+        "Trade"
+      ],
+      "summary": "**Summary**\nBailey Gifford partner Andrew Keeler discusses EM equity valuations, concentration risk, and the FX overlay that fixed-income/EM FX traders should watch, given the tight linkage between EM equity flows, dollar strength, and carry dynamics. Though equity-focused, the conversation covers dollar debasement debate, EM currency volatility at cycle lows, and commodity supply gaps directly relevant to LATAM and Asia FX books.\n\n**Key points**\n- MSCI EM equity index up ~20% YTD in dollars, with TSMC, SK Hynix and Samsung (semis/AI) making up over 30% of the benchmark.\n- EM trades at a steep discount to DM despite stronger earnings growth (~50% more growth, ~half the price vs US).\n- Global south-south merchandise trade hit $7 trillion in 2025 (28% of world trade, up from 11% at the millennium), reducing EM dependence on dollar-denominated trade and Western monetary policy.\n- Active EM equity fund flows remain negative; global investors broadly underweight EM (a third of funds underweight).\n- Copper: 15-16 years to bring new mines online; IEA sees a potential 25% supply gap by 2035, with AI capex possibly adding 10-50% to demand.\n- Firm underweight Brazil historically during real/commodity stress (e.g. 2015-16); currently sees the EM macro backdrop as broadly sound.\n- Vietnam highlighted as top export-manufacturing story, exports growing 7x EM average since 2006, credit growth running hot (fastest in 15 years).\n\n**FX / rates implications**\n- Bloomberg dollar spot index up 1.5% YTD after -8% last year; wide rate differentials still support carry trades in Brazil, Colombia.\n- Investors think in USD terms for EM earnings translation — INR, BRL depreciation forecasts get baked into dollar-earnings models.\n- Growing non-dollar trade settlement among EM economies could reduce future FX volatility transmission from Fed policy.\n\n**Watch list**\n- Copper price trajectory as supply/demand imbalance widens toward 2035.\n- EM active fund flow inflection point given current underweight positioning.\n- Brazil, Colombia carry trades amid geopolitical risk (Iran, stagflation fears) driving recent defensive repositioning.",
+      "summarized_at": "2026-07-28T11:57:17.960296+00:00"
+    },
+    {
+      "title": "The Week That Was - 27 Jul: Renewed US-Iran tensions drive pressure",
+      "published": "Tue, 28 Jul 2026 09:00:00 +0530",
+      "url": "https://www.buzzsprout.com/1885786/episodes/19560960-the-week-that-was-27-jul-renewed-us-iran-tensions-drive-pressure.mp3",
+      "feed": "Standard Chartered India - Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "INR",
+        "USDINR",
+        "RBI",
+        "UST 10y",
+        "Brent",
+        "WTI",
+        "Gold",
+        "Fed",
+        "ECB",
+        "Inflation",
+        "Carry",
+        "S&P 500"
+      ],
+      "summary": "**Summary**\nStandard Chartered's weekly India wrap highlights how renewed US-Iran tensions and a Houthi Red Sea blockade drove oil and bond yields sharply higher, spilling over into Indian rates, equities and the rupee. Domestically, encouraging industrial output and rising FX reserves contrast with weaker equity markets and rising bond yields, giving a mixed but actionable picture for INR positioning.\n\n**Key points**\n- WTI crossed USD 90/bbl and US 10-year yield pushed above 4.7% on Red Sea/Iran escalation; base case is WTI range-bound USD 70-90 ahead given US electoral constraints and expected Iranian restraint.\n- ECB held at 2.25%; Fed expected on hold through year-end given softer June US inflation; S&P 500 2026-27 earnings growth projected at 15-20%, seen offsetting geopolitical valuation risk.\n- India's core industrial output grew 5% y/y in June (vs 3.2% in May), Q1 FY growth 3.6% vs 1% a year ago; INOR newly added to the core industries basket.\n- India FX reserves rose USD 1.08bn to USD 2,676.2bn (week to July 17), a second straight weekly rise; RBI mobilized USD 20.7bn (June 8-July 17) via NRI/FCNR(B) deposit incentives.\n- Nifty fell 2.33% to 23,076.7, Sensex down 2.68%; realty -4.0%, banks -3.12% on NIM pressure; Auto and FMCG were the only sectors higher.\n- Rupee weakened 0.3% on the week to close at 96.57 on oil spike and broad dollar strength (note: level likely a transcription/rebase artifact of ~86.57, treat cautiously).\n- India 10-year yield rose ~4.5bp to 6.82% (third straight weekly rise), 3-year +7.7bp to 6.32%, 5-year +3.3bp to 6.49%; domestic gold up 1.8% on safe-haven/rupee-weakness demand.\n\n**FX / rates implications**\n- INR: oil-price shock plus broad USD strength are the key depreciation drivers; RBI's FCNR(B)/NRI deposit inflows (USD 20.7bn mobilized) and reserve accumulation are a structural offset that should moderate, not reverse, depreciation pressure and support a modest FY27 BoP surplus.\n- Rates: India curve bear-steepening on imported oil-inflation risk tracks the global UST selloff (10y >4.7%); watch for further upside in Indian yields if Brent holds above USD 90.\n- Global: Fed-on-hold and ECB-on-hold reduce near-term policy divergence risk for EM carry trades, but oil-driven inflation risk is the swing factor for both DM and EM rates.\n- Gold's 1.8% rise reflects safe-haven/hedge demand amid EM currency weakness and geopolitical risk — relevant for portfolio hedging overlays.\n\n**Watch list**\n- Brent/WTI trajectory versus the USD 70-90/bbl range assumption, and any escalation/de-escalation in US-Iran/Red Sea tensions.\n- Fed and ECB meetings for confirmation of the on-hold stance through year-end.\n- India core inflation pass-through from oil, and further RBI capital-inflow measures ahead of FY27 BoP assessment.\n- India 10Y yield (6.82%) for a fourth consecutive weekly rise; USDINR trend given reserve inflows versus oil/dollar headwinds.\n- Q1 (June-quarter) bank earnings/NIM guidance for further downside revisions.",
+      "summarized_at": "2026-07-28T11:58:51.503723+00:00"
+    },
+    {
+      "title": "You had housing questions. An economist answered them.",
+      "published": "Tue, 28 Jul 2026 11:53:55 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/d33f3f85-a555-43e1-9096-d6a8342be7e6/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=d33f3f85-a555-43e1-9096-d6a8342be7e6&feed=IFy3imsg&t=podcast&e=nx-s1-5909615&p=510325&d=570&size=9130823",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Inflation",
+        "Fed"
+      ],
+      "summary": "**Summary**\nRedfin chief economist Daryl Fairweather discusses why the US existing-home sales market is stagnant near record lows, driven by elevated mortgage rates and a supply shortage. While a pure US housing/consumer topic, the discussion of mortgage rates as a function of growth, inflation, and Fed policy has tangential macro relevance.\n\n**Key points**\n- The average 30-year fixed mortgage rate hit 6.58% this month, the highest in nearly a year.\n- Fairweather attributes elevated mortgage rates to a fast-growing US economy and inflation running above the Fed's comfort level.\n- A \"mortgage lock-in effect\" persists: sellers with cheap pandemic-era mortgages refuse to sell (higher reservation prices) since moving would cost $1,000+/month more, while buyers are priced out by high rates and prices.\n- Housing shortage estimated at 1.5 to several million homes, attributed largely to NIMBYism blocking dense development in high-demand areas.\n- Sunbelt states (Texas, Arizona, Florida) with looser local zoning control are seeing prices come down and affordability improve due to more construction.\n\n**FX / rates implications**\nNo direct EM FX or rates implications are discussed; this is a US domestic housing/consumer-economy segment. The reference to inflation running above the Fed's target and a \"fast growing economy\" keeping rates elevated is consistent with the broader higher-for-longer US rates narrative that supports USD strength and pressures EM carry trades and capital flows generally, though this specific point is not elaborated in the episode.\n\n**Watch list**\n- US 30-year mortgage rate trajectory as a proxy for broader US rate/inflation dynamics.\n- Upcoming NPR Plus bonus episode with the full Ask An Economist Q&A.",
+      "summarized_at": "2026-07-28T11:59:50.839056+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-28"
 }
