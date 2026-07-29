@@ -1,4 +1,47 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Chip War: how semiconductors became the new oil with Chris Miller (summer repeat)",
+      "published": "Tue, 28 Jul 2026 23:00:00 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/2f5bc0c2-91b4-4368-bb5d-c194f76c519a/group-item/35883bbe-e362-4385-b713-9ee8e6177c25/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "feed": "The HC Commodities Podcast",
+      "provider": "HC Group",
+      "priority": 2,
+      "tags": [
+        "Semiconductors",
+        "TSMC",
+        "China",
+        "Taiwan",
+        "Trade",
+        "Tariffs",
+        "AI",
+        "Geopolitics"
+      ],
+      "summary": "**Summary**\nThis is a historical/strategic deep-dive with Chris Miller, author of Chip War, tracing semiconductors from Cold War origins through TSMC's rise, China's tech ambitions, the Huawei clampdown, COVID chip shortages, and current US export controls on AI chips. It's a valuable structural/geopolitical primer but contains no timely market data, rates, or FX signals — relevance to a trader is mostly as background context on the China-Taiwan-US tech rivalry rather than an actionable catalyst.\n\n**Key points**\n- TSMC (founded 1987 by Morris Chang) makes ~90% of the world's most advanced processor chips; losing its output would be \"like the Great Depression\" for global manufacturing.\n- China has spent as much annually importing chips as importing oil for the past decade; Xi's 2014 push framed chips as core technology, triggering matching subsidy races in the US (CHIPS Act), EU, Japan, India, South Korea.\n- US, with Japan and the Netherlands, imposed October 2022 export controls banning advanced chipmaking tools and AI chips to China; Huawei was cut off from TSMC production and lost much of its smartphone business.\n- 2023 generative AI boom created a severe Nvidia GPU shortage even as the broader chip industry sits in surplus; some VCs now pay startups in GPUs rather than cash.\n- Guest notes military balance in the Taiwan Strait has shifted, creating new uncertainty over any conflict outcome versus a decade ago when a US/Taiwan win was assured.\n\n**FX / rates implications**\n- No direct FX/rates signals; relevant only as slow-moving structural risk背景 for Taiwan (TWD), China (CNY/CNH), and broader Asia supply-chain-linked currencies (KRW) via tail risk of a Taiwan Strait disruption.\n- A Taiwan Strait crisis remains a known but unpriced tail risk for EM Asia FX and global risk sentiment given TSMC's centrality to global electronics/auto output.\n\n**Watch list**\n- Ongoing US-China chip export control escalation (entity list additions, AI chip curbs).\n- Any Taiwan Strait tension developments given TSMC's outsized role in global chip supply.",
+      "summarized_at": "2026-07-29T04:10:48.805984+00:00"
+    },
+    {
+      "title": "Cut to the Chase! AI sentiment vs. fundamentals",
+      "published": "Wed, 29 Jul 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19567847-cut-to-the-chase-ai-sentiment-vs-fundamentals.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "AI",
+        "Semiconductors",
+        "Taiwan",
+        "TWD",
+        "KRW",
+        "China",
+        "S&P 500",
+        "Credit",
+        "Risk sentiment",
+        "Tech earnings"
+      ],
+      "summary": "**Summary**\nStandard Chartered's daily note argues that the recent AI-sentiment selloff, which hit Korean and Taiwanese equity markets sharply, is overreacting to headline noise rather than reflecting deteriorating fundamentals. The bank sees the AI capex and semiconductor trade remaining intact despite negative news around China's Kimi K3 model and Chinese lithography progress.\n\n**Key points**\n- Korean and Taiwanese equity markets fell sharply as AI sentiment soured following the release of Kimi K3, a low-cost, high-performing Chinese AI model.\n- Task-completion cost analysis of Kimi K3 suggests actual costs are much higher than headline token pricing implied, tempering the disruption narrative.\n- China is only producing about 5 advanced-generation lithography machines this year and 20 next year, versus 400-500 older-generation machines shipped globally today, limiting near-term impact on US semiconductor dominance.\n- Big tech hyperscalers continue revising AI investment plans upward based on Q2 earnings reported so far.\n- Credit spreads for big tech hyperscalers have widened, but StanChart views their balance sheets as rock-solid and well within capacity to fund AI capex.\n- Key catalysts this week: earnings from semiconductor chipmakers and big tech hyperscalers, seen as more decisive than recent headlines.\n\n**FX / rates implications**\n- Taiwan and Korea equity weakness tied to AI sentiment is a risk-sentiment signal worth monitoring for TWD and KRW, both leveraged to tech/semiconductor cycles and foreign equity flows.\n- Widening hyperscaler credit spreads are an early risk-off tell for global credit and could spill into broader EM risk appetite if it persists.\n- No direct Fed, USD, or EM central bank content; transmission to EM Asia FX is indirect via tech-sector risk sentiment and portfolio flows into Taiwan/Korea equities.\n\n**Watch list**\n- Semiconductor chipmaker and big tech hyperscaler Q2 earnings this week for concrete AI demand/capex signals.\n- Further moves in Taiwanese and Korean equity markets as a read on AI-driven risk sentiment.\n- Credit spread trends for big tech/hyperscaler debt as a gauge of AI-financing risk.",
+      "summarized_at": "2026-07-29T04:11:58.597447+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-29"
 }

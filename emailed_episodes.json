@@ -13859,8 +13859,22 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-07-28T23:02:58.042748+00:00",
       "episode_id": "17d5c5e8fe41533d"
+    },
+    "d7966b33160df3fc": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/2f5bc0c2-91b4-4368-bb5d-c194f76c519a/group-item/35883bbe-e362-4385-b713-9ee8e6177c25/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Chip War: how semiconductors became the new oil with Chris Miller (summer repeat)",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-07-29T04:10:48.805984+00:00",
+      "episode_id": "d7966b33160df3fc"
+    },
+    "ed7e114c0a4fe72a": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19567847-cut-to-the-chase-ai-sentiment-vs-fundamentals.mp3",
+      "title": "Cut to the Chase! AI sentiment vs. fundamentals",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-29T04:11:58.597447+00:00",
+      "episode_id": "ed7e114c0a4fe72a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-28T23:02:58.042798+00:00"
+  "last_updated": "2026-07-29T04:11:58.597490+00:00"
 }
