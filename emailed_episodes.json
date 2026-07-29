@@ -13873,8 +13873,36 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-07-29T04:11:58.597447+00:00",
       "episode_id": "ed7e114c0a4fe72a"
+    },
+    "3d6e573c85b21882": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/cda18004-4375-4dd6-ad59-e5e226873e93/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=cda18004-4375-4dd6-ad59-e5e226873e93&feed=tc4zxWgX",
+      "title": "Zelenskyy and Netanyahu in DC, A Memory Shift, and a Stealth AI MVP?   7/28/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-29T11:56:55.325691+00:00",
+      "episode_id": "3d6e573c85b21882"
+    },
+    "c8a856c9f0e283f6": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a68c48c928f102203e14c0b/media.mp3",
+      "title": "The canal that shaped American finance",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-07-29T12:02:06.262417+00:00",
+      "episode_id": "c8a856c9f0e283f6"
+    },
+    "b62c7146716638be": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909324&p=510362&d=2335&size=37367727",
+      "title": "How to beat the resource curse in Norway (Summer School)",
+      "feed": "Planet Money",
+      "processed": "2026-07-29T12:07:08.799066+00:00",
+      "episode_id": "b62c7146716638be"
+    },
+    "b1c07f3e829a19fb": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/38120faf-c5e9-4390-a429-849a551b6073/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=38120faf-c5e9-4390-a429-849a551b6073&feed=IFy3imsg&t=podcast&e=nx-s1-5910826&p=510325&d=519&size=8313714",
+      "title": "Even Moore’s law can't save affordable tech",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-29T12:09:31.414444+00:00",
+      "episode_id": "b1c07f3e829a19fb"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-29T04:11:58.597490+00:00"
+  "last_updated": "2026-07-29T12:09:31.414485+00:00"
 }

@@ -41,6 +41,61 @@
       ],
       "summary": "**Summary**\nStandard Chartered's daily note argues that the recent AI-sentiment selloff, which hit Korean and Taiwanese equity markets sharply, is overreacting to headline noise rather than reflecting deteriorating fundamentals. The bank sees the AI capex and semiconductor trade remaining intact despite negative news around China's Kimi K3 model and Chinese lithography progress.\n\n**Key points**\n- Korean and Taiwanese equity markets fell sharply as AI sentiment soured following the release of Kimi K3, a low-cost, high-performing Chinese AI model.\n- Task-completion cost analysis of Kimi K3 suggests actual costs are much higher than headline token pricing implied, tempering the disruption narrative.\n- China is only producing about 5 advanced-generation lithography machines this year and 20 next year, versus 400-500 older-generation machines shipped globally today, limiting near-term impact on US semiconductor dominance.\n- Big tech hyperscalers continue revising AI investment plans upward based on Q2 earnings reported so far.\n- Credit spreads for big tech hyperscalers have widened, but StanChart views their balance sheets as rock-solid and well within capacity to fund AI capex.\n- Key catalysts this week: earnings from semiconductor chipmakers and big tech hyperscalers, seen as more decisive than recent headlines.\n\n**FX / rates implications**\n- Taiwan and Korea equity weakness tied to AI sentiment is a risk-sentiment signal worth monitoring for TWD and KRW, both leveraged to tech/semiconductor cycles and foreign equity flows.\n- Widening hyperscaler credit spreads are an early risk-off tell for global credit and could spill into broader EM risk appetite if it persists.\n- No direct Fed, USD, or EM central bank content; transmission to EM Asia FX is indirect via tech-sector risk sentiment and portfolio flows into Taiwan/Korea equities.\n\n**Watch list**\n- Semiconductor chipmaker and big tech hyperscaler Q2 earnings this week for concrete AI demand/capex signals.\n- Further moves in Taiwanese and Korean equity markets as a read on AI-driven risk sentiment.\n- Credit spread trends for big tech/hyperscaler debt as a gauge of AI-financing risk.",
       "summarized_at": "2026-07-29T04:11:58.597447+00:00"
+    },
+    {
+      "title": "Zelenskyy and Netanyahu in DC, A Memory Shift, and a Stealth AI MVP?   7/28/26",
+      "published": "Tue, 28 Jul 2026 19:04:23 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/cda18004-4375-4dd6-ad59-e5e226873e93/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=cda18004-4375-4dd6-ad59-e5e226873e93&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "Oil",
+        "Brent",
+        "China",
+        "S&P 500",
+        "Risk sentiment",
+        "Inflation",
+        "Geopolitics"
+      ],
+      "summary": "**Summary**\nUS markets rotated out of AI/memory-chip names into staples and healthcare as the Fed began a two-day FOMC meeting under new Chair Kevin Warsh, while Trump hosted Zelensky and Netanyahu at the White House amid the Iran-Israel and Ukraine-Russia conflicts, both of which are keeping oil price risk elevated for traders watching the Strait of Hormuz.\n\n**Key points**\n- CNBC Fed survey: 96% of 29 respondents expect no change this week, but 57% see a hawkish dissent/bias risk; 54% expect a hike by June 2027; 2026 rate view rose to 3.76% from 3.6% in June, reflecting elevated uncertainty under Warsh's less-scripted communication style.\n- Guest economist Joe LaVorgna argued for an immediate hike given inflation running above target for six years (core PCE >1pt above goal) and a stabilizing labor market; Steve Liesman countered that a surprise hike (~30% priced probability) risks destabilizing rate markets versus pre-signaling.\n- Oil prices fell on hopes of a 10-day Iran-Israel ceasefire allowing ~150 ships/day through the Strait of Hormuz; Atlantic Council's Jonathan Panikoff said Iran still wants de facto control of the strait (a Trump red line), so a durable deal remains distant, and China's oil demand/reserve behavior is a swing factor for whether crude spikes.\n- Memory/AI trade selloff continues: Micron pacing worst monthly drop in 11 years, China's CXMT fell 4% after a 465% debut surge; Susquehanna's Mehdi Hosseini flagged commodity memory price plateau risk as the key variable to watch.\n- Apple crossed $5 trillion market cap, overtaking Nvidia, seen as an AI-trade safe haven.\n\n**FX / rates implications**\n- A hawkish surprise or hike signal from the Fed under Warsh would support USD/DXY and pressure EM Asia and LATAM carry trades broadly; markets are pricing meaningful uncertainty into UST-linked swaps ahead of tomorrow's decision.\n- Any Iran-Israel ceasefire lowering oil prices is disinflationary globally and eases import bills for oil-importing EM (India, Philippines, Thailand); escalation risk remains a tail scenario for Brent/WTI spikes and EM inflation pass-through.\n- Continued unwind of AI/memory momentum trades (Micron, CXMT) signals broader risk-off rotation that could pressure high-beta EM FX if it spreads beyond US tech sector.\n\n**Watch list**\n- FOMC decision tomorrow under Kevin Warsh — surprise hike probability priced near 29-30%.\n- Progress (or lack thereof) on a 10-day Iran-Israel ceasefire and Strait of Hormuz shipping flows.\n- Microsoft earnings tomorrow after the bell; Apple earnings Thursday, both bellwethers for AI capex/spending sentiment.",
+      "summarized_at": "2026-07-29T11:56:55.325691+00:00"
+    },
+    {
+      "title": "The canal that shaped American finance",
+      "published": "Wed, 29 Jul 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a68c48c928f102203e14c0b/media.mp3",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "provider": "Financial Times",
+      "priority": 2,
+      "tags": [
+        "Munibonds",
+        "Fiscal",
+        "UST 10y",
+        "Credit"
+      ],
+      "summary": "**Summary**\nAn FT Behind the Money episode traces the 19th-century financing of the Erie Canal via New York State bonds, framing it as the origin of the modern US municipal bond market. Historical/financial-history content with no bearing on current EM Asia or LATAM FX/rates or present-day central bank policy, but relevant background for a macro trader given the muni market's scale (four to five trillion dollars) and its parallels to sovereign debt structuring.\n\n**Key points**\n- The Erie Canal (363 miles, built 1817-1825) cost $7mn, financed via New York State canal bonds after private ventures and federal funding requests both failed.\n- Bonds were made creditworthy via dedicated tax revenue streams (salt tax upstate, auction tax in NYC) — described as Hamiltonian/responsible finance, prefiguring modern revenue-bond structuring.\n- Investor base evolved from small individual/patriotic buyers to savings banks to British foreign investors chasing higher US yields than available in Europe post-Napoleonic Wars — an early yield-hunting/carry dynamic.\n- The canal succeeded despite launching amid the Panic of 1819 and US federal debt near $130mn; falling prices post-panic actually lowered construction costs.\n- Success spurred other states to over-borrow for canals without similar fiscal discipline, leading to sovereign-level defaults by the late 1830s (referenced in Dickens' A Christmas Carol) — an early example of contagion from a successful debt structure to reckless imitation and default.\n- Post-default, states wrote constitutional requirements for voter approval and repayment plans on municipal debt, professionalizing the market.\n\n**FX / rates implications**\nNone directly — no discussion of current currencies, central banks, or live rate policy. The historical default/contagion pattern (successful bond structure copied without discipline, ending in defaults) is a loose analog to sovereign debt cycles relevant to LATAM/EM credit history, but no present-day read-through is offered.\n\n**Watch list**\nNo scheduled catalysts, data, or policy deadlines discussed — purely historical retrospective.",
+      "summarized_at": "2026-07-29T12:02:06.262417+00:00"
+    },
+    {
+      "title": "Even Moore’s law can't save affordable tech",
+      "published": "Wed, 29 Jul 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/38120faf-c5e9-4390-a429-849a551b6073/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=38120faf-c5e9-4390-a429-849a551b6073&feed=IFy3imsg&t=podcast&e=nx-s1-5910826&p=510325&d=519&size=8313714",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Inflation",
+        "Semiconductors",
+        "AI capex",
+        "Supply chain",
+        "Corporate earnings"
+      ],
+      "summary": "**Summary**\nThis episode examines how surging AI-driven demand for computer memory (RAM) is straining decades of Moore's Law-driven cost declines in electronics, pushing up prices for consumer tech from gaming consoles to laptops. For a macro trader, it's a microcosm of the AI capex supercycle reshaping global supply chains and potentially feeding into goods inflation.\n\n**Key points**\n- Memory chip prices have more than doubled over the past year amid unprecedented AI infrastructure demand.\n- Nintendo raised its Switch 2 price by $50 in the US; Apple hiked prices on entry-level MacBook and its cheapest iPad.\n- OpenAI's $500 billion Stargate initiative, with Samsung as a key memory supplier, reportedly absorbs roughly 40% of world memory supply.\n- Only three firms supply US computer memory: Samsung, Micron, and SK Hynix; Micron exited the direct-to-consumer market last year to focus on AI data-center clients.\n- IBM announced a sub-1-nanometer transistor last month, showing Moore's Law-style innovation continues even as costs rise.\n- A computer science professor argues current computing/memory demand growth is unsustainable and requires new approaches beyond traditional chip scaling.\n\n**FX / rates implications**\n- The AI capex boom (Stargate and similar mega-projects) is a structural demand driver for Samsung and SK Hynix, both major South Korean exporters — a tailwind for Korea's trade balance and, indirectly, KRW, though not discussed directly in the episode.\n- Rising memory-driven consumer electronics prices are a niche but real contributor to US goods inflation, relevant to Fed CPI watch and thus UST yields/DXY indirectly.\n- Continued AI infrastructure spending reinforces a broader theme of capex-driven demand for chips, energy, and industrial commodities that has knock-on effects for EM Asia manufacturing exporters (Taiwan, Korea, China supply chains).\n\n**Watch list**\n- US CPI goods components for signs of memory/electronics price pass-through.\n- Samsung, SK Hynix, and Micron capacity allocation decisions and earnings guidance tied to AI demand.\n- Further Stargate-related supply agreements as a proxy for AI capex momentum.",
+      "summarized_at": "2026-07-29T12:09:31.414444+00:00"
     }
   ],
   "last_digest_date": "2026-07-29"
