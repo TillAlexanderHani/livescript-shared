@@ -13950,8 +13950,22 @@
       "feed": "PIMCO Pod",
       "processed": "2026-07-30T15:58:05.938368+00:00",
       "episode_id": "b1efe1ce2a004d68"
+    },
+    "6b4f3250df104fd6": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/6870981a-fba3-4f62-9ddd-03b27f6a811f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Oil Market’s Billion-Barrel Problem",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-30T19:06:03.338649+00:00",
+      "episode_id": "6b4f3250df104fd6"
+    },
+    "1b053a8ecdb4702d": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/ddbc0632-28fc-456a-a1df-9e67d08f7dbc/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=ddbc0632-28fc-456a-a1df-9e67d08f7dbc&feed=tc4zxWgX",
+      "title": "Regaining Momentum, Fed Up, and the Next Phase of the Iran War 7/30/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-07-30T19:18:01.474337+00:00",
+      "episode_id": "1b053a8ecdb4702d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-30T15:58:05.938407+00:00"
+  "last_updated": "2026-07-30T19:18:01.474384+00:00"
 }
