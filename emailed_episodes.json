@@ -13964,8 +13964,43 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-07-30T19:18:01.474337+00:00",
       "episode_id": "1b053a8ecdb4702d"
+    },
+    "60b3586c056fd907": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/759f230e-17ee-4e9e-b09a-982b1d33730a.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Blind Spots in the AI Infrastructure Selloff",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-07-30T22:50:48.402256+00:00",
+      "episode_id": "60b3586c056fd907"
+    },
+    "b969fbb8d8f0b40c": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/519b7338-f6ec-4d99-a8a2-b496012a0db1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How the Iranian Economy Actually Works",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-07-30T23:12:23.070242+00:00",
+      "episode_id": "b969fbb8d8f0b40c"
+    },
+    "f667cdb2db24be75": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/19577380-keiko-fujimori-takes-power-can-she-keep-it.mp3",
+      "title": "Keiko Fujimori Takes Power. Can She Keep It?",
+      "feed": "The Americas Quarterly Podcast",
+      "processed": "2026-07-30T23:18:30.903273+00:00",
+      "episode_id": "f667cdb2db24be75"
+    },
+    "a74e403121ed069a": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a6b99250bf0e6212ffe57da/media.mp3",
+      "title": "Is the Fed the referee or the best player?",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-07-30T23:22:08.131591+00:00",
+      "episode_id": "a74e403121ed069a"
+    },
+    "b5a1bbe5c209004c": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC6725714496.mp3",
+      "title": "The Fed Holds Steady, But Questions Linger",
+      "feed": "PIMCO Pod",
+      "processed": "2026-07-30T23:23:36.315186+00:00",
+      "episode_id": "b5a1bbe5c209004c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-30T19:18:01.474384+00:00"
+  "last_updated": "2026-07-30T23:23:36.315231+00:00"
 }
