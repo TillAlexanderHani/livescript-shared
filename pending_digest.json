@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! The Fed holds rates",
+      "published": "Thu, 30 Jul 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19573374-cut-to-the-chase-the-fed-holds-rates.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Inflation",
+        "Oil",
+        "Brent",
+        "WTI",
+        "BoJ"
+      ],
+      "summary": "**Summary**\nThe Fed held rates on 29 July as expected, with a 9-3 vote split (three dissents favored a hike), easing the tail-risk of a surprise hike that markets had priced at 35% (up from 10% weeks earlier) amid new Fed Chair Kevin Warsh's inflation-fighting rhetoric. The decision and the reaction across equities, bonds and the dollar carry direct read-through for EM positioning and carry trades.\n\n**Key points**\n- Vote was 9 (hold) vs 3 (hike); labor market described as balanced after softening in June, core inflation well-behaved, wage growth slowing.\n- Oil has cooled into a $70-90/bbl range despite Middle East volatility; base case sees continued de-escalation keeping oil in that band.\n- Warsh reiterated commitment to the 2% inflation target, echoing tough talk from his first meeting that already tightened financial conditions and lifted short-term yields, reducing the need to actually hike.\n- Long-term yields still rose post-meeting on doubts over Warsh's resolve; Fed expected to hold for the rest of the year, pending year-end task force findings on AI/productivity and real-time inflation/job data.\n\n**FX / rates implications**\n- Hold is neutral-to-positive for equities; focus shifts to Q2 tech earnings as near-term support.\n- Short-term UST yields fell as hike bets for the year were pared back; long-term yields rose on inflation-credibility doubts, but extremely bearish positioning should cap further UST 10y rise, with strong resistance near last year's high of 4.8%.\n- Dollar positioning is very bullish (~85th percentile), so the hold triggered a squaring-driven dollar dip; lower short-end US yields could support EUR, CHF, AUD and Asian currencies, but firmer long-end yields and renewed oil risk may limit further USD downside.\n\n**Watch list**\n- BoJ policy decision tomorrow (31 July) — next major global FX catalyst.\n- Ongoing Q2 corporate earnings season, especially big tech.\n- UST 10y yield reaction near 4.8% resistance; any re-acceleration in wages, jobs data, or oil prices staying elevated would revive Fed hike risk into September/Q4.",
+      "summarized_at": "2026-07-30T04:04:58.838411+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-30"
 }
