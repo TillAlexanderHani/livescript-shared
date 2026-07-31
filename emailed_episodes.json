@@ -14013,8 +14013,64 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-07-31T04:29:23.131373+00:00",
       "episode_id": "087dd113d4e39f4c"
+    },
+    "78161010417e6237": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19579711-will-the-real-kevin-warsh-please-stand-up.mp3",
+      "title": "Will the real Kevin Warsh please stand up?",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-07-31T11:51:40.103098+00:00",
+      "episode_id": "78161010417e6237"
+    },
+    "03cabf900f54f0b1": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/BNPP-Jun26-part1.mp3?dest-id=1534493",
+      "title": "Brewing Growth from Within: Royal Swinkels Turns Working Capital into an Expansion Lever (Part 1)",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-07-31T11:56:05.738562+00:00",
+      "episode_id": "03cabf900f54f0b1"
+    },
+    "e0aa75db2943de65": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a6b8a6087f5f77b0247c969/media.mp3",
+      "title": "Will AI solve the productivity puzzle? With Nick Bloom",
+      "feed": "The Economics Show",
+      "processed": "2026-07-31T12:04:37.125754+00:00",
+      "episode_id": "e0aa75db2943de65"
+    },
+    "dc790988783ed53c": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f004446b-a024-4773-bd04-b497017ec344/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Why Private Credit Got Entangled With Insurance",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-07-31T12:26:12.469041+00:00",
+      "episode_id": "dc790988783ed53c"
+    },
+    "d2a3924fb8e54d41": {
+      "url": "https://traffic.megaphone.fm/BLM1729434845.mp3",
+      "title": "Credit Crunch: Park Square’s Doumar on Junior Debt and BDC Angst",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-07-31T12:31:49.484079+00:00",
+      "episode_id": "d2a3924fb8e54d41"
+    },
+    "7d494f0c7dabb2d6": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19579649-through-the-noise-now-for-the-hard-part.mp3",
+      "title": "Through the Noise: Now for the hard part",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-07-31T12:33:22.144523+00:00",
+      "episode_id": "7d494f0c7dabb2d6"
+    },
+    "ef46232cace6df40": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/01f416ee-41f4-4ea7-a9fa-6d7ddb18c851/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=01f416ee-41f4-4ea7-a9fa-6d7ddb18c851&feed=IFy3imsg&t=podcast&e=nx-s1-5914074&p=510325&d=539&size=8625929",
+      "title": "Mamdani markets, America bets, Gen Z drinks",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-07-31T12:34:58.877821+00:00",
+      "episode_id": "ef46232cace6df40"
+    },
+    "cdd828e68ef44a9a": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260731_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead – Mr Un-credible?",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-07-31T12:39:48.586799+00:00",
+      "episode_id": "cdd828e68ef44a9a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-07-31T04:29:23.131407+00:00"
+  "last_updated": "2026-07-31T12:39:48.586842+00:00"
 }
