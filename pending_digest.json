@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Macro Matters: BE’s Anna Wong on Warsh and Fed Communication",
+      "published": "Thu, 30 Jul 2026 17:00:00 -0000",
+      "url": "https://traffic.megaphone.fm/BLM5208552648.mp3",
+      "feed": "Bloomberg FICC Focus",
+      "provider": "Bloomberg Intelligence",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Risk sentiment",
+        "Bank of England",
+        "BCB"
+      ],
+      "summary": "**Summary**\nBloomberg Intelligence's Ira Jersey and Bloomberg Economics' Anna Wong dissect the market fallout from new Fed Chair Kevin Warsh's July 29 FOMC press conference, where a sharp long-end Treasury sell-off and front-end rally reflected investor frustration with Warsh's minimalist communication style. The discussion matters for any macro trader because Fed communication uncertainty is driving US real yields higher, with direct spillover to global financial conditions, the dollar, and EM funding costs.\n\n**Key points**\n- 30-year yields blew out mid-way through Warsh's press conference as investors grew frustrated by his lack of substance and refusal to commit to a PCE inflation metric.\n- Warsh is assembling a communication task force including Mervyn King (architect of Bank of England's framework) and the Brazil central bank president, suggesting a future model of published post-meeting rationale and dissent explanations, plus scenario analysis, likely arriving around December/January.\n- Wong expects soft July CPI and on-target core PCE, a cooling labor market, and a BEA core PCE revision on September 30 (expected to cut 0.2ppt) — all supporting a Fed pause rather than hikes for the rest of 2026.\n- 10-year Treasury yield at 4.7%; real 10-year TIPS yield at 2.4% plus ~2.25% breakevens; 4.69% is a key technical level — a close above risks a retest of 4.8%.\n- Wong's model: higher long-end yields transmit to the economy via housing, industrial production, and financial conditions (equities, credit spreads, lending rates, dollar) within three months; June's hawkish surprise could add 0.1-0.2ppt to unemployment within six months.\n\n**FX / rates implications**\n- Rising US real yields (above the 4.5% threshold Wong flags as restrictive) support USD strength and tighten global financial conditions, a headwind for EM Asia and LATAM carry trades and local-currency bonds.\n- Persistent Fed communication ambiguity raises US rate volatility, which typically widens EM credit spreads and pressures high-beta EM FX until clarity emerges from the task force.\n\n**Watch list**\n- July CPI print and September's revised core PCE data (September 30).\n- 10-year UST close above 4.69% (new cycle high) or 4.8% retest.\n- Jackson Hole and the September FOMC meeting for further Warsh signaling.\n- Fed communication task force conclusions expected around December/January.",
+      "summarized_at": "2026-07-31T04:29:23.131373+00:00"
+    }
+  ],
   "last_digest_date": "2026-07-31"
 }
