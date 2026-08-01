@@ -1,4 +1,49 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The Structural Forces Moving Capital",
+      "published": "Fri, 31 Jul 2026 20:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/32d37e00-7cd4-421b-a961-521d79deac59.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "Fiscal",
+        "Trade",
+        "Tariffs",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMorgan Stanley strategists discuss how AI infrastructure buildout, energy constraints, and geopolitical fragmentation are simultaneously competing for scarce power, labor, capital, and equipment. This is a structural/thematic equity strategy piece with limited direct EM FX/rates relevance, though the industrial-policy and supply-chain themes carry secondary macro implications.\n\n**Key points**\n- Morgan Stanley research estimates a nearly 40 gigawatt shortfall in power needed for data centers, equivalent to multiple New York's worth of power.\n- Geopolitical shocks (Iran, Ukraine, Venezuela) are described as \"more norm than exception,\" with the US less interested in preserving global security/trade standards.\n- Governments are leaning into industrial policy to prioritize supply chain security, correlating with higher trade barriers and a shift away from pure-efficiency globalization toward regional supply chains and redundancy.\n- Around 25% of S&P 500 companies are now quantifying benefits from AI adoption, a diffusion story expected to continue.\n- Founders are adapting to tighter financing conditions by extending fundraising timelines, using private credit, structured equity, or tender offers rather than waiting out the cycle.\n\n**FX / rates implications**\n- Rising industrial policy and trade barriers globally reinforce a structurally higher-tariff backdrop, a theme relevant to EM currencies exposed to US trade policy shifts (e.g., MXN, CNY, VND supply-chain rerouting flows).\n- Persistent AI/energy/defense capex competing for capital could sustain elevated US real rates and demand for financing, an indirect headwind for EM carry trades if it keeps UST yields firm.\n- No explicit commentary on Fed policy, DXY, or specific EM currencies/central banks.\n\n**Watch list**\n- Capex delays, resizing, or redirection across power/labor/equipment/permitting/financing constraints as a signal of temporary setback vs. structural overcapacity risk in AI/manufacturing.\n- Private market liquidity conditions as founders shift financing structures, an early indicator of broader risk appetite and credit conditions.",
+      "summarized_at": "2026-08-01T04:07:23.336179+00:00"
+    },
+    {
+      "title": "Ep. 369: Marvin Barth on US Re-Industrialisation, Trump 2.0, and the Localisation Thesis",
+      "published": "Fri, 31 Jul 2026 07:00:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_MARVIN_.mp3?dest-id=1929056",
+      "feed": "Macro Hive Conversations",
+      "provider": "Macro Hive",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Tariffs",
+        "Trade",
+        "Brexit",
+        "GBP",
+        "BoE",
+        "Oil",
+        "Brent",
+        "Risk sentiment",
+        "S&P 500"
+      ],
+      "summary": "**Summary**\nMarvin Barth (ex-Fed, ex-Treasury, ex-BIS) argues US growth is being driven by a decade-long \"localization\" thesis — automation making onshore production cheaper than offshored labor — not just AI/data centers, with roughly $2.5tn in announced US investment, over half of it manufacturing. He argues the Fed under new chair Kevin Warsh is dangerously behind the curve on inflation and should be hiking, not cutting.\n\n**Key points**\n- Core PCE inflation ran 4.8% annualized in February (pre-Iran war) vs 2% target; consumer inflation expectations have broken out of multi-decade ranges, which Barth says market-based break-evens fail to capture.\n- He sees R-star at 2-3% real (vs Fed's ~0.5-1%), implying Fed funds should be above 4%+ restrictive, not accommodative.\n- Manufacturing wages up ~3.4% annualized (3-month), outpacing average hourly earnings, feeding populist anger despite localization tailwinds.\n- Iran war framed as a large positive supply/terms-of-trade shock for the US (refining margins, hydrocarbon derivatives) — bullish for USD.\n- On UK: Brexit's growth drag is overstated once compared like-for-like with other advanced economies; new PM Andy Burnham seen as a low-delta call option on structural reform.\n\n**FX / rates implications**\n- Bullish USD/DXY thesis: localization-driven reinvestment, Fed hawkishness under Warsh, and an Iran-war energy terms-of-trade shock all support dollar strength and higher US real rates, a headwind for EM carry trades broadly.\n- Expects US curve bear-flattening as front-end rates rise on renewed Fed hikes (markets pricing zero odds for July — he calls this a cheap option to be long the hike).\n- Break-evens seen as fairly priced already, so limited trade there, but higher real rates support USD and are a risk-off input for EM FX funded in dollars.\n- Positive on US equities on a rates-hedged basis, preferring mid-caps/industrials (Russell 2000, equal-weight S&P) over mega-cap AI hyperscalers — a rotation signal relevant to global risk appetite.\n\n**Watch list**\n- FOMC decision timing: Barth flags August/September as more likely than July for the next hike given political optics under Warsh.\n- Potential record El Niño forming in the Pacific — seen as another relative US agricultural/economic tailwind vs rest of world.\n- New UK PM Andy Burnham's cabinet and policy signals on EU rule divergence and trade-school/labor reforms.",
+      "summarized_at": "2026-08-01T04:24:36.470581+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-01"
 }
