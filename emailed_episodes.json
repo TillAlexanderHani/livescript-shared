@@ -14139,8 +14139,15 @@
       "feed": "Macro Trading Floor",
       "processed": "2026-08-01T11:13:46.043452+00:00",
       "episode_id": "252a44b8f10eed6a"
+    },
+    "05f040d263312194": {
+      "url": "https://media.transistor.fm/4d80c677/a51d562b.mp3",
+      "title": "Kevin Warsh's failure to communicate. Plus: Europe's wildfires",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-08-01T18:56:30.167095+00:00",
+      "episode_id": "05f040d263312194"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-01T11:13:46.043506+00:00"
+  "last_updated": "2026-08-01T18:56:30.167138+00:00"
 }
