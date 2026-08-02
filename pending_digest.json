@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Global Data Pod Weekender: Vibe check",
+      "published": "Fri, 31 Jul 2026 16:37:44 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/n2s58yt5y3z7qtae/07312026_MMTVuse.mp3",
+      "feed": "Global Data Pod",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "ECB",
+        "BoJ",
+        "UST 10y",
+        "CPI",
+        "Payrolls",
+        "Oil",
+        "S&P 500",
+        "China",
+        "Fiscal",
+        "Risk sentiment",
+        "USD"
+      ],
+      "summary": "**Summary**\nJPMorgan economists Bruce Kasman and Joe Lupton debate the US/global growth outlook after a strong run of Q2 GDP and activity data, while flagging that the Fed and other G4 central banks (ECB, BoJ) are all leaning toward tighter policy — a dynamic directly relevant to EM rates via UST yields and USD funding conditions.\n\n**Key points**\n- US Q2 GDP growth was soft (tracking ~1.5-1.8%) but the composition improved: non-tech capex (US industrial equipment spending +30% in Q2) and Asia production data (Taiwanese IP) show broadening beyond tech.\n- Consumer goods spending ran a hot 4-5% three-month pace into June and is expected to cool; July retail sales are seen soft (control group roughly -0.3% to -0.5%).\n- Next week's payroll forecast is 75k, with the unemployment rate seen ticking back to 4.3%; whether the print lands above or below 100k, alongside core CPI, will determine the Fed's September decision.\n- Mortgage rates are up 50-75bp since March; broader long-end rates are rising partly on stronger-growth pricing, partly on fiscal/term-premium concerns (deficit near 6.5% of GDP, tariff revenue shortfalls), and partly an AI-driven neutral-rate repricing.\n- G4 central banks (Fed with three dissents, ECB rhetoric, BoJ) are all signaling their next move is up; JPM's house Fed call shifted from a 2027 hike to December.\n- Equity markets are choppy but still up materially from the Q2 average, supporting household wealth into Q3/Q4.\n\n**FX / rates implications**\n- A hawkish G4 central-bank tilt and rising UST term premium/mortgage rates point toward a firmer USD and higher DM yields, a headwind for EM carry trades if the market pushes toward pricing Fed terminal rates near 450bp.\n- A soft payrolls print (near 75k) or benign core CPI keeps the Fed on hold in September, supportive of EM FX and carry; a strong print (above 100k) raises September hike odds and EM funding-cost risk.\n- US fiscal sustainability concerns (deficit, lost tariff revenue) pressuring the term premium are worth watching for spillover into EM sovereign spreads.\n\n**Watch list**\n- US payrolls report and unemployment rate next week (JPM forecast: 75k, UR back to 4.3%).\n- Core CPI/PCE prints — readings above 0.2-0.4% m/m raise September Fed hike odds.\n- FOMC September meeting, now seen as live given G4 hawkish signaling.\n- Oil prices — a move toward $125-150 would be a bigger macro/inflation risk than currently priced.",
+      "summarized_at": "2026-08-02T04:23:09.083800+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-02"
 }
