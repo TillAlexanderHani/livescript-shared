@@ -1,4 +1,26 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! The end of the Yen carry trade?",
+      "published": "Mon, 03 Aug 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19589426-cut-to-the-chase-the-end-of-the-yen-carry-trade.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "JPY",
+        "USDJPY",
+        "BoJ",
+        "Fed",
+        "Carry",
+        "Risk sentiment",
+        "UST 10y",
+        "USD",
+        "Intervention"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Steve Price examines whether last week's sharp USD/JPY reversal — and alleged joint BoJ/US Treasury intervention — signals the end of the yen carry trade, a theme with direct spillover to EM funding costs and risk appetite given the yen's role as a global financing currency.\n\n**Key points**\n- USD/JPY sold off from over 163 to a low of 158 on Thursday, rallied to 161 Friday, then fell back to the 157s, coinciding with alleged Japanese authority intervention (Thursday/Friday) and US Treasury involvement on Friday.\n- Historical parallel: October 1998 saw USD/JPY fall from 134 to 111.12 in three days (~20% yen appreciation), driven not by intervention but by the LTCM collapse, Russian debt crisis and Danish mortgage crisis forcing short-yen covering.\n- BoJ declined to hike rates last week despite above-target inflation, which the author reads as showing political limits on how far Japan will go to strengthen the yen.\n- A wild-card echo of 1998 emerged last week via a US hedge fund reportedly in trouble, but it has since been bought out, reducing systemic risk.\n- Going into last week, positioning was long dollar/short yen, though some of this was likely washed out during the volatility.\n\n**FX / rates implications**\n- Yen-funded carry trades (borrow JPY cheap, invest in USD assets) remain a key global leverage channel; a disorderly unwind would tighten global liquidity and pressure EM FX broadly, especially high-beta and high-carry EM currencies.\n- Author does not believe this is the end of the carry trade — fundamentals (BoJ still low rates vs Fed) still favor yen weakness near term, but authorities aim to cap USD/JPY moves above 160 and prevent one-way positioning.\n- Increased intervention risk and two-way volatility in JPY argues for tighter risk sizing on any EM carry positions funded in yen.\n\n**Watch list**\n- USD/JPY reaction near the 160 level and any further BoJ/MoF intervention signals.\n- BoJ policy stance on future rate hikes amid above-target inflation.\n- Signs of stress in leveraged funds/hedge funds reliant on yen funding.",
+      "summarized_at": "2026-08-03T04:24:09.566083+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-03"
 }
