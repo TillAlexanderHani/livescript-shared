@@ -14181,8 +14181,15 @@
       "feed": "PIMCO Pod",
       "processed": "2026-08-03T19:28:11.908709+00:00",
       "episode_id": "91a3c1c985fdd733"
+    },
+    "46d885bd559b9a80": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/895ddae0-5bce-497e-8ca8-5c5829058568.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Quality Matters Again",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-03T22:45:48.096342+00:00",
+      "episode_id": "46d885bd559b9a80"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-03T19:28:11.908743+00:00"
+  "last_updated": "2026-08-03T22:45:48.096381+00:00"
 }
