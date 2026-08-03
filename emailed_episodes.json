@@ -14167,8 +14167,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-08-03T12:55:04.465704+00:00",
       "episode_id": "3ac2989e73ba1acc"
+    },
+    "a22b5c325d24f224": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/b573f8ee-52a3-4b08-8813-8b06f9946fc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=b573f8ee-52a3-4b08-8813-8b06f9946fc1&feed=tc4zxWgX",
+      "title": "Torque in Tech, Macro Shifts, and Earnings Exchange 8/3/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-08-03T19:18:20.990926+00:00",
+      "episode_id": "a22b5c325d24f224"
+    },
+    "91a3c1c985fdd733": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC2959257716.mp3",
+      "title": "The Credit Market Lens: Still Buying America",
+      "feed": "PIMCO Pod",
+      "processed": "2026-08-03T19:28:11.908709+00:00",
+      "episode_id": "91a3c1c985fdd733"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-03T12:55:04.465746+00:00"
+  "last_updated": "2026-08-03T19:28:11.908743+00:00"
 }
