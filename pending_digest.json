@@ -1,4 +1,47 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! How should one think about gold prices today?",
+      "published": "Tue, 04 Aug 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19595658-cut-to-the-chase-how-should-one-think-about-gold-prices-today.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Gold",
+        "UST 10y",
+        "Fed",
+        "Inflation",
+        "Carry",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered explains why it trimmed gold to a core (not overweight) holding, citing a tightening correlation between real bond yields and gold that creates a headwind, while cutting its 12-month gold price forecast. The call hinges on the trajectory of US real yields post-FOMC and offers a read on central bank reserve diversification flows relevant to EM.\n\n**Key points**\n- StanChart cut its gold allocation from overweight to core last week, mainly due to a re-tightening correlation between real (inflation-adjusted) bond yields and gold prices.\n- High/rising nominal and real yields raise the relative-return bar gold must clear, adding a near-term headwind.\n- Central bank demand remains structurally positive: World Gold Council survey shows most central bankers expect to increase gold reserves, and large EM central banks continue net purchases to diversify away from traditional reserve currencies.\n- After the Fed left policy rates unchanged at its last meeting, StanChart sees real yields as more likely capped or turning lower than breaking to new post-2008 highs.\n- Gold has held a floor around $3,900-$4,000/oz over the past month and posted its first positive monthly close since March, a mildly bullish technical signal.\n- 12-month gold forecast trimmed to $4,600/oz; recommended core allocation is 4-5% of a diversified portfolio.\n\n**FX / rates implications**\n- Gold's fate is tied to US real yields — if the Fed is done hiking and real yields roll over, that's dollar-negative at the margin and typically supportive of EM carry trades and EM FX broadly.\n- Continued EM central bank gold buying signals ongoing reserve diversification away from USD, a slow-moving but persistent theme for EM FX reserve management (relevant to RBI, BI, BSP, Banxico, BCB reserve strategies).\n- A capped-to-lower real yield path would ease pressure on UST 10y, generally a tailwind for EM local-currency rates and carry.\n\n**Watch list**\n- US real bond yield direction following the Fed's on-hold decision.\n- Gold price action around the $3,900-$4,000/oz technical floor and progress toward the $4,600/oz 12-month target.\n- Further World Gold Council survey/data on central bank reserve purchases.",
+      "summarized_at": "2026-08-04T04:04:10.347747+00:00"
+    },
+    {
+      "title": "The Week That Was - 3 Aug: Fed holds rates, markets rebound",
+      "published": "Tue, 04 Aug 2026 09:00:00 +0530",
+      "url": "https://www.buzzsprout.com/1885786/episodes/19596343-the-week-that-was-3-aug-fed-holds-rates-markets-rebound.mp3",
+      "feed": "Standard Chartered India - Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "INR",
+        "USDINR",
+        "Fed",
+        "UST 10y",
+        "Sensex",
+        "Nifty",
+        "FPI flows",
+        "Brent",
+        "Gold",
+        "India CPI/IIP",
+        "Fiscal deficit",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered India's weekly wrap covers the Fed's 9-3 hold decision and its knock-on effect on US yields, alongside a strong rebound week for Indian equities, a firmer rupee, and sharply lower crude oil. For an EM Asia trader, the combination of Fed policy signals, INR price action and falling oil directly informs USDINR and regional carry positioning.\n\n**Key points**\n- Fed held rates in a 9-3 vote, with three members dissenting in favour of a hike; markets trimmed year-end rate cut expectations by ~10bps.\n- US 10y yield rose 5bps and 30y jumped 10bps to 5.22%, the highest since 2007, on doubts about the new chair's inflation-fighting resolve.\n- India IIP rose 7.3% y/y in June (vs 5% in May); manufacturing accelerated to 7.8% from 5.2%.\n- Q1 FY27 fiscal deficit at Rs3.08 lakh crore (18.2% of full-year BE) vs 17.9% a year ago; capex spending up 24% y/y; direct tax collections up 11.7% y/y.\n- Sensex/Nifty rallied 2.68%/2.59% to 78,095/24,384 on strong Q1 earnings, renewed FII inflows, rupee strength and lower oil; IT (+6.7%) and Auto (+5.6%) led sectors.\n- USDINR eased ~1.22% to around 95.39% (rupee strength), reversing recent weakness.\n- Brent/crude fell 6.88% on the week on US-Iran hostility suspension easing Middle East risk premium.\n- India 10y benchmark yield ticked up ~1bp to 6.84%, reversing an intraday dip as Fed rate-path uncertainty resurfaced.\n- Domestic gold fell 0.66% on rupee strength and softer global gold amid reduced near-term Fed cut bets.\n\n**FX / rates implications**\n- Rupee strength (USDINR ~95.39) supported by FII inflows, lower oil import costs and broad risk-on tone; watch for reversal if UST yields stay elevated.\n- Higher long-end UST yields (30y at 5.22%, highest since 2007) could cap further EM Asia currency gains and pressure carry trades if sustained.\n- Lower crude is a structural tailwind for INR, IDR and other oil-importing EM Asia currencies via improved terms of trade and inflation outlook.\n\n**Watch list**\n- Fed path/dot signals for H2 2026 given the 9-3 split vote and dissent for hikes.\n- India fiscal deficit trajectory relative to FY27 budget estimate as spending accelerates.\n- Crude oil direction tied to US-Iran diplomatic developments.",
+      "summarized_at": "2026-08-04T04:05:02.863476+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-04"
 }
