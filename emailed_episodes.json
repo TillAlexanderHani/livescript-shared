@@ -14223,8 +14223,22 @@
       "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
       "processed": "2026-08-04T16:04:34.935810+00:00",
       "episode_id": "8a2fa167392072af"
+    },
+    "2052b33247979638": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/22f3c408-c2e1-43a1-951d-088b72a00dbf.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "When a Data Center Comes to Town",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-04T22:50:27.389202+00:00",
+      "episode_id": "2052b33247979638"
+    },
+    "9be84177e9a3f9f6": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a6cbd2e61ae402f612bf288/media.mp3",
+      "title": "The Story of Money: The trader who made $100mn from the 1929 crash — only to lose it all",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-08-04T23:15:16.830880+00:00",
+      "episode_id": "9be84177e9a3f9f6"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-04T16:04:34.935851+00:00"
+  "last_updated": "2026-08-04T23:15:16.830919+00:00"
 }
