@@ -14237,8 +14237,29 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-08-04T23:15:16.830880+00:00",
       "episode_id": "9be84177e9a3f9f6"
+    },
+    "23096c188f1f31f2": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/322d4a5d-94ac-4f03-8b1f-a42967f3bab0/group-item/86efa858-f810-4826-a167-9bbba86f4b9f/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "The Coming El Niño with Michael Ferrari",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-08-05T04:09:38.383228+00:00",
+      "episode_id": "23096c188f1f31f2"
+    },
+    "cdc2ff2f702d54f6": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19601278-cut-to-the-chase-what-s-next-for-equities-in-august.mp3",
+      "title": "Cut to the Chase! What’s next for equities in August?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-05T04:21:55.388016+00:00",
+      "episode_id": "cdc2ff2f702d54f6"
+    },
+    "fdcfb439cc8f5295": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_08052026_Libsyn.mp3?dest-id=4287628",
+      "title": "China is Outpacing the U.S. in Southeast Asia",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-08-05T04:28:14.883538+00:00",
+      "episode_id": "fdcfb439cc8f5295"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-04T23:15:16.830919+00:00"
+  "last_updated": "2026-08-05T04:28:14.883590+00:00"
 }

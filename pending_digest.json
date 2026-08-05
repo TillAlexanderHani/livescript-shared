@@ -1,4 +1,48 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The Coming El Niño with Michael Ferrari",
+      "published": "Tue, 4 Aug 2026 23:00:00 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/322d4a5d-94ac-4f03-8b1f-a42967f3bab0/group-item/86efa858-f810-4826-a167-9bbba86f4b9f/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "feed": "The HC Commodities Podcast",
+      "provider": "HC Group",
+      "priority": 4,
+      "tags": [
+        "El Nino",
+        "Commodities",
+        "BRL",
+        "INR",
+        "USD",
+        "Brazil",
+        "India",
+        "Indonesia",
+        "Oil",
+        "Agriculture",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMichael Ferrari (Mobey research) argues the current El Nino is shaping up as one of the strongest on record, possibly a \"super El Nino,\" with subsurface Pacific warm-water anomalies around 7°C above normal versus a typical 2.5-3°C. He walks through the commodity and macro spillovers, explicitly flagging currency stress as a key channel to watch — relevant for an EM trader given Brazil and India are the two most exposed origins.\n\n**Key points**\n- Nino 3.4 subsurface anomalies are far above typical El Nino thresholds; peak expected Oct-Dec 2026 with effects lingering through 2027 and into early 2028.\n- Drier Southeast Asia/India (monsoon risk), wetter but heat-stressed Brazil; sugar, corn, ethanol and soybean markets most exposed; Australia wheat also dry.\n- Panama Canal, Rhine, Danube, Bab-el-Mandeb and Strait of Hormuz all face simultaneous disruption risk — a scenario not seen historically, threatening global trade/logistics flow.\n- Higher energy demand (AC load) in Asia and hotter/drier conditions raise natural gas and oil demand sensitivity; hydro power favorable in Brazil/N. America but at risk in Southeast Asia and Southern Africa.\n- Historical analogs: 1877 (super El Nino, global famine), 1997-98, 2015-16; current event compared unfavorably against all three.\n\n**FX / rates implications**\n- Guest explicitly names USD/BRL, USD/INR and USD/JPY as currency pairs likely to see amplified, commodity-driven stress/volatility as El Nino intensifies — worth monitoring for EM Asia and LATAM books.\n- Agricultural supply shocks (India sugar/monsoon risk, Brazil cane belt) could pressure food inflation and terms-of-trade for INR and BRL; a genuine super El Nino risks tail moves akin to historical famine-linked events.\n- Broader risk-sentiment channel: simultaneous canal/strait disruptions (Panama, Suez-adjacent Hormuz/Bab-el-Mandeb, Rhine, Danube) would tighten global trade and could spike oil/gas and freight costs, an indirect USD/risk-off driver relevant to EM carry trades.\n\n**Watch list**\n- NOAA/Climate Prediction Center and Japan Meteorological Agency El Nino ensemble updates for peak timing (currently forecast Oct-Dec 2026).\n- India monsoon progression into the sugar-cane belt; Brazil second-crop (safrinha) planting conditions moving into 2027.\n- Panama Canal reservoir/transit capacity and Strait of Hormuz status as compounding logistics risk into 2027.",
+      "summarized_at": "2026-08-05T04:09:38.383228+00:00"
+    },
+    {
+      "title": "Cut to the Chase! What’s next for equities in August?",
+      "published": "Wed, 05 Aug 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19601278-cut-to-the-chase-what-s-next-for-equities-in-august.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "S&P 500",
+        "UST 10y",
+        "Risk sentiment",
+        "Nasdaq",
+        "Fed",
+        "Inflation",
+        "Equities",
+        "Elections"
+      ],
+      "summary": "**Summary**\nA Standard Chartered market update on US equities hitting a new all-time high after a rare negative July, driven by de-escalation hopes in the Middle East and strong Q2 earnings. While the direct focus is DM equities, the drivers (long-term US rates, Middle East risk, and US election-cycle volatility) are core global risk-sentiment channels relevant to any macro trader.\n\n**Key points**\n- S&P 500 made a new all-time high, surpassing its early-June record; July 2025 saw a rare slight decline, the first negative July in a decade.\n- Middle East tensions pushed US 10-year yields above 4.7% in July on inflation fears; a reported imminent US-Iran deal and de-escalation headlines have since pulled yields lower, supporting equities.\n- StanChart's back-testing shows every 25bp rise in cost of capital creates a 3-4% potential equity valuation impact.\n- Over 60% of S&P 500 companies have reported Q2 earnings, with 85% beating estimates versus a historical average of about two-thirds; full-year 2025 earnings growth is tracking above 30%, with ~15% growth expected in 2026.\n- Midterm election years historically bring above-average equity volatility in August-October.\n- StanChart remains overweight US equities, favoring the Nasdaq (~10% further upside) on AI-driven tech earnings, and would buy weakness.\n\n**FX / rates implications**\n- US 10-year yield direction (above/below 4.7%) tied to Middle East de-escalation is a key input for USD/DXY and broad EM carry conditions; lower UST yields on de-escalation would ease pressure on EM Asia and LATAM rates and support carry trades.\n- Continued global risk-on tone (record S&P highs, earnings beats) is broadly supportive of EM FX and risk assets via the standard risk-sentiment channel.\n\n**Watch list**\n- Progress on any US-Iran deal and Middle East de-escalation headlines.\n- US 10-year Treasury yield trajectory relative to the 4.7% July peak.\n- Ongoing Q2 earnings season beat rates.\n- Volatility building into the US midterm elections in November, particularly August-October.",
+      "summarized_at": "2026-08-05T04:21:55.388016+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-05"
 }
