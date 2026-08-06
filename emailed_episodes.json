@@ -14356,8 +14356,43 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-08-06T12:07:45.672395+00:00",
       "episode_id": "3e7fbc4407096387"
+    },
+    "e42db5aeaa3c0022": {
+      "url": "https://mcdn.podbean.com/mf/web/dk2w9e5pc4p4ik78/AAR060826EM_KAL-1-3KS2JEVH.mp3",
+      "title": "EM Fixed Income: Carry on, notwithstanding core market shifts",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-08-06T22:38:04.737004+00:00",
+      "episode_id": "e42db5aeaa3c0022"
+    },
+    "dec06bce26d8aefe": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/bbd8d057-f884-4f12-97ed-88f124712a1f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Why Brick and Mortar Banking Still Matters",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-06T22:39:03.976036+00:00",
+      "episode_id": "dec06bce26d8aefe"
+    },
+    "b51edecb47295291": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/9a3a462e-b72e-4ca9-83dd-461d55c6cba3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=9a3a462e-b72e-4ca9-83dd-461d55c6cba3&feed=tc4zxWgX",
+      "title": "Memory’s Next Move, Google’s Fork in the Road, Countdown to July Jobs Report 8/6/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-08-06T22:45:17.272530+00:00",
+      "episode_id": "b51edecb47295291"
+    },
+    "5aac15852b6a9409": {
+      "url": "https://traffic.megaphone.fm/BLM8630868542.mp3",
+      "title": "Macro Matters: Invesco’s Brignac on Liquidity, Fed Balance Sheet",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-08-06T22:57:14.563677+00:00",
+      "episode_id": "5aac15852b6a9409"
+    },
+    "903d58f13978478a": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/bf56ecf3-46d9-4d1d-a90c-e036c17b65bd/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=bf56ecf3-46d9-4d1d-a90c-e036c17b65bd&feed=IFy3imsg&t=podcast&e=nx-s1-5922733&p=510325&d=569&size=9117448",
+      "title": "Following the Chipotle playbook for the cyclospora crisis",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-08-06T22:59:02.641983+00:00",
+      "episode_id": "903d58f13978478a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-06T12:07:45.672438+00:00"
+  "last_updated": "2026-08-06T22:59:02.642026+00:00"
 }
