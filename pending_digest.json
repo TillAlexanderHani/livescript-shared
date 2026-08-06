@@ -1,4 +1,26 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How AI Debt Is Reshaping Credit Markets",
+      "published": "Wed, 05 Aug 2026 20:40:00 -0000",
+      "url": "https://traffic.megaphone.fm/GLD9007097665.mp3",
+      "feed": "Goldman Sachs Exchanges",
+      "provider": "Goldman Sachs",
+      "priority": 3,
+      "tags": [
+        "Credit",
+        "IG credit",
+        "High yield",
+        "Corporate bonds",
+        "AI",
+        "Tech sector",
+        "Private credit",
+        "Duration",
+        "UST 10y"
+      ],
+      "summary": "**Summary**\nGoldman's credit strategists discuss how AI-driven capex is turning the US investment-grade bond market into the dominant financing channel for hyperscalers, with issuance scaling into the hundreds of billions and multi-year duration exposure reshaping index composition. For a macro trader this matters less for EM FX directly and more as a read on global credit risk appetite, dollar liquidity demand and a potential future volatility trigger if the AI theme wobbles.\n\n**Key points**\n- Hyperscalers issued $108bn of debt in 2025 and $194bn so far in 2026; broader AI ecosystem issuance is nearing $500bn YTD, with hyperscalers only 40% of that.\n- AI-related debt is now 18% of USIG supply (vs 1% in 2024) and 40% of 15yr+ IG issuance; Amazon and Google have jumped to top duration-weight names in the IG index.\n- Goldman estimates ~33% of 2026 capex and 35% of 2027 capex will be debt-financed, implying ~$250bn of direct hyperscaler supply, with total incremental IG capacity estimated near $500-510bn before saturation concerns bite.\n- Real-money/insurance demand has thinned (30yr order sizes roughly halved Q1 to Q2); AI leadership credit spreads have doubled over 12 months (74bp to ~150bp); new issue concessions widened from 2-3bp to as much as 20bp.\n- Private credit, non-US currency issuance (CAD, GBP, AUD, JPY) and project-finance/ABS structures expected to absorb overflow demand ($4.5tn private market dry powder cited).\n\n**FX / rates implications**\n- Primarily a USD credit-market story; a slowdown in capex growth ('double derivative') is flagged as the key risk signal — could trigger a credit rally even as AI equities correct, a divergence trade worth watching for cross-asset risk sentiment.\n- Heavy long-duration IG/HY issuance from hyperscalers adds to US corporate bond supply and could pressure UST-adjacent long-end spreads/term premia, an indirect input to global duration and carry positioning relevant for EM local-rates trades.\n- Any wobble in AI-related credit (17 of 23 data-center JV deals already trading wide to origination) is an early warning for broader risk-off spillover into EM credit spreads and capital flows.\n\n**Watch list**\n- Hyperscaler capex growth trajectory and cash-flow-from-operations convergence, the key data point for gauging debt issuance pace into 2027.\n- New issue concessions on upcoming large hyperscaler/data-center deals as a gauge of investor indigestion.\n- Potential expansion of AI-related issuance into European and other regional bond markets, and growth of private credit/ABS structures for data-center financing.",
+      "summarized_at": "2026-08-06T04:00:41.863370+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-06"
 }
