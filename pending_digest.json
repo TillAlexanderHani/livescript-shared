@@ -20,6 +20,78 @@
       ],
       "summary": "**Summary**\nGoldman's credit strategists discuss how AI-driven capex is turning the US investment-grade bond market into the dominant financing channel for hyperscalers, with issuance scaling into the hundreds of billions and multi-year duration exposure reshaping index composition. For a macro trader this matters less for EM FX directly and more as a read on global credit risk appetite, dollar liquidity demand and a potential future volatility trigger if the AI theme wobbles.\n\n**Key points**\n- Hyperscalers issued $108bn of debt in 2025 and $194bn so far in 2026; broader AI ecosystem issuance is nearing $500bn YTD, with hyperscalers only 40% of that.\n- AI-related debt is now 18% of USIG supply (vs 1% in 2024) and 40% of 15yr+ IG issuance; Amazon and Google have jumped to top duration-weight names in the IG index.\n- Goldman estimates ~33% of 2026 capex and 35% of 2027 capex will be debt-financed, implying ~$250bn of direct hyperscaler supply, with total incremental IG capacity estimated near $500-510bn before saturation concerns bite.\n- Real-money/insurance demand has thinned (30yr order sizes roughly halved Q1 to Q2); AI leadership credit spreads have doubled over 12 months (74bp to ~150bp); new issue concessions widened from 2-3bp to as much as 20bp.\n- Private credit, non-US currency issuance (CAD, GBP, AUD, JPY) and project-finance/ABS structures expected to absorb overflow demand ($4.5tn private market dry powder cited).\n\n**FX / rates implications**\n- Primarily a USD credit-market story; a slowdown in capex growth ('double derivative') is flagged as the key risk signal — could trigger a credit rally even as AI equities correct, a divergence trade worth watching for cross-asset risk sentiment.\n- Heavy long-duration IG/HY issuance from hyperscalers adds to US corporate bond supply and could pressure UST-adjacent long-end spreads/term premia, an indirect input to global duration and carry positioning relevant for EM local-rates trades.\n- Any wobble in AI-related credit (17 of 23 data-center JV deals already trading wide to origination) is an early warning for broader risk-off spillover into EM credit spreads and capital flows.\n\n**Watch list**\n- Hyperscaler capex growth trajectory and cash-flow-from-operations convergence, the key data point for gauging debt issuance pace into 2027.\n- New issue concessions on upcoming large hyperscaler/data-center deals as a gauge of investor indigestion.\n- Potential expansion of AI-related issuance into European and other regional bond markets, and growth of private credit/ABS structures for data-center financing.",
       "summarized_at": "2026-08-06T04:00:41.863370+00:00"
+    },
+    {
+      "title": "El Niño looms large over ASEAN tech",
+      "published": "Thu, 06 Aug 2026 06:27:12 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a742941e188bf946fec78d4/media.mp3",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 5,
+      "tags": [
+        "IDR",
+        "PHP",
+        "VND",
+        "THB",
+        "MYR",
+        "SGD",
+        "Inflation",
+        "CPI",
+        "Trade",
+        "Commodities",
+        "El Nino"
+      ],
+      "summary": "**Summary**\nHSBC's Under the Banyan Tree podcast examines how a forecast strong El Nino (weather agencies see >80% odds of a strong episode between October and December 2026) is shifting from a purely agricultural shock to an industrial one across ASEAN, with direct growth, inflation and trade implications for several EM Asia economies the trader tracks.\n\n**Key points**\n- Indonesia and the Philippines are most exposed on the food channel, given large agriculture shares of GDP and high rainfall volatility, followed by Vietnam and Thailand; Singapore and Malaysia are food importers and thus less exposed on that front.\n- ASEAN supplies roughly 50% of global rice exports and 90% of global palm oil exports (Indonesia and Malaysia are the top palm oil producers), so regional disruption has global price repercussions.\n- A newer, faster-growing channel is industrial: El Nino-driven water stress and heat can disrupt the electronics/semiconductor/data-center ecosystem, which needs clean water, reliable power and stable temperatures.\n- Electronics exports are ~25% of GDP for Malaysia and Singapore and ~10% for Thailand and Vietnam; Vietnam's heavy reliance on hydropower adds extra vulnerability during El Nino droughts.\n- HSBC's economist flags this as a wake-up call for policymakers, noting readiness (fiscal, monetary, administrative, structural power diversification) is untested.\n\n**FX / rates implications**\n- Food-price and industrial-output disruption raises upside inflation risk in IDR and PHP (food-heavy CPI baskets), a factor for BI and BSP policy paths and real rates.\n- Electronics-export disruption is a growth and trade-balance risk for MYR, SGD, THB and VND, given their high export dependence on the sector.\n- Rice and palm oil price spikes are a regional cost-push inflation channel with knock-on effects for food-importing EM economies more broadly.\n\n**Watch list**\n- El Nino intensity confirmation through Q4 2026 (October–December window).\n- Rice and palm oil price trends as leading indicators for IDR/PHP inflation.\n- Power/water stress reports affecting Vietnam hydropower and Malaysia/Singapore/Thailand electronics output.",
+      "summarized_at": "2026-08-06T11:52:51.474800+00:00"
+    },
+    {
+      "title": "How Long Can the Fed Hold On?",
+      "published": "Wed, 05 Aug 2026 20:00:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/b139f3ab-c872-46ba-84f6-c0d68dcb0834.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Inflation",
+        "PCE",
+        "ISM",
+        "Yield curve",
+        "Rate hikes",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's Andrew Sheets examines the tension facing new Fed Chair Kevin Warsh: bringing down high inflation while also reducing the Fed's market communication, a combination markets are still digesting after the latest FOMC meeting produced no hike and little forward guidance.\n\n**Key points**\n- Core PCE inflation, the Fed's preferred gauge, has risen over 20% cumulatively over five years, roughly double the pace consistent with a 2% annual target.\n- PCE inflation is running above 3% annualized over the last 3, 6, and 12 months; the ISM manufacturing survey's price-paid measure is also well above normal.\n- Unemployment remains near historic lows, so the Fed feels successful on the employment mandate but not on price stability.\n- Warsh did not raise rates and gave no signal of an imminent move, which markets read as a high bar for hikes and a possible dilution of the explicit 2% target toward something vaguer.\n- Fed governor Christopher Waller warned that \"sternly staring at inflation... is not an option,\" implying the Fed will eventually need to act and explain a framework for doing so.\n\n**FX / rates implications**\n- Market reaction to the dovish-leaning silence: reduced rate-hike odds, a steeper yield curve driven by a long-end sell-off, rising inflation expectations, and a weaker US dollar.\n- A softer, more inflation-tolerant Fed reaction function and steeper UST curve are USD-negative and typically supportive of EM carry trades (INR, IDR, MXN, BRL) if broad risk sentiment holds, but a persistently higher US term premium raises funding costs and could pressure EM local rates higher in sympathy with UST long end.\n- Morgan Stanley's base case is inflation moderation in H2, which would validate the Fed's passive stance; if inflation instead stays sticky, the market will demand action and a fresh framework, a scenario that risks USD/rates volatility and risk-off spillover into EM FX.\n\n**Watch list**\n- Incoming US inflation data (PCE, CPI) over the next several months as the key swing factor for Fed credibility and UST curve direction.\n- Yield curve steepening trend, expected to continue per Morgan Stanley rate strategists until inflation clarity emerges.\n- Any further Fed communication or signals on redefining the 2% inflation target.",
+      "summarized_at": "2026-08-06T11:54:03.901177+00:00"
+    },
+    {
+      "title": "Brad Setser on the US's Unusual Japanese Yen Intervention",
+      "published": "Thu, 06 Aug 2026 08:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/09ad45b2-ee9c-4482-8700-b49d0161d97f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 5,
+      "tags": [
+        "JPY",
+        "USDJPY",
+        "BoJ",
+        "MoF",
+        "Fed",
+        "USD",
+        "DXY",
+        "EUR",
+        "KRW",
+        "TWD",
+        "CNY",
+        "UST 10y",
+        "Carry",
+        "Intervention",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nBrad Setser (CFR) joins Odd Lots to unpack the unusual joint US-Japan yen intervention: the US Treasury sold euros against yen (a first) and Japan's MoF tapped the Fed's FIMA repo facility to raise dollars without dumping Treasuries outright. USDJPY fell from roughly 162 to the mid-150s after the intervention but has started drifting weaker again, raising questions about durability.\n\n**Key points**\n- Yen hit historically extreme undervaluation (~160-162/USD), below 1970s/1960s inflation-adjusted levels on the Big Mac index; BoJ policy rate still just 1% despite inflation above target.\n- East Asian currencies broadly weak despite record current account surpluses: Korea's surplus set to hit $300-400bn (25-30% of GDP), Taiwan's set to double; Japan runs a 5% of GDP current account surplus with ~$1.2tn in reserves and $900bn+ GPIF foreign assets.\n- Korea's weakness driven by forced foreign-holder selling of KRW equities hitting concentration limits, pension outflows, and leveraged ETF dynamics; Taiwan dollar deliberately weakened by CBC via unhedging life insurers, leaning on TSMC's conversion flows.\n- US Treasury used FIMA repo (capped near $60bn, carries above-market rate) so Japan avoids selling legacy low-coupon Treasuries into the cash market, easing pressure on the UST curve.\n- ESF firepower is limited (~$20bn liquid dollars, ~$160-170bn SDRs); durability of the yen defense depends on BoJ actually hiking in September — a hike failure would test the market's resolve around 160.\n- Japan's primary fiscal balance has moved into balance/near-surplus, net interest costs near zero due to its large positive-yielding foreign asset position — contrasts favorably with deteriorating US fiscal trajectory.\n\n**FX / rates implications**\n- USDJPY: intervention plus a September BoJ hike could sustainably cap yen weakness near 150-160; failure to hike would reopen a retest of 160+ and pressure carry positioning.\n- Broad Asia FX (KRW, TWD, CNY): current account surpluses are not translating into currency strength due to structural outflows/hedging dynamics — a regime EM Asia FX traders should not assume mean-reverts quickly.\n- USD/DXY and UST: FIMA repo usage is a channel to watch for reduced foreign-official Treasury selling pressure during future FX interventions, a marginal support for USTs.\n- Carry trades funded in JPY remain vulnerable to abrupt unwind risk if BoJ tightens faster than priced.\n\n**Watch list**\n- BoJ September policy meeting: a rate hike is seen as the key condition for the intervention to hold.\n- USDJPY 160 level: MoF's implicit defense line; a break higher would signal lack of full commitment.\n- FIMA repo facility cap (~$60bn): any move to raise it signals scale-up of future joint intervention capacity.\n- Further disclosure of US Treasury's euro-yen intervention volumes (lagged reporting).",
+      "summarized_at": "2026-08-06T12:07:45.672395+00:00"
     }
   ],
   "last_digest_date": "2026-08-06"
