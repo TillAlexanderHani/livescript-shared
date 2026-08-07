@@ -14405,8 +14405,71 @@
       "feed": "PIMCO Pod",
       "processed": "2026-08-07T01:44:40.669324+00:00",
       "episode_id": "5bdc12bda7f2a0b9"
+    },
+    "43b3b4dbeda2261b": {
+      "url": "https://traffic.megaphone.fm/GLD3684712527.mp3",
+      "title": "Why US Stocks May ‘Grind Higher’",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-08-07T10:35:20.322158+00:00",
+      "episode_id": "43b3b4dbeda2261b"
+    },
+    "ac396b0d1ddee4b3": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19613131-us-support-for-the-yen-and-china-s-inflation-exports.mp3",
+      "title": "US support for the yen and China's inflation exports",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-08-07T10:37:39.318430+00:00",
+      "episode_id": "ac396b0d1ddee4b3"
+    },
+    "c9251d912ce3d9b4": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a75a99e275522b0388e7003/media.mp3",
+      "title": "A turning point for US rates?",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-08-07T10:39:49.539220+00:00",
+      "episode_id": "c9251d912ce3d9b4"
+    },
+    "ff2d9bdaeed5ff51": {
+      "url": "https://traffic.megaphone.fm/GLD5157159667.mp3",
+      "title": "Steven Tananbaum: The Evolution of Credit Investing and AI Opportunities",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-08-07T10:43:36.232578+00:00",
+      "episode_id": "ff2d9bdaeed5ff51"
+    },
+    "3142ad502dfdb572": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a7365abe188bf946fb16550/media.mp3",
+      "title": "How to break China’s chokehold on rare earths",
+      "feed": "The Economics Show",
+      "processed": "2026-08-07T10:48:19.162247+00:00",
+      "episode_id": "3142ad502dfdb572"
+    },
+    "998986cedc1c985a": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_BEINHOCKER_.mp3?dest-id=1929056",
+      "title": "Ep. 370: Eric Beinhocker on Market Humanism, the End of Neoliberalism, and Human Flourishing",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-08-07T11:01:50.722415+00:00",
+      "episode_id": "998986cedc1c985a"
+    },
+    "995f5437aa04e134": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/253af1b0-6485-46c3-b506-b49e01625633/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How a Sardine Gets From the Ocean to a Can",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-08-07T11:07:55.581732+00:00",
+      "episode_id": "995f5437aa04e134"
+    },
+    "47fff0aa53e4feaf": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19612767-through-the-noise-equities-break-out.mp3",
+      "title": "Through the noise: Equities break out",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-07T11:12:55.934483+00:00",
+      "episode_id": "47fff0aa53e4feaf"
+    },
+    "94adb5862a78dce1": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260807_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - Up and Down",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-08-07T11:15:51.137034+00:00",
+      "episode_id": "94adb5862a78dce1"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-07T01:44:40.669362+00:00"
+  "last_updated": "2026-08-07T11:15:51.137073+00:00"
 }
