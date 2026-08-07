@@ -14482,8 +14482,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-08-07T14:58:55.747064+00:00",
       "episode_id": "ca7d121dfece56ed"
+    },
+    "8dd88f9f1a34ecb7": {
+      "url": "https://mcdn.podbean.com/mf/web/js9xgtnp28pmjcpy/AARFX260807_KAL-1-CK4YB30L.mp3",
+      "title": "Global FX: Payrolls a setback to USD; still constructive on carry post-JPY intervention",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-08-07T18:35:45.207993+00:00",
+      "episode_id": "8dd88f9f1a34ecb7"
+    },
+    "e77c628272fa06b8": {
+      "url": "https://mcdn.podbean.com/mf/web/4xc2kxuf33q6r2qe/Podcast_08-07-26.mp3",
+      "title": "Key takeaways from the ASA (American Sugar Alliance) Symposium",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-08-07T18:47:30.749288+00:00",
+      "episode_id": "e77c628272fa06b8"
+    },
+    "61dbf57eeb68c28f": {
+      "url": "https://media.transistor.fm/9351c9ea/11f6f2e2.mp3",
+      "title": "Is a September Fed hike off the table? The yen rescue. EM risks.",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-08-07T18:53:25.469877+00:00",
+      "episode_id": "61dbf57eeb68c28f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-07T14:58:55.747110+00:00"
+  "last_updated": "2026-08-07T18:53:25.469919+00:00"
 }
