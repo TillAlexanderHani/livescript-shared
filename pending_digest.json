@@ -1,4 +1,44 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The Economics Show: China wanted western tech. Now, the tables have turned.",
+      "published": "Thu, 06 Aug 2026 20:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a73452056644b678ee1688a/media.mp3",
+      "feed": "Financial Times Unhedged",
+      "provider": "Financial Times",
+      "priority": 4,
+      "tags": [
+        "China",
+        "CNY",
+        "Trade",
+        "Tariffs",
+        "Industrial policy",
+        "EU",
+        "Semiconductors",
+        "Capital flows"
+      ],
+      "summary": "**Summary**\nA deep-dive on China's decades-long strategy of trading market access for Western technology, and whether the US/EU should now mirror that playbook against China. Relevant for an EM trader tracking the structural drivers behind US-China trade tensions, EU investment-screening policy, and China's shift from manufacturing absorber to exporter of advanced tech (EVs, batteries, high-speed rail, wind turbines).\n\n**Key points**\n- China's 2018 Section 301 report (basis for Trump-era tariffs) centered on forced tech transfer/IP theft, not trade imbalances — that framing still shapes US-China trade policy today.\n- Successes: high-speed rail (50,000km built in 17 years, more capacity than rest of world combined) and wind turbines (China went from 1% to 20-30% of global installed capacity in ~5 years) via local-content requirements and monopsony bargaining.\n- Failures/exceptions: semiconductors and Apple avoided forced JV requirements because China was an export-processing hub dependent on foreign multinationals for ~40% of GDP in exports.\n- China now uses its own export controls on tech transfer, particularly toward strategic rivals (US, potentially India, parts of Europe), while remaining more open toward Global South countries.\n- EU's Industrial Accelerator Act sets conditions on foreign investments above €100mn from countries with 40%+ global production share — aimed squarely at Chinese investment, seeking reciprocal tech spillovers.\n\n**FX / rates implications**\n- Underscores the structural, multi-year nature of US/EU-China trade and tech friction — a persistent tail risk for CNY/CNH and broader EM Asia risk sentiment tied to tariff escalation headlines.\n- EU's push to formalize investment-screening/tech-transfer conditions (IAA) signals incremental protectionism that could slow Chinese FDI into Europe, a theme relevant to EUR-China capital flow dynamics.\n- China's growing willingness to restrict outbound tech transfer to competitors (versus Global South) suggests a widening bifurcation of trade/investment flows — worth monitoring for CNY policy signaling and China's broader capital account stance.\n\n**Watch list**\n- Implementation and enforcement of the EU's Industrial Accelerator Act investment conditions on Chinese capital.\n- Any escalation in China's export-control policy toward Western semiconductor/tech transfers.\n- Continued US-China trade negotiations building on the Section 301/tariff framework.",
+      "summarized_at": "2026-08-07T01:42:44.575743+00:00"
+    },
+    {
+      "title": "Underlying Inflation Gauges: Trimming Noise or Trimming Signal?",
+      "published": "Thu, 06 Aug 2026 16:56:00 -0000",
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC3952178436.mp3",
+      "feed": "PIMCO Pod",
+      "provider": "PIMCO",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "Fed",
+        "Inflation",
+        "CPI",
+        "Core PCE",
+        "UST 10y",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nPIMCO's Tiffany Wilding examines why underlying US inflation gauges (trimmed mean, median measures) are running well below the elevated core PCE print, and argues the recent core PCE acceleration is more noise than signal. This matters for EM FX/rates traders because it shapes the Fed's policy path and, by extension, the dollar and global risk appetite.\n\n**Key points**\n- Underlying inflation measures show ~2.2-2.8% y/y through June 2026, versus core PCE at 3.3% (BEA data).\n- Core PCE is an outlier versus other measures; core CPI has not shown the same skew drift.\n- 2021-2022 episode showed trimmed measures lag turning points when shocks broaden (Dallas Fed trimmed mean stayed near 2% as headline PCE rose above 4%).\n- Much of the core CPI/PCE gap is attributed to portfolio management fees and software/AI-related pricing quirks; BEA methodological changes expected to lower reported PCE inflation by 0.2-0.3pp.\n- Unit labor cost inflation is currently in line with the Fed's 2% target, supporting the disinflation base case.\n- PIMCO's base case: core inflation cools over time and the Fed likely holds its policy rate this year.\n\n**FX / rates implications**\n- A Fed-on-hold base case with contained underlying inflation is broadly supportive of continued carry trades in EM Asia and LATAM high-yielders (INR, IDR, MXN, BRL) as it reduces near-term hawkish repricing risk for the Fed funds path.\n- If markets increasingly accept the \"noise not signal\" framing, UST yields could stay range-bound to lower, capping DXY strength and easing pressure on EM FX funding costs.\n- Reduced urgency for the Fed to tighten further is a mild dollar-negative/risk-supportive backdrop for EM carry and duration positioning.\n\n**Watch list**\n- Upcoming core PCE and core CPI prints for confirmation of convergence or further divergence.\n- BEA's announced methodological revisions to portfolio management and software price indices and their impact on reported PCE.\n- Fed communications/FOMC statements referencing underlying inflation gauges (following Chair Kevin Warsh's public emphasis on this debate).",
+      "summarized_at": "2026-08-07T01:44:40.669324+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-07"
 }
