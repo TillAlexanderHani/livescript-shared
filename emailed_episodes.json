@@ -14538,8 +14538,15 @@
       "feed": "Macro Voices",
       "processed": "2026-08-08T02:51:36.685673+00:00",
       "episode_id": "bd9f6dec3b8b694c"
+    },
+    "cbb0a2eb2038d0d5": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/695052f0-eef9-4a4f-8463-9af78e61086d/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=695052f0-eef9-4a4f-8463-9af78e61086d&feed=tc4zxWgX",
+      "title": "Weak Jobs Report, AI Model Fears, and the Data Center Economy 8/7/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-08-08T10:14:34.576637+00:00",
+      "episode_id": "cbb0a2eb2038d0d5"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-08T02:51:36.685728+00:00"
+  "last_updated": "2026-08-08T10:14:34.576677+00:00"
 }
