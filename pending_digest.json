@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "MacroVoices #544 Viktor Shvets: How Markets Survive Disruption",
+      "published": "Thu, 06 Aug 2026 11:03:34 -0500",
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/uepmquqt3mh55cut/Macrovoices-2026-06-08-Viktor-Shvets.mp3",
+      "feed": "Macro Voices",
+      "provider": "Macro Voices",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "DXY",
+        "JPY",
+        "Gold",
+        "Oil",
+        "China",
+        "Inflation",
+        "S&P 500",
+        "Carry",
+        "Tariffs",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMacroVoices interviews Macquarie global strategist Viktor Shvets on Fed independence under new chair Kevin Warsh, the disinflation-vs-stagflation debate, Iran war fallout on oil and gold, record global polarization, AI's \"rolling bubble\" dynamics, and China's strength/imbalances. The trading desk segment covers COT positioning across S&P 500, DXY, crude and gold plus a major yen intervention — all directly relevant to EM carry and risk appetite.\n\n**Key points**\n- Warsh confirmed as Fed chair; Supreme Court carved a unique exception for Fed independence while emasculating other federal agencies.\n- Shvets still expects long-run disinflation (tech-driven) but tariffs/immigration/geopolitics create repeated inflation \"spikes\"; core PCE would be near 2% without these shocks.\n- Fed funds at 3.5% is consistent with either near-zero real neutral rates (Miran) or the Fed's own ~1-1.5% estimate once inflation is added.\n- Iran war likened to Vietnam (no exit); Russia-Ukraine likened to Korea, could resolve within a year with Ukraine EU-integrated.\n- Gold fell over 25% during the Iran conflict as investors favored USD/Treasuries for liquidity; Shvets still sees gold as the ultimate long-term hedge.\n- Global polarization (V-Dem index) at record highs: US 2.3, Turkey 3.4, UK/Germany/France/Poland rising; Japan/Australia/Canada least polarized.\n- China dominates electrification/robotics/AI but is trapped by a 45% savings rate, misallocating ~$11-12tn/year, unable to pivot to consumption.\n- Trading desk: SPX call volume hit a record 4mn contracts; DXY testing key 99.5 support post-FOMC; USDJPY intervention pushed yen from 163 to 158; crude gave back gains toward $75; gold broke out 4% toward 4550 resistance.\n\n**FX / rates implications**\n- DXY at an inflection near 99.5 support; a break lower reopens a 15-month range and broad USD weakness, supportive for EM Asia and LATAM carry (INR, IDR, MXN, BRL).\n- Record JPY shorts unwinding after coordinated intervention risks a self-reinforcing rally that could spill into broader carry-trade de-risking, a key funding risk for high-yield EM FX.\n- Warsh's push for less Fed communication raises rate-path uncertainty, typically lifting EM FX vol and risk premia.\n- Oil retreat toward $75 on Iran ceasefire hopes eases EM inflation/import bills (India, Philippines especially), though Aramco flags an 18-month inventory rebuild as a structural floor.\n- Gold's broad-based breakout across silver/copper/uranium signals rotation into hard assets, often paralleling EM reserve-diversification flows.\n- China's stalled consumption pivot keeps exporting deflation, pressuring regional Asia FX competitiveness (CNY, KRW, TWD).\n\n**Watch list**\n- DXY 99.5 support level; gold 4550 Fibonacci resistance.\n- This week's COT report for first read on JPY short-covering post-intervention.\n- NASDAQ 100 resistance at 30,000/31,000.\n- Iran ceasefire talks/Strait of Hormuz status; Russia-Ukraine negotiations.\n- Fed communication shifts under Warsh over the next 6-12 months.",
+      "summarized_at": "2026-08-08T02:51:36.685673+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-08"
 }

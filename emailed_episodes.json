@@ -14531,8 +14531,15 @@
       "feed": "Planet Money",
       "processed": "2026-08-07T22:38:11.803530+00:00",
       "episode_id": "ec07139dc670a35d"
+    },
+    "bd9f6dec3b8b694c": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/uepmquqt3mh55cut/Macrovoices-2026-06-08-Viktor-Shvets.mp3",
+      "title": "MacroVoices #544 Viktor Shvets: How Markets Survive Disruption",
+      "feed": "Macro Voices",
+      "processed": "2026-08-08T02:51:36.685673+00:00",
+      "episode_id": "bd9f6dec3b8b694c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-07T22:38:11.803568+00:00"
+  "last_updated": "2026-08-08T02:51:36.685728+00:00"
 }
