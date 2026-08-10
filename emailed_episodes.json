@@ -14552,8 +14552,15 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-08-09T14:28:50.046326+00:00",
       "episode_id": "9e47726f8624b569"
+    },
+    "8643c66c2366852b": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19623169-cut-to-the-chase-july-us-non-farm-payroll-print-and-what-does-it-mean-for-the-fed.mp3",
+      "title": "Cut to the Chase! July US non-farm payroll print and what does it mean for the Fed",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-10T03:08:58.137107+00:00",
+      "episode_id": "8643c66c2366852b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-09T14:28:50.046370+00:00"
+  "last_updated": "2026-08-10T03:08:58.137153+00:00"
 }

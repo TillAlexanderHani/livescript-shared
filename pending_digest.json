@@ -1,4 +1,28 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! July US non-farm payroll print and what does it mean for the Fed",
+      "published": "Mon, 10 Aug 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19623169-cut-to-the-chase-july-us-non-farm-payroll-print-and-what-does-it-mean-for-the-fed.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "UST 10y",
+        "DXY",
+        "NFP",
+        "Inflation",
+        "CPI",
+        "JPY",
+        "Oil",
+        "S&P 500",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Jonathan Lien reviews the July US non-farm payrolls miss and its implications for Fed policy, arguing the weak print buys the Fed room to hold rates through year-end. This is a core global-driver read for EM FX/rates given the direct transmission via USD, UST yields and risk sentiment.\n\n**Key points**\n- July NFP fell by 23,000 versus expectations, with May and June revised down to 63,000 and 20,000 respectively.\n- Unemployment rate nonetheless fell to 4.1% from 4.2%, driven by a 264,000 contraction in the labor force rather than stronger hiring.\n- Market reaction on the print: equities rallied, the Treasury curve steepened, and the US dollar weakened further even after prior yen intervention.\n- US regular gasoline prices have dropped below $4/gallon nationally, supporting the house view that inflation peaked earlier this summer, contingent on Middle East de-escalation.\n- StanChart has moved fixed income allocation to neutral from underweight while staying overweight equities, favoring diversified regional/sector exposure.\n- Futures markets are still pricing one more Fed hike this year, which StanChart pushes back against, expecting no hikes.\n\n**FX / rates implications**\n- A Fed on extended hold and moderating short/intermediate UST yields is a broadly USD-negative, EM-carry-supportive backdrop — favorable for EM Asia and LATAM high-yielders (INR, IDR, PHP, MXN, BRL, COP) if risk sentiment stays constructive.\n- Softer DXY post-NFP, plus prior BoJ-linked yen intervention still not offsetting dollar weakness, reinforces a broad EM FX tailwind and lower US real-rate pressure on EM local rates.\n- Curve steepening with front-end yields more Fed-sensitive suggests EM rates markets could see receiving opportunities at the short end if the no-hike view is validated.\n\n**Watch list**\n- Upcoming US inflation prints — the key swing factor for whether the Fed stays patient or is forced to hike.\n- Middle East geopolitical developments and their pass-through to oil/gasoline prices and the inflation outlook.\n- Fed's internal task force findings, expected to inform the policy path before any rate moves.",
+      "summarized_at": "2026-08-10T03:08:58.137107+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-09"
 }
