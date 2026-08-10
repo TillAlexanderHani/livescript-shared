@@ -1,4 +1,22 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Why is Trump paying to stop wind farms?",
+      "published": "Mon, 10 Aug 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/d132e052-2a10-448c-886f-ab205a3fe536/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=d132e052-2a10-448c-886f-ab205a3fe536&feed=IFy3imsg&t=podcast&e=nx-s1-5925289&p=510325&d=559&size=8949011",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Energy",
+        "Natural Gas",
+        "Fiscal",
+        "Climate",
+        "WTI"
+      ],
+      "summary": "**Summary**\nThe Trump administration is paying US and foreign energy firms billions of dollars to abandon offshore wind projects rather than banning them outright, a novel use of federal funds to subsidize scarcity. The latest deal saw Duke Energy accept a $129 million buyout to scrap a North Carolina offshore wind farm, part of a broader $2.7 billion push to cancel nine offshore wind leases originally awarded under Biden in 2022.\n\n**Key points**\n- Trump has opposed wind power since fighting a nearby offshore wind farm near his Scotland golf course roughly two decades ago.\n- Prior tactics (executive order halting permits, national-security claims about radar interference) were struck down or rejected by courts; the buyout approach is the workaround.\n- French company Total Energies is redirecting its buyout proceeds into a new natural gas plant in Brunswick, Texas.\n- Some firms are getting full reimbursement of lease costs, others are taking losses — signaling how bleak they view the sector's outlook under this administration.\n- 90% of new US grid capacity in recent years has come from clean sources, per the American Clean Power Association; industry argues obstruction will push electricity prices higher.\n- Multiple states and NGOs have sued to block the buyouts.\n\n**FX / rates implications**\n- Minimal direct EM FX/rates transmission; this is a US domestic energy-policy story with no immediate currency or rates channel.\n- Longer-term US electricity/energy cost inflation risk if renewable buildout stalls amid rising data-center demand — a tail input to US CPI/inflation trajectory worth flagging, though effects are described as 5-10 years out.\n- Gasoline prices are separately noted as spiking due to the Iran conflict, a reminder that Middle East risk remains a live oil-price/inflation channel for global macro, distinct from this wind-buyout story.\n\n**Watch list**\n- Pending state/NGO lawsuits challenging the wind-lease buyouts.\n- Whether rising US electricity demand (data centers) forces a policy reversal, echoing the Biden oil-and-gas U-turn after the Ukraine invasion.",
+      "summarized_at": "2026-08-10T11:17:32.868653+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-10"
 }

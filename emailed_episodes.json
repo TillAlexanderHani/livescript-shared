@@ -14559,8 +14559,22 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-08-10T03:08:58.137107+00:00",
       "episode_id": "8643c66c2366852b"
+    },
+    "fdd9e0be6296b6d2": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f7ff667e-d517-457f-b745-b49f0150c4e6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-08-10T11:05:52.885626+00:00",
+      "episode_id": "fdd9e0be6296b6d2"
+    },
+    "8fc1f8a5774ee828": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/d132e052-2a10-448c-886f-ab205a3fe536/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=d132e052-2a10-448c-886f-ab205a3fe536&feed=IFy3imsg&t=podcast&e=nx-s1-5925289&p=510325&d=559&size=8949011",
+      "title": "Why is Trump paying to stop wind farms?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-08-10T11:17:32.868653+00:00",
+      "episode_id": "8fc1f8a5774ee828"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-10T03:08:58.137153+00:00"
+  "last_updated": "2026-08-10T11:17:32.868695+00:00"
 }
