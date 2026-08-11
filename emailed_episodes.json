@@ -14643,8 +14643,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-08-11T18:50:02.100003+00:00",
       "episode_id": "46a2850059592ac9"
+    },
+    "621febb5b9ad0938": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/d1706818-f994-4feb-9f96-520ab7f324be.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "‘Show Me the Money,’ Market Tells Companies",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-11T22:28:11.356161+00:00",
+      "episode_id": "621febb5b9ad0938"
+    },
+    "b9b54af9f8ccbb43": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC6266223176.mp3",
+      "title": "The Credit Market Lens: The AI Split Between U.S. Dollar and Euro Investment Grade",
+      "feed": "PIMCO Pod",
+      "processed": "2026-08-11T22:47:12.970737+00:00",
+      "episode_id": "b9b54af9f8ccbb43"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-11T18:50:02.100045+00:00"
+  "last_updated": "2026-08-11T22:47:12.970774+00:00"
 }
