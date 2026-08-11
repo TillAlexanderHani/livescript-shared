@@ -119,6 +119,28 @@
       ],
       "summary": "**Summary**\nThis GlobalCapital podcast covers European corporate bond market dynamics driven by US hyperscaler (Alphabet, Amazon, Meta, Oracle, Microsoft, SpaceX) debt issuance, plus a Canadian regulatory proposal on covered bond liquidity treatment and Middle East sovereign issuers' shift from private placements back to public bonds. Relevance to EM FX/rates is indirect — mainly via broader credit-market and risk-sentiment channels rather than direct EM currency or central bank content.\n\n**Key points**\n- Alphabet priced a $25bn 10-tranche dollar deal in the first week of August; hyperscalers may target a November euro window to avoid the US midterm election period (November 3).\n- Alphabet's debt has grown from ~$51bn (Nov 2025) to ~$100bn; Amazon from $55bn to ~$180bn; hyperscaler CDS and bond spreads have widened materially (Oracle bonds +77bp, CDS +114bp) even as the broader IG market has stayed tight to slightly tighter.\n- Gulf sovereign issuers (Kuwait, Saudi PIF, Bahrain) leaned heavily on private placements (~$16.5bn in the GCC region this year, roughly double prior years) since the Israel-Iran war began in late February, but Kuwait's successful $6bn public deal signals a reopening of public issuance expected into September.\n- Canada's OSFI is proposing to reclassify non-Canadian (EU) covered bonds from Level 2A (15% haircut) to Level 1B (7% haircut), aligning with EU treatment and potentially advancing EU-Canada regulatory equivalence, effective May 2026.\n\n**FX / rates implications**\n- Limited direct EM read-through; the discussion of AI-capex-driven hyperscaler debt buildup and potential credit shakeout (dot-com-crash comparison) is a tail-risk to monitor for broader risk sentiment and credit spread contagion that could spill into EM credit and USD funding conditions.\n- Continued heavy USD-denominated hyperscaler and Gulf sovereign issuance reflects still-strong global demand for USD credit, a mild signal for USD funding liquidity conditions relevant to EM dollar-bond issuers.\n\n**Watch list**\n- US midterm elections, November 3, 2026 — hyperscalers may shift issuance timing around this date.\n- Potential resumption of Gulf sovereign public bond issuance in September.\n- OSFI's covered bond LCR reclassification taking effect May 2026, and subsequent EU-Canada equivalence talks.",
       "summarized_at": "2026-08-11T14:52:26.513107+00:00"
+    },
+    {
+      "title": "Borrowing money to invest! What could go wrong?",
+      "published": "Tue, 11 Aug 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/eef0c5c7-710e-4a71-a92c-8838405b3353/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=eef0c5c7-710e-4a71-a92c-8838405b3353&feed=IFy3imsg&t=podcast&e=nx-s1-5927440&p=510325&d=543&size=8701998",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 4,
+      "tags": [
+        "KRW",
+        "South Korea",
+        "BoK",
+        "INR",
+        "RBI",
+        "Fed",
+        "Margin debt",
+        "Leverage",
+        "Risk sentiment",
+        "Semiconductors"
+      ],
+      "summary": "**Summary**\nUS margin debt has hit a record $1.5tn, up 50% year-on-year and now exceeding total US credit-card debt, prompting a look at how leveraged trades unwind when markets turn. The episode uses South Korea's recent semiconductor-driven stock crash and an academic study of Indian margin trading as case studies in how leverage amplifies downside moves — relevant to any trader watching EM equity-linked flows and risk sentiment.\n\n**Key points**\n- US margin debt: over $1.5tn, up 50% y/y; growth rate of ~53% is high but below the 81% pace seen in the 2000 dot-com bubble (Fidelity's Jurrien Timmer).\n- India study (Yale's Heather Tookes): stocks eligible for margin trading fell significantly more than non-margin stocks during crisis periods, as forced selling to cover loans amplified losses.\n- South Korea: legalized single-stock leveraged ETFs earlier this year; SK Hynix and Samsung (AI memory-chip demand) drove index gains, with the two names making up ~20% of some trading days.\n- Korean stock market fell 40% at one point; over 3% of the adult population received margin calls; ~360,000 brokerage accounts (majority under age 35) were forced to liquidate entirely, per Bloomberg/tax data — despite strong underlying chip-company fundamentals (SK Hynix revenue tripled y/y).\n- The Fed sets margin requirements but hasn't changed them since 1974; declined to comment, and Timmer doubts it will intervene, citing Greenspan's 1996 \"irrational exuberance\" call that preceded four more years of NASDAQ gains.\n\n**FX / rates implications**\n- A Korean-style unwind is a template for leverage-driven volatility risk in other EM Asia equity markets with high retail leveraged-ETF participation; sharp equity drawdowns tend to pressure KRW and broader EM Asia risk sentiment/capital flows even without direct FX commentary here.\n- Elevated but not yet extreme US margin debt keeps a tail-risk of a US equity-led risk-off event on the radar, which would spill into broad EM FX weakness via risk sentiment and USD demand.\n\n**Watch list**\n- Further single-stock leveraged ETF flows and margin-call data out of South Korea as a leading indicator of leverage-driven equity/FX stress.\n- Any signal the Fed revisits Regulation T margin requirements (unchanged since 1974) as a policy lever on speculative leverage.",
+      "summarized_at": "2026-08-11T18:50:02.100003+00:00"
     }
   ],
   "last_digest_date": "2026-08-11"
