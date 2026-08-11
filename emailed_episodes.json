@@ -14622,8 +14622,22 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-08-11T10:43:58.494683+00:00",
       "episode_id": "cdacaf826833d883"
+    },
+    "306d117618d3067a": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19614684-all-eyes-on-the-hyperscalers.mp3",
+      "title": "All eyes on the hyperscalers",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-08-11T14:52:26.513107+00:00",
+      "episode_id": "306d117618d3067a"
+    },
+    "8d5e1c3a9806d62d": {
+      "url": "https://pdcn.co/e/rss.art19.com/episodes/95b30827-04a1-479b-a53e-b537ecfec475.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Future, Made in China: Evan Osnos on America's Reckoning",
+      "feed": "Sinica Podcast (China)",
+      "processed": "2026-08-11T15:11:43.526831+00:00",
+      "episode_id": "8d5e1c3a9806d62d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-11T10:43:58.494735+00:00"
+  "last_updated": "2026-08-11T15:11:43.526877+00:00"
 }
