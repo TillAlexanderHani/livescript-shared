@@ -1,4 +1,88 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How AI Could Simplify the Mortgage Market",
+      "published": "Mon, 10 Aug 2026 20:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/79709992-7c56-452a-9d60-7038e88f5d76.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 2,
+      "tags": [
+        "Mortgage rates",
+        "MBS",
+        "Duration",
+        "Carry",
+        "Housing"
+      ],
+      "summary": "**Summary**\nMorgan Stanley analysts discuss how AI agents could transform the $14 trillion US mortgage market by automating rate shopping and refinancing decisions, with implications for mortgage-backed securities spreads and lender economics.\n\n**Key points**\n- Historically only ~30% of borrowers who could lower their mortgage rate by 100bps did so in a given year; less than half shopped more than one lender.\n- AI agents could monitor rates, compare 30+ lenders instantly, and trigger refinancing when economics work, potentially causing a 40% pickup in refinance volumes versus current expectations in a 100bp rally scenario.\n- Faster prepayment response would make mortgages more negatively convex, shorten duration, and could widen mortgage spreads by ~10bps in the base case.\n- US mortgage originations currently run ~$2 trillion/year versus a ~$2.5 trillion normalized level and ~$4 trillion COVID peak; AI-driven efficiency could push a bull case toward $3 trillion+.\n- Top originators using AI already close mortgages in 12-20 days versus the 40-45 day industry average.\n- Increased competition from easier rate comparison could pressure lender gain-on-sale margins even as volumes rise.\n\n**FX / rates implications**\n- This is a US mortgage-market microstructure story with no direct EM FX/rates read-through; relevance is limited to US rates/MBS investors and duration hedging flows.\n- Mortgage investors (short the prepayment option) would demand wider spreads and more duration buying (bid for low-strike receivers) if borrower refinancing becomes more efficient — a technical for US rates vol/convexity desks, not EM.\n- Broader Fed-cut driven rate rallies remain the primary channel through which this would ever interact with global capital flows, but the episode itself stays domestic-US in scope.\n\n**Watch list**\n- Signs of AI adoption: faster client-facing rate comparison tools, closing speed convergence toward 12-20 days industry-wide.\n- Refinance volume response to any future Fed-driven rate rally as an indicator AI adoption is accelerating (3-5 year horizon per analysts).",
+      "summarized_at": "2026-08-11T02:54:31.826384+00:00"
+    },
+    {
+      "title": "Take a Three-Quarter Point Hike, Food Safety Changes, and Grab the Chips 8/10/26",
+      "published": "Mon, 10 Aug 2026 18:52:58 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/7dc91916-a7e7-4b96-bc6f-c322d5bbda13/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=7dc91916-a7e7-4b96-bc6f-c322d5bbda13&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Oil",
+        "Brent",
+        "WTI",
+        "Risk sentiment",
+        "S&P 500"
+      ],
+      "summary": "**Summary**\nMarket debate centers on whether the weak July payrolls report (-23K) takes further Fed hikes off the table, with CNBC economists arguing it does not — CPI due the next morning is the more important input, and Bank of America still expects three more 25bp hikes (75bp total) this year given sticky core inflation. This has direct implications for USD strength, UST yields, and broader EM funding conditions.\n\n**Key points**\n- July payrolls fell -23K, but economists argue this reflects a new lower-growth-potential \"normal\" from weak population/labor force growth, not necessarily cyclical weakness.\n- UST 10-year yield at ~4.70%, moving higher, tracking oil prices upward rather than reflecting labor market softness.\n- Bank of America (Aditya Bhave) sees core PCE underlying inflation near 2.5%, above target, and maintains a call for three more Fed hikes this year; CPI print due tomorrow (core +20bps expected) is the key swing factor, with PPI/core PCE read-through Thursday.\n- Fed governor debate: hawks (Waller, and possibly Warsh) vs. doves (Paulson, Williams, Bowman); markets uncertain whether Warsh is hawkish or dovish on the 2% vs 2.5% inflation target debate.\n- Morgan Stanley Private Wealth (Katarina Simonetti) sees no further hikes this year, contingent on oil staying in a $95-125/bbl range; a break above that range would pressure earnings and equities.\n- Retail spending resilient despite oil price shock (surging on Middle East tensions), which economists read as inflationary since demand isn't offsetting the supply shock.\n\n**FX / rates implications**\n- A hawkish Fed repricing (3 more hikes, per BofA) would be USD-supportive and add upward pressure on UST yields, tightening financial conditions for EM Asia and LATAM carry trades and funding costs.\n- Elevated oil prices (geopolitical risk premium) are a stagflationary risk for EM oil importers (India, Philippines, Thailand) via import bills and inflation, while supportive for LATAM oil exporters (Mexico, Colombia).\n- Continued high UST 10-year yields (~4.70%) keep pressure on EM local rates and could weigh on carry-sensitive EM FX if the dollar strengthens further into the CPI print.\n\n**Watch list**\n- Tomorrow's US CPI print (core +20bps expected) and Thursday's PPI/core PCE read-through — key catalysts for Fed pricing.\n- Oil price trajectory relative to the $95-125/bbl range cited as the swing factor for further Fed action and equity/earnings pressure.\n- Fed governor rhetoric (Waller, Warsh) on the 2% vs 2.5% inflation target debate ahead of the next FOMC decision.",
+      "summarized_at": "2026-08-11T03:00:12.507822+00:00"
+    },
+    {
+      "title": "Cut to the Chase! Gold is shining again",
+      "published": "Tue, 11 Aug 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19628957-cut-to-the-chase-gold-is-shining-again.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Gold",
+        "USD",
+        "Fed",
+        "UST 10y",
+        "Oil",
+        "Inflation",
+        "CPI",
+        "Risk sentiment",
+        "Central banks",
+        "Geopolitics"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Steve Price reviews gold's volatile 2025 — up over 25% in January, a sharp correction, then a fresh rally — and lays out why the bank remains structurally and tactically bullish, holding a 5% strategic portfolio weight. The piece is a macro read-through on USD, Fed policy and the US data calendar as much as a gold call.\n\n**Key points**\n- Gold's Feb-June selloff was driven by USD/bond-yield strength during Middle East conflict, margin-call-driven liquidation, and some central bank gold sales to defend local currencies/fund fiscal deficits.\n- Central bank gold buying resumed to pre-conflict levels after March selling; sanctioning of Russia's central bank in 2022 continues to push non-aligned central banks to diversify reserves away from developed-market bonds into gold.\n- Gold fell below $4,000/oz in June/July, has since based and rallied 8% this month, ~11% off lows, despite disappointment over a US-Iran deal on the Strait of Hormuz pushing oil prices and yields higher.\n- Friday's US payrolls report was weak: 3-month average job creation revised down from 111,000 (June) to just 20,000 (July), reinforcing StanChart's view that inflation peaked in May and the labour market is set to weaken further.\n- StanChart does not expect the Fed to hike; USD stayed weak despite Middle East tensions, which the bank attributes to the soft jobs data.\n\n**FX / rates implications**\n- Soft US labour data and a dovish repricing of Fed expectations argue for continued USD softness — a tailwind for EM Asia and LATAM carry trades and easing pressure on USD/INR, USD/IDR, USD/MXN, USD/BRL.\n- Structural central-bank gold buying (reserve diversification away from USD assets) is a slow-burn dollar-reserve-currency theme relevant to EM central bank reserve management.\n- Oil price upside risk (Strait of Hormuz, Iran) is a watch item for oil-importing EM Asia (INR, IDR, PHP, THB) versus oil-exporting LATAM (MXN, COP).\n\n**Watch list**\n- US CPI release Wednesday evening Asia time — StanChart expects confirmation of a disinflationary trend and further downward revisions to rate expectations.\n- Any US-Iran/Strait of Hormuz developments affecting oil prices and bond yields.\n- Further Fed rate-expectation repricing following payrolls revisions.",
+      "summarized_at": "2026-08-11T03:14:57.015190+00:00"
+    },
+    {
+      "title": "The Week That Was - 10 Aug: Global Equities Rally",
+      "published": "Tue, 11 Aug 2026 07:00:00 +0530",
+      "url": "https://www.buzzsprout.com/1885786/episodes/19629150-the-week-that-was-10-aug-global-equities-rally.mp3",
+      "feed": "Standard Chartered India - Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "INR",
+        "USDINR",
+        "RBI",
+        "Gold",
+        "Brent",
+        "S&P 500",
+        "Inflation",
+        "PMI",
+        "Capital flows",
+        "Bonds"
+      ],
+      "summary": "**Summary**\nStandard Chartered's weekly India wrap covers a global risk-on tone alongside a packed India data week: RBI's MPC decision, a surge in FCNR/ECB-driven capital inflows, weakening PMIs, and strong equity/bond performance. Highly relevant for an EM Asia FX/rates trader tracking INR positioning and RBI policy trajectory.\n\n**Key points**\n- Global equities (US, Eurozone, Japan, partly China) broke out of recent ranges, helped by a strong US earnings season (~85% of S&P 500 beat vs 67% long-term average) and easing Strait of Hormuz shipping tensions, keeping oil in a $70-90/bbl range.\n- RBI kept the repo rate unchanged at 5.25%, neutral stance; Governor Malhotra wants clarity on inflation before acting. FY27 growth revised up 10bps to 6.7%, inflation revised down 10bps to 5%.\n- RBI capital flow measures show $40.8bn in as of end-July (up from $20.8bn on 17 July) via FCNR deposits, overseas borrowing and ECBs; FCNR balances alone nearly doubled to ~$37bn. Pace ~$10bn/week; FCNR seen reaching $75-80bn by September, total inflows $90-100bn by year-end.\n- Services PMI fell to 4-year low of 53.3 (from 57.4); manufacturing PMI dropped to 53.5 (near 5-year low); composite PMI moderated to 54.3 from 57.1.\n- Nifty +0.77% to 24,570, Sensex +0.52%; midcaps +0.87%, smallcaps +2.7%. Auto (+3.14%), capital goods and metals (+2.9% each) led sectors.\n- USDINR eased 0.19% to close at 95.21; crude down 7.29% to ~$83/bbl; domestic gold surged 4.85%.\n- 10Y G-Sec yield fell 7bps to 6.76%, 5Y down 10bps to 6.35%, 3Y down 9bps to 6.18%, aided by debt inflows of $5.6bn (June) and $3.1bn (July), partly offsetting Bloomberg's deferral of Indian govt bonds' index inclusion.\n\n**FX / rates implications**\n- Large, accelerating FCNR/ECB inflows are a structural INR support and a key driver of the bond rally; watch for continuation toward the $90-100bn year-end target as a cushion against external shocks.\n- RBI's neutral stance and inflation-watch mode suggests limited near-term rate-cut catalysts; growth upgrade/inflation downgrade is mildly INR-positive on carry.\n- Softer PMIs signal decelerating domestic momentum, a mild headwind to growth-sensitive INR risk premium despite the equity rally.\n- Lower crude (~$83/bbl) is a positive terms-of-trade and current-account driver for INR given India's import dependence.\n\n**Watch list**\n- Inflation trajectory into the Oct-Dec quarter peak flagged by RBI.\n- FCNR/ECB inflow pace toward $75-80bn (Sept) and $90-100bn (year-end) targets.\n- Bloomberg's Indian govt bond index inclusion decision (currently deferred).\n- Middle East/Strait of Hormuz shipping developments affecting oil and risk sentiment.",
+      "summarized_at": "2026-08-11T03:16:18.591618+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-11"
 }
