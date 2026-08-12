@@ -14699,8 +14699,29 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-08-12T15:04:12.321064+00:00",
       "episode_id": "b9c9baba9684f729"
+    },
+    "3e4eea8bdd058309": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/e53f0edb-a0af-4b53-a84d-6334adccaafd/group-item/0872dc72-83bd-4f91-99c1-1c226beb231a/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Sand: The most important commodity in the modern world with Vince Beiser (Summer Repeat)",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-08-12T18:58:07.334497+00:00",
+      "episode_id": "3e4eea8bdd058309"
+    },
+    "dca94136c7b7ad41": {
+      "url": "https://traffic.megaphone.fm/BLM3757480404.mp3",
+      "title": "Credit Crunch: New Fed Watch as Rates, Not Spreads Drive Credit",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-08-12T19:02:44.796728+00:00",
+      "episode_id": "dca94136c7b7ad41"
+    },
+    "82a127b0d3a83aba": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH8369560112.mp3",
+      "title": "Europe's electric dreams",
+      "feed": "Reuters Econ World",
+      "processed": "2026-08-12T19:07:54.292360+00:00",
+      "episode_id": "82a127b0d3a83aba"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-12T15:04:12.321102+00:00"
+  "last_updated": "2026-08-12T19:07:54.292400+00:00"
 }
