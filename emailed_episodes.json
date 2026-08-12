@@ -14657,8 +14657,36 @@
       "feed": "PIMCO Pod",
       "processed": "2026-08-11T22:47:12.970737+00:00",
       "episode_id": "b9b54af9f8ccbb43"
+    },
+    "ae81a0d4367f0b24": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a7b50d61549db32d4380e7d/media.mp3",
+      "title": "How a stock market crash gave birth to modern antisemitism",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-08-12T10:55:55.799808+00:00",
+      "episode_id": "ae81a0d4367f0b24"
+    },
+    "d020e9ef9a454c2d": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828318",
+      "title": "Currency Chaos in Argentina (Summer School)",
+      "feed": "Planet Money",
+      "processed": "2026-08-12T11:05:37.465562+00:00",
+      "episode_id": "d020e9ef9a454c2d"
+    },
+    "65ae73a205f5c924": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19635569-cut-to-the-chase-jpy-resumes-downtrend-after-recent-intervention-what-to-do-now.mp3",
+      "title": "Cut to the Chase! JPY resumes downtrend after recent intervention; what to do now?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-12T11:12:45.030726+00:00",
+      "episode_id": "65ae73a205f5c924"
+    },
+    "9e15a2e694a5d94a": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/f9525462-d33f-4e17-b137-5187a4332026/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=f9525462-d33f-4e17-b137-5187a4332026&feed=IFy3imsg&t=podcast&e=nx-s1-5928512&p=510325&d=569&size=9109508",
+      "title": "Consumers are mad as hell and aren't gonna take it anymore",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-08-12T11:14:12.165244+00:00",
+      "episode_id": "9e15a2e694a5d94a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-11T22:47:12.970774+00:00"
+  "last_updated": "2026-08-12T11:14:12.165288+00:00"
 }

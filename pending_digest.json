@@ -1,4 +1,26 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! JPY resumes downtrend after recent intervention; what to do now?",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19635569-cut-to-the-chase-jpy-resumes-downtrend-after-recent-intervention-what-to-do-now.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "JPY",
+        "USDJPY",
+        "USD",
+        "BoJ",
+        "Fed",
+        "Carry",
+        "Intervention",
+        "UST 10y",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Raymond Chen reviews the yen's renewed downtrend against the US dollar following the early-August joint US-Japan intervention, and assesses implications for USDJPY, the BoJ policy path, and Japan equities. Relevant for EM FX traders as a template for how G10 intervention dynamics and BoJ normalization interact with the dollar and carry trades.\n\n**Key points**\n- USDJPY has risen from about 157 to 159 this week, reversing roughly half of the yen's post-intervention gains.\n- The recent action is characterized as a \"joint\" US-Japan intervention: Japan borrowed USD via the Fed's FIMA repo facility instead of selling US Treasuries, avoiding upward pressure on UST yields while still supporting the yen.\n- This mechanism is seen as boosting the credibility of official FX action and constraining oversized speculative moves, though the wide US-Japan rate differential remains USD-supportive.\n- BoJ's July summary of opinions showed some policymakers favoring faster normalization as underlying inflation nears 2%; base case is one more BoJ hike by year-end.\n- Authorities are seen as focused on curbing disorderly moves rather than reversing the underlying weak-yen trend.\n- A sustained move above 159 could open a retest of 160, though intervention risk should cap further upside, keeping the pair range-bound.\n- Japan equities: weak yen aids exporters (over half of MSCI Japan revenue is overseas-derived); earnings estimates have been revised up on corporate governance reform and reflation; Japan banks flagged as an opportunistic idea given BoJ normalization boosting net interest margins, loan growth, and potential GPIF reallocation into domestic markets.\n\n**FX / rates implications**\n- USDJPY: range-bound with upside capped near 160 by intervention risk, but structurally still USD-supportive as long as the US-Japan rate gap persists; a template for other high-carry-differential USD crosses.\n- Read-through for EM carry trades: as long as the Fed stays on hold relative to G10 easers, USD funding/carry dynamics that pressure JPY reinforce broader USD strength themes relevant to EM Asia (KRW, THB) and LATAM (MXN, BRL) carry positioning.\n- The FIMA repo-based intervention mechanism (avoiding UST sales) is notable as a precedent that limits collateral damage to UST yields, a factor EM rates desks should track when assessing other EM central banks' FX defense tools.\n\n**Watch list**\n- USDJPY 159-160 zone as the next intervention trigger point.\n- Further BoJ policy signals; base case is one additional hike by end of 2026.\n- GPIF reallocation plans toward domestic capital markets as a potential yen and Japan bank support factor.",
+      "summarized_at": "2026-08-12T11:12:45.030726+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-12"
 }
