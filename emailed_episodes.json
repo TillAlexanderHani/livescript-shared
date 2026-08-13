@@ -14790,8 +14790,50 @@
       "feed": "Under the Banyan Tree (HSBC Global Research)",
       "processed": "2026-08-13T14:47:42.010577+00:00",
       "episode_id": "127d56dd0655feb6"
+    },
+    "e885f806e8d64970": {
+      "url": "https://mcdn.podbean.com/mf/web/ep7uviz2u3nn9jr9/AAR_Rates_KAL-1-GNF7UT21_0813266aaow.mp3",
+      "title": "US Rates – A pop in short-term credit supply",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-08-13T22:27:54.612755+00:00",
+      "episode_id": "e885f806e8d64970"
+    },
+    "c385964c85865f68": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/e31bfc52-3200-406d-8f24-02d048c98b02.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Robotaxis’ $1 Trillion Opportunity",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-13T22:29:50.717922+00:00",
+      "episode_id": "c385964c85865f68"
+    },
+    "b11b3d5a81ba3564": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/3b66187a-e551-4d10-9ddc-b0f05e33d116/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=3b66187a-e551-4d10-9ddc-b0f05e33d116&feed=tc4zxWgX",
+      "title": "S&P 500 Milestone, Zuckerberg’s AI Manifesto, Anthropic’s Power Deal 8/13/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-08-13T22:35:58.457804+00:00",
+      "episode_id": "b11b3d5a81ba3564"
+    },
+    "b4756a428a597f16": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/19636708-colombia-s-new-security-strategy-a-bukele-style-approach.mp3",
+      "title": "Colombia's New Security Strategy: A Bukele-Style Approach?",
+      "feed": "Horizontes de Latinoamérica (S&P Global)",
+      "processed": "2026-08-13T22:40:15.380957+00:00",
+      "episode_id": "b4756a428a597f16"
+    },
+    "e3d42e03e0619ee0": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/19644128-venezuela-s-transition-talks.mp3",
+      "title": "Venezuela's Transition Talks",
+      "feed": "The Americas Quarterly Podcast",
+      "processed": "2026-08-13T22:57:25.891183+00:00",
+      "episode_id": "e3d42e03e0619ee0"
+    },
+    "ab1c516bb3acc99f": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a7e0a46ff328abd84337abc/media.mp3",
+      "title": "Hot Stoxx summer",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-08-13T23:00:08.784351+00:00",
+      "episode_id": "ab1c516bb3acc99f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-13T14:47:42.010620+00:00"
+  "last_updated": "2026-08-13T23:00:08.784387+00:00"
 }
