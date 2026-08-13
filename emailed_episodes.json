@@ -14734,8 +14734,29 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "processed": "2026-08-12T22:43:04.505163+00:00",
       "episode_id": "ba128040bc50ebb2"
+    },
+    "e89b5d622d4b3892": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD6038741191.mp3",
+      "title": "What the US-Japan Currency Intervention Means for the Yen, Rates, and the Dollar",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-08-13T03:17:04.826980+00:00",
+      "episode_id": "e89b5d622d4b3892"
+    },
+    "6e302b63c7cdef1e": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19640435-cut-to-the-chase-inflation-is-relevant-but-not-decisive-for-equities.mp3",
+      "title": "Cut to the Chase! Inflation is relevant, but not decisive for equities",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-13T03:24:35.707886+00:00",
+      "episode_id": "6e302b63c7cdef1e"
+    },
+    "07f01fb066e73c99": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_08132026_Libsyn.mp3?dest-id=4287628",
+      "title": "How China Uses Space to Build Influence in the Mideast",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-08-13T03:27:41.173902+00:00",
+      "episode_id": "07f01fb066e73c99"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-12T22:43:04.505205+00:00"
+  "last_updated": "2026-08-13T03:27:41.173953+00:00"
 }

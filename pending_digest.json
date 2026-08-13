@@ -1,4 +1,47 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "What the US-Japan Currency Intervention Means for the Yen, Rates, and the Dollar",
+      "published": "Thu, 13 Aug 2026 01:00:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD6038741191.mp3",
+      "feed": "Goldman Sachs Exchanges",
+      "provider": "Goldman Sachs",
+      "priority": 4,
+      "tags": [
+        "JPY",
+        "USDJPY",
+        "EURJPY",
+        "BoJ",
+        "Fed",
+        "DXY",
+        "USD",
+        "Carry",
+        "UST 10y",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nJapan and the US conducted their largest coordinated FX intervention in 15 years on July 30-31, selling dollars to buy yen after USDJPY hit 40-year lows near 164. Goldman's Karen Fishman and Pranav Shah unpack the mechanics, the US's likely motive (protecting UST market functioning via the Fed's FIMA repo facility rather than a strong directional yen view), and what it means for carry trades and the broader dollar going into autumn.\n\n**Key points**\n- MOF intervention estimated at up to $85bn over July 30-31 (~$60bn Thursday, $25bn Friday, possibly $20bn more Monday) vs. ~$30bn average daily FX turnover; US involvement was much smaller, historically $1-2bn.\n- USDJPY moved 3% on the coordinated announcement, breaching the 158 200-day moving average; EURJPY breached its 187.50 intervention trigger level too.\n- CFTC data showed the fourth-largest reduction in yen short positioning in 20 years as leveraged/CTA accounts stopped out.\n- Market prices ~65% odds of a 25bp BoJ hike in September, ~40bp of hikes priced by year-end; a miss would reignite yen weakness.\n- Yen models show ~25% undervaluation; hedged 10y JGB yields now exceed hedged UST 10y by ~100bp.\n\n**FX / rates implications**\n- Goldman's base case: further modest USD strength vs. low-yielders (EUR, JPY) but continued USD weakness vs. higher-yielding EM currencies — a constructive backdrop for EM carry trades broadly.\n- US CPI this week is a key catalyst: a soft print (echoing July 2024) could compound yen strength and dollar softness, a read-through for broader risk/carry sentiment relevant to EM Asia positioning.\n- FIMA facility expansion signals Fed/Treasury tolerance for reserve managers avoiding UST market disruption — relevant precedent for other EM central banks managing FX reserves without pressuring UST yields.\n\n**Watch list**\n- BoJ policy meeting, September 2026: hike delivery is key to sustaining yen strength.\n- US CPI print this week — soft data could extend dollar weakness/carry-friendly conditions.\n- USDJPY 150 level and EURJPY downside targets flagged by option markets; yen call option risk premium signals lingering gap-move risk.\n- Japanese investor domestic asset reallocation — a potential structural yen-strength catalyst if it materializes.",
+      "summarized_at": "2026-08-13T03:17:04.826980+00:00"
+    },
+    {
+      "title": "Cut to the Chase! Inflation is relevant, but not decisive for equities",
+      "published": "Thu, 13 Aug 2026 08:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19640435-cut-to-the-chase-inflation-is-relevant-but-not-decisive-for-equities.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "Inflation",
+        "CPI",
+        "UST 10y",
+        "Fed",
+        "Risk sentiment",
+        "S&P 500",
+        "Oil"
+      ],
+      "summary": "**Summary**\nUS July CPI printed in line with consensus, easing fears of an inflation surprise that could have jolted bond yields and Fed policy expectations. Standard Chartered frames the read-through for global equities via two channels — corporate earnings and the discount rate — concluding that strong earnings growth should offset any yield-related valuation hit, keeping them overweight global equities.\n\n**Key points**\n- US CPI rose 3.4% y/y in July, moderating from 3.5% in June; core CPI (ex food & energy) was 2.5% y/y, down from 2.6% and the lowest since 2021.\n- Middle East conflict and elevated oil prices are cited as a source of uncertainty for bond yields and monetary policy.\n- Inflation affects equities via earnings (pricing power determines whether profits rise more or less than inflation) and via valuations (higher yields raise the cost of capital).\n- Every 0.25% rise in the discount rate is estimated to cut global equity valuations by roughly 3-4%.\n- Consensus earnings growth estimates are ~30% for 2026 and 15% for 2027; Q2 US earnings season has 85% of reporters beating expectations with record profit margins and upward estimate revisions.\n\n**FX / rates implications**\n- In-line CPI reduces near-term upside risk to UST yields, a modest USD/EM-carry supportive signal, though the data itself doesn't shift Fed easing/hiking expectations decisively.\n- Elevated oil prices tied to Middle East tensions remain a wildcard for inflation and yields, with knock-on risk for EM current-account-sensitive currencies (INR, PHP, IDR) if crude extends higher.\n- Continued disinflation trend (core at lowest since 2021) supports the broader soft-landing narrative underpinning EM carry trades and risk appetite.\n\n**Watch list**\n- Any acceleration in Middle East conflict and its impact on oil prices and inflation expectations.\n- Further US CPI/core CPI prints for confirmation of the disinflation trend.\n- US Q2 earnings season completion and any downside surprises to the 85% beat rate.\n- Bond yield moves relative to the 0.25%-per-3-4% equity valuation sensitivity flagged by the desk.",
+      "summarized_at": "2026-08-13T03:24:35.707886+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-13"
 }
