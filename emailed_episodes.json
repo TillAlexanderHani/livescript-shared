@@ -14783,8 +14783,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-08-13T11:08:44.544121+00:00",
       "episode_id": "508c4bd4edbc8e01"
+    },
+    "127d56dd0655feb6": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a7d9e657cf3c58886f2d764/media.mp3",
+      "title": "Fred and Herald's post-summer catch-up",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-08-13T14:47:42.010577+00:00",
+      "episode_id": "127d56dd0655feb6"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-13T11:08:44.544162+00:00"
+  "last_updated": "2026-08-13T14:47:42.010620+00:00"
 }
