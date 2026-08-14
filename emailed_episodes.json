@@ -14916,8 +14916,43 @@
       "feed": "PIMCO Pod",
       "processed": "2026-08-14T19:28:26.165631+00:00",
       "episode_id": "e9d2d627fede7695"
+    },
+    "a25901bf7818cb02": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/62a72f1c-7d89-4afd-8ce8-7da6a4d4743f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The UK Has a Better Story to Tell",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-14T22:05:50.683656+00:00",
+      "episode_id": "a25901bf7818cb02"
+    },
+    "2eaf2fa6c9293e73": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/9c0914ff-15b8-455f-b7c6-808ee8d227a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=9c0914ff-15b8-455f-b7c6-808ee8d227a6&feed=tc4zxWgX",
+      "title": "Bubble Beacons, Prediction Friction, and a Data Center Disconnect 8/14/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-08-14T22:11:29.781172+00:00",
+      "episode_id": "2eaf2fa6c9293e73"
+    },
+    "40ce431afa604430": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e643843c-4f2c-43dc-89fc-64f70e7ff656/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e643843c-4f2c-43dc-89fc-64f70e7ff656&feed=hvWWWzRv&t=podcast&e=nx-s1-5885879&p=510289&d=2323&size=37172958",
+      "title": "You bet your life insurance",
+      "feed": "Planet Money",
+      "processed": "2026-08-14T22:17:01.488626+00:00",
+      "episode_id": "40ce431afa604430"
+    },
+    "b47a8820704a9c14": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a7dcf89248fe5d9f88aa3fa/media.mp3",
+      "title": "From \"Trumponomics\": Can the US Actually Tax Billionaires?",
+      "feed": "The Economics Show",
+      "processed": "2026-08-14T22:19:48.894342+00:00",
+      "episode_id": "b47a8820704a9c14"
+    },
+    "bcbf57cee1c01e59": {
+      "url": "https://media.transistor.fm/0f4dacbf/ed744f5c.mp3",
+      "title": "A polarised US rate debate, China's lost reform and the £25bn question",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-08-14T22:32:49.273614+00:00",
+      "episode_id": "bcbf57cee1c01e59"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-14T19:28:26.165680+00:00"
+  "last_updated": "2026-08-14T22:32:49.273659+00:00"
 }
