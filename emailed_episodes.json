@@ -14832,8 +14832,43 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-08-13T23:00:08.784351+00:00",
       "episode_id": "ab1c516bb3acc99f"
+    },
+    "2f33850fc79d66f0": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD9591427911.mp3",
+      "title": "How Inflation and Fiscal Policy Are Driving US Treasury Markets",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-08-14T10:41:56.451019+00:00",
+      "episode_id": "2f33850fc79d66f0"
+    },
+    "db7614ba5e4128dd": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_KRAKE.mp3?dest-id=1929056",
+      "title": "Ep. 371: Paul Krake on AI's Post-Cyclical World, 10% Unemployment Risks, and the End of Friction",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-08-14T11:04:27.124363+00:00",
+      "episode_id": "db7614ba5e4128dd"
+    },
+    "aabedc73dfae0e59": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19645853-through-the-noise-geopolitical-stalemate-cooling-jobs-and-inflation.mp3",
+      "title": "Through the noise: Geopolitical stalemate, cooling jobs and inflation",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-14T11:19:24.024575+00:00",
+      "episode_id": "aabedc73dfae0e59"
+    },
+    "ca3205b3b9e3d443": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/e952eea4-4bd3-453d-b288-d90d4de768dd/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=e952eea4-4bd3-453d-b288-d90d4de768dd&feed=IFy3imsg&t=podcast&e=nx-s1-5930683&p=510325&d=553&size=8864166",
+      "title": "Retiree benefits bump, credit repayment slump, and a dating app in the dumps",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-08-14T11:21:07.632089+00:00",
+      "episode_id": "ca3205b3b9e3d443"
+    },
+    "24f7ea15cac2c52e": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260814_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead – Light on data and low on clarity",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-08-14T11:24:51.018362+00:00",
+      "episode_id": "24f7ea15cac2c52e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-13T23:00:08.784387+00:00"
+  "last_updated": "2026-08-14T11:24:51.018403+00:00"
 }

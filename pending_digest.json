@@ -1,4 +1,91 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How Inflation and Fiscal Policy Are Driving US Treasury Markets",
+      "published": "Fri, 14 Aug 2026 04:00:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD9591427911.mp3",
+      "feed": "Goldman Sachs The Markets",
+      "provider": "Goldman Sachs",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "UST 10y",
+        "CPI",
+        "Inflation",
+        "Fiscal",
+        "USD",
+        "DXY",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nGoldman Sachs' head of US Treasuries and inflation trading discusses the August 12 CPI print, the Fed's dual mandate tension, heavy Treasury supply/fiscal deficits, and record-high real yields. For an EM trader, this is a pure read on the US rates and dollar backdrop that anchors global risk appetite and carry trades.\n\n**Key points**\n- Core CPI printed 0.215% m/m, seen as \"down the middle\"; softer services inflation implies an even softer core PCE read-through, prompting forecast downgrades.\n- September FOMC pricing eased to ~9bp of cuts priced after the data; PPI (Wednesday) and retail sales (Friday) are the next catalysts before the meeting.\n- July payrolls were negative for the first time in a while, but 3- and 12-month average job growth (~20-30k/month) alongside an unchanged unemployment rate over 12 months means the labor market is not driving Fed policy — inflation is.\n- 10-year Treasury auction was the highest-yielding since 2007 yet was smoothly digested, helped by the soft CPI; a 30-year auction follows Thursday.\n- Heavy Treasury issuance plus $250bn (potentially $400bn next year) of AI-infrastructure-related corporate credit supply is pushing term premium structurally higher.\n- Real yields are historically elevated (~2.5% 10y, ~3% 30y tips), levels rarely sustained since the GFC, seen as attractive for long-horizon investors and portfolio diversification.\n- Preferred trade: a curve steepener, anchored by a front end/belly that's fully priced for Fed action, against a back end facing ongoing term-premium and supply headwinds.\n\n**FX / rates implications**\n- Elevated and rising UST term premium plus persistent fiscal supply pressure is a structural headwind for global duration and keeps a floor under US real yields, a modest drag on EM carry trades funded via cheap USD financing.\n- A steady-to-softer inflation path supports near-term USD/UST stability, but any hawkish Fed reaction-function shift (post-Chair Worsh's dovish July comments) could push long yields and the dollar higher, pressuring EM FX.\n- No EM-specific catalysts discussed, but the broad risk backdrop (recession-tail steepener thesis) is relevant to EM rates positioning as a hedge.\n\n**Watch list**\n- PPI report (Wednesday) and 30-year Treasury auction (Thursday).\n- Retail sales data (Friday).\n- FOMC minutes from the July meeting, next week, for read-through to the September decision.",
+      "summarized_at": "2026-08-14T10:41:56.451019+00:00"
+    },
+    {
+      "title": "Through the noise: Geopolitical stalemate, cooling jobs and inflation",
+      "published": "Fri, 14 Aug 2026 16:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19645853-through-the-noise-geopolitical-stalemate-cooling-jobs-and-inflation.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "Fed",
+        "USD",
+        "ECB",
+        "BoJ",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Oil",
+        "Gold",
+        "S&P 500",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered's weekly macro podcast covers the Middle East stalemate's effect on energy prices, cooling US inflation/employment data, and diverging central bank paths for the Fed, ECB and BoJ, alongside equity and credit market views. The read-through is mostly global/DM-focused with limited direct EM Asia/LATAM specifics, but the USD, rates and risk-sentiment channels matter for EM positioning.\n\n**Key points**\n- US July headline CPI slowed to 3.4% y/y, core CPI to 2.5% (lowest since 2021); PPI deteriorated to 4.7% y/y.\n- Non-farm payrolls unexpectedly contracted by 23,000, with May/June revised down, suggesting spring hiring momentum has faded.\n- Base case: Fed holds rates through year-end; ECB and BoJ each seen delivering one more hike this year.\n- 30-year UST auction (Aug 13) priced at the highest yield level since 2007, reflecting fiscal concerns.\n- US high-yield spreads (~266bp) near 15-year tights (4th percentile), but yield (~7.26%) at 69th percentile; default rate ~2% vs 3-3.5% long-term average.\n- RBA seen hawkish, supportive of AUD; forecasts 0.74/0.75 vs USD at 3/12 months; gold-AUD correlation at 0.82 (3-month) vs 0.59 (3-year).\n- Constructive on China tech equities amid AI-driven IPO momentum and Hang Seng Tech Index expansion from 30 to 50 constituents.\n\n**FX / rates implications**\n- Softer US data + Fed on hold caps front/belly UST yields, but fiscal-driven long-end pressure persists — a mixed USD signal for EM carry trades.\n- Prospective ECB and BoJ hikes vs a paused Fed could narrow rate differentials, a modest USD headwind supportive of EM FX broadly.\n- Persistent Middle East risk keeps European gas prices elevated, a tail risk for global inflation and risk sentiment relevant to EM risk appetite.\n- China tech/AI IPO enthusiasm and constructive China growth view support CNH/CNY sentiment and broader EM Asia risk tone.\n\n**Watch list**\n- Further US CPI/payrolls prints and Fed year-end policy signals.\n- ECB and BoJ meetings for confirmation of expected additional hikes.\n- European natural gas prices as an inflation transmission risk.\n- US Treasury long-end auctions for fiscal-driven yield pressure.",
+      "summarized_at": "2026-08-14T11:19:24.024575+00:00"
+    },
+    {
+      "title": "Retiree benefits bump, credit repayment slump, and a dating app in the dumps",
+      "published": "Fri, 14 Aug 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/e952eea4-4bd3-453d-b288-d90d4de768dd/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=e952eea4-4bd3-453d-b288-d90d4de768dd&feed=IFy3imsg&t=podcast&e=nx-s1-5930683&p=510325&d=553&size=8864166",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "USD",
+        "Inflation",
+        "CPI",
+        "Credit",
+        "Consumer spending"
+      ],
+      "summary": "**Summary**\nThis Indicator of the Week episode covers three unrelated US data points: the July CPI-W inflation reading used to set Social Security's 2027 cost-of-living adjustment, rising serious delinquency in US credit card debt, and Bumble's collapsing paid user base. None directly concerns EM Asia or LATAM FX/rates, but the CPI and consumer-credit data add texture to the US inflation and consumer-health picture that ultimately feeds into Fed policy expectations.\n\n**Key points**\n- CPI-W (Urban Wage Earners and Clerical Workers index), used since 1973 to set Social Security's COLA, rose 3.4% year-over-year in July; the final COLA figure is confirmed in October.\n- AARP projects a 3.5% Social Security COLA for 2027 (~$73/month extra for average retirees); the Senior Citizens League projects 3.6%, which would be the largest increase in four years.\n- 12.8% of US credit card debt is now seriously delinquent (90+ days past due) per a New York Fed report — the highest since around the Great Recession, though the pace of new delinquencies has been stable; auto loan and mortgage delinquencies are also rising.\n- Bumble's paying users fell 16% over 12 months; Bumble stock is down ~95% and Match Group (Tinder) down ~70% over five years, while Grindr is up ~50% since its 2021 IPO. Both Bumble and Match Group are pivoting to in-person meetup features to reverse declines.\n\n**FX / rates implications**\n- No direct EM Asia/LATAM read-through; this is US domestic CPI/consumer-credit color rather than a market-moving headline print (the headline CPI-U, not CPI-W, drives Fed pricing and DXY/UST moves).\n- Rising US consumer delinquencies (credit card, auto, mortgage) are a soft signal of US household stress that could eventually feed into growth/Fed-cut narratives relevant to USD and broad EM risk appetite, but the transmission here is indirect and not quantified in growth terms.\n\n**Watch list**\n- Official Social Security COLA announcement due in October, based on final CPI-W data.\n- Ongoing New York Fed household debt/delinquency data for signs of broader US consumer credit stress.",
+      "summarized_at": "2026-08-14T11:21:07.632089+00:00"
+    },
+    {
+      "title": "The Week Ahead – Light on data and low on clarity",
+      "published": "Fri, 14 Aug 2026 09:54:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260814_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "feed": "Nomura - The Week Ahead",
+      "provider": "Nomura",
+      "priority": 5,
+      "tags": [
+        "IDR",
+        "Bank Indonesia",
+        "BI",
+        "THB",
+        "BoT",
+        "CNY",
+        "PBoC",
+        "China GDP",
+        "Fed",
+        "FOMC",
+        "USD",
+        "UST 10y",
+        "Gold"
+      ],
+      "summary": "**Summary**\nNomura's Week Ahead covers a light global data calendar but several EM-relevant central bank and data events: Bank Indonesia's first policy decision under acting governor Destry Damayanti following the shock resignation of Perry Warjiyo, Thailand's Q2 GDP, and China's July activity data alongside fiscal stimulus prospects. US CPI/PPI and the upcoming FOMC minutes are also covered, framing the broader Fed path that anchors EM rates and FX.\n\n**Key points**\n- US CPI rose 0.215% m/m, close to consensus; combined with PPI, Nomura forecasts core PCE at 0.234% m/m, near the Fed's comfort threshold; weak NFP reinforces a cooling growth narrative supporting a Fed pause for the rest of the year.\n- China: July industrial production expected at 5.0% y/y (vs 5.3% in June) on strong exports (+24% y/y), but retail sales (+1.5% y/y) and fixed asset investment (-8% y/y) remain weak; Nomura cut Q3 GDP forecast to 4.3% y/y from 4.5%. Big fiscal stimulus unlikely before September/October, impact mostly Q4.\n- Bank Indonesia expected to hold rates at 5.75% under new acting governor Destry Damayanti, who is likely to signal policy continuity, continued macroprudential easing, and double-digit money supply targeting.\n- Thailand Q2 GDP expected to slow sharply to 1.8% y/y (from 2.8% in Q1) on weak manufacturing and tourism; supports Bank of Thailand staying on hold all year.\n- Gold trading above $4,300 on structural central bank buying and rate/geopolitical uncertainty; Brent crude near $90.\n\n**FX / rates implications**\n- IDR: BI hold plus continuity signal under new leadership should be modestly IDR-supportive; watch for any dovish tilt from macroprudential easing.\n- THB: Weak Q2 GDP print reinforces BoT-on-hold view, capping THB upside; energy-shock vulnerability is a THB-specific drag versus regional peers.\n- CNY: Soft demand-side data and delayed fiscal stimulus (Q4 impact) argue for continued PBoC accommodation bias and limited near-term CNY strength.\n- USD/UST: A Fed pause narrative (supported by CPI/NFP) and dovish FOMC minutes expectations are broadly USD-negative/EM-FX supportive; long-end UST uncertainty flagged as a key risk factor for gold and broader risk sentiment.\n\n**Watch list**\n- Bank Indonesia rate decision (expected hold at 5.75%) under acting governor Destry Damayanti.\n- China July activity data: industrial production, retail sales, fixed asset investment.\n- FOMC minutes for hawk/dove divide and rate-hike threshold clues.\n- Thailand Q2 GDP and BoT decision later this month.\n- UK July CPI and Riksbank/Norges Bank rate paths.",
+      "summarized_at": "2026-08-14T11:24:51.018362+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-14"
 }
