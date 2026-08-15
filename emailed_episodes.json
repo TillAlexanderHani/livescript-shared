@@ -14958,8 +14958,15 @@
       "feed": "Macro Voices",
       "processed": "2026-08-15T02:17:23.055328+00:00",
       "episode_id": "60d876bc620e6721"
+    },
+    "9dd0695de998ecaf": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6a7ef0f9ff328abd8479c0e0/media.mp3",
+      "title": "The AI ascendency",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-08-15T10:01:24.885039+00:00",
+      "episode_id": "9dd0695de998ecaf"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-15T02:17:23.055364+00:00"
+  "last_updated": "2026-08-15T10:01:24.885078+00:00"
 }
