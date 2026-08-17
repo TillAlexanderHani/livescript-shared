@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Global Data Pod: Will Georgia Get a Rating Upgrade?",
+      "published": "Mon, 17 Aug 2026 12:15:40 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/v26u3zjhe648tpus/GDP_Khamza_Nicolaie_KAL-1-GK4CUHZJ.mp3",
+      "feed": "Global Data Pod",
+      "provider": "J.P. Morgan",
+      "priority": 2,
+      "tags": [
+        "Georgia",
+        "Emerging markets",
+        "Sovereign debt",
+        "Ratings",
+        "Fiscal",
+        "FDI",
+        "Central Asia",
+        "Elections"
+      ],
+      "summary": "**Summary**\nJ.P. Morgan economists discuss Georgia's economy, which continues to post exceptionally strong growth (7.9% in H1 2026) driven by IT services expansion rather than construction or fiscal spending, and assess whether rating agencies (Moody's, S&P, Fitch) will upgrade the sovereign given improving fundamentals and reduced political-risk premium. While Georgia is a frontier/pre-EM sovereign rather than a core EM Asia or LATAM name, the discussion of rating-agency dynamics, reserve accumulation and portfolio flows is a template relevant to broader EM sovereign credit positioning.\n\n**Key points**\n- Georgian growth is IT-services led, not construction/mining as in Central Asia peers; IT sector now contributes over $1bn net in BOP terms, up from near zero pre-Ukraine war.\n- Georgia ran a near-balanced fiscal budget (one of only two in the region, with Tajikistan), avoiding the overheating seen in Kazakhstan/Uzbekistan.\n- Inflation is forecast to fall from 3.5% (current, food/fuel driven) toward 2.6% and closer to target by 2027; growth forecast ~7.7% in 2026, current account deficit around 2.5-2.7% of GDP.\n- Moody's removed its negative outlook; S&P and Fitch have moved to positive; similar upgrades happening across the region (Armenia, Uzbekistan).\n- Central bank (NBG) has been hawkish, raising rates when the Ukraine war started, and has been steadily accumulating FX reserves via nonstop purchases.\n- FDI remains strong and more than offsets the current account deficit; ~$0.5bn in non-resident inflows into domestic debt market; portfolio inflows and a low-spread eurobond refinancing this year.\n- EU visa-free regime and EU accession talks are stalled (not expected before 2028-2029); Russia risk seen as low given Georgia's pragmatic, low-engagement stance.\n\n**FX / rates implications**\n- Marginal relevance to core book; frontier sovereign credit upgrade story could be a read-across comparator for EM sovereign spread compression themes (e.g., Georgia eurobond spreads tightening on rating upside) rather than a direct FX/rates trade for INR, IDR, PHP, MXN, BRL etc.\n- Broader regional theme (frontier CEEMEA/Central Asia fundamentals improving vs. other frontier markets) could inform relative-value views in frontier hard-currency debt, tangential to G10/EM Asia-LATAM FX book.\n\n**Watch list**\n- Potential Moody's/S&P/Fitch rating action on Georgia following the shift to positive/stable outlooks.\n- EU-Georgia relations and any resolution timeline (2028-2029) on visa-free regime.\n- NBG reserve accumulation trend and current account trajectory into 2027.",
+      "summarized_at": "2026-08-17T18:19:59.541580+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-17"
 }
