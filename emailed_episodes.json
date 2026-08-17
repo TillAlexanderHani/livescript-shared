@@ -15007,8 +15007,29 @@
       "feed": "Global Data Pod",
       "processed": "2026-08-17T18:19:59.541580+00:00",
       "episode_id": "7c31ede70910e3f3"
+    },
+    "2184ba574fac1543": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/cda034ec-121f-461c-bf66-8e0da21c6d00.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "When AI Takes Over Shopping Carts",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-17T22:05:47.798099+00:00",
+      "episode_id": "2184ba574fac1543"
+    },
+    "87644445aed98b21": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/57124910-cf24-4b72-839a-0dbaba1bab29/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=57124910-cf24-4b72-839a-0dbaba1bab29&feed=tc4zxWgX",
+      "title": "Retail Ramp-Up, Chinese Tech Catalysts, and a Bitcoin breakout? 8/17/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-08-17T22:12:11.977086+00:00",
+      "episode_id": "87644445aed98b21"
+    },
+    "6d1efb1d2d0f3a07": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC2617730559.mp3",
+      "title": "The Credit Market Lens: What BDC Markets Are Signaling About Private Credit Valuations",
+      "feed": "PIMCO Pod",
+      "processed": "2026-08-17T22:15:36.766811+00:00",
+      "episode_id": "6d1efb1d2d0f3a07"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-17T18:19:59.541618+00:00"
+  "last_updated": "2026-08-17T22:15:36.766864+00:00"
 }
