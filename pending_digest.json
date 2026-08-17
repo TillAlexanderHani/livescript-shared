@@ -1,23 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "Cut to the Chase! Stay in the game",
-      "published": "Mon, 17 Aug 2026 07:00:00 +0800",
-      "url": "https://www.buzzsprout.com/1662247/episodes/19656083-cut-to-the-chase-stay-in-the-game.mp3",
-      "feed": "Standard Chartered Money Insights",
-      "provider": "Standard Chartered",
-      "priority": 2,
-      "tags": [
-        "Equities",
-        "Risk sentiment",
-        "Leverage",
-        "Diversification",
-        "Hedge funds",
-        "AI"
-      ],
-      "summary": "**Summary**\nA Standard Chartered wealth-focused podcast contrasts two in-house equity views — one constructive for years to come, one flagging a possible sizable drawdown in six to eighteen months — to make the case for portfolio resilience over market timing. The content is generic wealth-management risk advice rather than a specific EM FX/rates call, but the underlying leverage and risk-sentiment themes are relevant background for any macro trader monitoring positioning stress.\n\n**Key points**\n- Standard Chartered's equities CIO argued markets remain years from a sustained bear phase, while another strategist, holding a neutral equity allocation, is positioning to downgrade to underweight given frothy valuations and expects a sizable drawdown within 6-18 months.\n- Late July saw a leveraged hedge fund forced into distressed selling of its portfolio after margin calls, cited as a cautionary example of excessive leverage.\n- Recommended strategies to \"stay in the game\": avoid excessive leverage, diversify across geographies/sectors/asset classes, and hold cash/cash-like buffers as both a lifestyle backstop and dry powder for buying weakness.\n- Emphasis on quantifying historical portfolio drawdowns (dot-com, GFC, COVID) to pre-empt emotional or margin-driven selling.\n\n**FX / rates implications**\n- No direct EM FX or rates guidance; the leveraged hedge fund unwind reference is a reminder that crowded, leveraged positioning can amplify de-risking episodes that spill into EM risk sentiment and carry trades during equity drawdowns.\n- Broader takeaway for a macro book: elevated equity valuation concerns and warnings of a possible drawdown are a soft risk-off signal worth tracking alongside EM carry exposure and hedging discipline.\n\n**Watch list**\n- Monitor for further signs of leveraged fund stress or margin-call-driven forced selling in equities, which could spill into broader risk-off flows affecting EM FX and carry positions.\n- Track whether the cautious equity view (drawdown risk over 6-18 months) gains traction across sell-side commentary as a leading indicator for risk sentiment shifts.",
-      "summarized_at": "2026-08-17T02:12:54.201706+00:00"
-    }
-  ],
-  "last_digest_date": "2026-08-16"
+  "episodes": [],
+  "last_digest_date": "2026-08-17"
 }
