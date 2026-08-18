@@ -15049,8 +15049,29 @@
       "feed": "The China-Global South Podcast",
       "processed": "2026-08-18T02:13:03.766936+00:00",
       "episode_id": "9286c51fe205688f"
+    },
+    "67608d7c0e4bccc2": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8338098878.mp3",
+      "title": "Wellington’s Jean Hynes on the Art of Investing and Finding New Markets",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-08-18T10:10:24.697666+00:00",
+      "episode_id": "67608d7c0e4bccc2"
+    },
+    "9d323f50938fc34b": {
+      "url": "https://traffic.megaphone.fm/CLS4584299095.mp3",
+      "title": "Ben Thompson on Big Tech, China, and the AI Boom Running Out of Money - [Invest Like the Best, EP.487]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-08-18T10:22:51.547405+00:00",
+      "episode_id": "9d323f50938fc34b"
+    },
+    "bbb20f727e751485": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/099116b0-cdb2-4651-9a68-c8dceab6c1ce/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=099116b0-cdb2-4651-9a68-c8dceab6c1ce&feed=IFy3imsg&t=podcast&e=nx-s1-5935601&p=510325&d=528&size=8454983",
+      "title": "Trump versus Capital One",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-08-18T10:25:54.316330+00:00",
+      "episode_id": "bbb20f727e751485"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-18T02:13:03.766986+00:00"
+  "last_updated": "2026-08-18T10:25:54.316376+00:00"
 }
