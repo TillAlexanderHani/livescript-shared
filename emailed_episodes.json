@@ -15119,8 +15119,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-08-19T14:36:06.836977+00:00",
       "episode_id": "9fbbf75ca3460d0a"
+    },
+    "e4001460405a8e44": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/e981e6ab-35ae-4326-af48-157e82ec3e5e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=e981e6ab-35ae-4326-af48-157e82ec3e5e&feed=tc4zxWgX",
+      "title": "Global Bond Rout, Meta’s Landmark Trial, and Anthropic’s Revenue Surge 8/18/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-08-19T18:08:49.377223+00:00",
+      "episode_id": "e4001460405a8e44"
+    },
+    "04c7161eff0e3bd1": {
+      "url": "https://traffic.megaphone.fm/BLM9402345312.mp3",
+      "title": "Masters of the Muniverse: JPMorgan and the Muni SMA Revolution",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-08-19T18:26:07.703973+00:00",
+      "episode_id": "04c7161eff0e3bd1"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-19T14:36:06.837021+00:00"
+  "last_updated": "2026-08-19T18:26:07.704016+00:00"
 }
