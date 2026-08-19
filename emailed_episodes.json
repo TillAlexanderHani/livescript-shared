@@ -15133,8 +15133,15 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-08-19T18:26:07.703973+00:00",
       "episode_id": "04c7161eff0e3bd1"
+    },
+    "5ef4e38b39585941": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/e843db56-7e31-473b-bd75-7c6f99c02481.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "El Niño’s Ripple Effects on Markets",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-19T22:05:38.549874+00:00",
+      "episode_id": "5ef4e38b39585941"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-19T18:26:07.704016+00:00"
+  "last_updated": "2026-08-19T22:05:38.549917+00:00"
 }
