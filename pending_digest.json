@@ -1,4 +1,46 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Korean Stocks: From Correction to a Healthy Recovery",
+      "published": "Wed, 19 Aug 2026 00:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/5c010f41-47c8-40d0-b53d-278ea0c5645b.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 5,
+      "tags": [
+        "KRW",
+        "Korea",
+        "BoK",
+        "KOSPI",
+        "Equities",
+        "Inflation",
+        "GDP",
+        "Capital flows",
+        "Carry"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's Korea equity strategist argues the KOSPI is transitioning from a sharp correction toward a more durable, broader recovery after a volatile 2026 (+101% in H1, then -38% from peak by July 30). The thesis rests on cheap valuations, fading forced selling, and improving macro fundamentals, with the Bank of Korea's rate path and shifting investor base carrying direct relevance for KRW rates and flows.\n\n**Key points**\n- KOSPI 12-month forward P/E fell below 5x, lowest since 2004; capitulation index hit -2.53, historically a trough signal outside major crises.\n- Leveraged single-stock ETF assets down ~70% from June peak; margin lending falling; hedge funds ~75% through a typical risk-reduction cycle.\n- Real GDP growth topped 3% for two consecutive quarters (vs 1.1% in 2025), with consumption and tourism (targeting 23mn foreign visitors) broadening the recovery beyond exports/tech.\n- CPI hit 3.2% in June; BoK has hiked to 2.75%, with a measured cycle seen reaching 3.5% by Q1 2027.\n- Domestic retail drove H1 rally; tighter leverage rules mean foreign investors likely determine the next leg, aided by governance reforms.\n- MS base case: KOSPI 9,000 by June 2027 (bull 10,500, bear 5,500); leadership broadening to industrials, financials, healthcare, communications, consumer staples.\n- AI/memory capex tailwind: global big-tech spend seen at $805bn (2026) and $1.2tn (2027), keeping tech sensitive to capex/chip-pricing swings.\n\n**FX / rates implications**\n- BoK hiking cycle (2.75% → possibly 3.5% by Q1'27) supports KRW carry and could narrow rate differentials versus the Fed, a modest KRW positive if growth/inflation data confirm.\n- Renewed foreign equity inflows, contingent on governance reform follow-through, would be a KRW-supportive capital-flow channel.\n- Strong GDP and consumption data reduce near-term BoK easing risk, keeping Korean front-end rates biased higher.\n\n**Watch list**\n- BoK policy decisions and CPI prints for pace of the hiking cycle toward 3.5%.\n- Foreign investor flow data as leverage-driven domestic retail participation fades.\n- Global tech capex/chip pricing trends given KOSPI's continued sensitivity to AI/memory demand.",
+      "summarized_at": "2026-08-19T13:51:19.261637+00:00"
+    },
+    {
+      "title": "Getting entrepreneurial in Korea (Summer School)",
+      "published": "Wed, 19 Aug 2026 07:30:00 +0000",
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655",
+      "feed": "Planet Money",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Korea",
+        "KRW",
+        "China",
+        "CNY",
+        "Trade",
+        "Tariffs",
+        "Industrial policy",
+        "Emerging markets"
+      ],
+      "summary": "**Summary**\nA Planet Money \"Summer School\" episode traces South Korea's postwar development model — land reform, export-driven industrial policy, and technology transfer (the \"flying geese\" pattern) to Taiwan, China, and Bangladesh — and contrasts it with North Korea's stunted, sanctions-choked economy. It is historical/educational content, not a markets or trading-relevant story, but it does touch on themes (industrial policy, export competitiveness, sanctions-driven revenue) that occasionally inform how analysts think about EM development trajectories.\n\n**Key points**\n- South Korea, Taiwan, Singapore and Hong Kong (the \"East Asian Tigers\") converged rapidly to industrialized-West income levels from near-parity with African nations post-1953.\n- Korea's playbook: land reform to reduce inequality, cheap loans/tariff protection for manufacturers, paired with \"export discipline\" forcing firms to compete globally rather than rely on subsidies.\n- Korea transferred textile know-how to Bangladesh in the late 1970s (via Daewoo), partly driven by Nixon's 1974 Multi-Fiber Arrangement capping Korean textile exports to the US, pushing Korea to relocate production; Bangladesh is now the world's second-largest clothing exporter.\n- North Korea's economy is now roughly 1/50th the size of South Korea's (smaller than Wyoming's); Kim Jong-un has tolerated a small entrepreneurial \"Donju\" class while a recent Bloomberg investigation found North Korea earned $22bn in foreign revenue via arms sales to Russia and crypto hacking, funding its nuclear program.\n- China and Vietnam are cited as successful cases of Marxist-Leninist states retaining high state capacity while shedding communist economic controls; Sub-Saharan Africa is noted as largely failing to replicate the textile-led industrialization step due to historically low population density.\n\n**FX / rates implications**\nNo direct, actionable read-through for spot FX or rates markets; this is a historical/development-economics narrative rather than current policy or data. Tangential relevance: it reinforces the long-run growth-model context for how KRW-linked industrial competitiveness emerged and touches on US-China/Bangladesh trade-policy history (Multi-Fiber Arrangement) that underlies present-day tariff and trade-flow dynamics still relevant to EM Asia manufacturing exporters (Bangladesh, Vietnam).\n\n**Watch list**\n- None — no scheduled data, catalysts, or policy deadlines referenced.",
+      "summarized_at": "2026-08-19T14:11:57.544389+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-19"
 }

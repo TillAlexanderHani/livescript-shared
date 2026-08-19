@@ -15077,8 +15077,50 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-08-18T22:14:33.067376+00:00",
       "episode_id": "93021a357c80d577"
+    },
+    "dfc59bd25d7cd5b0": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/5c010f41-47c8-40d0-b53d-278ea0c5645b.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Korean Stocks: From Correction to a Healthy Recovery",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-19T13:51:19.261637+00:00",
+      "episode_id": "dfc59bd25d7cd5b0"
+    },
+    "38f6a37cffc796c2": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a849d643c90594060cce6c0/media.mp3",
+      "title": "Mohammed: prophet, trader . . . and capitalist?",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-08-19T14:05:57.036027+00:00",
+      "episode_id": "38f6a37cffc796c2"
+    },
+    "97bc0cbfe60cb9fe": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655",
+      "title": "Getting entrepreneurial in Korea (Summer School)",
+      "feed": "Planet Money",
+      "processed": "2026-08-19T14:11:57.544389+00:00",
+      "episode_id": "97bc0cbfe60cb9fe"
+    },
+    "e0e250998c0c5260": {
+      "url": "https://pdcn.co/e/rss.art19.com/episodes/230f1a93-66f6-4fa9-bc08-80cbab11ae4c.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Talking Past Each Other: Pallavi Aiyar on India, China, and the Case for Cognitive Empathy",
+      "feed": "Sinica Podcast (China)",
+      "processed": "2026-08-19T14:33:32.637262+00:00",
+      "episode_id": "e0e250998c0c5260"
+    },
+    "ed7b8edf4548d053": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19669064-investips-from-the-cio-s-desk-stay-in-sync.mp3",
+      "title": "InvesTips from the CIO’s desk – Stay in sync",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-19T14:34:20.510937+00:00",
+      "episode_id": "ed7b8edf4548d053"
+    },
+    "9fbbf75ca3460d0a": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/04e60a64-dde0-4a26-8f3c-29ee8eafdc6e/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=04e60a64-dde0-4a26-8f3c-29ee8eafdc6e&feed=IFy3imsg&t=podcast&e=nx-s1-5936602&p=510325&d=569&size=9109090",
+      "title": "Have a bad manager? Science explains why.",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-08-19T14:36:06.836977+00:00",
+      "episode_id": "9fbbf75ca3460d0a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-18T22:14:33.067418+00:00"
+  "last_updated": "2026-08-19T14:36:06.837021+00:00"
 }
