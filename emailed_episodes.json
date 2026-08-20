@@ -15147,8 +15147,36 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-08-20T02:13:51.362196+00:00",
       "episode_id": "dcfd1146bb025cfe"
+    },
+    "d479ac86b0bc9e02": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/bee3ddee-d8fb-4cb5-977a-776fc09091de/group-item/442ec9e9-a0b4-4b4c-ac0f-b4648276e5de/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Trapped in Hormuz: Total War or a New World Disorder? with Jeff Currie",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-08-20T10:14:11.609328+00:00",
+      "episode_id": "d479ac86b0bc9e02"
+    },
+    "d7b5db4743bee501": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bcc22dff-b144-40ae-8f68-b4ab00f28c30/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Nick Bostrom on What Happens if AI Solves All of Our Problems",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-08-20T10:21:31.298031+00:00",
+      "episode_id": "d7b5db4743bee501"
+    },
+    "bfe3abec7467f0f1": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19674971-cut-to-the-chase-us-treasury-expands-buyback-program.mp3",
+      "title": "Cut to the Chase! US Treasury expands buyback program",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-20T10:22:23.677237+00:00",
+      "episode_id": "bfe3abec7467f0f1"
+    },
+    "b08f6df19a930446": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/31da7249-62d9-4635-b8bb-62724e3d0033/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=31da7249-62d9-4635-b8bb-62724e3d0033&feed=IFy3imsg&t=podcast&e=nx-s1-5938807&p=510325&d=540&size=8647662",
+      "title": "Is bankruptcy really all that bad?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-08-20T10:24:14.615431+00:00",
+      "episode_id": "b08f6df19a930446"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-20T02:13:51.362240+00:00"
+  "last_updated": "2026-08-20T10:24:14.615469+00:00"
 }
