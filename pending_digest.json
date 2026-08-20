@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The Exchange 8/19/26",
+      "published": "Wed, 19 Aug 2026 19:00:03 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/c4f3a3d9-71ac-4444-84cc-952f48273d9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=c4f3a3d9-71ac-4444-84cc-952f48273d9c&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "UST 10y",
+        "Fed",
+        "Treasury",
+        "Risk sentiment",
+        "Gold",
+        "China",
+        "S&P 500",
+        "Inflation",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nTreasury Secretary Bessent announced a surprise doubling of long-dated debt buybacks (10-30yr) to $4bn per operation from Sept 9-Nov 4, an \"operation twist\" replacing long bonds with bills to pull down long yields after the 30yr hit a multi-decade high of 5.33%. This directly affects UST curve dynamics, term premium, and dollar-funding conditions that anchor EM rates and FX globally, alongside a weak 20yr auction (graded D+) and China-related risk appetite signals from Unitry's blowout Shanghai IPO debut.\n\n**Key points**\n- Treasury buybacks double from $2bn/$14bn total to $4bn/$28bn per cycle across 7 operations; not guaranteed to hit max.\n- 30yr UST yield hit 5.33% multi-decade high before the announcement; 10yr fell ~4bp on the news.\n- 20yr auction was weak (tailed), despite lower rates going in; analyst Rick Santelli graded it D+.\n- Fed board approved (6-1) Vice Chair Bowman's bank capital plan, potentially freeing $4-6tn of bank demand for belly-of-curve (3-7yr) Treasuries.\n- Analyst Barry Knapp called for policy rate cuts to 3% as early as December to properly steepen the curve; flagged 2026 debt-ceiling risk post-midterms.\n- Chinese humanoid robot maker Unitry surged as much as 630% (settled +460%) on Shanghai debut, retail tranche 5,500x oversubscribed, signaling strong Chinese capital-markets risk appetite and Beijing support for tech IPOs.\n- Anthropic's quarterly revenue run-rate reportedly overtook OpenAI's; OpenAI Q2 revenue grew only ~$1bn sequentially to $6.7bn — AI capex/credit-spread dynamics were cited as a driver of recent UST yield moves via hyperscaler financing.\n\n**FX / rates implications**\n- Treasury's operation twist plus potential Fed-encouraged bank buying of belly-of-curve UST could compress term premium and cap long-end yields, a modest dollar-negative/carry-supportive backdrop for EM if it lowers global risk-free rates without signaling distress.\n- Increased reliance on bill issuance raises US sensitivity to short-term rates, a variable EM rates desks should watch given knock-on effects to global front-end funding costs and cross-currency basis.\n- Hyperscaler-driven credit spread widening and AI capex jitters are cited as a more immediate driver of the recent long-end UST selloff than the fiscal deficit itself, relevant to global risk sentiment and EM credit spreads.\n- Strong Chinese IPO/retail demand (Unitry) supports a narrative of loosening regulatory stance and improving risk appetite in China, a positive read-through for CNH/CNY sentiment and broader EM Asia risk proxies.\n\n**Watch list**\n- Debt ceiling fight expected in 2026, complicated if Democrats take the House in midterms.\n- Fed decision on capital/liquidity rule changes and any signal encouraging bank UST buying, watch for December policy rate decision (Knapp expects possible cut to 3%).\n- Further Treasury buyback operations through Nov 4 and their impact on 10s/30s yields.\n- Anthropic reported IPO timeline (October speculated) as a read on AI-sector capital flows.",
+      "summarized_at": "2026-08-20T02:13:51.362196+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-20"
 }

@@ -15140,8 +15140,15 @@
       "feed": "Thoughts on the Market",
       "processed": "2026-08-19T22:05:38.549874+00:00",
       "episode_id": "5ef4e38b39585941"
+    },
+    "dcfd1146bb025cfe": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/c4f3a3d9-71ac-4444-84cc-952f48273d9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=c4f3a3d9-71ac-4444-84cc-952f48273d9c&feed=tc4zxWgX",
+      "title": "The Exchange 8/19/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-08-20T02:13:51.362196+00:00",
+      "episode_id": "dcfd1146bb025cfe"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-19T22:05:38.549917+00:00"
+  "last_updated": "2026-08-20T02:13:51.362240+00:00"
 }
