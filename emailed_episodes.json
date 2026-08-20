@@ -15196,8 +15196,15 @@
       "feed": "PIMCO Pod",
       "processed": "2026-08-20T18:52:22.341667+00:00",
       "episode_id": "1c4b37b143014cc8"
+    },
+    "93a5fca2c2e674c4": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/c085d592-3636-4028-8c57-00d1945ca119.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The New Map of AI Power",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-20T22:08:50.708036+00:00",
+      "episode_id": "93a5fca2c2e674c4"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-20T18:52:22.341729+00:00"
+  "last_updated": "2026-08-20T22:08:50.708082+00:00"
 }
