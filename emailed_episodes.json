@@ -15308,8 +15308,29 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-08-21T18:51:06.124813+00:00",
       "episode_id": "940de73ffd1fd391"
+    },
+    "b689000716f67983": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/ca088f54-59b5-4c38-ba96-c532db138f73.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Shifts in Credit Markets for the AI Buildout",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-21T22:04:13.332693+00:00",
+      "episode_id": "b689000716f67983"
+    },
+    "2f47e44aeacd19f3": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592",
+      "title": "Who decides what big box sells? Our GAME got us answers",
+      "feed": "Planet Money",
+      "processed": "2026-08-21T22:24:51.973350+00:00",
+      "episode_id": "2f47e44aeacd19f3"
+    },
+    "083de93a9f095389": {
+      "url": "https://media.transistor.fm/5cc676ab/d6deb8a7.mp3",
+      "title": "The great global bond sell-off – causes, consequences and what comes next",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-08-21T22:40:35.019598+00:00",
+      "episode_id": "083de93a9f095389"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-21T18:51:06.124858+00:00"
+  "last_updated": "2026-08-21T22:40:35.019638+00:00"
 }
