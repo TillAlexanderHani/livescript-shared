@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Bessent’s Bond Battle, Go Broad Not Bearish, and Stripe’s Strategy 8/20/26",
+      "published": "Thu, 20 Aug 2026 18:13:08 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d8e42340-3110-482b-84f4-902bfe4b8e27/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d8e42340-3110-482b-84f4-902bfe4b8e27&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Fed",
+        "Bessent",
+        "Treasury",
+        "Oil",
+        "Brent",
+        "WTI",
+        "Risk sentiment",
+        "Fiscal",
+        "China"
+      ],
+      "summary": "**Summary**\nTreasury Secretary Scott Bessent signaled the Treasury may expand long-bond buybacks beyond the announced $4bn minimum per issue, an unusual intervention aimed at illiquidity in off-the-run long-dated Treasuries. Yields backed up anyway, with the 10-year around 4.70% and the 30-year having just hit a decades-high 5.33%, undoing much of the prior day's rally — a dynamic directly relevant to global rates and USD positioning that EM trades against.\n\n**Key points**\n- Treasury will increase buyback size, potentially above the $4bn/issue minimum; framed as addressing summertime illiquidity, not yield suppression.\n- Fiscal consolidation announcement teased for late this week/early next week with OMB director Russ Vought.\n- Oil: WTI near $90/bbl after Trump declared an economic campaign against Iran, threatening sanctions on any country/entity aiding Iran's oil trade, explicitly including China's Iran trade; China gets ~50% of its energy from the Gulf.\n- 10-year yield was sub-4% before the Iran-related escalation; oil-driven yield rise is a key transmission channel now.\n- US fiscal deficit narrowed from 8% of GDP (2023) to 5.9% currently per Mitch Daniels citing Michael Darda, though debt stock is near $40 trillion.\n- Guest (First Eagle's Matt McClennan) flagged \"fiscal risk in the world's reserve currency\" (USD) as the defining 2020s theme, favoring gold and real/scarce assets over concentrated AI equity exposure.\n\n**FX / rates implications**\n- Rising UST yields and a Treasury seen as intervening ad hoc (vs. \"regular and predictable\" issuance) raises long-end risk premium — a headwind for EM carry trades funded off low US rates and a potential USD support/volatility driver.\n- Oil spike from Iran tensions (Strait of Hormuz risk) is a stagflationary EM risk: negative for Asia oil importers (INR, PHP, IDR current accounts) and supportive for LATAM oil exporters (COP, MXN via Pemex linkages) at the margin.\n- Sanctions threat targeting China's Iran oil trade adds a fresh US-China friction vector, a risk factor for CNY/CNH and broader Asia FX sentiment.\n- Persistent US fiscal/debt concerns and \"financial repression\" talk (artificially low rates) support structural USD debasement/gold narratives relevant to EM reserve and hedging flows.\n\n**Watch list**\n- Size and cadence of Treasury's expanded long-bond buybacks; next 20-year/30-year auction.\n- Fiscal consolidation announcement from Bessent/Vought, expected late this week or early next week.\n- Iran/Strait of Hormuz developments and any Chinese response to US sanctions threats on Iran oil trade.\n- 10-year (~4.70%) and 30-year (~5.33% recent high) yield levels for further backup or stabilization.",
+      "summarized_at": "2026-08-21T02:20:14.019909+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-21"
 }
