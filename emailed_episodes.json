@@ -15210,8 +15210,43 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-08-21T02:20:14.019909+00:00",
       "episode_id": "df7b58c63bf877ca"
+    },
+    "b38492620b0a6a92": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD2532093964.mp3",
+      "title": "Why US Equity Returns Are Broadening Beyond AI Stocks",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-08-21T10:08:32.376406+00:00",
+      "episode_id": "b38492620b0a6a92"
+    },
+    "24cbbee1e81bffd4": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6a87bc7a041118f249140af1/media.mp3",
+      "title": "What is Hong Kong's Northern Metropolis?",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-08-21T10:11:05.987814+00:00",
+      "episode_id": "24cbbee1e81bffd4"
+    },
+    "014e0830330dca55": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a87034edcddb5e3cf422ef3/media.mp3",
+      "title": "From \"The Story of Money\": How a stock market crash gave birth to modern antisemitism",
+      "feed": "The Economics Show",
+      "processed": "2026-08-21T10:18:05.112223+00:00",
+      "episode_id": "014e0830330dca55"
+    },
+    "20772969cd978e6a": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8387538d-5ecf-4b07-a3f0-b4ab00e1cbc5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-08-21T10:39:07.537177+00:00",
+      "episode_id": "20772969cd978e6a"
+    },
+    "1899196c8bc8b933": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/04bcf793-5d20-49c9-8fbf-1364390228ca/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=04bcf793-5d20-49c9-8fbf-1364390228ca&feed=IFy3imsg&t=podcast&e=nx-s1-5940065&p=510325&d=564&size=9037201",
+      "title": "EV sales slow, US Treasury yields grow, 'Niu Lai' has impressive box office mojo",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-08-21T10:47:50.866220+00:00",
+      "episode_id": "1899196c8bc8b933"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-21T02:20:14.019949+00:00"
+  "last_updated": "2026-08-21T10:47:50.866268+00:00"
 }
