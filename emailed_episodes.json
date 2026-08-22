@@ -15336,8 +15336,15 @@
       "feed": "The GlobalCapital Podcast",
       "processed": "2026-08-22T02:20:53.920076+00:00",
       "episode_id": "8434c267ffd610be"
+    },
+    "13dfae1576e28f28": {
+      "url": "https://mcdn.podbean.com/mf/web/rvfkv94ifeuivcik/08212026_MMTVuse.mp3",
+      "title": "Global Data Pod Weekender: Beachside banter",
+      "feed": "Global Data Pod",
+      "processed": "2026-08-22T14:03:13.807457+00:00",
+      "episode_id": "13dfae1576e28f28"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-22T02:20:53.920123+00:00"
+  "last_updated": "2026-08-22T14:03:13.807496+00:00"
 }
