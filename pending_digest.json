@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The Middle East and corporate bond pipeline",
+      "published": "Fri, 21 Aug 2026 15:00:00 +0100",
+      "url": "https://www.buzzsprout.com/1811593/episodes/19680677-the-middle-east-and-corporate-bond-pipeline.mp3",
+      "feed": "The GlobalCapital Podcast",
+      "provider": "GlobalCapital",
+      "priority": 2,
+      "tags": [
+        "Gulf bonds",
+        "Middle East sovereigns",
+        "UST 10y",
+        "Credit",
+        "Corporate bonds",
+        "Eurobond",
+        "Fiscal",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nThis episode covers primary bond market dynamics rather than EM FX/rates directly: Gulf sovereign dollar bond issuance remains subdued as the Iran-Israel conflict lingers, while European corporate bond issuance (led by German/Swiss names) resumes strongly after the summer lull. Relevance to an EM Asia/LATAM FX trader is mostly indirect, via US Treasury yield sensitivity and broader risk sentiment.\n\n**Key points**\n- Gulf sovereign/SOE issuance has stalled since February amid the Iran-Israel war; big issuers (Abu Dhabi, Qatar, Kuwait) have favored private placements over public bonds.\n- Investors remain very keen buyers of Gulf debt (strong inflows), but issuers are reluctant given elevated all-in borrowing costs from wider spreads plus higher Treasury yields.\n- Asian investor demand (especially China) for Middle East bonds has largely dried up since the war began, shrinking the addressable investor base and raising costs.\n- Kuwait's late-July deal drew strong international participation, seen as a positive signal for a September reopening.\n- European IG corporate issuance restarted with $3.75bn in euros this week; bankers expect $13-15bn (possibly up to $20bn) next week, with debut hybrid deals from Swiss issuers (Ceva, Swisscom) pricing near record-tight senior-sub spreads.\n- US midterm elections (November 3) seen as a natural soft deadline pushing dollar-market borrowers, including hyperscalers (Alphabet, Amazon, Meta), to front-load issuance.\n- Alphabet priced a record A$5.5bn kangaroo (AUD) bond across six tranches with A$18bn demand, the largest order book for a corporate/FI deal in that market.\n\n**FX / rates implications**\n- A durable Iran-Israel ceasefire is flagged as the key trigger for Gulf spread tightening and lower UST yields — a peace deal would be a broad risk-on catalyst supportive of EM carry trades generally.\n- Continued UST yield volatility is cited as the main obstacle to Gulf and other EM issuers pricing new bonds, underscoring UST 10y as the reference anchor for EM dollar funding costs.\n- Hyperscaler and Yankee issuers rushing to complete dollar funding before the US midterms could add to near-term UST supply/duration pressure into Q4.\n\n**Watch list**\n- Potential Gulf reg-S dollar deals as early as next week; larger 144A/blockbuster deals likely delayed until after the September 7 US Labor Day.\n- European corporate euro issuance volume next week (guided $13-20bn) as a gauge of post-summer risk appetite.\n- US midterm elections, November 3, as a funding-market deadline; watch for Meta's potential debut euro bond and further hyperscaler kangaroo/Yankee issuance.",
+      "summarized_at": "2026-08-22T02:20:53.920076+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-22"
 }
