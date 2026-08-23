@@ -1,27 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "Safe Haven Status, Retail Wrap Up, and Crypto Comeback 8/21/26",
-      "published": "Fri, 21 Aug 2026 18:31:07 +0000",
-      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/a7b2407b-c047-4841-91b8-316be494ffca/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=a7b2407b-c047-4841-91b8-316be494ffca&feed=tc4zxWgX",
-      "feed": "CNBC - The Exchange",
-      "provider": "CNBC",
-      "priority": 4,
-      "tags": [
-        "Fed",
-        "UST 10y",
-        "USD",
-        "Brent",
-        "Bitcoin",
-        "Tariffs",
-        "Fiscal",
-        "Inflation",
-        "S&P 500",
-        "Risk sentiment"
-      ],
-      "summary": "**Summary**\nA US Treasury sell-off dominates the segment: 10-year yields are back above levels seen before the Treasury's surprise buyback announcement, with WSJ's Greg Ip arguing Treasuries' \"safe haven\" status is eroding on rising term premium. New Fed chair Kevin Warsh's Jackson Hole debut next week is flagged as the next major catalyst, alongside a notable aside that AI-driven dollar outflows to Asia aren't being recycled back into Treasuries as before.\n\n**Key points**\n- 10y yield near 4.73%, 2y/30y also higher; effect of Treasury Secretary's unscheduled buybacks proving short-lived\n- Four drivers of higher long rates cited: sticky inflation, AI corporate borrowing crowding out the market, BoJ tightening, and a worsening US deficit\n- Term premium rising — Treasuries look less attractive vs swaps, corporates and G10 bonds than historically, signaling waning \"no questions asked\" demand\n- Steve Liesman: dollars flowing to Asia via the AI buildout are not showing up back in Treasury reserves — a possible shift in official-sector recycling behavior\n- CBO: new tariffs will raise less revenue than old ones; reconciliation bill could add ~$95bn to deficits\n- Brent up for a 5th session as Middle East (Iran) diplomacy stalls, adding to inflation concerns; XOP on a 10-day win streak\n- Bitcoin up 23% on the week (best in 3.5 years) on technical breakout, dollar/Treasury instability, and an anticipated mid-September Senate Clarity Act vote\n\n**FX / rates implications**\n- Rising UST yields/term premium are a broad headwind for EM carry trades via higher USD funding costs\n- The unrecycled Asia dollar-flow point is worth monitoring for signs of reduced official UST demand from Asian reserve managers\n- Warsh's Jackson Hole debut, seen as potentially more hawkish than expected, could firm USD and pressure EM FX further\n- Rising Brent adds imported-inflation risk for oil-importing EM like India and the Philippines\n\n**Watch list**\n- Kevin Warsh's Jackson Hole speech and CNBC Fed survey special (next week)\n- 10y UST path toward 5%\n- Clarity Act Senate vote, mid-September\n- Iran diplomacy and oil price direction\n- Nvidia earnings next Wednesday",
-      "summarized_at": "2026-08-23T02:22:36.979793+00:00"
-    }
-  ],
-  "last_digest_date": "2026-08-23"
+  "episodes": [],
+  "last_digest_date": "2026-08-24"
 }
