@@ -15364,8 +15364,22 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-08-24T02:16:12.612859+00:00",
       "episode_id": "e64aa0a4735f7b5e"
+    },
+    "1b89e668b85f70a1": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/568c6e3c-2159-45c2-8e4d-b4ad011d7c22/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "The Nigerian Industrial Behemoth That Could Reshape the African Economy",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-08-24T10:30:48.993520+00:00",
+      "episode_id": "1b89e668b85f70a1"
+    },
+    "5a0bdf392554b59a": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/32b21108-ca48-4cfc-bf36-3c046bcf8d21/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=32b21108-ca48-4cfc-bf36-3c046bcf8d21&feed=IFy3imsg&t=podcast&e=nx-s1-5940887&p=510325&d=510&size=8172860",
+      "title": "Could politics put your city's funding at risk?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-08-24T10:32:23.646867+00:00",
+      "episode_id": "5a0bdf392554b59a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-24T02:16:12.612918+00:00"
+  "last_updated": "2026-08-24T10:32:23.646906+00:00"
 }
