@@ -15378,8 +15378,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-08-24T10:32:23.646867+00:00",
       "episode_id": "5a0bdf392554b59a"
+    },
+    "64706acef1d7b1e9": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1461785237.mp3",
+      "title": "Building AI Systems for Capital Markets",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-08-24T18:19:55.807673+00:00",
+      "episode_id": "64706acef1d7b1e9"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-24T10:32:23.646906+00:00"
+  "last_updated": "2026-08-24T18:19:55.807714+00:00"
 }
