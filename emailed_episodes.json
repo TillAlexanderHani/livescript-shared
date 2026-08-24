@@ -15357,8 +15357,15 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-08-23T02:22:36.979793+00:00",
       "episode_id": "f8eb5648dfa5e3d3"
+    },
+    "e64aa0a4735f7b5e": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19690287-cut-to-the-chase-is-gold-s-recent-rally-set-to-extend.mp3",
+      "title": "Cut to the Chase! Is gold’s recent rally set to extend?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-24T02:16:12.612859+00:00",
+      "episode_id": "e64aa0a4735f7b5e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-23T02:22:36.979839+00:00"
+  "last_updated": "2026-08-24T02:16:12.612918+00:00"
 }

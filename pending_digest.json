@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! Is gold’s recent rally set to extend?",
+      "published": "Mon, 24 Aug 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19690287-cut-to-the-chase-is-gold-s-recent-rally-set-to-extend.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Gold",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "JGB",
+        "Bund",
+        "Central banks",
+        "Safe haven",
+        "Risk sentiment",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nStandard Chartered's weekly note argues gold has bottomed after a volatile 2026: a spike above $5,500/oz in January, a slide below $4,000 by June, and a recovery above $4,500 in recent days. The bank expects further gains but at a slower, steadier pace than the prior explosive rally, a call relevant to any macro trader who uses gold as a hedge or cross-asset signal for USD and rates direction.\n\n**Key points**\n- Gold ranged from over $5,500/oz (January) to below $4,000 (June) before recovering above $4,500.\n- World Gold Council survey: nearly 9 of 10 central banks expect global reserves to rise over the next year; almost half plan to add to their own gold holdings.\n- Central bank buying is described as gold's strongest structural support, tied to reserve diversification.\n- Long-term government bond yields have risen sharply in the US and are testing multi-year highs, driven by inflation, fiscal deficit and debt-level concerns; similar upward yield pressure is noted in Japan, Europe and the UK.\n- Rising yields raise gold's opportunity cost since it generates no income, historically an inverse relationship.\n- Elevated geopolitical tensions, growing fiscal deficits and market volatility keep safe-haven demand intact; excessive speculative positioning has been flushed out by the earlier correction.\n- A gradually weakening US dollar has provided an additional tailwind recently.\n\n**FX / rates implications**\n- A structurally weaker USD backdrop (as flagged here) is broadly supportive for EM Asia and LATAM carry currencies; watch DXY direction alongside gold as a cross-check.\n- Rising long-end yields in US, Japan, Europe and UK signal continued global term-premium repricing — a headwind for duration and a factor keeping EM local rates and FX vol elevated.\n- Persistent central bank gold buying reflects ongoing reserve diversification away from USD assets, a slow-moving theme relevant to EM central bank reserve management.\n\n**Watch list**\n- US long-end Treasury yield levels (multi-year highs) as the key swing factor for gold and broader risk appetite.\n- DXY trend — further USD weakness would reinforce both the gold and EM carry narratives.\n- Central bank gold purchase data/reports for confirmation of the reserve-diversification trend.",
+      "summarized_at": "2026-08-24T02:16:12.612859+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-24"
 }
