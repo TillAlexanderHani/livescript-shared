@@ -15385,8 +15385,29 @@
       "feed": "Goldman Sachs Exchanges",
       "processed": "2026-08-24T18:19:55.807673+00:00",
       "episode_id": "64706acef1d7b1e9"
+    },
+    "ae97bde0ede9d790": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/38dae787-3e66-4847-8608-7fa8775f41b7.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Markets Faces Hotter, Shorter Cycles",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-24T22:06:45.149949+00:00",
+      "episode_id": "ae97bde0ede9d790"
+    },
+    "55731ae510d6e940": {
+      "url": "https://www.buzzsprout.com/1833434/episodes/19695208-doing-business-in-saudi-arabia-17-years-of-lessons-victor-barrero-manara.mp3",
+      "title": "Doing Business in Saudi Arabia: 17 Years of Lessons | Victor Barrero, Manara",
+      "feed": "INSEAD Emerging Markets Podcast",
+      "processed": "2026-08-24T22:14:45.049626+00:00",
+      "episode_id": "55731ae510d6e940"
+    },
+    "5f33509c4bb822c3": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC6311700959.mp3",
+      "title": "The Credit Market Lens: Narrowing the Visibility Gap in Defaults",
+      "feed": "PIMCO Pod",
+      "processed": "2026-08-24T22:17:20.821469+00:00",
+      "episode_id": "5f33509c4bb822c3"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-24T18:19:55.807714+00:00"
+  "last_updated": "2026-08-24T22:17:20.821510+00:00"
 }
