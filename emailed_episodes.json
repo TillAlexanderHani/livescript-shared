@@ -15427,8 +15427,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-08-25T10:24:00.265082+00:00",
       "episode_id": "1769477d8cc3bf73"
+    },
+    "8979c353a24280eb": {
+      "url": "https://traffic.megaphone.fm/CLS1341199916.mp3",
+      "title": "Neil Movva - Making AI 10x Cheaper - [Invest Like the Best, EP.488]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-08-25T18:27:42.481597+00:00",
+      "episode_id": "8979c353a24280eb"
+    },
+    "2ab1d811352ea08e": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/19700291-amazon-gold-how-illegal-mining-reaches-the-global-market.mp3",
+      "title": "Amazon Gold: How Illegal Mining Reaches the Global Market",
+      "feed": "Horizontes de Latinoamérica (S&P Global)",
+      "processed": "2026-08-25T18:31:54.544814+00:00",
+      "episode_id": "2ab1d811352ea08e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-25T10:24:00.265122+00:00"
+  "last_updated": "2026-08-25T18:31:54.544856+00:00"
 }
