@@ -1,4 +1,26 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! Expecting a faster pace of hikes from the Bank of Japan",
+      "published": "Tue, 25 Aug 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19697186-cut-to-the-chase-expecting-a-faster-pace-of-hikes-from-the-bank-of-japan.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "JPY",
+        "USDJPY",
+        "BoJ",
+        "UST 10y",
+        "JGB",
+        "Intervention",
+        "Carry",
+        "Capital flows",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nStandard Chartered revises its Bank of Japan call to two more rate hikes by end-2026 (up from one), citing Japan's first joint FX intervention with the US since 1998 and signs PM Takaichi now accepts the BoJ is behind the curve. This matters for EM FX/rates traders as a faster BoJ hiking path reshapes global carry dynamics and JGB-UST yield differentials that underpin broader risk and funding flows.\n\n**Key points**\n- Japan and the US conducted a joint Yen intervention, the first since 1998, seen as an admission that verbal jawboning alone can no longer stem Yen weakness.\n- PM Takaichi is reportedly coming around to the view that faster BoJ hikes, not just intervention, are the lasting fix for Yen weakness and inflation, despite her personal preference against faster hikes.\n- On a trade-weighted basis the Yen remains undervalued; persistent BoJ reluctance to hike has invited repeated speculative shorting and repeated interventions.\n- JGB yields have risen faster than UST yields recently (referencing StanChart's August 18 episode), narrowing the long-end US-Japan yield gap.\n- Takaichi's administration is pushing GPIF ($1.8tn pension fund) to reallocate investment back toward Japan; other domestic institutions may follow, though this is a 2027 theme, not near-term.\n\n**FX / rates implications**\n- Structural support for JPY builds if BoJ credibly commits to a faster hiking path, narrowing the yield disadvantage versus DM peers and discouraging carry-driven shorts.\n- Near-term risk skews the other way: USD/JPY could retest the low 160s before the market fully prices the faster-hike narrative — a signal for broader USD strength/risk-off spillover into EM Asia FX.\n- A narrowing JGB-UST differential and potential Japanese capital repatriation (GPIF-led) could tighten global dollar liquidity and reduce Japanese demand for foreign bonds, a slow-burn headwind for UST and other DM/EM fixed income over time.\n- Yen carry unwind risk is a key transmission channel to EM Asia (KRW, THB, MYR) given Japan's role as a major funding-currency source.\n\n**Watch list**\n- USD/JPY price action toward low 160s as a near-term tactical level.\n- Further BoJ policy meetings and rate decisions through year-end 2026.\n- GPIF and other Japanese institutional reallocation flows into 2027 as a longer-term capital-flow catalyst.",
+      "summarized_at": "2026-08-25T02:12:27.287470+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-25"
 }
