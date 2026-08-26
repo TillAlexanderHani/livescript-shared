@@ -15448,8 +15448,36 @@
       "feed": "Thoughts on the Market",
       "processed": "2026-08-25T22:06:15.137771+00:00",
       "episode_id": "08892b98fabcd8b7"
+    },
+    "554ec0172a38ccca": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/8c2f7d8c-6298-4157-805d-0b3dfc67ae0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=8c2f7d8c-6298-4157-805d-0b3dfc67ae0c&feed=tc4zxWgX",
+      "title": "Media Deal in Limbo, Bitcoin’s Bounce, and Football Firestorm 8/25/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-08-26T02:21:20.435468+00:00",
+      "episode_id": "554ec0172a38ccca"
+    },
+    "5a6308b0fc99211a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/ba0b6706-a86d-421c-8f62-590beafb599a/group-item/c99740bc-4911-4f40-b54a-b8dceae829da/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "American Renewables: A Markets Story with Julie McLaughlin",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-08-26T02:28:04.405022+00:00",
+      "episode_id": "5a6308b0fc99211a"
+    },
+    "ead862452af25115": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19703381-cut-to-the-chase-positive-inflection-in-euro-area-earnings.mp3",
+      "title": "Cut to the Chase! Positive inflection in Euro area earnings",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-08-26T02:29:24.954160+00:00",
+      "episode_id": "ead862452af25115"
+    },
+    "6ceab54b87b2150d": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a8dd30b83ad88db015d0aa6/media.mp3",
+      "title": "Bombing the bond market",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-08-26T02:33:02.219532+00:00",
+      "episode_id": "6ceab54b87b2150d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-25T22:06:15.137814+00:00"
+  "last_updated": "2026-08-26T02:33:02.219575+00:00"
 }

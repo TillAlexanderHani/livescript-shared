@@ -1,4 +1,72 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Media Deal in Limbo, Bitcoin’s Bounce, and Football Firestorm 8/25/26",
+      "published": "Tue, 25 Aug 2026 18:38:20 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/8c2f7d8c-6298-4157-805d-0b3dfc67ae0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=8c2f7d8c-6298-4157-805d-0b3dfc67ae0c&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Brent",
+        "WTI",
+        "USD",
+        "DXY",
+        "UST 2y",
+        "UST 10y",
+        "Fed",
+        "Gold",
+        "Bitcoin",
+        "Risk sentiment",
+        "Oil"
+      ],
+      "summary": "**Summary**\nOil prices dropped sharply after Iran and Oman announced a tentative framework for a \"temporary joint corridor\" to ease transit tensions around the Strait of Hormuz, triggering algorithm-driven selling even as energy analysts called the move largely symbolic and lacking specifics. Simultaneously, the US Treasury kicked off a $183bn three-leg refunding with a 2-year note auction, the dollar fell while gold and Bitcoin rallied, and markets are bracing for incoming Fed Chair Kevin Warsh's first major Jackson Hole speech on Friday.\n\n**Key points**\n- WTI/Brent fell ~3.5-4%; UAE's Murban contract dropped 8% on the Iran-Oman Hormuz corridor announcement, despite an overnight attack on a tanker near the strait and skepticism from Energy Aspects' Amrita Sen that any real deal is close.\n- US Treasury sold $69bn of 2-year notes at 4.204% yield (vs 4.315% last month), a slight tail versus the 4.208% when-issued level; Rick Santelli graded it C+, noting no lasting market reaction to Bessent's late-July buyback/issuance announcement.\n- Dollar index down, gold on pace for its biggest monthly gain since 1999, Bitcoin briefly topped $80k (up >25% since Aug 17) before pulling back; Nancy Tangler (Lafer Tangler) called falling oil bullish for equities as an \"inflation buster.\"\n- Defense ETF down ~8% since the Iran ceasefire expired despite Trump administration threatening Iran with \"economic D-Day\"; Ursa Major (solid rocket motors) to go public via SPAC in Q1 2026, raising $350mn.\n\n**FX / rates implications**\n- A sustained drop in oil toward $65-70 would be disinflationary and USD-negative on net, easing import bills for EM oil importers (India, Philippines, Turkey-adjacent) while pressuring oil exporters' currencies (COP, MXN via Pemex linkages, BRL less so).\n- Softer 2-year UST yield (4.204%, off last month's cycle high of 4.315%) and a weaker dollar support EM carry trades broadly; watch Friday's 5-year auction, flagged by Santelli as the most important leg given its role in corporate financing benchmarks.\n- Incoming Fed Chair Warsh's Jackson Hole speech Friday is a key volatility catalyst for UST yields and DXY, with Tangler expecting a \"less is more\" data-dependent stance rather than explicit guidance — any surprise hawkish/dovish lean would ripple through EM FX funding costs.\n\n**Watch list**\n- Friday: Kevin Warsh's first major Jackson Hole policy speech as Fed Chair.\n- Tomorrow: 5-year UST auction (Santelli's highest-conviction watch) and Nvidia earnings after the close, both flagged as key risk-sentiment drivers for tech/yields.\n- Ongoing: any confirmation or collapse of the Iran-Oman Hormuz transit framework, and whether Gulf oil producers (Saudi, Kuwait, Qatar, UAE) engage or reject it.",
+      "summarized_at": "2026-08-26T02:21:20.435468+00:00"
+    },
+    {
+      "title": "Cut to the Chase! Positive inflection in Euro area earnings",
+      "published": "Wed, 26 Aug 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19703381-cut-to-the-chase-positive-inflection-in-euro-area-earnings.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "EUR",
+        "ECB",
+        "S&P 500",
+        "Equities",
+        "Earnings",
+        "Fiscal",
+        "Germany",
+        "Financials",
+        "Industrials",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Cut to the Chase highlights a positive earnings inflection in Euro-area equities after three years of near-zero growth, while reaffirming a house view of overweight global equities led by the US and Asia-ex-Japan. The shift matters for macro positioning as it reflects a broadening of the global earnings cycle beyond the US, supported by European fiscal expansion.\n\n**Key points**\n- Global equity earnings growth forecast at 32% in 2026 and 14% in 2027; US and Asia-ex-Japan remain preferred regions with the strongest growth.\n- Euro-area equities saw earnings growth below 1% in 2023, 2024 and 2025, but consensus now expects 17% growth this year and 10% in 2027, revised upward after a strong Q2 earnings season.\n- Growth is broad-based across sectors: from ~1% for real estate up to over 70% for energy (oil-price supported).\n- Broad Euro-area strength attributed to fiscal expansion lifting domestic demand, including Germany's new infrastructure acceleration law and rising European defense spending.\n- Preferred Euro-area sectors: financials (12% earnings growth this year and next, benefiting from a higher-for-longer rate environment post-ECB's June hike, strong balance sheets, dividends and buybacks) and industrials (18% growth this year, 17% in 2027, driven by fiscal stimulus, defense spending and electrification).\n- Recommended balanced-portfolio allocation to Euro-area equities is around 7% (core, not overweight, given US/Asia-ex-Japan preference).\n\n**FX / rates implications**\n- Reference to the ECB's June rate hike and market expectations for further hikes signals a hawkish-for-longer ECB stance, a modest EUR-supportive factor and a data point for global rate-differential trades relevant to carry positioning.\n- Continued global equity overweight and strong earnings backdrop reinforce a risk-on tone supportive of EM carry and high-beta EM FX broadly.\n- Energy-sector earnings strength tied to high oil prices is a secondary read-through for commodity-linked EM currencies (e.g., COP, MXN, MYR).\n\n**Watch list**\n- Further ECB rate decisions and guidance on additional hikes.\n- Q3 Euro-area earnings season for confirmation of the broad-based growth inflection.\n- German infrastructure/fiscal stimulus implementation and European defense spending trends.",
+      "summarized_at": "2026-08-26T02:29:24.954160+00:00"
+    },
+    {
+      "title": "Bombing the bond market",
+      "published": "Tue, 25 Aug 2026 20:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a8dd30b83ad88db015d0aa6/media.mp3",
+      "feed": "Financial Times Unhedged",
+      "provider": "Financial Times",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "UST 10y",
+        "JGB",
+        "Fed",
+        "BoJ",
+        "JPY",
+        "Carry",
+        "Fiscal",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nA sharp sell-off in long-dated US Treasuries has escalated into open conflict between the White House, Treasury Secretary Scott Bessent, legendary macro investor Stanley Druckenmiller, and Fed Chair Kevin Warsh. Trump floated \"military intervention\" in the bond market, while Bessent has pursued unusual measures to suppress long-end yields — all against a backdrop of the US national debt crossing $40 trillion for the first time.\n\n**Key points**\n- The US previously intervened alongside Japan to support JPY; a weak yen forces Japan to sell dollars (and potentially US Treasuries) to defend it, which itself pressures UST yields higher — a reflexive loop.\n- Treasury announced it would roughly double the scale of long-bond buybacks, framed as liquidity management but widely read as price support since there's no sign of actual market dysfunction.\n- CNBC reported Bessent could tap the nearly $1 trillion Treasury General Account to fund further bond buybacks — a novel, non-QE form of market support using tax receipts rather than Fed money creation.\n- 30-year UST yield is near its highest level since 2001; France, Japan and UK also show elevated long-end borrowing costs, suggesting a broader developed-market fiscal/duration repricing rather than a US-only or inflation-driven story.\n- Druckenmiller (a mentor to Bessent) publicly rebuked the buybacks in the WSJ as \"price management, not liquidity management,\" arguing governments defending prices against fundamentals always lose.\n- Fed Chair Kevin Warsh has long argued higher yields are a healthy market signal against deficit spending, putting him at odds with Bessent's intervention posture; Fed silence on Treasury market \"dysfunction\" claims is notable.\n\n**FX / rates implications**\n- Host Rob Armstrong turns outright short USD via DXY, arguing that if fiscal/bond stress can't be resolved via yield suppression, it will show up in the dollar instead — relevant read-through for USD-funded EM carry trades.\n- Rising, unanchored long-end UST yields and unresolved US fiscal dysfunction are a global duration and risk-sentiment headwind, historically pressuring EM local-currency bonds and widening EM sovereign spreads.\n- Any confirmed use of the Treasury General Account for bond buybacks, or further currency-market intervention, would be a fresh, unconventional policy signal markets have not priced, raising volatility risk across G10 and EM FX.\n\n**Watch list**\n- Kevin Warsh reportedly has \"a lot to say in the next few days\" — potential Fed commentary on Treasury market functioning and yield levels.\n- Further Treasury buyback size/composition announcements and any confirmation of Treasury General Account usage.\n- DXY trend given Armstrong's short-dollar call and its read-through for EM funding costs and carry trades.",
+      "summarized_at": "2026-08-26T02:33:02.219532+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-26"
 }
