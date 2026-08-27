@@ -15546,8 +15546,22 @@
       "feed": "Macro Voices",
       "processed": "2026-08-27T20:12:38.519957+00:00",
       "episode_id": "f086ca23bb0a0833"
+    },
+    "44b7ed7572512041": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/4aec4eb2-b8e0-4fb9-8215-b89d8c3db261.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Jackson Hole Tests the Fed’s Framework",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-27T23:06:44.650798+00:00",
+      "episode_id": "44b7ed7572512041"
+    },
+    "d234d32aa3f16a72": {
+      "url": "https://media.transistor.fm/a6f4863c/387a8b0e.mp3",
+      "title": "AI earnings and equities, gauging Bessent’s success and Iran’s economic squeeze",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-08-27T23:33:04.487670+00:00",
+      "episode_id": "d234d32aa3f16a72"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-27T20:12:38.519992+00:00"
+  "last_updated": "2026-08-27T23:33:04.487716+00:00"
 }
