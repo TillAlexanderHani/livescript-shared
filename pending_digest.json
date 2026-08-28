@@ -1,4 +1,26 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Colombia: An Early Test for the New Government",
+      "published": "Thu, 27 Aug 2026 11:00:00 -0400",
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/19711620-colombia-an-early-test-for-the-new-government.mp3",
+      "feed": "The Americas Quarterly Podcast",
+      "provider": "Americas Quarterly",
+      "priority": 5,
+      "tags": [
+        "COP",
+        "Colombia",
+        "Fiscal",
+        "Sovereign debt",
+        "USD",
+        "Tariffs",
+        "Elections",
+        "Carry",
+        "Oil"
+      ],
+      "summary": "**Summary**\nColombia's new right-wing president Abelardo de la Espriella took office August 7 after a razor-thin election win, only to face a 7.4 magnitude earthquake three days later with ~$10bn in damages. Former finance minister Mauricio Cardenas details a fiscal picture worse than advertised — deficit now seen near 8% of GDP versus Petro's stated 5% — alongside a reconstruction bill that will compete with promised Milei-style austerity, directly relevant to COP and Colombian sovereign risk.\n\n**Key points**\n- Fiscal deficit revised up to ~8% of GDP from Petro's claimed 5%; government described as effectively insolvent (\"spending way more than our revenues\").\n- 2027 budget submission to Congress imminent; Cardenas recommends splitting ordinary budget (with real cuts) from a temporary reconstruction budget to reassure markets.\n- Earthquake reconstruction costs estimated at $10bn, likely to rise; election was decided by just ~270,000 of 23 million votes (Colombians abroad key margin).\n- Q2 GDP grew 3.5%, but ex-public administration growth only ~2%; investment at record lows; construction sector contracted three years straight under Petro.\n- Colombia has been paying ~15% interest to attract foreign capital, versus a potential 7-10% via US-backed lending or 4% via IMF.\n- Cocaine production now 30x Escobar-era levels per UN estimates, propping up regional consumption.\n- Colombia faces a 12.5% US tariff (10% Trump tariff plus 2.5% forced-labor penalty); de la Espriella seeking a waiver; US pledged only $26mn in earthquake aid so far.\n\n**FX / rates implications**\n- COP and Colombian sovereign bonds are the direct trade: markets are watching whether the 2027 budget shows genuine austerity or lets reconstruction spending balloon the deficit further — a credibility test that could reprice Colombian credit spreads and carry.\n- Elevated local funding costs (15% domestic borrowing rates cited) signal continued risk premium on COP assets; any US Treasury/IDB/IMF-backed cheaper financing would be a positive catalyst for Colombian curve and COP.\n- Oil/energy policy reversal (resuming exploration after Petro's freeze) is a modest medium-term supply-side positive for Colombia's external accounts and COP.\n- Political risk (50-50 split electorate, potential Petro-led protests, tense relations with traditional right) is a source of COP volatility and headline risk for LATAM-focused portfolios.\n\n**Watch list**\n- Colombia's 2027 budget submission to Congress — signal on fiscal adjustment vs reconstruction spending.\n- Outcome of Colombia's request for US tariff waiver (currently 12.5%, could fall to 10%).\n- Scale of US/multilateral (IDB, IMF, World Bank) financing support for earthquake reconstruction beyond the $26mn already pledged.\n- Potential Petro-aligned protest mobilization and governability risk under the emergency decree powers (30-90 day window).",
+      "summarized_at": "2026-08-28T02:08:28.025016+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-28"
 }
