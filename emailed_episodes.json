@@ -15609,8 +15609,43 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-08-28T12:42:27.934724+00:00",
       "episode_id": "9138c3fa168ff404"
+    },
+    "4bc7dfebe940e29b": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/0199a413-c981-45ec-95bd-9304e5b718e6.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Politics Behind the Rising U.S. Debt",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-08-28T21:05:12.361096+00:00",
+      "episode_id": "4bc7dfebe940e29b"
+    },
+    "b90d552ec4b58702": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32371025",
+      "title": "Branded fruit: How produce got “Honeycrisp-ified\"",
+      "feed": "Planet Money",
+      "processed": "2026-08-28T21:29:54.771459+00:00",
+      "episode_id": "b90d552ec4b58702"
+    },
+    "74ae5d0a73f2bfca": {
+      "url": "https://mcdn.podbean.com/mf/web/9kbt3si74vqbzrxp/Podcast_08-28-26.mp3",
+      "title": "What’s in store for the sugar & corn harvests",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-08-28T21:41:06.165809+00:00",
+      "episode_id": "74ae5d0a73f2bfca"
+    },
+    "dbcc97243354eebb": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260828_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead – Going down to Jackson",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-08-28T21:54:37.976977+00:00",
+      "episode_id": "dbcc97243354eebb"
+    },
+    "37ca28bfaef2185d": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC2335990637.mp3",
+      "title": "Buybacks, Market Functioning, and Treasury Predictability",
+      "feed": "PIMCO Pod",
+      "processed": "2026-08-28T22:00:36.085499+00:00",
+      "episode_id": "37ca28bfaef2185d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-28T12:42:27.934760+00:00"
+  "last_updated": "2026-08-28T22:00:36.085541+00:00"
 }
