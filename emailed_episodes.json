@@ -15644,8 +15644,15 @@
       "feed": "PIMCO Pod",
       "processed": "2026-08-28T22:00:36.085499+00:00",
       "episode_id": "37ca28bfaef2185d"
+    },
+    "b56d9bef13403e3e": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a91f7321348fdc761b9f489/media.mp3",
+      "title": "Kevin Warsh spoke – what did we learn? With Torsten Slok",
+      "feed": "The Economics Show",
+      "processed": "2026-08-28T23:28:00.165189+00:00",
+      "episode_id": "b56d9bef13403e3e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-28T22:00:36.085541+00:00"
+  "last_updated": "2026-08-28T23:28:00.165235+00:00"
 }

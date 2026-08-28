@@ -1,4 +1,31 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Kevin Warsh spoke – what did we learn? With Torsten Slok",
+      "published": "Fri, 28 Aug 2026 22:29:52 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a91f7321348fdc761b9f489/media.mp3",
+      "feed": "The Economics Show",
+      "provider": "The Economist",
+      "priority": 5,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Rates",
+        "T-bills",
+        "Fiscal",
+        "JPY",
+        "GBP",
+        "EUR",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nFed Chair Kevin Warsh delivered his first Jackson Hole address amid 19-year-high bond yields and inflation stuck at 3.5% versus the 2% target. Apollo's Torsten Slok rates the speech a 10/10 for market importance, noting it reset expectations toward a September rate hike rather than December, with direct implications for USD, UST yields and global risk sentiment.\n\n**Key points**\n- US inflation printed 3.5%, well above the Fed's 2% target; unlike the ECB/BoE single mandate, the Fed must balance inflation against full employment.\n- Warsh explicitly rejected forward guidance (locking in future rate paths) but offered more \"framework guidance,\" clarifying interest rates — not balance sheet reduction or financial conditions — remain the primary inflation tool.\n- Warsh put heavier weight on inflation versus unemployment in the dual mandate, signalling readiness to hike; markets repriced a hike to the September FOMC meeting from a prior December expectation.\n- Tension flagged between Warsh (wants unfiltered market-driven yield signals) and Treasury Secretary Scott Bessent, who has intervened three ways: yen intervention to deter JGB-related UST selling by Japanese holders, small buybacks ($2-4bn), and potential use of the Treasury General Account (~$1trn).\n- Bessent is shifting issuance toward T-bills (now ~23% of outstanding debt), increasing fiscal sensitivity to Fed short-rate decisions — a dynamic Slok says is also emerging in UK gilt duration management.\n- Stanley Druckenmiller (mentor to both Warsh and Bessent) publicly criticized the interventions, urging Congress to address fiscal issues directly instead.\n\n**FX / rates implications**\n- Repricing toward a September Fed hike is USD-supportive near-term and a headwind for EM Asia and LATAM carry trades; watch UST 10y and front-end T-bill yields for confirmation of follow-through.\n- Treasury's shift to short-dated issuance raises US debt-servicing sensitivity to Fed policy, a structural dollar-funding and duration signal relevant to EM local-currency bond investors.\n- Yen-related intervention dynamics (Japanese UST holders) are a cross-current for JGB/UST yield spreads and could spill into JPY and broader G10/EM carry positioning.\n- Fiscal dominance concerns (US, UK, France, Japan) reinforce a theme of rising term premia globally, relevant to EM sovereign spread and carry strategies.\n\n**Watch list**\n- September FOMC meeting: confirm whether the hike signalled by Warsh's speech materializes.\n- Further Treasury interventions (TGA usage, buybacks, bill issuance share) and any escalation of the Bessent-Fed policy tension.\n- Upcoming US inflation and employment data ahead of September meeting.",
+      "summarized_at": "2026-08-28T23:28:00.165189+00:00"
+    }
+  ],
   "last_digest_date": "2026-08-29"
 }
