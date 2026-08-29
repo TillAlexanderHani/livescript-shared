@@ -15686,8 +15686,15 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-08-29T07:44:27.475078+00:00",
       "episode_id": "7b4dc76407ea90f4"
+    },
+    "62d1de10f5b805c1": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_TUREK_.mp3?dest-id=1929056",
+      "title": "Ep. 373: Jon Turek on the 'Owl' Fed, the US Treasury's Bond Buybacks, and AI Capex Durability",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-08-29T17:29:51.006291+00:00",
+      "episode_id": "62d1de10f5b805c1"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-08-29T07:44:27.475120+00:00"
+  "last_updated": "2026-08-29T17:29:51.006333+00:00"
 }
