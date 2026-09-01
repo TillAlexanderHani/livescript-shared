@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Renewed Iran Tensions, Colorado’s Data Center Fight, and the Summer Software Surge 8/31/26",
+      "published": "Mon, 31 Aug 2026 18:42:43 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/28b6aace-4a15-42fa-aff4-aaa748fb6e38/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=28b6aace-4a15-42fa-aff4-aaa748fb6e38&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Oil",
+        "Brent",
+        "WTI",
+        "Iran",
+        "Tariffs",
+        "Trade",
+        "Fiscal",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nRising oil prices tied to escalating Iran tensions and firming Fed rate-hike odds pushed the US 10-year yield near 4.75%, its highest since January, while equities sold off on the last trading day of August. At the G20 in North Carolina, Treasury Secretary Bessent pushed allies to squeeze Iran economically via \"Operation Economic Outcast\" and downplayed a US-Canada trade war over Section 338 tariffs, even as fiscal deficit concerns (~$2 trillion) and a modestly upsized Treasury buyback program drew criticism from Stan Druckenmiller.\n\n**Key points**\n- 10-year UST yield near 4.75%, highest of the year; 30-year yield also elevated on growth, inflation, AI capex and deficit concerns.\n- Bessent says Iran's economy could collapse within weeks/months from sanctions pressure; US can succeed even without China's cooperation.\n- Treasury increased buybacks by $2bn through Nov 4 (~$14bn floor) but PIMCO's Cantrell and iCapital's Suzuki both say this is too small to offset deficit-driven term premium.\n- 30-year mortgage rate jumped to 6.87% (highest since June 2025), up over 30bp since end-June as the Iran conflict and oil spike derailed expected rate declines.\n- Fed minutes flagged a scenario where continued Iran conflict keeps inflation higher for longer, potentially forcing hikes rather than cuts.\n- G7/G20 sidelines: bilateral meetings expected with South Korea, Japan, Russia, and China on Iran and tariffs.\n\n**FX / rates implications**\n- Higher-for-longer US rates and a firmer oil-driven inflation impulse are a headwind for EM carry trades broadly; rising UST yields typically pressure EM Asia and LATAM local rates and can weigh on high-beta FX (IDR, INR, MXN, BRL) via wider US rate differentials.\n- Sustained oil price gains from Iran risk are a negative terms-of-trade shock for oil importers (India, Philippines, Thailand) and a positive one for exporters; watch INR, PHP, THB versus MXN/COP sensitivity.\n- US fiscal deficit and long-end UST supply concerns argue for a steeper curve and higher term premium, a persistent drag on global duration including EM local bonds.\n- Escalating tariff friction with Canada is a reminder that trade-policy risk remains active and could resurface against other trading partners relevant to EM Asia supply chains.\n\n**Watch list**\n- Iran conflict developments and oil price trajectory as the key driver of UST yields and Fed rate-hike odds.\n- Fed policy path given minutes signaling a hiking scenario if inflation stays elevated.\n- Treasury buyback program size/expansion beyond the Nov 4 window as a signal on deficit management.\n- G20/G7 bilateral outcomes this week, including sanctions coordination on Iran and US-Canada tariff talks.",
+      "summarized_at": "2026-09-01T00:55:02.250623+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-01"
 }
