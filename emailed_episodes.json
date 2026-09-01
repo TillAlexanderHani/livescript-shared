@@ -15735,8 +15735,15 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-09-01T00:55:02.250623+00:00",
       "episode_id": "c034d4be87e275d7"
+    },
+    "bf895e995cea5784": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19734089-cut-to-the-chase-it-s-not-all-doom-and-gloom.mp3",
+      "title": "Cut to the Chase! It’s not all doom and gloom",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-01T05:49:00.829463+00:00",
+      "episode_id": "bf895e995cea5784"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-01T00:55:02.250665+00:00"
+  "last_updated": "2026-09-01T05:49:00.829503+00:00"
 }
