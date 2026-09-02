@@ -15798,8 +15798,29 @@
       "feed": "Goldman Sachs Exchanges",
       "processed": "2026-09-01T20:19:13.928629+00:00",
       "episode_id": "25639ede2cd58665"
+    },
+    "c081a8155f151cda": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/7d879a62-8aa8-41c8-983f-b61bc4c63fd8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=7d879a62-8aa8-41c8-983f-b61bc4c63fd8&feed=tc4zxWgX",
+      "title": "Hike vs. Cut, FTC Chair on Amazon Lawsuit, and Why Electricians Love Data Centers 9/1/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-02T05:11:38.589853+00:00",
+      "episode_id": "c081a8155f151cda"
+    },
+    "ed53832b69393198": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19740012-investips-from-the-cio-s-desk-transitioning-through-your-wealth-cycle.mp3",
+      "title": "InvesTips from the CIO’s desk – Transitioning through your wealth cycle",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-02T05:23:40.514757+00:00",
+      "episode_id": "ed53832b69393198"
+    },
+    "7fe2170932b7bc7c": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6a971e9fa4a22c5817e2b574/media.mp3",
+      "title": "Warsh and peace",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-09-02T05:27:28.978110+00:00",
+      "episode_id": "7fe2170932b7bc7c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-01T20:19:13.928673+00:00"
+  "last_updated": "2026-09-02T05:27:28.978150+00:00"
 }
