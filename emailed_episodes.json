@@ -15854,8 +15854,15 @@
       "feed": "IMF Podcasts",
       "processed": "2026-09-02T14:34:52.658704+00:00",
       "episode_id": "5bbfb4339f5caa3a"
+    },
+    "1f6c91eb20841ed1": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH5013153903.mp3",
+      "title": "Right-wing populism",
+      "feed": "Reuters Econ World",
+      "processed": "2026-09-02T17:42:37.344886+00:00",
+      "episode_id": "1f6c91eb20841ed1"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-02T14:34:52.658749+00:00"
+  "last_updated": "2026-09-02T17:42:37.344923+00:00"
 }
