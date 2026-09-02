@@ -1,4 +1,22 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "1873: The year America ditched silver as money and all hell broke loose",
+      "published": "Wed, 02 Sep 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a9716b9a4a22c5817e00583/media.mp3",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "provider": "Financial Times",
+      "priority": 2,
+      "tags": [
+        "Gold standard",
+        "Fed",
+        "Inflation",
+        "Fiscal",
+        "Populism"
+      ],
+      "summary": "**Summary**\nThis is a historical-narrative episode from FT's Story of Money podcast about the US Coinage Act of 1873, which demonetized silver and locked America onto a gold standard, and the political fallout that followed through William Jennings Bryan's 1896 \"Cross of Gold\" campaign. It has no current market data, prices, or trading catalysts, but it draws explicit parallels to today's monetary-politics debates (Fed independence, gold bugs, debt burdens, Bitcoin as a hard-money alternative).\n\n**Key points**\n- The 1873 Coinage Act quietly dropped the silver dollar, ending US bimetallism just before global financial panics (Vienna, US railroad bust, Berlin) hit, tightening credit severely.\n- Removing silver made money supply hostage to gold scarcity, contributing to a ~20-year global deflationary spiral; silver fell from $1.32/oz for decades to a 50%+ decline by the mid-1890s, and agricultural prices fell 50%, crushing indebted farmers.\n- The resulting populist backlash (the \"free silver movement,\" xenophobic conspiracy theories about Rothschild bankers) culminated in Bryan's 1896 \"Cross of Gold\" speech; he lost to McKinley partly because new South African gold discoveries (1886, Witwatersrand) eased the gold shortage.\n- Guest author Liaquat Ahamed (also known for Lords of Finance) draws the lesson that both hard-money pegs (gold, silver, Bitcoin) and politicized monetary policy carry serious risks, and argues independent central banks are the least-bad solution.\n\n**FX / rates implications**\n- No direct, current trading implications; this is historical/political economy content, relevant mainly as background context on gold-standard/hard-money debates resurfacing amid US debt and Fed-independence concerns (Trump vs. Fed, new Fed chair Kevin Hassett/Warsh mentioned).\n- Tangential read for EM/LATAM: the episode's account of 19th-century countries being forced off silver by market pressure (China, India cited) is a historical analogue to modern EM currency regime stress, but not actionable today.\n\n**Watch list**\n- None specific; general watch: ongoing US political pressure on Fed independence and any resurgence of \"gold standard\" or hard-asset advocacy in US policy discourse.",
+      "summarized_at": "2026-09-02T13:58:46.371895+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-02"
 }

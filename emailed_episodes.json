@@ -15819,8 +15819,43 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-09-02T05:27:28.978110+00:00",
       "episode_id": "7fe2170932b7bc7c"
+    },
+    "3480308ec4505bde": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6a9716b9a4a22c5817e00583/media.mp3",
+      "title": "1873: The year America ditched silver as money and all hell broke loose",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-09-02T13:58:46.371895+00:00",
+      "episode_id": "3480308ec4505bde"
+    },
+    "685fd1a51341abe0": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318",
+      "title": "Love in the time of Palantir",
+      "feed": "Planet Money",
+      "processed": "2026-09-02T14:02:40.049220+00:00",
+      "episode_id": "685fd1a51341abe0"
+    },
+    "0b399769a0bb0dcb": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/7ffe50f0-992d-41e7-889b-aad9f5062038/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=7ffe50f0-992d-41e7-889b-aad9f5062038&feed=IFy3imsg&t=podcast&e=nx-s1-5953047&p=510325&d=515&size=8242661",
+      "title": "For a lot of Gen Z, gambling is investing",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-09-02T14:17:08.770728+00:00",
+      "episode_id": "0b399769a0bb0dcb"
+    },
+    "ae877e2fd8d1896d": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Lizzi_C._Lee_and_Zhuoning_Li.mp3?dest-id=4287628",
+      "title": "The Chinamaxxing Trend: Why It's More Than Just a Meme",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-09-02T14:23:27.025524+00:00",
+      "episode_id": "ae877e2fd8d1896d"
+    },
+    "5bbfb4339f5caa3a": {
+      "url": "https://traffic.libsyn.com/secure/imfpodcast/Ha-Joon_Chang-MIX_2.mp3?dest-id=355221",
+      "title": "Ha-Joon Chang on Infant Industry Protection",
+      "feed": "IMF Podcasts",
+      "processed": "2026-09-02T14:34:52.658704+00:00",
+      "episode_id": "5bbfb4339f5caa3a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-02T05:27:28.978150+00:00"
+  "last_updated": "2026-09-02T14:34:52.658749+00:00"
 }
