@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Global Data Pod: Inflation Monitor - Core goods inflation firms as services cool",
+      "published": "Thu, 03 Sep 2026 12:23:37 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/knc39a8riifa9264/030926GDP_inflation_KAL-1-NBTFF3X0.mp3",
+      "feed": "Global Data Pod",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "ECB",
+        "Inflation",
+        "CPI",
+        "PCE",
+        "USD",
+        "EUR",
+        "Brent",
+        "UST 10y",
+        "Carry",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nJ.P. Morgan's monthly Global Inflation Monitor podcast dissects a pivotal month for both the Fed and ECB, with core inflation stuck globally near 2.7% y/y and a rotation underway from services to core goods inflation. The discussion centers on whether a September ECB hike is a done deal and whether the Fed's next move hinges on the upcoming US CPI print, both highly relevant to global rate and USD trajectories that anchor EM FX.\n\n**Key points**\n- Global core inflation flat near 2.7% y/y for almost a year; headline disinflation from lower energy is running out of steam as oil and European natural gas prices rise again.\n- Tech goods inflation has accelerated to 4.5% annualized globally, adding roughly 0.1-0.2ppt to global core inflation; ex-US core goods inflation is running at 2.2% annualized, notably firmer than the US.\n- Euro area core inflation seen drifting toward ~2.45%, peaking around 2025-26 turn before declining in 2027; ECB revised headline inflation to average 3.4% Sept-Dec on Brent ~90 near-term, ~80 by year-end, and gas at 60.\n- US: a core CPI print near 0.3% m/m could tilt the Fed toward a September hike; market-implied hike odds fell from ~60% to ~50% after hawkish comments from Governor Waller. US labor market tightening (JOLTS vacancy/unemployment ratio) but low unit labor costs (under 2% y/y) suggest limited near-term wage-driven services inflation pressure.\n\n**FX / rates implications**\n- A September ECB hike is described as essentially locked in, with risk skewed toward further tightening given renewed energy price pressure — supportive of EUR and a hawkish repricing in Bund yields.\n- Fed decision is data-dependent on the next CPI print; a hot core CPI (~0.3% m/m) raises September hike odds, which would be USD-supportive and a headwind for EM Asia and LATAM carry trades; a cooler print supports risk-on and EM FX.\n- Renewed strength in Brent/oil and European natural gas prices signals commodity-driven inflation risk globally, a factor for EM current-account and inflation-sensitive currencies (INR, IDR, PHP, COP importers vs. commodity exporters like BRL, CLP, COP, MXN).\n\n**Watch list**\n- Upcoming US CPI release — core print near 0.3% m/m seen as the threshold for a September Fed hike.\n- ECB's September meeting and updated staff projections, given upside risk to the energy-inflation pass-through assumption.\n- Oil (Brent ~90 near-term assumption, ~80 by year-end) and European natural gas (assumption of 60) trajectories as inflation risk drivers.",
+      "summarized_at": "2026-09-03T17:25:04.760558+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-03"
 }

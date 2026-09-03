@@ -15896,8 +15896,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-09-03T14:11:32.853744+00:00",
       "episode_id": "f6dda046fe7091b3"
+    },
+    "270a626ddb6406d0": {
+      "url": "https://mcdn.podbean.com/mf/web/knc39a8riifa9264/030926GDP_inflation_KAL-1-NBTFF3X0.mp3",
+      "title": "Global Data Pod: Inflation Monitor - Core goods inflation firms as services cool",
+      "feed": "Global Data Pod",
+      "processed": "2026-09-03T17:25:04.760558+00:00",
+      "episode_id": "270a626ddb6406d0"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-03T14:11:32.853786+00:00"
+  "last_updated": "2026-09-03T17:25:04.760599+00:00"
 }
