@@ -15938,8 +15938,22 @@
       "feed": "PIMCO Pod",
       "processed": "2026-09-03T20:46:13.114680+00:00",
       "episode_id": "147b01cc5ef9d9c1"
+    },
+    "fe074b8d7d55b6e3": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/c2f2ce3d-8607-4f2a-aed9-b224e2c96e8a.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Why Oil Prices Could Rise to $100 Again",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-03T23:37:47.177712+00:00",
+      "episode_id": "fe074b8d7d55b6e3"
+    },
+    "46a5d1493321d88b": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/4f213264-c6d0-4638-8b3c-06a92c1498d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=4f213264-c6d0-4638-8b3c-06a92c1498d0&feed=tc4zxWgX",
+      "title": "Nvidia Buys Hugging Face, AI Outages, and Data Center Dissent 9/3/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-03T23:41:22.171310+00:00",
+      "episode_id": "46a5d1493321d88b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-03T20:46:13.114727+00:00"
+  "last_updated": "2026-09-03T23:41:22.171358+00:00"
 }
