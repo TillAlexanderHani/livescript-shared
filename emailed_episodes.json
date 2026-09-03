@@ -15861,8 +15861,29 @@
       "feed": "Reuters Econ World",
       "processed": "2026-09-02T17:42:37.344886+00:00",
       "episode_id": "1f6c91eb20841ed1"
+    },
+    "652c1030edb56e1f": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/0bca06cc-9ad9-49ff-a2ab-8ff944721cac.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "3 Policy Catalysts to Watch This Fall",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-02T23:38:42.851759+00:00",
+      "episode_id": "652c1030edb56e1f"
+    },
+    "ac654714b93301fb": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/415cae0c-a629-43e8-bc37-66f4165acda5/group-item/dc8e8c6f-5d50-4712-87d9-1c88a72a6df4/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "A Song of Fire and Maybe Ice: Natural gas in 2026  with Emily Kyne",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-09-02T23:57:47.978518+00:00",
+      "episode_id": "ac654714b93301fb"
+    },
+    "57afb5aa6edaf683": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19741144-cut-to-the-chase-rising-yields-different-outcomes.mp3",
+      "title": "Cut to the Chase! Rising yields, different outcomes",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-02T23:58:54.040922+00:00",
+      "episode_id": "57afb5aa6edaf683"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-02T17:42:37.344923+00:00"
+  "last_updated": "2026-09-02T23:58:54.040965+00:00"
 }
