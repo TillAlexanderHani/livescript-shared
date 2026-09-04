@@ -15994,8 +15994,57 @@
       "feed": "The China-Global South Podcast",
       "processed": "2026-09-04T14:27:37.532522+00:00",
       "episode_id": "c2794bc6fa41c3c1"
+    },
+    "44715ee9b5bfdc48": {
+      "url": "https://mcdn.podbean.com/mf/web/spcdupi9yxj5mrte/AARGFIMS04Sept_KAL-1-WOQPDSWH.mp3",
+      "title": "Global Rates: European Rate Markets – ECB meeting and European curves",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-09-04T17:09:37.544683+00:00",
+      "episode_id": "44715ee9b5bfdc48"
+    },
+    "d5928a4155415334": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/pod-with-music.mp3?dest-id=1534493",
+      "title": "How LianLian Is Simplifying Cross-Border Payment and Remittances for Overseas Workers in Hong Kong",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-09-04T17:12:09.052361+00:00",
+      "episode_id": "d5928a4155415334"
+    },
+    "4ddc4338917e80a6": {
+      "url": "https://mcdn.podbean.com/mf/web/ebbvmbjbanvbt5gi/260904GDP_Greg_Raphael_KAL-1-C3VPG6OS.mp3",
+      "title": "Global Data Pod: A second ECB hike and still not done",
+      "feed": "Global Data Pod",
+      "processed": "2026-09-04T17:18:51.019922+00:00",
+      "episode_id": "4ddc4338917e80a6"
+    },
+    "ac70dbf0e88f9c2c": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/tiifm6itkxfpi5mp/Macrovoices-2026-09-03-Carly-Anderson.mp3",
+      "title": "MacroVoices #548 Dr. Carly Anderson: Emerging Energy Technologies Roundup",
+      "feed": "Macro Voices",
+      "processed": "2026-09-04T17:33:39.791279+00:00",
+      "episode_id": "ac70dbf0e88f9c2c"
+    },
+    "f44891cef285ce27": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7d156235-f387-442d-92d2-b4ba0105ac94/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Why Laser Beams Are the Hottest New Tech in Defense",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-09-04T17:44:47.606165+00:00",
+      "episode_id": "f44891cef285ce27"
+    },
+    "9543a99a34923055": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/43ce211c-a8fe-4c63-a85c-98885b798cc0/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=43ce211c-a8fe-4c63-a85c-98885b798cc0&feed=IFy3imsg&t=podcast&e=nx-s1-5957370&p=510325&d=568&size=9088610",
+      "title": "Are job hoppers better at their jobs?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-09-04T17:51:35.701896+00:00",
+      "episode_id": "9543a99a34923055"
+    },
+    "0edc8511c577c43f": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC4078392428.mp3",
+      "title": "How a K-Shaped Economy Affects Opportunities in Asset Based Finance",
+      "feed": "PIMCO Pod",
+      "processed": "2026-09-04T18:01:43.474687+00:00",
+      "episode_id": "0edc8511c577c43f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-04T14:27:37.532571+00:00"
+  "last_updated": "2026-09-04T18:01:43.474750+00:00"
 }
