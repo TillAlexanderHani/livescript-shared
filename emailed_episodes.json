@@ -16043,8 +16043,43 @@
       "feed": "PIMCO Pod",
       "processed": "2026-09-04T18:01:43.474687+00:00",
       "episode_id": "0edc8511c577c43f"
+    },
+    "ae28927ce9ee9975": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3864932103.mp3",
+      "title": "Why Gold Is Expected to Rise to Record Highs",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-09-04T19:57:14.069568+00:00",
+      "episode_id": "ae28927ce9ee9975"
+    },
+    "8d3b757f65277711": {
+      "url": "https://mcdn.podbean.com/mf/web/hrpct9hwn6eyu353/AARFX260904_KAL-1-804JREZN.mp3",
+      "title": "Global FX: Dollar Debate Corner (again), Yen, RBNZ/RBA",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-09-04T20:01:28.162859+00:00",
+      "episode_id": "8d3b757f65277711"
+    },
+    "788198962907e354": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19755156-the-mysterious-case-of-the-disappearing-investors.mp3",
+      "title": "The mysterious case of the disappearing investors",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-09-04T20:16:46.112620+00:00",
+      "episode_id": "788198962907e354"
+    },
+    "6c30e011d2b32b60": {
+      "url": "https://mcdn.podbean.com/mf/web/bu2uiycdjcfnxs38/hot_commodity_podcast_september_04_2026.mp3",
+      "title": "Russia/Ukraine headlines drive another volatile week for grain markets",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-09-04T20:19:06.441525+00:00",
+      "episode_id": "6c30e011d2b32b60"
+    },
+    "ffec85171bc2bbed": {
+      "url": "https://media.transistor.fm/46b73f56/cd1be18c.mp3",
+      "title": "That hot jobs report and the Fed's September meeting",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-09-04T20:31:41.274951+00:00",
+      "episode_id": "ffec85171bc2bbed"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-04T18:01:43.474750+00:00"
+  "last_updated": "2026-09-04T20:31:41.275004+00:00"
 }
