@@ -15952,8 +15952,29 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-09-03T23:41:22.171310+00:00",
       "episode_id": "46a5d1493321d88b"
+    },
+    "174eb8539a9161aa": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3905636252.mp3",
+      "title": "Dipan Patel on Permira’s ‘Artisanal’ Approach to Private Equity",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-09-04T05:13:25.871373+00:00",
+      "episode_id": "174eb8539a9161aa"
+    },
+    "df1a244ffb4a650b": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/19597843-ep91-green-buildings-in-asia-banks-insurers-decide-with-armelle-le-bihan-gbce.mp3",
+      "title": "Ep91 Green Buildings in Asia: Banks, Insurers Decide with Armelle Le Bihan, GBCE",
+      "feed": "Asia Climate Finance Podcast",
+      "processed": "2026-09-04T05:19:03.570828+00:00",
+      "episode_id": "df1a244ffb4a650b"
+    },
+    "f589639bbc46aa6e": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a99a70ae7a9fe24787b145f/media.mp3",
+      "title": "Memory chip mania isn’t going away, with Dan Kim",
+      "feed": "The Economics Show",
+      "processed": "2026-09-04T05:23:52.832762+00:00",
+      "episode_id": "f589639bbc46aa6e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-03T23:41:22.171358+00:00"
+  "last_updated": "2026-09-04T05:23:52.832810+00:00"
 }

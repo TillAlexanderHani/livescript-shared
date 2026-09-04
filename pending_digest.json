@@ -1,4 +1,21 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Memory chip mania isn’t going away, with Dan Kim",
+      "published": "Fri, 04 Sep 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6a99a70ae7a9fe24787b145f/media.mp3",
+      "feed": "The Economics Show",
+      "provider": "The Economist",
+      "priority": 2,
+      "tags": [
+        "China",
+        "PBoC",
+        "Trade",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nThis episode covers the memory chip (DRAM/NAND) supply crunch driven by AI data-center demand, with DRAM prices up over 200% year-on-year and no meaningful new supply until 2028. It's primarily a semiconductor-industry and US-China tech-competition story with limited direct FX/rates relevance, though it touches broader US-China industrial policy dynamics.\n\n**Key points**\n- DRAM prices are up over 200% y/y; supply is essentially sold out across both high-end (AI/data center) and legacy (auto, medical device) demand segments.\n- Memory chip components could rise from 15-25% to 30-50% of a smartphone's bill of materials.\n- DRAM production is concentrated among three firms (Samsung, SK Hynix, Micron); Chinese entrants YMTC (NAND) and CXMT (DRAM) are gaining share with heavy state support, though CXMT lacks EUV lithography access.\n- US DRAM market share is expected to exceed 60% due to AI-driven hyperscaler demand; South Korea has announced a new memory production cluster to defend competitiveness.\n- New fabs take 2-6 years to build; supply relief isn't expected until late 2027/early 2028.\n\n**FX / rates implications**\n- Indirect channel via China/CNY: continued heavy state subsidy for domestic chip champions (YMTC, CXMT) reinforces China's tech self-sufficiency drive amid US export controls, a persistent theme in US-China trade friction relevant to broader risk sentiment and CNY policy stance.\n- Taiwan/TWD and Korea/KRW: memory and advanced logic supply chains (TSMC, Samsung, SK Hynix) remain central to these export-driven economies' terms of trade; sustained high memory pricing is a tailwind for Korean export revenues and could support KRW via trade balance.\n- No direct discussion of Fed, USD, UST yields, or EM Asia/LATAM currencies.\n\n**Watch list**\n- New DRAM capacity coming online in South Korea (Samsung, SK Hynix) and Micron's Idaho site, expected late 2027/early 2028.\n- US export control policy toward Chinese chipmakers and any escalation/de-escalation in US-China tech trade tensions.\n- Next memory market down-cycle as a test of Chinese counter-cyclical investment capacity and market share gains.",
+      "summarized_at": "2026-09-04T05:23:52.832762+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-04"
 }
