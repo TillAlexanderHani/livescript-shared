@@ -16078,8 +16078,22 @@
       "feed": "Capital Economics Weekly Briefing",
       "processed": "2026-09-04T20:31:41.274951+00:00",
       "episode_id": "ffec85171bc2bbed"
+    },
+    "6eb81a82ae7149e0": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/5399d713-9c7f-4f8d-9344-d2cb156bd44f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "What Could Shake Up Markets in September?",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-04T23:29:33.261139+00:00",
+      "episode_id": "6eb81a82ae7149e0"
+    },
+    "a71ad888ea51d113": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260904_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - Back to School",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-09-04T23:50:42.241402+00:00",
+      "episode_id": "a71ad888ea51d113"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-04T20:31:41.275004+00:00"
+  "last_updated": "2026-09-04T23:50:42.241440+00:00"
 }
