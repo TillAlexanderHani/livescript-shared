@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Trump drinks Venezuela’s milkshake",
+      "published": "Sat, 05 Sep 2026 00:00:00 +0000",
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234",
+      "feed": "Planet Money",
+      "provider": "NPR",
+      "priority": 4,
+      "tags": [
+        "Venezuela",
+        "Oil",
+        "Chevron",
+        "Trump",
+        "Sanctions",
+        "WTI",
+        "Brent",
+        "Commodities",
+        "Geopolitics",
+        "PDVSA"
+      ],
+      "summary": "**Summary**\nA new US-Venezuela oil deal, announced by Trump on Truth Social as the \"biggest oil deal in world history,\" would give a company (possibly part-owned by the Pentagon) exclusive 100-year rights to extract from 17 Venezuelan oil fields in exchange for cheap US access to crude. The episode uses a Venezuelan oil executive's family history to frame the risk that this repeats a 1990s pattern of foreign investment being nationalized once politically inconvenient.\n\n**Key points**\n- Deal follows Trump's earlier order to capture Venezuela's leader and comes amid heavy US military pressure (bombing, removal of the former president, gunboats/helicopters).\n- The White House says the private company involved will invest $100 billion in new production; Chevron separately committed over $7 billion over five years.\n- Venezuela holds the world's largest oil reserves but production has collapsed due to underinvestment, sanctions, and past nationalization under Hugo Chavez (2000s), which cost PDVSA two-thirds of production capacity.\n- The 1990s \"Apertura\" opening to foreign capital (Chevron, Conoco, Japanese firms) initially doubled production but ended in a 2002 oil strike, Chavez firing 20,000 workers, and eventual nationalization.\n- The deal reportedly conflicts with Venezuela's constitution, which bars transferring oil deposits to private/foreign ownership, and was effectively imposed rather than negotiated.\n\n**FX / rates implications**\n- Directly relevant to oil supply/geopolitics: a large-scale reopening of Venezuelan crude to US firms is a medium-term bearish supply factor for Brent/WTI if production scales, though near-term political risk (expropriation history, sanctions volatility) limits how fast capital deploys.\n- Watch for knock-on sanctions relief/tightening dynamics affecting global crude balances, which feed into EM oil importers (India, Philippines, Thailand) via terms-of-trade and inflation, and oil exporters (Colombia, Mexico) via fiscal/FX channels.\n- Broader US foreign-policy assertiveness in Latin America (military action, imposed terms) is a geopolitical risk factor for regional risk premia (COP, MXN sovereign spreads).\n\n**Watch list**\n- Whether major oil majors beyond Chevron re-enter Venezuela given expropriation risk and ongoing US-Venezuela political tension.\n- Pace of the $100 billion investment pledge and actual production ramp from the 17 designated oil fields.\n- Any renewed US sanctions/military escalation that could disrupt the deal or broader crude flows.",
+      "summarized_at": "2026-09-05T05:16:34.823459+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-05"
 }
