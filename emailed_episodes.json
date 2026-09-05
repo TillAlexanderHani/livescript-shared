@@ -16106,8 +16106,15 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-09-05T13:16:47.489432+00:00",
       "episode_id": "b0335601c9b180a0"
+    },
+    "520bc99cc48c7ac9": {
+      "url": "https://mcdn.podbean.com/mf/web/ecikwbr4jp9izdgt/Weekender_090426_KAL-1-Z990UERE.mp3",
+      "title": "Global Data Pod Weekender: Labor day",
+      "feed": "Global Data Pod",
+      "processed": "2026-09-05T19:42:36.181111+00:00",
+      "episode_id": "520bc99cc48c7ac9"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-05T13:16:47.489474+00:00"
+  "last_updated": "2026-09-05T19:42:36.181150+00:00"
 }
