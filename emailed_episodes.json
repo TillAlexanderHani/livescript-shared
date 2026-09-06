@@ -16113,8 +16113,15 @@
       "feed": "Global Data Pod",
       "processed": "2026-09-05T19:42:36.181111+00:00",
       "episode_id": "520bc99cc48c7ac9"
+    },
+    "51dd07dcda0ebe22": {
+      "url": "https://traffic.megaphone.fm/BLM8163167641.mp3",
+      "title": "EM Lens: Global X’s Dorson Shines Spotlight on EM Equities, FX",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-09-06T05:16:34.301437+00:00",
+      "episode_id": "51dd07dcda0ebe22"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-05T19:42:36.181150+00:00"
+  "last_updated": "2026-09-06T05:16:34.301476+00:00"
 }
