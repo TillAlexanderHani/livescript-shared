@@ -16120,8 +16120,15 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-09-06T05:16:34.301437+00:00",
       "episode_id": "51dd07dcda0ebe22"
+    },
+    "999b8c310c41fbc7": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19764082-cut-to-the-chase-us-jobs-data-bolsters-case-for-september-hike-but-upcoming-cpi-more-important.mp3",
+      "title": "Cut to the Chase! US jobs data bolsters case for September hike, but upcoming CPI more important.",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-07T05:20:28.901401+00:00",
+      "episode_id": "999b8c310c41fbc7"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-06T05:16:34.301476+00:00"
+  "last_updated": "2026-09-07T05:20:28.901434+00:00"
 }
