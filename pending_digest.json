@@ -1,25 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "Cut to the Chase! US jobs data bolsters case for September hike, but upcoming CPI more important.",
-      "published": "Mon, 07 Sep 2026 07:00:00 +0800",
-      "url": "https://www.buzzsprout.com/1662247/episodes/19764082-cut-to-the-chase-us-jobs-data-bolsters-case-for-september-hike-but-upcoming-cpi-more-important.mp3",
-      "feed": "Standard Chartered Money Insights",
-      "provider": "Standard Chartered",
-      "priority": 4,
-      "tags": [
-        "USD",
-        "Fed",
-        "FOMC",
-        "CPI",
-        "Inflation",
-        "UST 10y",
-        "Credit",
-        "DXY"
-      ],
-      "summary": "**Summary**\nStandard Chartered's Jonathan Liang reviews the August US jobs report and flags Friday's CPI print as the more decisive input for the September 16 FOMC decision, with a formal house-view update due September 11. The framing centers on the odds of a Fed hike this cycle, a scenario still seen as tail-risk but rising.\n\n**Key points**\n- August US Non-Farm Payrolls printed 162,000 new jobs; unemployment held steady at 4.1%, a resilient labor market backdrop.\n- Odds of a September Fed rate hike have risen, reinforced by Fed's Kevin Warsh's hawkish Jackson Hole speech.\n- StanChart says a core CPI print at or above 0.2% month-on-month this Friday would shift their call from no hikes in 2026 to one September hike; view to be published September 11, ahead of the September 16 FOMC meeting.\n- A hike, if delivered, is framed as a Fed credibility move, notable given President Trump's weekend calls for rate cuts.\n- StanChart extended its recommended UST duration range from 3-5 years to 3-7 years, expecting intermediate yields to actually fall post-hike as credibility is reasserted; prefers expressing this via 3-7 year US corporate credit (BB-rated or better), citing strong earnings fundamentals and partial avoidance of AI-related long-end supply that is widening spreads further out the curve.\n\n**FX / rates implications**\n- A September Fed hike would likely support USD/DXY near-term on rate-differential grounds, a headwind for EM Asia and LATAM carry trades (INR, IDR, PHP, MXN, BRL) even as US intermediate yields are expected to compress on credibility grounds.\n- Politically charged Fed independence narrative (Trump vs. Warsh/FOMC) is a risk-sentiment wildcard that could add volatility to EM FX regardless of the actual rate decision.\n- Steeper focus on 3-7yr UST/credit vs. long end signals relative value in belly-of-curve positioning, relevant for EM rates traders benchmarking against UST curve shape.\n\n**Watch list**\n- US CPI report, Friday September 11 (core MoM at/above 0.2% is the hike trigger threshold).\n- StanChart's updated rate-call publication, September 11.\n- FOMC meeting, September 16 (US time).",
-      "summarized_at": "2026-09-07T05:20:28.901401+00:00"
-    }
-  ],
-  "last_digest_date": "2026-09-07"
+  "episodes": [],
+  "last_digest_date": "2026-09-08"
 }
