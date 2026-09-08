@@ -16162,8 +16162,15 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-09-08T05:22:07.105134+00:00",
       "episode_id": "e2ef82615ed1e8b7"
+    },
+    "1b91bb5fea15be60": {
+      "url": "https://traffic.megaphone.fm/BLM4109552738.mp3",
+      "title": "All Options Considered: Bond Volatility, USD/JPY and Gas Tail Risk",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-09-08T17:45:21.026841+00:00",
+      "episode_id": "1b91bb5fea15be60"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-08T05:22:07.105173+00:00"
+  "last_updated": "2026-09-08T17:45:21.026883+00:00"
 }
