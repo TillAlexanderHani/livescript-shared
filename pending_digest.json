@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! Taiwan equity market remains attractive",
+      "published": "Tue, 08 Sep 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19769712-cut-to-the-chase-taiwan-equity-market-remains-attractive.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "TWD",
+        "Taiwan",
+        "MSCI Taiwan",
+        "Equities",
+        "AI capex",
+        "Semiconductors",
+        "Risk sentiment",
+        "Capital flows"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Money Insights podcast argues the Taiwan equity market remains an attractive opportunistic trade despite a strong first-half rally, a July pullback tied to the global tech sector, and a subsequent recovery. The core thesis is that Taiwan is a pivotal beneficiary of resilient global AI infrastructure spending, which matters for an EM Asia trader given Taiwan's weight in regional equity flows and its correlation with tech-driven risk sentiment.\n\n**Key points**\n- MSCI Taiwan Index fell 3.9% in July before rebounding 4.5% in August (in TWD terms).\n- Major tech hyperscalers' recent guidance shows AI infrastructure capex remains resilient with few signs of slowdown.\n- Taiwan is positioned as a key beneficiary via semiconductor manufacturing leadership and the broader AI hardware ecosystem (PCBs, liquid cooling, networking).\n- Concerns about \"circular financing\" in AI (incumbents funding smaller ecosystem partners) are downplayed as a normal feature of a capital-intensive industry building capacity to meet real demand, not idle capacity.\n- MSCI Taiwan's P/E remains above its 5-year average but has moderated from June's peak; consensus sees ~40% average annual earnings growth 2025-2028 versus ~5% for 2021-2025, supporting valuations.\n\n**FX / rates implications**\n- No explicit FX or rates commentary, but sustained foreign equity inflows into Taiwan on AI optimism are typically TWD-supportive and a signal for regional tech-sensitive currencies (KRW) that trade on similar semiconductor/AI capex themes.\n- Continued resilience in AI infrastructure spending underpins broader risk sentiment relevant to EM Asia carry and equity-linked flow trades.\n\n**Watch list**\n- Ongoing hyperscaler capex guidance and AI infrastructure spending trends as a read on Taiwan/Korea tech-equity and flow momentum.\n- MSCI Taiwan valuation versus 5-year average P/E for signs of overextension after the recent rebound.",
+      "summarized_at": "2026-09-08T05:22:07.105134+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-08"
 }
