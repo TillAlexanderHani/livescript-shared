@@ -16197,8 +16197,22 @@
       "feed": "PIMCO Pod",
       "processed": "2026-09-09T00:22:59.726719+00:00",
       "episode_id": "5e695f023208c75a"
+    },
+    "a064d1040c31787d": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6aa03eeb4fa142971fafc174/media.mp3",
+      "title": "Was Jesus anti-capitalist?",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-09-09T05:41:36.066600+00:00",
+      "episode_id": "a064d1040c31787d"
+    },
+    "1849d8e5c3089e13": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19776075-cut-to-the-chase-usd-jpy-under-pressure.mp3",
+      "title": "Cut to the Chase! USD/JPY under pressure",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-09T05:43:14.054431+00:00",
+      "episode_id": "1849d8e5c3089e13"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-09T00:22:59.726765+00:00"
+  "last_updated": "2026-09-09T05:43:14.054469+00:00"
 }
