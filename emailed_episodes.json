@@ -16225,8 +16225,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-09-09T14:26:00.367833+00:00",
       "episode_id": "a75683cc03a82a5c"
+    },
+    "108daa60d5cfe401": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD2256023879.mp3",
+      "title": "How Will Less Fed Transparency Affect Markets and the Economy?",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-09-09T17:22:20.161869+00:00",
+      "episode_id": "108daa60d5cfe401"
+    },
+    "8a71158b040bd62e": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487",
+      "title": "Cost-cutting, quiet guilt and the inflation generation",
+      "feed": "Planet Money",
+      "processed": "2026-09-09T17:45:50.318581+00:00",
+      "episode_id": "8a71158b040bd62e"
+    },
+    "33b607e51146ac25": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH6741923343.mp3",
+      "title": "The cost of quantum",
+      "feed": "Reuters Econ World",
+      "processed": "2026-09-09T18:00:40.065078+00:00",
+      "episode_id": "33b607e51146ac25"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-09T14:26:00.367871+00:00"
+  "last_updated": "2026-09-09T18:00:40.065112+00:00"
 }
