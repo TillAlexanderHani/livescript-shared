@@ -16274,8 +16274,43 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-09-10T05:35:56.034838+00:00",
       "episode_id": "1e7e9b34f30f8248"
+    },
+    "0ddca8b24c891ebd": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6aa2647ca6e9aef4cc6fd94e/media.mp3",
+      "title": "Taking the pulse on medical tourism",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-09-10T13:52:56.309340+00:00",
+      "episode_id": "0ddca8b24c891ebd"
+    },
+    "7b6414fc1ea4fbf5": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ac7406bd-0582-4820-af93-b4c100274867/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "The Rise of Organized Retail Crime at Big Box Stores",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-09-10T14:15:46.574983+00:00",
+      "episode_id": "7b6414fc1ea4fbf5"
+    },
+    "f4a64d801845d588": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/15e60556-8788-47ce-b472-016517f0ff23/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=15e60556-8788-47ce-b472-016517f0ff23&feed=IFy3imsg&t=podcast&e=nx-s1-5963882&p=510325&d=517&size=8272754",
+      "title": "Are small town colleges going extinct?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-09-10T14:17:24.158396+00:00",
+      "episode_id": "f4a64d801845d588"
+    },
+    "08883edcd59f4ceb": {
+      "url": "https://media.transistor.fm/cc0f34e6/80581636.mp3",
+      "title": "Neil Shearing on China Shock 2.0",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-09-10T14:19:44.904820+00:00",
+      "episode_id": "08883edcd59f4ceb"
+    },
+    "df2daf6804cc9b13": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Muyang.mp3?dest-id=4287628",
+      "title": "Want to Do Business With the Chinese? Here's What You Need to Know",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-09-10T14:21:44.937118+00:00",
+      "episode_id": "df2daf6804cc9b13"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-10T05:35:56.034874+00:00"
+  "last_updated": "2026-09-10T14:21:44.937154+00:00"
 }

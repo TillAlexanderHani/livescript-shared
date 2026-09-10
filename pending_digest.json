@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Neil Shearing on China Shock 2.0",
+      "published": "Thu, 10 Sep 2026 14:40:17 +0100",
+      "url": "https://media.transistor.fm/cc0f34e6/80581636.mp3",
+      "feed": "Capital Economics Weekly Briefing",
+      "provider": "Capital Economics",
+      "priority": 5,
+      "tags": [
+        "CNY",
+        "China",
+        "PBoC",
+        "USD",
+        "Trade",
+        "Tariffs",
+        "Risk sentiment",
+        "EUR",
+        "Inflation",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nCapital Economics Group Chief Economist Neil Shearing lays out the firm's new \"China Shock 2.0\" research series, arguing China's export surge since the pandemic is reshaping global trade imbalances again — bigger, higher up the value chain, and now with a geopolitical dimension absent from the first China Shock of the early 2000s. This is squarely global-macro material with direct implications for EM trade partners, USD funding of deficits, and risk sentiment.\n\n**Key points**\n- China now accounts for just under 20% of global exports by volume (vs ~5% in the early 2000s) and about a third of global manufacturing production.\n- China's export gains have moved from low/mid-end goods (toys, furniture, TVs) to EVs, batteries, pharma and advanced manufacturing — taking share from advanced economies in strategically important industries.\n- China's Jan-Aug 2026 trade data implies a trade surplus potentially exceeding last year's record $1.2 trillion; overcapacity is broad-based, not just AI/tech-linked.\n- China's export competition is estimated to be shaving ~0.2 percentage points a year off OECD inflation via price competition — a disinflationary offset.\n- Costs are falling disproportionately on Europe (Germany hit hard in autos, petrochemicals) rather than the US at this stage; von der Leyen has publicly linked global imbalances to China's 2001 WTO accession.\n- Deficit countries must accumulate external liabilities to offset China's surplus-driven drain on global demand; historically only the 1985 Plaza Accord resolved such imbalances without crisis, and Shearing sees a repeat as unlikely given US-China strategic rivalry.\n\n**FX / rates implications**\n- Persistent Chinese overcapacity and export dumping is a structural disinflationary force globally — supportive of duration/rates broadly, including UST and EM local rates, and a factor easing imported inflation pressure in EM Asia importing Chinese goods.\n- Rising risk of piecemeal (not coordinated) tariff/export-restriction responses from Europe and others, with spillover risk to global trade flows and China-exposed EM Asia exporters (KRW, TWD, THB, MYR) competing with Chinese goods in third markets.\n- Unresolved global imbalances raise medium-term tail risk of a disorderly adjustment/crisis via sudden-stop capital flow reversals in deficit economies — a risk-sentiment/USD funding theme relevant to EM carry trades.\n\n**Watch list**\n- Capital Economics' full China Shock 2.0 report suite over coming weeks (China policy sustainability, US fiscal deficits, global trade-surplus response).\n- Further Chinese trade data prints and whether full-year surplus exceeds the $1.2tn 2025 record.\n- Any signs of coordinated Western tariff/export-restriction action versus piecemeal sector-specific measures (autos already hit).",
+      "summarized_at": "2026-09-10T14:19:44.904820+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-10"
 }
