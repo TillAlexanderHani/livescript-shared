@@ -16456,8 +16456,43 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-09-11T17:56:23.968144+00:00",
       "episode_id": "e1baec5079e96976"
+    },
+    "097a0853fc80f904": {
+      "url": "https://mcdn.podbean.com/mf/web/3w2pxixx8khxuxng/260911AARKCV_KAL-1-AK5SY5TF.mp3",
+      "title": "Global FX: Post-CPI and pre-Fed FX round up",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-09-11T20:07:49.116170+00:00",
+      "episode_id": "097a0853fc80f904"
+    },
+    "9db4202155525d94": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/0cffba08-5683-468b-8e4d-c0d0983dc39b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=0cffba08-5683-468b-8e4d-c0d0983dc39b&feed=tc4zxWgX",
+      "title": "Hikes on the Horizon, Diesel Distress and Remembering September 11 9/11/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-11T20:14:45.550367+00:00",
+      "episode_id": "9db4202155525d94"
+    },
+    "f3ee02a1fd21e70f": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/19778831-how-global-finance-blocks-caribbean-climate-action.mp3",
+      "title": "How Global Finance Blocks Caribbean Climate Action",
+      "feed": "Horizontes de Latinoamérica (S&P Global)",
+      "processed": "2026-09-11T20:19:16.503800+00:00",
+      "episode_id": "f3ee02a1fd21e70f"
+    },
+    "721a40a21de7583c": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b614da06-213b-4d27-ae05-b4c101309140/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-09-11T20:34:12.595464+00:00",
+      "episode_id": "721a40a21de7583c"
+    },
+    "e69b478ebe896f4f": {
+      "url": "https://traffic.megaphone.fm/BLM9453528289.mp3",
+      "title": "FX Moment: The Fed Meeting & What It Means for Bonds, the Dollar",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-09-11T20:36:17.862889+00:00",
+      "episode_id": "e69b478ebe896f4f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-11T17:56:23.968179+00:00"
+  "last_updated": "2026-09-11T20:36:17.862931+00:00"
 }
