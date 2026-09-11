@@ -16428,8 +16428,36 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-09-11T14:33:51.230772+00:00",
       "episode_id": "d0bd7a17ddf6a75b"
+    },
+    "2c485e31701446eb": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19789475-summer-s-over-but-what-next-for-currency-markets.mp3",
+      "title": "Summer’s over, but what next for currency markets?",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-09-11T17:23:52.572500+00:00",
+      "episode_id": "2c485e31701446eb"
+    },
+    "811f78ff368c7ef1": {
+      "url": "https://mcdn.podbean.com/mf/web/ttq6mq63wbtcyb6j/260911GDP_Greg_Allan_KAL-1-DQL09V78.mp3",
+      "title": "Global Data Pod: The ECB is on the move, will the BoE follow?",
+      "feed": "Global Data Pod",
+      "processed": "2026-09-11T17:27:29.119787+00:00",
+      "episode_id": "811f78ff368c7ef1"
+    },
+    "0890ee625588dcdd": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19789502-squirrel-on-squirrel-violence.mp3",
+      "title": "Squirrel on squirrel violence",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-09-11T17:42:37.790772+00:00",
+      "episode_id": "0890ee625588dcdd"
+    },
+    "e1baec5079e96976": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260911_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - Crunch time for the Fed and the BOJ",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-09-11T17:56:23.968144+00:00",
+      "episode_id": "e1baec5079e96976"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-11T14:33:51.230814+00:00"
+  "last_updated": "2026-09-11T17:56:23.968179+00:00"
 }
