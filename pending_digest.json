@@ -1,4 +1,108 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Gold’s rollercoaster ride",
+      "published": "Thu, 10 Sep 2026 15:30:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6aa3d09ea6e9aef4cce0539e/media.mp3",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 4,
+      "tags": [
+        "Gold",
+        "USD",
+        "DXY",
+        "Fed",
+        "UST 10y",
+        "Central banks",
+        "Oil",
+        "Risk sentiment",
+        "Inflation",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nHSBC's precious metals analyst Jim Steele reviews gold's volatile 2026 round trip — an all-time high above $5,400/oz in February followed by a sharp selloff below $4,000 — and frames the drivers shaping the metal's next moves, with direct read-through for the dollar and global risk appetite that EM traders track closely.\n\n**Key points**\n- Gold hit a record above $5,400 in February before falling sharply, in the most volatile 12-month stretch of Steele's career.\n- Central banks bought roughly one in every three ounces mined in 2022-24; ECB research showed gold reserves surpassed US Treasury holdings in value for the first time in modern finance.\n- The rally was also fueled by expectations of 50-60bp of Fed cuts, dollar weakness and lower real yields; FOMO drove new retail/speculative entrants, especially from August last year.\n- Gold broke its traditional safe-haven pattern around the Iran strike, selling off instead of rallying as an oil-driven inflation scare pushed yields and the dollar higher, triggering liquidation by new entrants and portfolio hedgers.\n- Sanctions use has reinvigorated central-bank gold demand as a hedge against being frozen out of dollar assets (per economist Barry Eichengreen); central banks are less price-sensitive but still reducing purchase pace off highs.\n- Gold tokenization/ETFs are broadening the investor base toward smaller, lower-income-country buyers, notably India.\n\n**FX / rates implications**\n- Gold retains an inverse relationship with the dollar/DXY except in acute crisis episodes (COVID, GFC) when both rise together — a strong dollar remains a headwind for gold and, by extension, a broader EM FX headwind.\n- A shift in Fed rate-cut expectations toward neutral would weaken the dollar and be gold-positive, a tailwind that would also ease funding costs and support EM Asia/LATAM carry trades.\n- Rising US fiscal deficits and debt issuance are flagged as structurally gold-supportive, a theme relevant to UST 10y term premium and broader EM risk sentiment.\n\n**Watch list**\n- Dollar/DXY direction and evolving Fed rate-cut expectations under new Fed Chair Kevin Warsh.\n- US fiscal deficit trajectory and potential flashpoints around the US midterm elections.\n- Pace of central-bank gold buying and any further sanctions-driven reserve diversification.",
+      "summarized_at": "2026-09-11T13:56:30.643932+00:00"
+    },
+    {
+      "title": "Ep. 375: Bilal on How to Use AI to Turbocharge Your Market Analysis",
+      "published": "Fri, 11 Sep 2026 07:00:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_BILAL_.mp3?dest-id=1929056",
+      "feed": "Macro Hive Conversations",
+      "provider": "Macro Hive",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "Productivity",
+        "Research process"
+      ],
+      "summary": "**Summary**\nBilal Hafeez, Head of Strategy at Macro Hive, departs from market commentary to explain his personal workflow for using AI/LLMs to accelerate financial research and market analysis. The episode is a how-to on AI tooling rather than a discussion of any specific market, currency, or macro driver, so direct trading relevance is minimal, though the framework may be of interest to analysts looking to streamline their own research process.\n\n**Key points**\n- Six themes covered: LLMs democratizing coding (natural language to Python/code), structured prompting via a \"CLEAR\" framework (Context, Length/format, Examples, Ask it to think, Role/persona), building reusable \"skills\" (e.g. an article-summarizer skill, a Tufte-style chart-formatting skill), customizing AI memory across sessions, using continuous/agentic work (Claude's \"co-work\", ChatGPT's \"work\") to run scheduled tasks like daily academic-paper digests, and building a personal RAG/knowledge base from trusted sources (IMF, BIS, central banks, followed newsletters/Twitter accounts).\n- Emphasizes evaluating prompts against a self-produced \"gold standard\" output before trusting LLM output.\n- Notes RAG systems reduce hallucination, provide source audit trails, and can be time-filtered (e.g., only documents from the past 24 hours) to stay current with fast-moving markets.\n- Mentions Macro Hive's acquisition by BGC Group and the launch of Macro Hive Markets, a new execution-services offering alongside strategy/quant research.\n\n**FX / rates implications**\nNone directly — no currencies, rates, central bank policy, or specific market catalysts are discussed in this episode.\n\n**Watch list**\n- None specific; episode is a productivity/methodology piece rather than a market-moving update.",
+      "summarized_at": "2026-09-11T14:11:04.924696+00:00"
+    },
+    {
+      "title": "Strategic Stalemate: Ryan Hass on How Beijing Sees America — and Trump",
+      "published": "Fri, 11 Sep 2026 04:00:00 -0000",
+      "url": "https://pdcn.co/e/rss.art19.com/episodes/ceb28345-57ba-4d22-b676-3f22854681c5.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Sinica Podcast (China)",
+      "provider": "Kaiser Kuo",
+      "priority": 2,
+      "tags": [
+        "China",
+        "Trump",
+        "Geopolitics",
+        "Taiwan",
+        "Trade",
+        "Tariffs",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nBrookings China Center director Ryan Hass discusses two essays on China's evolving worldview: a China Leadership Monitor piece arguing Beijing has moved from participant to architect of an alternative international political order, and a Brookings piece on why Xi Jinping is not effusively embracing Trump's conciliatory posture ahead of a planned September state visit to Washington. This is a geopolitical/foreign-policy deep dive with limited direct FX/rates trading signal, but it frames the US-China strategic backdrop that periodically drives risk sentiment and CNY positioning.\n\n**Key points**\n- Hass argues China increasingly sees itself in \"strategic stalemate\" with the US, citing the 2025 trade war where US tariffs on China hit 145% before Trump backed down.\n- China's foreign aid remains flat near $4bn vs US at roughly $50bn even after cuts, and BRI policy-bank lending has shrunk, showing a gap between rhetorical ambition and resource commitment.\n- Neither US nor China currently has \"economic escalation dominance\" (ability to inflict pain the other can't replicate/absorb), per Dalip Singh framework — rare earths (China) vs chips/jet engines (US) are the key leverage points.\n- A US-China trade truce reached in Busan a year ago expires in November; some tariff exemptions and Chinese purchases of US goods are expected at the upcoming summit, alongside an AI risk-reduction dialogue with low expectations for major breakthroughs.\n- Japan and Philippines are raising defense budgets and deepening US coordination in response to Chinese pressure in the East/South China Seas and around Taiwan.\n\n**FX / rates implications**\n- Limited direct read-through for EM FX/rates, but the November expiry of the US-China trade truce and any signs of tariff re-escalation are a tail-risk catalyst for CNY/CNH and broader EM Asia risk sentiment (KRW, TWD, THB exposed via China trade linkages).\n- A stable-to-cooling US-China relationship (as Hass expects, contrarian to Washington consensus) would be modestly supportive of global risk appetite and EM carry trades broadly.\n- Ongoing Japan/Philippines-China tensions are a slow-burn geopolitical risk factor for regional risk premia but not an immediate market mover.\n\n**Watch list**\n- Xi Jinping's state visit to Washington later in September 2026.\n- US-China trade truce expiration in November 2026 — watch for tariff snapback risk.\n- Pre-summit US-China AI dialogue outcome.\n- 21st Party Congress next fall (leadership succession signals under Xi's potential fourth term).",
+      "summarized_at": "2026-09-11T14:30:04.329262+00:00"
+    },
+    {
+      "title": "Through the Noise: Inching towards a Fed ‘credibility’ hike",
+      "published": "Fri, 11 Sep 2026 18:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19789435-through-the-noise-inching-towards-a-fed-credibility-hike.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "ECB",
+        "EUR",
+        "BoJ",
+        "JPY",
+        "BoE",
+        "GBP",
+        "Brent",
+        "Inflation",
+        "Rate hikes"
+      ],
+      "summary": "**Summary**\nThis episode covers a heavy global central-bank week — a near-certain Fed hike, an ECB hike just delivered, and an upcoming BoJ decision — plus an oil price risk near $100/bbl, all of which drive the dollar, UST yields and DM FX crosses that set the tone for EM positioning.\n\n**Key points**\n- Fed: August payrolls added 162,000 jobs (nearly triple consensus), unemployment held at 4.1% (full employment), but wage growth slowed to a five-year low of 3.1% y/y; producer price inflation accelerated in August, making a 25bp Fed hike next week highly likely absent a soft CPI print.\n- Fed Chair Wash called the current 3.75% policy rate \"not restrictive\"; a hold amid perceived Trump administration pressure could undermine Fed credibility and weigh on equities/bonds.\n- ECB hiked 25bp to 2.5%, citing Middle East conflict/energy shock inflation pressure; Lagarde called it a \"no-brainer\"; strategists expect another 25bp hike by December, deposit rate potentially reaching 2.75%.\n- US 10y yield faces major resistance near 5.02% (2023 high); CTA/managed futures shorts at record levels; house raised bond maturity preference to 3-7 years from 3-5 years, favoring corporates over governments.\n- Oil near $100/bbl on Gulf export disruption risk, Iran tanker actions, and China resuming buying; US crude inventories below 5-year range; house hedges oil upside via US inflation-protected bonds rather than equities.\n\n**FX / rates implications**\n- A Fed hike would support USD broadly and cap EUR/GBP/JPY gains, with DXY seen holding near 99.8-100 — a headwind for EM Asia and LATAM carry trades.\n- EUR/USD sees gradual upside toward 1.18 resistance, but a Fed hike could delay the break higher; USD/JPY downside toward 150-152 seen as BoJ normalizes (hike expected next week, another in Q4/December).\n- GBP/USD expected range-bound with bearish bias near 1.34; EUR/GBP offers upside potential.\n- Elevated UST 10y yields near 5% and record short positioning are a key global risk-sentiment driver for EM rates and currencies broadly.\n\n**Watch list**\n- Tonight's August US CPI print — a soft reading is the main swing factor against a Fed hike.\n- Next week's Fed decision and BoJ policy meeting.\n- Oil prices and Gulf export/Iran tanker developments ahead of US midterm elections in November.\n- ECB path toward a possible 25bp hike by December (deposit rate toward 2.75%).",
+      "summarized_at": "2026-09-11T14:32:05.314161+00:00"
+    },
+    {
+      "title": "Bessent's yen bet, cold Argentine data centers set, and the summer box office net",
+      "published": "Fri, 11 Sep 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/fa264c2a-c2ae-4c7e-b04f-03127af36b24/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=fa264c2a-c2ae-4c7e-b04f-03127af36b24&feed=IFy3imsg&t=podcast&e=nx-s1-5965869&p=510325&d=562&size=8994987",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "JPY",
+        "USDJPY",
+        "Fed",
+        "UST 10y",
+        "Carry",
+        "Risk sentiment",
+        "ARS",
+        "Argentina"
+      ],
+      "summary": "**Summary**\nUS Treasury Secretary Scott Bessent publicly challenged FX markets to \"bet against\" the dollar's yen intervention stance, a notable signal given his hedge-fund history (including the 1990s $10bn bet against the British pound). The episode also covers a proposed $25bn OpenAI data center in Argentine Patagonia and record US/Canada summer box office revenue, both lower relevance for FX/rates but the Patagonia item touches Argentina's investment/FX narrative under President Javier Milei.\n\n**Key points**\n- USDJPY currently around 153.63.\n- Japan's authorities have spent record amounts intervening to support the yen by purchasing it in FX markets.\n- The US Treasury and Japan's finance ministry conducted a joint yen-buying intervention over the summer, the first coordinated action of this kind since 2011.\n- Bessent's concern: Japan's finance ministry may need to sell US Treasury holdings to fund yen purchases, since Japan is a major foreign holder of US government debt.\n- This follows a separate effort by Bessent to buy back Treasury bonds to push yields lower.\n- Separately, OpenAI has signed a letter of intent to explore a $25bn data center in Patagonia, Argentina, partly for its naturally cold climate (cooling can account for ~40% of data center electricity use); Milei's government is courting AI investment with tax breaks and regulatory certainty.\n\n**FX / rates implications**\n- USDJPY: US Treasury rhetoric and coordinated FX intervention history signal Washington's tolerance limits on yen weakness — watch for further verbal or actual intervention risk that could trigger sharp JPY moves and spill into broader Asia FX positioning/carry trades.\n- UST 10y: If Japan's MOF sells Treasuries to fund yen support, this is a bearish supply/price risk for USTs, pushing yields higher — a direct read-through to EM Asia rates and borrowing costs given UST yields anchor EM local rates.\n- ARS/Argentina: Large-scale AI infrastructure investment interest is a modest positive data point for Argentina's FX/investment narrative under Milei's tax-break courtship strategy, though nothing concrete has broken ground yet.\n\n**Watch list**\n- Further Bessent statements or Treasury/BOJ coordinated intervention on JPY.\n- Japan MOF Treasury holdings/sales data for signs of funding pressure.\n- Progress (or lack thereof) on the OpenAI Patagonia data center as an Argentina investment signal.",
+      "summarized_at": "2026-09-11T14:33:51.230772+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-11"
 }

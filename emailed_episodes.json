@@ -16393,8 +16393,43 @@
       "feed": "IMF Podcasts",
       "processed": "2026-09-11T05:50:38.771912+00:00",
       "episode_id": "ab39bd59b17bcfb9"
+    },
+    "fd6c1889ed01c431": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6aa3d09ea6e9aef4cce0539e/media.mp3",
+      "title": "Gold’s rollercoaster ride",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-09-11T13:56:30.643932+00:00",
+      "episode_id": "fd6c1889ed01c431"
+    },
+    "349c38b650792ecb": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_BILAL_.mp3?dest-id=1929056",
+      "title": "Ep. 375: Bilal on How to Use AI to Turbocharge Your Market Analysis",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-09-11T14:11:04.924696+00:00",
+      "episode_id": "349c38b650792ecb"
+    },
+    "10704af635905e83": {
+      "url": "https://pdcn.co/e/rss.art19.com/episodes/ceb28345-57ba-4d22-b676-3f22854681c5.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Strategic Stalemate: Ryan Hass on How Beijing Sees America — and Trump",
+      "feed": "Sinica Podcast (China)",
+      "processed": "2026-09-11T14:30:04.329262+00:00",
+      "episode_id": "10704af635905e83"
+    },
+    "85d3967f01944a1f": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19789435-through-the-noise-inching-towards-a-fed-credibility-hike.mp3",
+      "title": "Through the Noise: Inching towards a Fed ‘credibility’ hike",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-11T14:32:05.314161+00:00",
+      "episode_id": "85d3967f01944a1f"
+    },
+    "d0bd7a17ddf6a75b": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/fa264c2a-c2ae-4c7e-b04f-03127af36b24/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=fa264c2a-c2ae-4c7e-b04f-03127af36b24&feed=IFy3imsg&t=podcast&e=nx-s1-5965869&p=510325&d=562&size=8994987",
+      "title": "Bessent's yen bet, cold Argentine data centers set, and the summer box office net",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-09-11T14:33:51.230772+00:00",
+      "episode_id": "d0bd7a17ddf6a75b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-11T05:50:38.771952+00:00"
+  "last_updated": "2026-09-11T14:33:51.230814+00:00"
 }
