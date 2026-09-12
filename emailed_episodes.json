@@ -16512,8 +16512,29 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "processed": "2026-09-12T05:14:58.362455+00:00",
       "episode_id": "69d6ac5945c5fa80"
+    },
+    "957ad5bd8ce6ae34": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD7341082792.mp3",
+      "title": "What a Fed Rate Hike Could Mean for US Stocks",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-09-12T13:11:31.872978+00:00",
+      "episode_id": "957ad5bd8ce6ae34"
+    },
+    "373c7c10cda64eba": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248",
+      "title": "The loan at the heart of a new foreclosure crisis",
+      "feed": "Planet Money",
+      "processed": "2026-09-12T13:20:55.243808+00:00",
+      "episode_id": "373c7c10cda64eba"
+    },
+    "6928a7c1cccb77da": {
+      "url": "https://mcdn.podbean.com/mf/web/6vdd2wpitxe2tn8d/Podcast_09-11-26.mp3",
+      "title": "September WASDE wrap-up",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-09-12T13:23:57.834071+00:00",
+      "episode_id": "6928a7c1cccb77da"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-12T05:14:58.362503+00:00"
+  "last_updated": "2026-09-12T13:23:57.834102+00:00"
 }
