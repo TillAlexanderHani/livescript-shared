@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Global Data Pod Weekender: September song",
+      "published": "Fri, 11 Sep 2026 17:32:21 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/7mkcysvcch3uhebx/Weekender_09112026_KAL-1-BOR0DP5S.mp3",
+      "feed": "Global Data Pod",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "ECB",
+        "BoE",
+        "BoJ",
+        "RBA",
+        "DXY",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Risk sentiment",
+        "Carry"
+      ],
+      "summary": "**Summary**\nJPMorgan's Bruce Kasman and Joe Lupton argue that September marks the start of a broad, synchronized DM central bank hiking cycle rather than a US-only story, with eight of nine tracked advanced economies expected to hike by year-end (Canada the exception). The ECB hiked this week, the BoJ and RBA moved, and the Fed is now expected to hike both next week and in December — a shift with major implications for global USD funding costs, UST yields and EM carry trades.\n\n**Key points**\n- Taylor Rule estimates suggest DM policy rates are broadly ~100bp too low; US policy rate \"should\" be near 5%, Euro area near 3%, Japan implied near 6%.\n- ECB hiked this week and guided core HICP near 2-3% out to 2028, suggesting more hikes may be needed; UK data (July) came in stronger, raising odds of a BoE hike as early as next week; RBA added a hike this week.\n- Fed dots debate: analysts expect one to two hikes priced this year (leaning toward two) and a cut of zero to minus one next year, netting cumulative tightening of 1-2 hikes versus market pricing centered near three; a jump to four hikes priced would be a surprise.\n- Warsh-led Fed communication (post-hike press conference) is expected to avoid explicit guidance, framed as fighting inflation without acknowledging a growth/inflation trade-off — seen as internally inconsistent by both analysts.\n- Debate centers on whether hikes are pure \"calibration\" to an underestimated neutral rate versus an active attempt to slow labor markets/growth to curb sticky inflation (~3% core), with risk of a 1986/87- or 1996/97-style market stress episode without recession.\n\n**FX / rates implications**\n- A synchronized global hiking cycle (Fed + ECB + BoE + BoJ + RBA) raises the risk of a broad tightening of global financial conditions, pressuring UST yields higher and supporting USD via rate differentials, though ECB/BoE hawkishness could cap DXY upside somewhat.\n- Higher-for-longer/more-hikes-than-priced scenario is a risk-off catalyst that could compress EM carry trades and widen EM credit spreads if markets \"telescope\" the tightening path (four-to-five hikes) rather than the base case (one to two).\n- BoJ tightening alongside Fed hikes reduces the JPY funding-carry appeal broadly used in EM carry strategies.\n\n**Watch list**\n- Next week's Fed decision and press conference (Warsh) — hike size, dot plot revisions, and guidance tone.\n- UK data and potential BoE hike as early as next week.\n- Next quarter's US retail sales report, flagged as likely to print strong.\n- Ongoing wage/Phillips curve dynamics and unemployment rate trajectory as a gauge of whether hikes shift from calibration to demand-destruction mode.",
+      "summarized_at": "2026-09-13T05:29:19.011040+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-13"
 }
