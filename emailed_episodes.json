@@ -16568,8 +16568,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-09-14T16:22:33.888212+00:00",
       "episode_id": "c11366e7f87b6441"
+    },
+    "c5ad0726e0e28ebd": {
+      "url": "https://traffic.megaphone.fm/BLM1699690879.mp3",
+      "title": "Credit Crunch: Manulife’s Purdie on AI, ESG and Relative Value",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-09-14T19:11:09.294678+00:00",
+      "episode_id": "c5ad0726e0e28ebd"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-14T16:22:33.888257+00:00"
+  "last_updated": "2026-09-14T19:11:09.294720+00:00"
 }
