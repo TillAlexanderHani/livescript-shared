@@ -1,4 +1,51 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Robert Friedland on the World's Monumental Shortage of Copper",
+      "published": "Sat, 12 Sep 2026 08:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/84e5f9f2-bff2-403b-bb41-b4c20134a223/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 4,
+      "tags": [
+        "Copper",
+        "China",
+        "PBoC",
+        "USD",
+        "JPY",
+        "Carry",
+        "UST 10y",
+        "Tariffs",
+        "WTI",
+        "Brent",
+        "Trade",
+        "Gold"
+      ],
+      "summary": "**Summary**\nRobert Friedland (Ivanhoe Mines) argues copper is now \"the new oil\" — a structurally undersupplied critical metal at the center of energy transition, AI/data-center buildout, and great-power competition. Copper hit a record ~$14,875/ton this week (down ~3% into the taping) as B of A flagged the first annual output decline since 2017, even as demand for grid, EV, defense and AI infrastructure accelerates.\n\n**Key points**\n- Ore grades are collapsing (Chile's Escondida down from 2% to 0.8%, heading to 0.4% in two years), forcing more energy/water-intensive processing even as output falls.\n- Global sulfuric acid (needed to leach ~25% of copper supply) spiked from $150/ton to over $1,000/ton after Strait of Hormuz-linked gas disruptions and Russia/China export bans — an under-the-radar inflation channel.\n- Mining capex has been starved for decades (NPV models undervalue long-life mines); mining is now <1% of S&P 500 market cap, while China has systematically bought up the global critical-minerals supply chain.\n- White House undecided on refined copper tariffs (Reuters story pressuring copper price on Sep 10); Friedland notes a 30% tariff would push US copper to ~$7.87/lb, aiding reindustrialization but adding to domestic inflation ahead of midterms.\n- US-China tension over critical metals (gallium, scandium, rhenium, niobium) is becoming a chokepoint akin to a Boeing engines-for-China-metals standoff described via Treasury Secretary Bessent.\n\n**FX / rates implications**\n- Persistent yen weakness (cited 160/USD) makes copper/commodity imports far more expensive for Japan, reinforcing BoJ policy tension and carry-trade dynamics (Bessent reportedly wary of a JPY collapse curbing Japanese UST demand, which would push US yields higher).\n- Diesel/refined-product price spikes (crack spreads at all-time highs) and Hormuz-related disruption are a stagflationary commodity impulse relevant to broad EM inflation/rates pricing.\n- Tariff uncertainty on refined copper is a two-sided US inflation/growth risk factor markets are actively pricing.\n\n**Watch list**\n- White House decision on refined copper tariffs.\n- Copper price action following the Reuters tariff report (recorded Sep 10, down ~3% on the week).\n- USD/JPY levels and any BoJ/MOF intervention risk tied to carry-trade unwind and Treasury demand.\n- Sulfuric acid supply and Russia/China export bans as a hidden inflation channel.",
+      "summarized_at": "2026-09-14T05:39:30.354178+00:00"
+    },
+    {
+      "title": "Cut to the Chase! Fed outlook after the latest US inflation report",
+      "published": "Mon, 14 Sep 2026 07:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19799494-cut-to-the-chase-fed-outlook-after-the-latest-us-inflation-report.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "USD",
+        "WTI",
+        "Risk sentiment",
+        "S&P 500",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nStandard Chartered now sees a 90% probability the Fed hikes rates at its September 15-16 FOMC meeting, a sharp jump in conviction driven by a stronger-than-expected August jobs report and a hotter core CPI print. This matters for EM traders because a hawkish surprise from the world's most important central bank drives the USD, UST yields, and global risk appetite that EM Asia and LATAM currencies trade off.\n\n**Key points**\n- August payrolls added 162,000 jobs, nearly triple consensus, with prior two months revised up; unemployment held at 4.1%.\n- Core CPI rose 0.3% m/m vs 0.2% expected; headline inflation 3.4% y/y, with gasoline (+3.9% m/m) driving over a third of the move.\n- Fed voted 9-3 to hold in July; Governor Waller signaled his vote hinges on this inflation data, tipping the balance toward a hike.\n- Chair Warsh has called the current 3.75% policy rate \"not restrictive\"; political pressure from President Trump for cuts raises independence concerns if the Fed holds.\n- StanChart's base case is one \"credibility hike,\" not a new tightening cycle — annual core inflation still easing (2.4% from 2.5%), wage growth at a 5-year low (3.1% y/y).\n- Key risk: \"super core\" services-ex-housing inflation jumped 0.5% m/m (strongest since January, 3% y/y), suggesting price pressures could broaden if WTI holds above $100/bbl.\n\n**FX / rates implications**\n- A Fed hike plus hawkish messaging would lift the USD broadly and pressure EM Asia/LATAM FX (INR, IDR, PHP, MXN, BRL) via higher UST yields, with 10-year potentially testing the 2023 high of 5.02%.\n- A dovish-leaning press conference despite the hike could cap USD upside and ease pressure on carry trades.\n- StanChart extended bond duration to 3-7 years on the yield rise but avoids ultra-long maturities given fiscal deficit risks.\n\n**Watch list**\n- FOMC decision and press conference, September 16 — is it \"one and done\" or a tightening bias.\n- US 10-year yield vs. the 2023 high of 5.02%.\n- WTI crude relative to $100/bbl as a pass-through risk to services inflation.",
+      "summarized_at": "2026-09-14T05:40:34.358151+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-14"
 }

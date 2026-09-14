@@ -16540,8 +16540,22 @@
       "feed": "Global Data Pod",
       "processed": "2026-09-13T05:29:19.011040+00:00",
       "episode_id": "febdfd4d465d856a"
+    },
+    "46656a1e1501c96a": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/84e5f9f2-bff2-403b-bb41-b4c20134a223/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Robert Friedland on the World's Monumental Shortage of Copper",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-09-14T05:39:30.354178+00:00",
+      "episode_id": "46656a1e1501c96a"
+    },
+    "8532275fddaf2dc6": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19799494-cut-to-the-chase-fed-outlook-after-the-latest-us-inflation-report.mp3",
+      "title": "Cut to the Chase! Fed outlook after the latest US inflation report",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-14T05:40:34.358151+00:00",
+      "episode_id": "8532275fddaf2dc6"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-13T05:29:19.011086+00:00"
+  "last_updated": "2026-09-14T05:40:34.358195+00:00"
 }
