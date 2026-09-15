@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "BOJ Preview: Global Market Implications",
+      "published": "Mon, 14 Sep 2026 17:24:12 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/3ncu4qna8hi4nn9k/AARBOJprepod26-KAL-1-BDO0SHH7.mp3",
+      "feed": "At Any Rate Podcast",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "JPY",
+        "BoJ",
+        "USDJPY",
+        "JGB",
+        "UST 10y",
+        "Fed",
+        "Fiscal",
+        "Inflation",
+        "Carry",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nJPMorgan's Japan team previews the September BOJ meeting, expecting a 20bp hike to 1.25%, with markets focused less on the hike itself and more on messaging around pace (quarterly hikes vs. step-by-step) and the eventual terminal rate. The discussion ties together BOJ normalization, yen dynamics, fiscal expansion risk and JGB curve steepening, with clear spillover channels into US Treasuries and global bond markets.\n\n**Key points**\n- BOJ expected to hike to 1.25% in September; JPM sees terminal rate near 2.25% by end-2027, possibly extending into 2028.\n- Market (OIS) currently prices hikes roughly every quarter with terminal near 2.4%; JPM/investors see 1.75-2.2% as more realistic base case, favoring a 2s10s JGB steepener.\n- Coordinated FX intervention plus US pressure (Treasury Secretary Bessent) has reduced \"behind the curve\" concerns, contributing to recent yen appreciation; medium-term fair value still seen at 155-165 vs USD.\n- Japan fiscal 2027 budget requests running ~17% above this year's level; consumption tax cut on food costs ~0.6% of GDP in lost revenue, with no funding plan yet specified.\n- JGB long-end steepening pressure driven by fiscal concerns, weak long-end demand, heavy super-long issuance, and BOJ QT (~JPY45tn/year).\n- FX intervention alternatives (FEMA repo facility) seen as impractical at scale given short tenor and high cost (~25bp).\n\n**FX / rates implications**\n- Yen: risk skewed toward renewed depreciation if BOJ underdelivers versus priced hikes, re-widening the \"behind the curve\" risk premium; medium-term fair value 155-165.\n- JGB curve: steepener favored (2s10s) as front-end pricing looks too aggressive relative to realistic terminal rate; long end pressured by fiscal/issuance/QT dynamics.\n- Global spillover: JGB/UST correlation flagged as key transmission — fragile global bond demand means JGB curve stress could push UST yields higher and vice versa, relevant for broader EM rates and carry positioning.\n- Fiscal expansion risk (Takaichi government) could force BOJ into more restrictive stance to protect price stability, a tail risk for yen and term premia repricing.\n\n**Watch list**\n- BOJ September meeting: rate decision, dovish dissent count, government representative attendance as signals of political pressure on pace.\n- FY2027 budget finalization, expected by end of 2026, and details of funding for the tax cut/spending gap.\n- Middle East/Red Sea tensions and oil prices as drivers of global inflation persistence and Fed \"higher for longer\" risk, which would pressure yen further.\n- BOJ QT pace (~JPY45tn/year) and long-end JGB auction demand for further curve steepening signals.",
+      "summarized_at": "2026-09-15T14:36:13.529301+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-15"
 }
