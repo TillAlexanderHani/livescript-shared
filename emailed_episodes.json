@@ -16631,8 +16631,22 @@
       "feed": "Goldman Sachs Exchanges",
       "processed": "2026-09-15T17:49:24.078970+00:00",
       "episode_id": "5daa0136ae76330b"
+    },
+    "b53f2b080af69892": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/5d7bc008-cf55-4d63-9ccd-0f5c247e997e.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Mid-Cycle Shift Equity Investors Shouldn’t Miss",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-15T20:30:52.054365+00:00",
+      "episode_id": "b53f2b080af69892"
+    },
+    "43d0fa0631fd28d8": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6aa99ec279ba7f1ecce215c1/media.mp3",
+      "title": "Should markets discount the AI apocalypse?",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-09-15T20:55:52.470020+00:00",
+      "episode_id": "43d0fa0631fd28d8"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-15T17:49:24.079007+00:00"
+  "last_updated": "2026-09-15T20:55:52.470068+00:00"
 }
