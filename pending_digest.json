@@ -21,6 +21,31 @@
       ],
       "summary": "**Summary**\nJPMorgan's Japan team previews the September BOJ meeting, expecting a 20bp hike to 1.25%, with markets focused less on the hike itself and more on messaging around pace (quarterly hikes vs. step-by-step) and the eventual terminal rate. The discussion ties together BOJ normalization, yen dynamics, fiscal expansion risk and JGB curve steepening, with clear spillover channels into US Treasuries and global bond markets.\n\n**Key points**\n- BOJ expected to hike to 1.25% in September; JPM sees terminal rate near 2.25% by end-2027, possibly extending into 2028.\n- Market (OIS) currently prices hikes roughly every quarter with terminal near 2.4%; JPM/investors see 1.75-2.2% as more realistic base case, favoring a 2s10s JGB steepener.\n- Coordinated FX intervention plus US pressure (Treasury Secretary Bessent) has reduced \"behind the curve\" concerns, contributing to recent yen appreciation; medium-term fair value still seen at 155-165 vs USD.\n- Japan fiscal 2027 budget requests running ~17% above this year's level; consumption tax cut on food costs ~0.6% of GDP in lost revenue, with no funding plan yet specified.\n- JGB long-end steepening pressure driven by fiscal concerns, weak long-end demand, heavy super-long issuance, and BOJ QT (~JPY45tn/year).\n- FX intervention alternatives (FEMA repo facility) seen as impractical at scale given short tenor and high cost (~25bp).\n\n**FX / rates implications**\n- Yen: risk skewed toward renewed depreciation if BOJ underdelivers versus priced hikes, re-widening the \"behind the curve\" risk premium; medium-term fair value 155-165.\n- JGB curve: steepener favored (2s10s) as front-end pricing looks too aggressive relative to realistic terminal rate; long end pressured by fiscal/issuance/QT dynamics.\n- Global spillover: JGB/UST correlation flagged as key transmission — fragile global bond demand means JGB curve stress could push UST yields higher and vice versa, relevant for broader EM rates and carry positioning.\n- Fiscal expansion risk (Takaichi government) could force BOJ into more restrictive stance to protect price stability, a tail risk for yen and term premia repricing.\n\n**Watch list**\n- BOJ September meeting: rate decision, dovish dissent count, government representative attendance as signals of political pressure on pace.\n- FY2027 budget finalization, expected by end of 2026, and details of funding for the tax cut/spending gap.\n- Middle East/Red Sea tensions and oil prices as drivers of global inflation persistence and Fed \"higher for longer\" risk, which would pressure yen further.\n- BOJ QT pace (~JPY45tn/year) and long-end JGB auction demand for further curve steepening signals.",
       "summarized_at": "2026-09-15T14:36:13.529301+00:00"
+    },
+    {
+      "title": "Why Global Bond Yields Are Surging",
+      "published": "Tue, 15 Sep 2026 15:24:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD2088357060.mp3",
+      "feed": "Goldman Sachs Exchanges",
+      "provider": "Goldman Sachs",
+      "priority": 4,
+      "tags": [
+        "UST 10y",
+        "DXY",
+        "USD",
+        "Fed",
+        "ECB",
+        "BoE",
+        "JGB",
+        "Bund",
+        "Brent",
+        "WTI",
+        "Fiscal",
+        "Inflation",
+        "Carry"
+      ],
+      "summary": "**Summary**\nGoldman Sachs' George Cole explains why global government bond yields — US, UK, Germany, Japan — have surged to multi-decade highs simultaneously rather than the US simply leading the rest of the world. For an EM trader, this is the key global backdrop: rising DM term premia and hawkish repricing of DM central banks tightens the funding and carry environment for EM FX and local rates.\n\n**Key points**\n- All four major bond markets (US, UK, Germany, Japan) are seeing yields rise, with no single dominant driver; moves span the front end (policy rate expectations) and long end (term premium/fiscal).\n- Despite the sell-off, realized and implied volatility have stayed low until recently, suggesting the move is fundamentally, not technically, driven.\n- Drivers: large fiscal deficits/debt issuance, AI capex increasingly financed in debt markets (crowding out government borrowing), resilient growth, and a fresh energy-price spike tied to the Iran war pushing European inflation and rate-hike risk (BoE, ECB, potentially Fed).\n- US Treasury increased long-end bond buybacks, shortening the effective maturity of debt issuance — a liquidity/supply operation, not a macro yield-suppression tool (similar moves seen at UK DMO, Japan); Cole says this doesn't change the fundamental yield level.\n- 10-year UST yields above 5%; historically not unusual pre-GFC, but current debt/deficit burden is much larger than in that earlier high-yield era.\n- Key forward catalysts for lower yields: energy prices easing (6-12 month commodity view), or an AI capex slowdown/disinflationary productivity shock.\n\n**FX / rates implications**\n- Sustained high UST/Bund/Gilt/JGB yields keep global term premia elevated, supporting DXY and tightening global financial conditions — a headwind for EM carry trades and local-currency bonds (INR, IDR, MXN, BRL, COP rates).\n- Rising energy prices (Brent/WTI via Iran war) are inflationary for oil-importing EM (India, Philippines, Turkey-type profiles) while supportive for exporters (Colombia, Mexico via Pemex-adjacent flows).\n- Hawkish repricing risk at Fed/ECB/BoE, if it materializes, would flatten curves and could trigger risk-off pressure on EM FX broadly.\n\n**Watch list**\n- Global energy prices and Iran war developments over the next weeks.\n- Fed, ECB, BoE policy signals on tolerating energy-driven inflation.\n- AI capex financing trends and any inflection toward slower investment.\n- US Treasury refunding announcements and further buyback program changes.",
+      "summarized_at": "2026-09-15T17:49:24.078970+00:00"
     }
   ],
   "last_digest_date": "2026-09-15"
