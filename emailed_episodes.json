@@ -16687,8 +16687,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-09-16T14:52:40.538681+00:00",
       "episode_id": "eda148aa17533f01"
+    },
+    "67d05ace093e8a88": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127",
+      "title": "How investing is getting riskier (Two Indicators)",
+      "feed": "Planet Money",
+      "processed": "2026-09-16T17:50:05.410524+00:00",
+      "episode_id": "67d05ace093e8a88"
+    },
+    "76f069b00b04e705": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/97b9c1c0-caee-4d64-bc47-573c32ec691c/group-item/5866bd62-56d3-42ed-9ddf-6b2bbcdce99e/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Powering AI: another shale story? with Hill Vaden",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-09-16T17:55:55.091720+00:00",
+      "episode_id": "76f069b00b04e705"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-16T14:52:40.538731+00:00"
+  "last_updated": "2026-09-16T17:55:55.091768+00:00"
 }
