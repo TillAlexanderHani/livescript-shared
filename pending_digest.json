@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How the bond market is handling AI risks",
+      "published": "Wed, 16 Sep 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/b9fd4539-ce2a-4b03-857f-cf37ab34c003/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=b9fd4539-ce2a-4b03-857f-cf37ab34c003&feed=IFy3imsg&t=podcast&e=nx-s1-5970376&p=510325&d=557&size=8926024",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "Fed",
+        "FOMC",
+        "UST 10y",
+        "Credit",
+        "Risk sentiment",
+        "S&P 500",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nThe episode examines how AI hyperscalers (Alphabet, Amazon, Meta, Microsoft, Oracle) are flooding the US investment-grade corporate bond market with debt to finance data center buildouts, a trend with direct implications for US Treasury yields and broader credit markets that an EM trader tracks as a global risk driver.\n\n**Key points**\n- The five hyperscalers sold over $90 billion in bonds in the prior year and have already sold more than $130 billion in 2026 year-to-date, per Vanguard.\n- Deals are now sized at $25 billion in a single issuance, a scale unseen a few years ago when these names weren't major bond issuers.\n- Alphabet's August $25 billion bond sale drew orders over 4x oversubscribed, but investors demanded higher spread/yield, signaling pricing power is starting to shift toward investors.\n- Hyperscaler bonds are competing directly with US Treasuries for investor capital (pension funds, insurers, hedge funds), pushing up Treasury yields.\n- Risks flagged: lack of standardization in project-linked debt structures, construction risk, technological obsolescence over 15-30 year lease terms, and lease-renewal mismatches versus bond maturities.\n- Alphabet also sold its first Australian-dollar-denominated bonds, showing hyperscalers tapping non-US markets.\n- The episode notes the Fed's same-day decision on whether to hike rates, which would raise borrowing costs across the economy including for heavily-indebted tech issuers.\n\n**FX / rates implications**\n- Rising UST yields driven by crowding-out from mega-cap IG issuance is a global risk-transmission channel: higher US real/nominal yields typically pressure EM Asia and LATAM local rates and currencies via carry and portfolio flow channels.\n- A Fed hike (per the episode's same-day FOMC reference) would tighten global dollar liquidity, a headwind for EM FX (INR, IDR, MXN, BRL) and a driver of DXY strength.\n- Credit market strain or repricing in AI-related debt could widen spreads and dent broad risk sentiment, an indirect negative for EM carry trades.\n\n**Watch list**\n- FOMC rate decision outcome referenced same-day in the episode.\n- Ongoing hyperscaler bond issuance pace and pricing/spread trends as a gauge of credit market absorption capacity.\n- Any signs of AI capex pullback or regulatory intervention that could reprice long-dated data center debt.",
+      "summarized_at": "2026-09-16T14:52:40.538681+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-16"
 }

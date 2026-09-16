@@ -16666,8 +16666,29 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-09-16T05:31:31.611113+00:00",
       "episode_id": "b0da735770ce2934"
+    },
+    "bc58df61e5ddb0f9": {
+      "url": "https://traffic.megaphone.fm/CLS6587705018.mp3",
+      "title": "Michael Moritz - Lessons From 40 Years of Investing and Writing - [Invest Like the Best, EP.491]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-09-16T14:32:51.928174+00:00",
+      "episode_id": "bc58df61e5ddb0f9"
+    },
+    "c018159588c91be6": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6aa957327f8a8df43352906d/media.mp3",
+      "title": "Meet the Fuggers: Europe’s richest family ever",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-09-16T14:39:23.499209+00:00",
+      "episode_id": "c018159588c91be6"
+    },
+    "eda148aa17533f01": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/b9fd4539-ce2a-4b03-857f-cf37ab34c003/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=b9fd4539-ce2a-4b03-857f-cf37ab34c003&feed=IFy3imsg&t=podcast&e=nx-s1-5970376&p=510325&d=557&size=8926024",
+      "title": "How the bond market is handling AI risks",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-09-16T14:52:40.538681+00:00",
+      "episode_id": "eda148aa17533f01"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-16T05:31:31.611156+00:00"
+  "last_updated": "2026-09-16T14:52:40.538731+00:00"
 }
