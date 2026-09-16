@@ -16645,8 +16645,29 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-09-15T20:55:52.470020+00:00",
       "episode_id": "43d0fa0631fd28d8"
+    },
+    "520e5b73180e6319": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/1cc99396-d818-4705-9a88-31714f185321/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=1cc99396-d818-4705-9a88-31714f185321&feed=tc4zxWgX",
+      "title": "Yields Surge, The Fed vs. Oil, and a Predictions Pop 9/15/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-16T05:21:15.155685+00:00",
+      "episode_id": "520e5b73180e6319"
+    },
+    "40d10e81adfb565f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/19597848-ep92-green-swans-climate-risk-and-financial-stability-with-frederic-samama-s-p-global.mp3",
+      "title": "Ep92 Green Swans: Climate Risk and Financial Stability with Frederic Samama, S&P Global",
+      "feed": "Asia Climate Finance Podcast",
+      "processed": "2026-09-16T05:27:13.155733+00:00",
+      "episode_id": "40d10e81adfb565f"
+    },
+    "b0da735770ce2934": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19813641-cut-to-the-chase-capital-scarcity-can-equities-still-rally-if-yields-stay-at-5.mp3",
+      "title": "Cut to the Chase! Capital scarcity: Can equities still rally if yields stay at 5%?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-16T05:31:31.611113+00:00",
+      "episode_id": "b0da735770ce2934"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-15T20:55:52.470068+00:00"
+  "last_updated": "2026-09-16T05:31:31.611156+00:00"
 }
