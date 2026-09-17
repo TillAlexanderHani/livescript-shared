@@ -16715,8 +16715,22 @@
       "feed": "Reuters Econ World",
       "processed": "2026-09-17T00:07:34.924973+00:00",
       "episode_id": "e9313f7682564274"
+    },
+    "69d4ab36f267f1a7": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/f6495b2b-e125-4619-93df-9815746219d8.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "One Fed Hike—Or More to Come?",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-17T05:29:23.969564+00:00",
+      "episode_id": "69d4ab36f267f1a7"
+    },
+    "8f6bf62fd06f1621": {
+      "url": "https://pdcn.co/e/rss.art19.com/episodes/b0c8560c-2933-4f97-ac71-5899f0ef2b3e.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Not a Master Plan: The Real History of China's Rare Earth Dominance, with Gloria Xiong and Jessica Chen Weiss",
+      "feed": "Sinica Podcast (China)",
+      "processed": "2026-09-17T05:39:37.578839+00:00",
+      "episode_id": "8f6bf62fd06f1621"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-17T00:07:34.925026+00:00"
+  "last_updated": "2026-09-17T05:39:37.578871+00:00"
 }
