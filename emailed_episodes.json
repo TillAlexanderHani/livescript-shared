@@ -16771,8 +16771,22 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-09-17T18:02:32.821852+00:00",
       "episode_id": "b4cfd826eb018114"
+    },
+    "84f44cb2cd03eef5": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/d869e249-b952-490f-9e34-495c3a27b5a5.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Why the Fed May Have Further to Go",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-17T20:42:52.804496+00:00",
+      "episode_id": "84f44cb2cd03eef5"
+    },
+    "4b8da7e18a8bd221": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/19822419-brazil-s-scandal-plagued-election.mp3",
+      "title": "Brazil's Scandal-Plagued Election",
+      "feed": "The Americas Quarterly Podcast",
+      "processed": "2026-09-17T21:05:02.764675+00:00",
+      "episode_id": "4b8da7e18a8bd221"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-17T18:02:32.821894+00:00"
+  "last_updated": "2026-09-17T21:05:02.764722+00:00"
 }
