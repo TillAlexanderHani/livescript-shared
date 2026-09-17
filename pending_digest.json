@@ -1,4 +1,46 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the chase! Fed hikes rates, with more to come",
+      "published": "Thu, 17 Sep 2026 17:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19820878-cut-to-the-chase-fed-hikes-rates-with-more-to-come.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "Fed",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Inflation",
+        "Rates",
+        "Risk sentiment",
+        "Oil",
+        "Brent"
+      ],
+      "summary": "**Summary**\nThe FOMC hiked rates by 25bp last night, taking the Fed Funds Rate to 4% in a unanimous decision — the first hike since 2023 and a reversal of the 2025 easing cycle. Standard Chartered frames this as the start of a renewed tightening phase, with the dot plot signalling another 25bp hike likely in December and potentially a further move in H1 next year, a hawkish turn with direct implications for global risk appetite and EM funding costs.\n\n**Key points**\n- Fed Funds Rate raised 25bp to 4%, unanimous vote; rates had eased from 4.25% (Sep 2025) to 3.75% (Dec 2025) before this reversal.\n- FOMC statement described inflation as elevated, growth/activity as solid, domestic spending resilient despite uncertainty, and productivity/capital investment as robust.\n- Fed Chair Kevin Warsh called the move a removal of policy accommodation, held the shortest post-meeting press conference on record (~30 minutes), and reiterated no forward guidance.\n- StanChart says the hike confirms risks flagged after Warsh's Jackson Hole (Jacksonville) speech, a summer pickup in job creation and inflation, and an oil price rebound from re-escalation of the Middle East conflict.\n- House view: one more 25bp hike likely by year-end, possibly another in H1 2027, with rates potentially easing back to 4-4.25% later in 2027 as tariff and oil effects fade.\n\n**FX / rates implications**\n- A hawkish, still-hiking Fed supports USD broadly and lifts UST yields, tightening financial conditions for EM Asia and LATAM currencies and raising the bar for carry trades.\n- Higher-for-longer US rates increase pressure on EM central banks (RBI, BI, BSP, Banxico, BCB) to hold or delay easing to defend rate differentials and currency stability.\n- Sustained elevated oil prices from Middle East tensions are a negative terms-of-trade shock for oil-importing EM Asia (INR, IDR, PHP, THB) and a relative positive for oil-linked LATAM/EM exporters.\n- Reduced Fed forward guidance and a hawkish reaction function argue for wider risk premia and volatility around future US data prints.\n\n**Watch list**\n- December FOMC meeting for the flagged additional 25bp hike.\n- Incoming US jobs and inflation data for confirmation of the \"elevated inflation, solid growth\" narrative.\n- Middle East conflict escalation risk and its pass-through to oil prices (Brent/WTI).",
+      "summarized_at": "2026-09-17T14:38:18.716680+00:00"
+    },
+    {
+      "title": "How Southeast Asia Sees the Future of Global Cooperation",
+      "published": "Thu, 17 Sep 2026 04:45:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_SE_ASIA.mp3?dest-id=4287628",
+      "feed": "The China-Global South Podcast",
+      "provider": "China-Global South Project",
+      "priority": 2,
+      "tags": [
+        "ASEAN",
+        "China",
+        "Southeast Asia",
+        "Trade",
+        "Critical minerals",
+        "AI infrastructure",
+        "Myanmar",
+        "Rare earth"
+      ],
+      "summary": "**Summary**\nThis episode covers a Verve Research report on Southeast Asian perspectives on global governance reform, plus deep dives into critical mineral mining and AI data center impacts in the region. It is a geopolitics/development-policy discussion with limited direct market signal, though it touches themes (critical minerals, China supply chains, AI infrastructure buildout, energy rationing in Vietnam) relevant to longer-term EM Asia positioning.\n\n**Key points**\n- Report \"Voices from the Region\" from Verve Research (Rockefeller Foundation-backed) centers Southeast Asian views on global cooperation reform ahead of UNGA, where Xi Jinping meets Trump in Washington rather than attending in New York.\n- ASEAN was intentionally designed as a weak, non-binding institution; report argues for a shift from process to delivery/inclusivity.\n- Myanmar rare earth mining, controlled by ethnic armed organizations, sells output to China, causing transboundary river pollution into Thailand; calls for China to impose extraterritorial corporate due diligence laws akin to the EU's 2024 CSDDD.\n- Malaysia (Johor) saw a rare public protest against a data center near residential areas; optimal data-center operating temps (18-27°C) are structurally mismatched with equatorial Southeast Asia.\n- Vietnam's rapid industrialization is running into energy rationing amid fuel supply disruptions, constraining AI data center power availability.\n- UN-level discussion of a possible \"global mineral trust\" to redistribute critical mineral benefits to producer countries, though feasibility is seen as low given current geopolitics.\n\n**FX / rates implications**\n- Indirect: Vietnam energy rationing and fuel supply disruption is a growth/inflation risk factor for VND and could affect industrial FDI inflows tied to the data-center/manufacturing buildout narrative.\n- China's role as end-buyer of Myanmar rare earths and potential tighter supply-chain regulation is a slow-moving input into critical minerals/battery metals supply chains relevant to broader EM commodity-linked currencies (IDR, PHP nickel/copper exposure).\n- No direct Fed, USD, UST, or EM central bank policy content.\n\n**Watch list**\n- UN General Assembly week (week of 2026-09-22) — Southeast Asian leader statements on global governance reform.\n- Ongoing Thailand-Cambodia border tension and South China Sea code-of-conduct negotiations within ASEAN.\n- Data center siting backlash spreading across Malaysia/Vietnam/Indonesia as a potential regulatory/ESG risk for AI infrastructure investment in the region.",
+      "summarized_at": "2026-09-17T14:43:37.491748+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-17"
 }
