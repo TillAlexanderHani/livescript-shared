@@ -16708,8 +16708,15 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-09-16T20:33:26.563210+00:00",
       "episode_id": "c44f7221c38b4c9d"
+    },
+    "e9313f7682564274": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH2619064476.mp3",
+      "title": "Trump's EV U-Turn",
+      "feed": "Reuters Econ World",
+      "processed": "2026-09-17T00:07:34.924973+00:00",
+      "episode_id": "e9313f7682564274"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-16T20:33:26.563253+00:00"
+  "last_updated": "2026-09-17T00:07:34.925026+00:00"
 }
