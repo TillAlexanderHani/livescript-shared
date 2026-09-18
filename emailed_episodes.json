@@ -16785,8 +16785,15 @@
       "feed": "The Americas Quarterly Podcast",
       "processed": "2026-09-17T21:05:02.764675+00:00",
       "episode_id": "4b8da7e18a8bd221"
+    },
+    "e4ce1ef766994c2e": {
+      "url": "https://traffic.libsyn.com/secure/franklintempletontalkingmarkets/FT_TalkingMarketsPodcast_v3.mp3?dest-id=584964",
+      "title": "Broadening delivered. Now prepare for volatility.",
+      "feed": "Talking Markets with Franklin Templeton",
+      "processed": "2026-09-18T00:16:33.588388+00:00",
+      "episode_id": "e4ce1ef766994c2e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-17T21:05:02.764722+00:00"
+  "last_updated": "2026-09-18T00:16:33.588429+00:00"
 }
