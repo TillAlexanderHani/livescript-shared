@@ -16841,8 +16841,43 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-09-18T05:52:53.511169+00:00",
       "episode_id": "49b6c3793887cf77"
+    },
+    "b7efce3d9aed2f23": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/98fyxjh38axk7tdi/Macrovoices-2026-09-17-Harley-Bassman.mp3",
+      "title": "MacroVoices #550 Harley Bassman: In FED We Trust",
+      "feed": "Macro Voices",
+      "processed": "2026-09-18T14:11:23.039640+00:00",
+      "episode_id": "b7efce3d9aed2f23"
+    },
+    "261aeef12d49d2bc": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3715cbfc-b4cf-4840-bf1b-b4c8010bc9bb/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "There's a Mind-Boggling Number of Rich People in America",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-09-18T14:26:56.998141+00:00",
+      "episode_id": "261aeef12d49d2bc"
+    },
+    "b422b3c28edbac07": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19825898-through-the-noise-a-fed-credibility-induced-bounce.mp3",
+      "title": "Through the noise: A Fed credibility-induced bounce",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-18T14:28:51.901464+00:00",
+      "episode_id": "b422b3c28edbac07"
+    },
+    "9ccc47e7e6fcbec1": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20260918_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - A Double Header of Hikes",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-09-18T14:34:14.434501+00:00",
+      "episode_id": "9ccc47e7e6fcbec1"
+    },
+    "50f2cc693bbf4376": {
+      "url": "https://media.transistor.fm/c377f08f/8b555224.mp3",
+      "title": "The Fed, the World, and China Shock 2.0",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-09-18T14:35:49.980602+00:00",
+      "episode_id": "50f2cc693bbf4376"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-18T05:52:53.511244+00:00"
+  "last_updated": "2026-09-18T14:35:49.980643+00:00"
 }
