@@ -16890,8 +16890,36 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-09-18T17:45:27.081649+00:00",
       "episode_id": "0affdc864ab67ba9"
+    },
+    "c075656e7cb62df5": {
+      "url": "https://mcdn.podbean.com/mf/web/e5wppdsapfqdzpxb/AAR_Global_FX_091826_KAL-1-0AM7VGY9.mp3",
+      "title": "Global FX: Bullish beta, bullish USD reinforced",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-09-18T20:04:23.439669+00:00",
+      "episode_id": "c075656e7cb62df5"
+    },
+    "1a90d38b9054c6f1": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/24ea08e4-d538-46d2-a32d-1cd3a44759f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=24ea08e4-d538-46d2-a32d-1cd3a44759f5&feed=tc4zxWgX",
+      "title": "Nvidia Too Cheap to Ignore?, AI Safety Debate, Apple’s iPhone Launch 9/18/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-18T20:17:14.324527+00:00",
+      "episode_id": "1a90d38b9054c6f1"
+    },
+    "981bc8858be33c96": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025",
+      "title": "The Domino’s Pizza Tracker Theory of Everything",
+      "feed": "Planet Money",
+      "processed": "2026-09-18T20:26:30.831302+00:00",
+      "episode_id": "981bc8858be33c96"
+    },
+    "3d0f1943935c79d2": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC9511673783.mp3",
+      "title": "September Fed Hike May Be More Than a Risk Management Exercise",
+      "feed": "PIMCO Pod",
+      "processed": "2026-09-18T20:40:26.168061+00:00",
+      "episode_id": "3d0f1943935c79d2"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-18T17:45:27.081685+00:00"
+  "last_updated": "2026-09-18T20:40:26.168106+00:00"
 }
