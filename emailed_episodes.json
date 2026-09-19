@@ -16918,8 +16918,15 @@
       "feed": "PIMCO Pod",
       "processed": "2026-09-18T20:40:26.168061+00:00",
       "episode_id": "3d0f1943935c79d2"
+    },
+    "d8059d6bb2c06eee": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19828069-friendship-has-limits.mp3",
+      "title": "Friendship has limits",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-09-18T23:54:39.915103+00:00",
+      "episode_id": "d8059d6bb2c06eee"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-18T20:40:26.168106+00:00"
+  "last_updated": "2026-09-18T23:54:39.915144+00:00"
 }
