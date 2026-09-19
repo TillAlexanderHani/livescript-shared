@@ -16946,8 +16946,15 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-09-19T13:46:43.140287+00:00",
       "episode_id": "ed5dba45cf3d5d89"
+    },
+    "c5d55b8159fc2ea1": {
+      "url": "https://mcdn.podbean.com/mf/web/qh24znkdycfrvxr4/Weekender_091826_KAL-1-E5QCN1TP.mp3",
+      "title": "Global Data Pod Weekender: Tomayto, tomahto",
+      "feed": "Global Data Pod",
+      "processed": "2026-09-19T16:59:30.533273+00:00",
+      "episode_id": "c5d55b8159fc2ea1"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-19T13:46:43.140332+00:00"
+  "last_updated": "2026-09-19T16:59:30.533341+00:00"
 }
