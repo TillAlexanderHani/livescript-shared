@@ -16981,8 +16981,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-09-21T16:15:22.657485+00:00",
       "episode_id": "dde09b6e317e33e1"
+    },
+    "ba40bc9a8cdc3546": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/41711495-c190-4b37-9429-1cf3d98b141b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=41711495-c190-4b37-9429-1cf3d98b141b&feed=tc4zxWgX",
+      "title": "AI Stocks Rally, Meta’s Muse Moment, Nike’s Swoon 9/21/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-21T19:06:59.777818+00:00",
+      "episode_id": "ba40bc9a8cdc3546"
+    },
+    "80d00ff567c5bb6b": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8d30821d-cf7d-4147-b00e-b4cb01647404/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How LA Is Quietly Becoming America's New Industrial Tech Hub",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-09-21T19:13:37.207304+00:00",
+      "episode_id": "80d00ff567c5bb6b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-21T16:15:22.657524+00:00"
+  "last_updated": "2026-09-21T19:13:37.207345+00:00"
 }

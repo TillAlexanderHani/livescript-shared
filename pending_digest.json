@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "AI Stocks Rally, Meta’s Muse Moment, Nike’s Swoon 9/21/26",
+      "published": "Mon, 21 Sep 2026 18:20:11 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/41711495-c190-4b37-9429-1cf3d98b141b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=41711495-c190-4b37-9429-1cf3d98b141b&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 5,
+      "tags": [
+        "CNY",
+        "USD",
+        "China",
+        "Trade",
+        "Tariffs",
+        "WTI",
+        "Oil",
+        "UST 10y",
+        "Rare Earths",
+        "Fiscal",
+        "Elections",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMarkets rallied hard on a mega-cap tech/AI surge (Meta +9-10%, AMD joining the $1T club) while oil sold off sharply, pulling Treasury yields lower ahead of a high-stakes Trump-Xi summit in New York this week covering trade, AI safety, tariffs and critical minerals. The summit backdrop and commodity moves carry direct read-through for USD, CNY and broader EM risk appetite.\n\n**Key points**\n- Xi arrives Wednesday, bilateral meeting Thursday, state dinner with tech CEOs (Musk, Cook, Altman); talks described by Chinese state media as \"candid, in-depth and constructive.\"\n- Focus areas: extension of the Busan trade truce (would cut tariffs on ~$30bn of US-China trade), an AI safety/incident hotline, and no expected breakthrough on Chinese auto market access.\n- China quietly cut rare-earth magnet shipments to the US by 21% m/m in August, a leverage signal ahead of talks; analyst (Tobin Marcus, Wolf Research) expects only \"minor bilateral tariff relaxation,\" not a big deal.\n- China unlikely to pressure Iran/Houthis to end the war, per Wolf Research; Treasury Secretary Bessent confirmed US-China talks included an AI \"incident line\" and implicit reference to easing pressure as oil-driven inflation (diesel near 2008 record) became more costly for the White House.\n- Oil fell ~5%, WTI down over 4%, dragging the 10-year UST yield back below 5%; equities (NASDAQ +2.5% at best) rallied on the combination of a growth-friendly Fed setup and easing energy costs.\n- Midterm outlook: Wolf Research's base case is Republicans lose the House (Senate a toss-up), reducing odds of a big post-election fiscal/stimulus package given intra-GOP fiscal disunity.\n\n**FX / rates implications**\n- Lower oil and lower UST yields are a modest USD-negative, risk-on combination broadly supportive of EM carry (EM Asia and LATAM FX) if sustained.\n- Any confirmed extension of the Busan trade truce or a softer US-China tone would reduce tariff-driven CNY/CNH downside risk and improve regional Asia FX sentiment (KRW, TWD, MYR sensitive to China trade flows).\n- Rare-earth export restraint is a reminder of China's leverage in trade talks — a risk factor for supply-chain-exposed Asia FX if tensions resurface.\n- Midterm-driven reduced fiscal expansion odds could modestly temper further UST yield upside pressure into 2027.\n\n**Watch list**\n- Trump-Xi bilateral meeting Thursday and any announced tariff/trade-truce extension.\n- Next FOMC meeting and Q3 earnings season (4-6 week window cited by CFRA's Sam Stovall as key for market direction).\n- Diesel/oil price trajectory given proximity to 2008 inflation-adjusted highs.\n- November midterm elections and their impact on fiscal policy bandwidth.",
+      "summarized_at": "2026-09-21T19:06:59.777818+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-21"
 }
