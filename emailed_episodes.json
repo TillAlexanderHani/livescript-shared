@@ -16967,8 +16967,15 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-09-20T13:49:58.026305+00:00",
       "episode_id": "b525be9d0b9365fa"
+    },
+    "3d58689e95696b4d": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19836585-cut-to-the-chase-synchronised-rate-hikes.mp3",
+      "title": "Cut to the chase! Synchronised rate hikes",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-21T05:38:54.300269+00:00",
+      "episode_id": "3d58689e95696b4d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-20T13:49:58.026340+00:00"
+  "last_updated": "2026-09-21T05:38:54.300310+00:00"
 }
