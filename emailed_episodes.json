@@ -17037,8 +17037,29 @@
       "feed": "Invest Like the Best",
       "processed": "2026-09-22T14:21:14.362132+00:00",
       "episode_id": "da266eba5c4b7047"
+    },
+    "12b338d278b0b57b": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Manish-Vivek-podcast-TMIversion_1.mp3?dest-id=1534493",
+      "title": "Present Tense, Future Perfect: Redefining Treasury for the Strategic Era",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-09-22T17:49:37.622356+00:00",
+      "episode_id": "12b338d278b0b57b"
+    },
+    "40f8d17dd3240d62": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/19765532-the-ai-data-centre-backlash-can-the-boom-survive-contact-with-local-politics.mp3",
+      "title": "The AI data centre backlash: can the boom survive contact with local politics?",
+      "feed": "Standard Chartered Macro Bytes",
+      "processed": "2026-09-22T18:01:37.393009+00:00",
+      "episode_id": "40f8d17dd3240d62"
+    },
+    "fa793f40876c2a72": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Andrea_Freitas.mp3?dest-id=4287628",
+      "title": "After Maduro: The Current State of China-Venezuela Relations",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-09-22T18:07:56.531747+00:00",
+      "episode_id": "fa793f40876c2a72"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-22T14:21:14.362177+00:00"
+  "last_updated": "2026-09-22T18:07:56.531799+00:00"
 }
