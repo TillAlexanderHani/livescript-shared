@@ -44,6 +44,47 @@
       ],
       "summary": "**Summary**\nMorgan Stanley's Mike Wilson argues the S&P 500's resilience near record highs — despite rising energy prices, two wars, AI safety jitters and central bank tightening — reflects a classic mid-cycle transition rather than complacency. The distinction matters for a macro trader because it frames how to read last week's Fed hike, the incoming Fed leadership shift, and oil as the key swing factor for yields and risk sentiment.\n\n**Key points**\n- Over 40% of the Russell 3000 has fallen at least 20% since June even as the index sits near highs; S&P 500 forward P/E has dropped to 19x, ~20% below a year ago.\n- Median stock earnings growth is running ~15% with revisions breadth near cycle highs — falling multiples alongside strong earnings, not complacency.\n- The Fed's 25bp hike was largely priced; core inflation came in firmer than expected but unevenly — shelter soft, tariff pass-through fading.\n- Uncertainty centers on the incoming Fed chair's more monetarist leanings and how aggressively he applies balance-sheet/money-supply/credit tightening versus the policy rate itself.\n- Wilson favors large-cap quality (high FCF yield, low leverage, efficiency) and AI adopters over enablers; price momentum is rotating toward quality, services, asset-light, fee-based names.\n- Base case: S&P 500 year-end target 8,000; worst-case near-term tactical correction to ~7,100 tied to midterm election seasonality (historically 5-10% pullbacks).\n\n**FX / rates implications**\n- A credible early Fed hike, if seen as inflation-containing, could compress term premium and long-end UST yields rather than push them higher — a modestly USD-negative/EM-friendly channel if it holds.\n- Key risk flagged: an overly restrictive liquidity/balance-sheet stance from the new Fed leadership could tighten financial conditions more than the policy rate implies, a risk-off/USD-supportive scenario for EM funding and carry trades.\n- Energy prices are the near-term swing factor — a further crude rally would pressure the expected Fed path, long-end UST yields and bond volatility, a channel directly relevant to EM Asia oil importers (INR, IDR, PHP, THB) versus LATAM oil exporters (COP, MXN via Pemex-linked dynamics).\n- Fading tariff pass-through into core inflation is a data point worth tracking for the broader tariff/inflation narrative affecting global trade-sensitive EM currencies.\n\n**Watch list**\n- Crude oil price action as the swing factor for the Fed path, UST long end and bond vol.\n- Signals on the new Fed chair's approach to the balance sheet, money supply and credit growth.\n- Midterm election seasonality risk to US equities (5-10% correction pattern) and any spillover to global risk sentiment.\n- Incoming core inflation data for confirmation that shelter softness and fading tariff pass-through persist.",
       "summarized_at": "2026-09-21T21:22:51.737480+00:00"
+    },
+    {
+      "title": "India in focus",
+      "published": "Fri, 18 Sep 2026 02:30:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6aad0baf4cef87591db4db41/media.mp3",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 5,
+      "tags": [
+        "INR",
+        "India",
+        "RBI",
+        "USDINR",
+        "Trade",
+        "Tariffs",
+        "Carry",
+        "Fiscal",
+        "CPI",
+        "Brent"
+      ],
+      "summary": "**Summary**\nHSBC's India chief economist Pranjul Bhandari discusses India's growth resilience, the RBI's rate outlook, and why rupee depreciation hasn't translated into a stronger export response — key context for positioning in INR rates and the currency's medium-term trajectory.\n\n**Key points**\n- India's June quarter GDP grew 7.8% y/y, driven by resilient consumption as government (GST/excise cuts, subsidies, capex) and corporates (not passing on input costs) shield consumers from inflation.\n- Oil above $95/bbl for a prolonged period would hit all parts of the economy; India has cushioned the shock via diversified crude sourcing and strong refining margins as a refined-product exporter.\n- RBI targets 4% inflation; inflation is expected to push toward 5%+ over the next 6-9 months, and HSBC expects two rate hikes in the cycle.\n- A prior FX stress episode was resolved via an NRI deposit scheme that pulled in $127bn, lifting FX reserves to ~$740bn and giving RBI ample ammunition to defend the rupee.\n- INR has depreciated 24% vs EUR and 20% vs GBP over 18 months, but the export response (J-curve) has been faint — strong in high-tech goods (phones, pharma, auto parts) but weak in mid-tech (textiles, footwear, furniture) due to tariff disadvantages (e.g., India's t-shirt tariff to Europe ~3x Vietnam's).\n- New bilateral trade deals (UK activated; EU, Canada, New Zealand, Oman in progress) should reduce tariff disadvantages, with visible export/FDI impact expected around 2027.\n\n**FX / rates implications**\n- RBI rate hikes (two expected) support INR carry and could firm short-end rates; watch for confirmation as inflation prints rise toward 5%.\n- Large FX reserves ($740bn) and the NRI inflow buffer reduce INR tail risk and support currency stability versus prior stress episodes.\n- Persistent trade deficit remains a structural INR headwind absent stronger export/FDI inflows; trade-deal implementation (EU, Canada, NZ, Oman) is a multi-year catalyst, not immediate.\n- Sustained Brent above $95/bbl is a key risk factor for India's twin deficits and growth, warranting close correlation tracking with INR.\n\n**Watch list**\n- Oil price sustainability above $95/bbl.\n- Inflation trajectory toward 5%+ over next 6-9 months and timing of RBI's two expected hikes.\n- Implementation progress and activation of India's bilateral trade deals (EU, Canada, New Zealand, Oman).\n- FDI inflow trends into India's manufacturing/export sector, with 2027 flagged as the inflection point.",
+      "summarized_at": "2026-09-22T00:22:22.665493+00:00"
+    },
+    {
+      "title": "The Credit Market Lens: AI Capex and the Limits of Crowding Out",
+      "published": "Mon, 21 Sep 2026 21:44:00 -0000",
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC2463276543.mp3",
+      "feed": "PIMCO Pod",
+      "provider": "PIMCO",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "UST 10y",
+        "Fed",
+        "Term premium",
+        "Credit",
+        "Risk sentiment",
+        "Inflation"
+      ],
+      "summary": "**Summary**\nPIMCO examines the popular market narrative that debt-funded AI capital expenditure is crowding out the US Treasury market and pushing yields higher. Using an event-study approach around surprise AI-related bond issuance, they find little evidence for portfolio-rebalancing crowding out, though the AI capex boom likely still lifts equilibrium real rates via the saving-investment channel.\n\n**Key points**\n- Roughly $1 trillion in hyperscaler capex is expected this year, consuming real resources regardless of whether it's financed via debt, retained earnings, or equity.\n- Six surprise AI debt deals were identified over the past 12 months using abnormal (>2 standard deviation) negative bond returns around announcements as a proxy for unanticipated issuance.\n- Across three tests (nominal 10-year yields, term premium, swap spreads), surprise AI issuance showed no statistically significant impact on Treasury yields.\n- The main outlier, Amazon's March 10th deal, coincided with a yield backup better explained by shifting Fed policy expectations (2-year yields rose ~22bp) than by crowding out.\n- Term premium has moved up more noticeably since Fed Chair Kevin Warsh's first FOMC meeting, though the broader rise in yields since Q3 last year mostly reflects higher expected policy rates.\n- The $32 trillion Treasury market's equilibrium real yields could rise from the AI investment-saving gap, with adjustment possible via capital imports or dollar depreciation, though the large US current account deficit limits the latter margin.\n\n**FX / rates implications**\n- If AI capex structurally raises US equilibrium real yields rather than via a technical supply/crowding shock, that supports a firmer USD/DXY and higher UST 10y over time, a headwind for EM carry trades (INR, IDR, MXN, BRL rates receivers).\n- Attraction of foreign capital to high-return AI investment could limit dollar depreciation that would otherwise ease EM financing conditions, keeping DXY supported and EM FX under pressure from the funding-currency side.\n- Fed policy-rate expectations (not issuance technicals) remain the dominant driver of UST yields — reinforces that FOMC guidance, not corporate/AI debt supply, is the key transmission channel to EM local rates.\n\n**Watch list**\n- Further large hyperscaler bond deals and their two-day yield/term-premium response as an ongoing crowding-out test.\n- FOMC meetings under Chair Kevin Warsh for signals on policy-rate path affecting term premium and UST 10y.\n- US current account deficit and dollar trajectory as the external-adjustment valve for AI-driven investment demand.",
+      "summarized_at": "2026-09-22T00:25:41.647024+00:00"
     }
   ],
   "last_digest_date": "2026-09-21"
