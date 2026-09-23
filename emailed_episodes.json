@@ -17093,8 +17093,22 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-09-23T00:01:37.806462+00:00",
       "episode_id": "0f4c7a4444924521"
+    },
+    "a3555f289feea8fb": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6ab262d8d00a4eacd5140ee9/media.mp3",
+      "title": "Butchers, fake deaths and falling from helicopters: History’s craziest frauds",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-09-23T05:19:34.736655+00:00",
+      "episode_id": "a3555f289feea8fb"
+    },
+    "3630182d18f63970": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19850535-cut-to-the-chase-will-the-eur-test-its-year-to-date-low.mp3",
+      "title": "Cut to the Chase! Will the EUR test its year-to-date low?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-23T05:24:19.010525+00:00",
+      "episode_id": "3630182d18f63970"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-23T00:01:37.806506+00:00"
+  "last_updated": "2026-09-23T05:24:19.010589+00:00"
 }
