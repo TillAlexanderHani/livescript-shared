@@ -17079,8 +17079,22 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-09-22T20:50:43.155155+00:00",
       "episode_id": "3dfe40a8e6293180"
+    },
+    "f9fdb432f1a5ceb2": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/624a3824-ed02-462b-9dfe-79e1d21dffe2.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Why Central Banks Are Raising Rates Again",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-22T23:54:28.002650+00:00",
+      "episode_id": "f9fdb432f1a5ceb2"
+    },
+    "0f4c7a4444924521": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/34f592ff-4c47-4a71-a476-d850aa9fc4e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=34f592ff-4c47-4a71-a476-d850aa9fc4e9&feed=tc4zxWgX",
+      "title": "Inspiring the AI Trade, Peloton Product Launch, and Muni Bonds to the Rescue? 9/22/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-23T00:01:37.806462+00:00",
+      "episode_id": "0f4c7a4444924521"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-22T20:50:43.155198+00:00"
+  "last_updated": "2026-09-23T00:01:37.806506+00:00"
 }
