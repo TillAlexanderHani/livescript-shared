@@ -1,4 +1,24 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Is our national debt finally too much? (update)",
+      "published": "Wed, 23 Sep 2026 07:00:00 +0000",
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693",
+      "feed": "Planet Money",
+      "provider": "NPR",
+      "priority": 3,
+      "tags": [
+        "Fiscal",
+        "UST 10y",
+        "Inflation",
+        "Sovereign debt",
+        "Fed",
+        "Risk sentiment",
+        "Carry"
+      ],
+      "summary": "**Summary**\nPlanet Money revisits the US national debt debate, tracing it from the 2009 stimulus-era arguments through the influential (and later discredited) Reinhart-Rogoff \"90% of GDP\" threshold paper, and updates it with 2026 commentary from economists Karen Dynan and Kenneth Rogoff. The core shift: economists who once dismissed debt concerns are now turning hawkish as US Treasury yields have risen sharply, changing the calculus on debt sustainability for the world's benchmark risk-free asset.\n\n**Key points**\n- US gross national debt has crossed $40 trillion, up from ~$6-11 trillion in 2008-2012.\n- The 2010 Reinhart-Rogoff paper claimed debt above 90% of GDP roughly halves growth; a 2013 spreadsheet error weakened but didn't overturn the correlation.\n- Congress passed large tax cuts in 2025 that reduced revenue; debt service now exceeds $1 trillion/year, a record.\n- The 10-year US Treasury yield recently hit its highest level since just before the Great Recession.\n- CBO projects debt will cross 120% of GDP by 2036, higher than any prior point including WWII.\n- Karen Dynan, a former dove, now calls herself a \"debt hawk\"; Kenneth Rogoff maintains his long-held hawkish stance and sees >50% odds of a significant debt-related shock.\n- Both cite AI-driven investment buildout and geopolitical shocks (Iran war) as complicating factors for gauging debt tolerance.\n\n**FX / rates implications**\n- Rising UST yields and deteriorating US fiscal trajectory are a global anchor: higher US term premia typically pressure DXY higher and tighten financial conditions, a headwind for EM carry trades and capital flows into EM Asia/LATAM.\n- Persistent US fiscal deficits risk keeping US rates structurally higher, reducing the rate differential appeal of EM local-currency debt unless EM central banks maintain premium carry.\n- A future US debt/rates shock (flagged by Rogoff/Dynan as a real tail risk) would likely trigger broad risk-off, hitting high-beta EM FX (BRL, COP, ZAR-like proxies, IDR) hardest.\n\n**Watch list**\n- US 10-year Treasury yield trajectory and any further spike toward pre-Great Recession highs.\n- CBO debt/GDP projections (120% by 2036) versus actual fiscal trajectory under 2025 tax cuts.\n- US interest expense as a share of budget (already >$1 trillion/year) — further increases could force fiscal adjustment (spending cuts/tax hikes) with knock-on effects for global rates and USD.",
+      "summarized_at": "2026-09-23T18:10:33.385246+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-23"
 }
