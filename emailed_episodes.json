@@ -17128,8 +17128,29 @@
       "feed": "Planet Money",
       "processed": "2026-09-23T18:10:33.385246+00:00",
       "episode_id": "e4dc83b9f0620117"
+    },
+    "13f4307bcdf0d9e8": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/29177345-768a-4c2e-8fd1-742b71a7c5a1.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Unexpected Investment Case for AI Safety",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-23T20:45:23.522000+00:00",
+      "episode_id": "13f4307bcdf0d9e8"
+    },
+    "bffbe54d5f0b2a36": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/370989b4-2f49-45ea-bc8d-70ba5881c6df/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=370989b4-2f49-45ea-bc8d-70ba5881c6df&feed=tc4zxWgX",
+      "title": "Yields Jump, A High-Stakes Visit, and Lefrak’s Real Estate Warning 9/23/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-23T20:52:43.549144+00:00",
+      "episode_id": "bffbe54d5f0b2a36"
+    },
+    "57d58df8cd2df947": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH3977761904.mp3",
+      "title": "The 5% yield",
+      "feed": "Reuters Econ World",
+      "processed": "2026-09-23T21:13:40.647795+00:00",
+      "episode_id": "57d58df8cd2df947"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-23T18:10:33.385285+00:00"
+  "last_updated": "2026-09-23T21:13:40.647836+00:00"
 }
