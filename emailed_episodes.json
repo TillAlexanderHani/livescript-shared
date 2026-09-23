@@ -17107,8 +17107,22 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-09-23T05:24:19.010525+00:00",
       "episode_id": "3630182d18f63970"
+    },
+    "d003614979751b54": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/HSBC-sept-14-2026-09-14-17-55-06copy.mp3?dest-id=1534493",
+      "title": "Redefining Treasury: Blueprint for a Truly Connected Treasury Function",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-09-23T14:31:21.106935+00:00",
+      "episode_id": "d003614979751b54"
+    },
+    "6d89e0d4b5a8753a": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/d3bf506d-f696-4957-bc76-6eede16504b1/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=d3bf506d-f696-4957-bc76-6eede16504b1&feed=IFy3imsg&t=podcast&e=nx-s1-5978120&p=510325&d=563&size=9022571",
+      "title": "Why are used cars priced like new cars?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-09-23T14:50:55.262044+00:00",
+      "episode_id": "6d89e0d4b5a8753a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-23T05:24:19.010589+00:00"
+  "last_updated": "2026-09-23T14:50:55.262085+00:00"
 }
