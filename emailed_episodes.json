@@ -17205,8 +17205,15 @@
       "feed": "Standard Chartered Macro Bytes",
       "processed": "2026-09-24T18:13:57.747212+00:00",
       "episode_id": "7391b13227f9e68f"
+    },
+    "13fa135c17c58839": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/359c4527-1d6e-45ef-a516-0095ecbd13fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=359c4527-1d6e-45ef-a516-0095ecbd13fb&feed=tc4zxWgX",
+      "title": "Navigating Rising Rates and the Trump-Xi Summit 9/24/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-24T20:56:12.503392+00:00",
+      "episode_id": "13fa135c17c58839"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-24T18:13:57.747280+00:00"
+  "last_updated": "2026-09-24T20:56:12.503433+00:00"
 }
