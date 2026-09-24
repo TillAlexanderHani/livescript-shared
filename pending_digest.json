@@ -1,4 +1,74 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Will Asian central banks follow the Fed?",
+      "published": "Thu, 24 Sep 2026 06:59:31 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6ab4ca5362a47b6beca89783/media.mp3",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 5,
+      "tags": [
+        "Fed",
+        "USD",
+        "DXY",
+        "JPY",
+        "BoJ",
+        "CNY",
+        "PBoC",
+        "INR",
+        "RBI",
+        "KRW",
+        "BoK",
+        "IDR",
+        "TWD",
+        "Inflation",
+        "Carry",
+        "Rates"
+      ],
+      "summary": "**Summary**\nHSBC's Fred Neumann and Harold Van Alender discuss how Asian central banks are responding to the Fed's rate hike, with most of the region following suit on inflation concerns except mainland China, which is bucking the trend. The episode maps out a six-month rate-path call across India, China, Korea, Indonesia and Taiwan, directly relevant to EM Asia FX and rates positioning.\n\n**Key points**\n- Fed hiked rates and struck a hawkish tone, with markets pricing further hikes; Fed historically doesn't hike just once, doing so \"at least twice or three times.\"\n- Rising energy/diesel prices and El Nino-driven food inflation risk are pushing most Asian central banks toward tightening.\n- BoJ surprised by raising rates just two days after the Fed, citing food/energy inflation and strong wage growth — notable given Japan's decades of near-zero rates.\n- Australia's central bank is hinting at tightening; Korea, Indonesia, Philippines and India also lean toward hikes.\n- Mainland China is the outlier: near-zero or negative inflation, weak consumption/investment, so the PBoC has no urgency to tighten and may even ease; capital controls limit cross-border flow chasing higher US yields, allowing policy divergence without FX pressure (large export surpluses support RMB).\n- HSBC's six-month rate calls: India higher (food inflation), China on hold, Korea higher (AI-boom-driven growth), Indonesia marginally higher (currency volatility a factor), Taiwan higher (AI-driven growth).\n\n**FX / rates implications**\n- If Asian central banks don't match Fed hikes, their currencies risk weakening against USD, raising import costs and feeding local inflation — a key channel for INR, KRW, IDR, TWD.\n- CNY/CNH divergence from global rate trend is cushioned by capital controls and trade surplus-driven currency strength, unlike freely-flowing EM currencies.\n- Export-sensitive economies (Korea, Taiwan) historically prefer stable currencies near USD rather than aggressive depreciation, tempering how far they'll let rates diverge from the Fed.\n- Hong Kong (USD-pegged) is most rate-sensitive given the currency board requires following Fed moves closely.\n\n**Watch list**\n- Indonesia's currency volatility as a swing factor for BI's next move.\n- Further Fed hikes as flagged by hawkish guidance; investors already pricing in one or two more.\n- India food inflation trajectory tied to El Nino risk.",
+      "summarized_at": "2026-09-24T14:30:00.756111+00:00"
+    },
+    {
+      "title": "The Four Horsemen of the Dieselpocalypse with Doomberg",
+      "published": "Tue, 22 Sep 2026 23:00:00 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/2eda9939-490b-4a10-968b-376813f9c5b6/group-item/ec986c32-dbe3-4863-8bdb-1cbd0669c2b9/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "feed": "The HC Commodities Podcast",
+      "provider": "HC Group",
+      "priority": 2,
+      "tags": [
+        "Brent",
+        "WTI",
+        "Diesel",
+        "Russia",
+        "Iran",
+        "Red Sea",
+        "India",
+        "China",
+        "USD",
+        "Risk sentiment",
+        "Natural gas"
+      ],
+      "summary": "**Summary**\nDoomberg discusses an escalating \"diesel apocalypse\" stemming from the Iran war stalemate and Ukrainian/Western strikes on Russian refineries, arguing crude prices remain contained (~$100/bbl) while diesel crack spreads are exploding due to a refinery/product shortage rather than a crude shortage. Relevant to EM traders mainly via oil/diesel price risk, India's exposure to sanctions on Russian crude purchases, and China's swing role in crude demand.\n\n**Key points**\n- Only ~7 million b/d of global diesel (of 26-28m b/d produced) is seaborne/competitive; Russia supplied ~800k b/d before refinery attacks, now a net importer.\n- US exported 1.3m b/d of diesel pre-crisis, rose to 1.9m b/d in August to offset Russian shortfall; a Trump export ban is floated by Republicans (Grassley) ahead of midterms.\n- New sanctions bill (Lindsey Graham-backed) targets China and India for buying Russian crude/oil trade; India supplied 60% of diesel through the Red Sea to Europe in August.\n- China swung 5 million b/d of crude demand earlier in the war, a key reason oil didn't spike to $150-200 as feared.\n- Four \"horsemen\" risks flagged: US export ban, sanctions bill impact on India/China, refinery breakdowns from running at 98-108% capacity (e.g., Jamnagar), and further Middle East escalation risking Red Sea/Suez closure.\n- Europe seen as most exposed given heavy crude/refined product import dependence (imports 11m b/d, produces only 300k b/d).\n\n**FX / rates implications**\n- If India curtails Russian crude purchases or diesel exports under sanctions pressure, this is a direct India/INR-relevant risk — watch refining margins, current account/import bill impact, and RBI/BSP-adjacent EM Asia energy-import currencies (IDR, PHP) also exposed to diesel/refined product price spikes.\n- Any US diesel export ban or Middle East escalation (Red Sea/Suez disruption) would be a global risk-off, oil-price-shock channel affecting broad EM FX via higher energy import costs and USD dynamics.\n- China's refining/demand swing capacity remains a key variable for crude price containment, relevant to CNY and broader EM Asia risk sentiment.\n\n**Watch list**\n- Potential Trump administration action on US diesel export controls ahead of midterms.\n- Implementation and India/China response to the newly signed Russia-sanctions bill.\n- Middle East escalation risk to Strait of Hormuz, Red Sea, and Suez Canal shipping.\n- European natural gas supply heading into winter, compounded by El Nino-driven weather uncertainty.",
+      "summarized_at": "2026-09-24T14:43:31.133184+00:00"
+    },
+    {
+      "title": "What Doordash, Dell and Palantir all have in common",
+      "published": "Thu, 24 Sep 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/63c6228d-77e9-4a13-8e4c-50cfbf81c712/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=63c6228d-77e9-4a13-8e4c-50cfbf81c712&feed=IFy3imsg&t=podcast&e=nx-s1-5979093&p=510325&d=462&size=7398800",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "S&P 500",
+        "Equities",
+        "AI",
+        "Risk sentiment",
+        "Politics",
+        "Conflict of interest"
+      ],
+      "summary": "**Summary**\nThis Indicator episode examines President Trump's active stock trading — roughly 28,700 trades since retaking office, more than the entire Congress combined — and how he has publicly promoted companies (Dell, Palantir, DoorDash) in which he held positions around the time those firms won major federal contracts. For a macro trader the direct relevance is limited, but it touches on US equity market froth, the AI-driven rally, and headline/political risk around individual names.\n\n**Key points**\n- Trump highlighted \"80 all-time records\" for US stocks in the past 12 months during his UN speech.\n- Bloomberg found Trump made ~28,700 trades since his second term began, about 80 per trading day; the president and VP are exempt from conflict-of-interest rules that bind other executive branch employees.\n- Trump bought up to $5 million in Dell stock in Q1 2025; around the same time Dell got a $6.25B commitment tied to a government child investment program and a subsidiary won a nearly $10B Defense Department contract.\n- Trump traded Palantir (PLTR) stock in Q1 2025; DHS awarded Palantir a contract worth up to $1B around the same period. A Truth Social post promoting PLTR briefly lifted the stock 3%, prompting Sen. Mark Warner to question possible market manipulation.\n- Trump traded DoorDash stock before a White House event promoting the \"no tax on tips\" policy featuring a DoorDash driver.\n- AI is described as the main driver of 2025's stock market gains; Trump rejected calls at the UN for a global AI oversight body, calling AI safety risk concerns a \"hoax.\"\n\n**FX / rates implications**\n- Marginal: reinforces the narrative of a US equity market propelled by AI enthusiasm and supportive White House rhetoric/deregulation stance, a mild dollar- and risk-sentiment-positive backdrop, but no direct EM FX/rates signal.\n- Highlights political/headline risk around individual US mega-cap and AI-adjacent names that can spill into broader risk sentiment swings relevant to EM carry trades.\n\n**Watch list**\n- Potential Democratic push post-midterms for stock-trading restrictions covering the presidency, which could become a market-structure/governance story if it gains traction.\n- Continued AI-driven equity rally as a risk-sentiment tailwind to monitor for spillover into global risk appetite.",
+      "summarized_at": "2026-09-24T14:49:22.096644+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-24"
 }
