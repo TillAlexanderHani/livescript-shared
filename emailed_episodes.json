@@ -17149,8 +17149,15 @@
       "feed": "Reuters Econ World",
       "processed": "2026-09-23T21:13:40.647795+00:00",
       "episode_id": "57d58df8cd2df947"
+    },
+    "7a371f529b062b18": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD7922328223.mp3",
+      "title": "Why Markets May Be Pricing in Too Many Fed Rate Hikes",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-09-24T00:03:09.439015+00:00",
+      "episode_id": "7a371f529b062b18"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-23T21:13:40.647836+00:00"
+  "last_updated": "2026-09-24T00:03:09.439052+00:00"
 }
