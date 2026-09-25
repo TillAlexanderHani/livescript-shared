@@ -1,4 +1,161 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Why the Bond Market May Be the Stock Market's Biggest Risk",
+      "published": "Fri, 25 Sep 2026 04:00:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8075815898.mp3",
+      "feed": "Goldman Sachs The Markets",
+      "provider": "Goldman Sachs",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "UST 10y",
+        "S&P 500",
+        "USD",
+        "Inflation",
+        "Risk sentiment",
+        "Fiscal",
+        "JPY",
+        "Brent",
+        "Carry"
+      ],
+      "summary": "**Summary**\nGoldman's Tony Pascarello (global head of hedge fund coverage) discusses the shift from a year-ago Fed cutting cycle to a hawkish hiking cycle now underway, and argues the bond market — not the Fed narrative — is the biggest clear-and-present risk to equities. Relevant to EM traders via the direct read-through on USD, UST yields and global risk appetite.\n\n**Key points**\n- Market priced in cuts at start of year; now pricing roughly four hikes total (one delivered), driven by inflation running well above target, Middle East-driven oil price rises, and unexpectedly strong nominal growth.\n- Q3 GDP tracking 3%+ (Goldman economists at 3.3%), far above the expected post-tax-cut second-half slowdown.\n- 10-year UST yields pushing higher again post-FOMC, reflecting a live debt/deficit narrative — heavy issuance from both Treasury and AI capex-related debt.\n- Hyperscaler AI capex seen rising from ~$150bn (2023) to ~$1.3tn next year, a huge procyclical impulse alongside a ~$2tn fiscal deficit at full employment — a complicating offset to tightening worries.\n- Hedge funds have performed well in 2026 but are running lower risk/leverage; positioning bias is paid rates, flatter curves, long dollar, net long equities but at reduced risk settings.\n- S&P earnings growth expected to decelerate from ~25-30% to ~10-12%, still double-digit; valuations (18-19x) are high historically but below the 1999-2000 bubble peak given stronger balance sheets/profitability.\n- Favored trade idea: Japanese equities (domestic/topix-like exposure) on shareholder reform, AI, re-industrialization/remilitarization themes and procyclical government policy.\n\n**FX / rates implications**\n- Long-dollar bias among hedge funds and a hawkish Fed path (~4 hikes priced) support USD strength, a headwind for EM Asia and LATAM currencies broadly (INR, IDR, PHP, MXN, BRL et al.).\n- Rising UST 10y yields and debt/deficit-driven term premium pressure could tighten global financial conditions and widen EM rate/carry spreads; paid-rates/flatter-curve positioning is a signal for global rates direction.\n- Middle East-driven oil price increases are a cost/inflation risk for EM oil importers (India, Philippines, Thailand).\n\n**Watch list**\n- Next Friday's US payrolls report — flagged as the key near-term catalyst for both bond and stock market direction.\n- Pace of Fed hikes (market pricing ~4 total) and whether debt/deficit narrative keeps pushing 10-year yields higher.",
+      "summarized_at": "2026-09-25T14:47:53.602773+00:00"
+    },
+    {
+      "title": "Global Data Pod: Another hawkish week in Western Europe",
+      "published": "Fri, 25 Sep 2026 07:36:23 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/am7c9it6w6xa7hvc/GDP260924GregAllan_KAL-1-S76WE2F9.mp3",
+      "feed": "Global Data Pod",
+      "provider": "J.P. Morgan",
+      "priority": 3,
+      "tags": [
+        "ECB",
+        "BoE",
+        "EUR",
+        "GBP",
+        "Norges Bank",
+        "Riksbank",
+        "NOK",
+        "SEK",
+        "Rates",
+        "PMI",
+        "Inflation",
+        "Hawkish"
+      ],
+      "summary": "**Summary**\nJP Morgan's Global Data Pod covers a hawkish week across Western European central banks, with euro area PMIs surprising sharply to the upside, the Bank of England navigating mixed signals, and Norway's and Sweden's central banks (Norges Bank, Riksbank) delivering hikes with diverging forward guidance. For a macro trader, this is a read on DM rate repricing and EUR/GBP/Nordic FX momentum rather than direct EM exposure, though hawkish DM rates and firm European growth feed into the global risk/rate backdrop relevant to EM carry trades.\n\n**Key points**\n- Euro area composite PMI rose another 1 point, up 4.5 points over four months, signaling 1.7% annualized growth versus ~1% potential — JPM calls this \"outright strength,\" not just resilience; France recovered despite political turmoil.\n- Markets are pricing roughly four additional ECB hikes (December and March flagged), with JPM acknowledging risk of five or even six; October hike not fully dismissed despite ECB not signaling it explicitly.\n- UK PMI fell 0.8pt (expected on energy prices), consistent with ~1% growth in Q4; BoE seen hiking gradually (November, February) rather than accelerating; wage survey (Decision Maker Panel) shows 3.5% expected wage growth, modestly above BoE comfort but not alarming.\n- Norges Bank hiked but signals only ~16% chance of a December hike, 35% by March — markets/JPM more hawkish than the bank's own dovish-leaning communication.\n- Riksbank (Sweden) held but JPM added a hike, now forecasting three total (to 2.5%); underlying inflation near 2% once fiscal drag is stripped out, with risk of a non-forecast-meeting hike as soon as November.\n\n**FX / rates implications**\n- Broad hawkish repricing supports EUR and GBP short-end yields; Nordic currencies (NOK, SEK) also underpinned if central banks are forced to hike faster than their own guidance implies.\n- Firmer European growth and rates reduce the odds of near-term ECB/BoE dovish surprises, a modest headwind for global duration and a supportive backdrop for risk sentiment that indirectly aids EM carry.\n\n**Watch list**\n- ECB meeting at end of October — degree of dovish/hawkish reassessment as growth surprises to the upside versus recent 0.8% growth forecasts.\n- Riksbank potential off-cycle hike as soon as November if strong confidence/PMI data continues.\n- BoE November and February meetings, plus any acceleration signals from wage and energy price data.",
+      "summarized_at": "2026-09-25T14:54:10.458381+00:00"
+    },
+    {
+      "title": "MacroVoices #551 Michael Every: Decoding The Global Geopolitical Puzzle",
+      "published": "Thu, 24 Sep 2026 13:15:05 -0500",
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/7dnuzsn48e3vxq6z/Macrovoices-2026-09-24-Michael-Every.mp3",
+      "feed": "Macro Voices",
+      "provider": "Macro Voices",
+      "priority": 4,
+      "tags": [
+        "Brent",
+        "WTI",
+        "Gold",
+        "Copper",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Fed",
+        "JPY",
+        "EUR",
+        "Risk sentiment",
+        "Tariffs",
+        "Carry"
+      ],
+      "summary": "**Summary**\nMacroVoices hosts Rabobank global strategist Michael Every for a wide-ranging geopolitical deep dive (Iran, Russia-Ukraine diesel crisis, Greenland/Denmark, China trade truce, stablecoin statecraft), followed by the market desk segment covering a sharp bond selloff, dollar breakout, equity breadth divergence, and commodity/positioning signals directly relevant to a global macro trader, even though EM Asia/LATAM are not explicitly discussed.\n\n**Key points**\n- Every argues oil/diesel markets are now central to rates and FX trading given Middle East and Russia-Ukraine escalation risk (Russian strikes hit ~40% of diesel refining capacity).\n- US considering banning diesel exports; potential selective cutoffs (e.g., Brazil ahead of its election, or Netherlands/Europe) as geopolitical leverage.\n- China reportedly offered to extend the tariff/rare-earths truce to end of Trump's term; US only willing to commit 3-6 months, suggesting Washington expects new leverage soon.\n- US 10y Treasury yield broke above 5% (highest since 2007) even as oil fell ~$10 off highs; 30y above 5.40%; Fed funds futures now price ~70% odds of an October hike and >50% odds of back-to-back Oct/Dec hikes.\n- DXY broke above 101, breaking out of an 18-month 97-100 range; EUR seen as most vulnerable to fall toward 1.10.\n- S&P 500 headline strength (potential 8,000-8,200 target) masks weak breadth: only 28% of stocks above 50-day MA, equal-weight index and Russell 2000 rolling over.\n- Gold stalled below its 50-day MA despite rising real yields/DXY; copper resilient near 52-week highs despite crowded bullish positioning; yen positioning swung ~110,000 contracts net long-to-short in one week per CFTC data, then reversed ~200 pips as USD rallied.\n\n**FX / rates implications**\n- Broad USD strength (DXY breakout above 101) and the sharpest UST yield repricing since 2007 are classic EM-negative catalysts — funding stress and higher US real rates typically pressure EM Asia and LATAM carry trades and widen credit spreads.\n- Oil/diesel supply shocks (Middle East, Russia) are a key input into global bond yields and Fed reaction function; sustained oil strength (potential push to $100-120/bbl per the trade desk) would reinforce inflation/hike repricing and dollar strength, a headwind for EM FX.\n- China's cautious 3-6 month tariff truce extension signals continued uncertainty for CNY and broader Asia trade-sensitive currencies.\n\n**Watch list**\n- US diesel export policy decision and any selective country cutoffs (Brazil election, Europe).\n- Fed October/December FOMC meetings given ~70%/50%+ priced hike odds.\n- 10y UST yield trajectory toward 5.25-5.50%; DXY follow-through past 101; EUR toward 1.10.\n- Trump-Xi summit outcome on tariff truce extension.",
+      "summarized_at": "2026-09-25T15:09:18.902110+00:00"
+    },
+    {
+      "title": "Through the noise: Earnings above all",
+      "published": "Fri, 25 Sep 2026 17:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19862313-through-the-noise-earnings-above-all.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "Fed",
+        "Gold",
+        "Brent",
+        "UST 10y",
+        "BoJ",
+        "ECB",
+        "Credit",
+        "S&P 500",
+        "Risk sentiment",
+        "Inflation"
+      ],
+      "summary": "**Summary**\nStandard Chartered's CIO office (Manpreet Gill) argues earnings growth remains the dominant market driver despite competing pressures from higher oil prices, resilient growth, and rising bond yields — with direct read-through to Fed policy, the dollar, gold, and EM dollar bonds.\n\n**Key points**\n- Brent is retesting $100/bbl on Ukraine conflict risk and shipping/refined-product (diesel, jet fuel) supply concerns, but inflation-adjusted oil prices remain near long-term averages, not historical shock levels; risk case is nominal oil moving to $120-150/bbl.\n- US growth data (PMIs, retail sales) has held up, underpinned by AI-driven investment; StanChart raises odds of a \"no landing\" upside scenario over soft landing.\n- Fed now expected to hike (not cut) twice more by mid-2027; BoJ expected three more hikes, ECB one more hike.\n- 1990s hiking cycle (rates rising into strong growth) seen as better parallel than the 2022 inflation-shock cycle — supportive for equities despite higher yields.\n- Preferred equity regions: US and Asia ex-Japan, with Taiwan the only regional overweight (AI capex theme); China trimmed to core holding.\n- Fixed income: prefers credit risk over duration — 3-7yr maturities in USD portfolios; key overweight is EM USD bonds, with IG/HY as core holdings; long-end bond volatility flagged as a risk (term premium, debt/inflation worries).\n\n**FX / rates implications**\n- Dollar: recent USD rebound seen driven by excessive Fed-hike repricing; StanChart expects modest USD weakness to resume in 6-12 months as non-US (especially Japan) rates rise, with JPY undervalued and set to strengthen.\n- Gold: expected to grind higher (two-steps-forward-one-back pattern), supported by softer USD and strong EM central bank buying.\n- EM USD sovereign/corporate bonds flagged as a key overweight within fixed income — constructive for EM credit spreads.\n\n**Watch list**\n- Oil price action relative to the $120-150/bbl threshold that would flip the growth/inflation calculus.\n- US midterm elections — flagged as a likely volatility trigger.\n- Pace of Fed, BoJ, and ECB hikes into 2027 and their impact on term premium/long-end yields.",
+      "summarized_at": "2026-09-25T15:34:06.400807+00:00"
+    },
+    {
+      "title": "Unaffordability index: Rent, GLP-1s, Obamacare",
+      "published": "Fri, 25 Sep 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/b8dc01b1-cd99-4240-9bdd-7db713707656/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=b8dc01b1-cd99-4240-9bdd-7db713707656&feed=IFy3imsg&t=podcast&e=nx-s1-5980410&p=510325&d=550&size=8807322",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "USD",
+        "Inflation",
+        "Consumer spending",
+        "Healthcare costs",
+        "Labor market",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nThis Indicator episode covers three US household-affordability data points: rising rent delinquency among middle-income renters, a mass cancellation of Obamacare/ACA health coverage, and employers scaling back GLP-1 weight-loss drug coverage. It's a read on US consumer financial stress and corporate healthcare cost pressures rather than a markets or policy story, but it feeds the broader picture of US consumer resilience that macro traders track.\n\n**Key points**\n- 21.6% of middle-income US renters ($31k-$63k single / $53k-$107k family of three) reported trouble paying rent at some point in 2025, up sharply from the prior year (Urban Institute survey); ~21% also couldn't fully pay utility bills.\n- The Trump administration, via CMS and VP Vance, canceled ACA coverage for 760,000 people flagged as fraudulently or improperly enrolled; total ACA enrollment has already fallen from 23 million to ~19 million after Congress failed to extend subsidies, raising 'death spiral' risk for the insurance pool.\n- 11% of large employers dropped or are considering dropping GLP-1 (Ozempic, Wegovy) coverage; Bank of America alone spends ~$250mn/year on these drugs (>10% of its healthcare budget); average employer health-benefit cost per employee is ~$18,500, up ~7% y/y, well above headline inflation; an NBER paper found GLP-1s do not reduce health spending over five years.\n\n**FX / rates implications**\nMinimal direct EM/DXY read-through; this is domestic US household/labor-cost data with no explicit Fed or dollar linkage. To the extent rising rent/healthcare burdens and above-inflation benefit-cost growth signal squeezed US consumer discretionary spending and hiring caution, it's a soft, secondary input into US growth/inflation and thus Fed-path expectations that indirectly affect DXY and UST yields.\n\n**Watch list**\n- Further ACA enrollment/subsidy decisions and any insurer pool destabilization.\n- Employer healthcare cost trends into 2026 benefit-plan renewals as a proxy for labor-cost/hiring pressure.",
+      "summarized_at": "2026-09-25T15:35:50.404434+00:00"
+    },
+    {
+      "title": "Xi meets Trump: What next for China?",
+      "published": "Fri, 25 Sep 2026 15:01:31 +0100",
+      "url": "https://media.transistor.fm/bab2441b/81f7b55d.mp3",
+      "feed": "Capital Economics Weekly Briefing",
+      "provider": "Capital Economics",
+      "priority": 4,
+      "tags": [
+        "CNY",
+        "USD",
+        "Fed",
+        "Trade",
+        "Tariffs",
+        "PBoC",
+        "Risk sentiment",
+        "Fiscal",
+        "China activity proxy",
+        "AI"
+      ],
+      "summary": "**Summary**\nCapital Economics' Julian Evans-Pritchard reviews the Trump-Xi Washington summit and previews the firm's new China Economic Outlook. The trade truce (originally set to expire Nov 10) was extended only two months to Jan 10, a shorter-than-expected extension reflecting persistent US concern over China's rare-earth export compliance. Separately, China's economy has weathered tariff/Iran-war shocks better than feared, propped up by a 20% y/y export surge, but domestic demand, property and deflation problems remain unresolved.\n\n**Key points**\n- Trade truce extended just 2 months (to Jan 10) vs. China's ask for an extension through Trump's full term and the US push for 3-6 months; rare-earth compliance is the key sticking point (China still controls ~90% of refined rare-earth production).\n- Boeing's 200-aircraft purchase agreed in May remains stuck in negotiation over parts/engine access guarantees — illustrating mutual distrust.\n- New bilateral AI dialogue agreed (Bessent-He Lifeng), focused narrowly on AI-safety incident notification; broader AI competition (chips, export controls both directions) continues unabated.\n- China's official Q2 GDP growth was 4.3%, but Capital Economics' own China Activity Proxy (CAP) shows growth near 3% over the past two years, decelerating sharply to ~1.5% recently (partly typhoon-related), with the biggest gaps in construction and services.\n- Export strength (nominal +20% y/y, volumes +11% ytd) driven partly by AI-related semiconductor price effects and continued overcapacity/underpricing versus global competitors.\n- Fiscal tightening (local governments using bond issuance to cover hidden debt rather than new spending) has been an underappreciated growth drag; a Q4 fiscal boost is expected but won't fix medium-term imbalances.\n\n**FX / rates implications**\n- CNY: two-month truce extension reduces near-term tariff escalation risk but keeps rare-earth/tech tensions as a recurring volatility trigger into Jan 10 and around APEC (Nov, Shenzhen) and G20 (Dec, Miami) meetings.\n- Broader EM risk sentiment benefits modestly from reduced US-China escalation risk, but underlying strategic decoupling (export controls both ways) caps any durable de-risking rally.\n- China's export-led growth model (undercutting global competitors via overcapacity) is a persistent disinflationary force for global goods prices, relevant to DM/EM central bank inflation trajectories.\n\n**Watch list**\n- Jan 10, 2026: trade truce expiry/renewal deadline.\n- APEC summit, Shenzhen, November; G20, Miami, December — potential Trump-Xi meeting venues.\n- Rare-earth export data for signs of Chinese leverage/compliance shifts.\n- China's Q4 fiscal stimulus rollout and consumption share of GDP as rebalancing indicators.",
+      "summarized_at": "2026-09-25T15:43:20.762869+00:00"
+    },
+    {
+      "title": "A Recalibration, Not a Rate-Hike Cycle",
+      "published": "Fri, 25 Sep 2026 15:21:00 -0000",
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC9874791269.mp3",
+      "feed": "PIMCO Pod",
+      "provider": "PIMCO",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "UST 10y",
+        "Inflation",
+        "Rate hikes",
+        "R-Star",
+        "Financial conditions",
+        "S&P 500",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nPIMCO's Tiffany Wilding examines a shift in Fed communication under Chair Kevin Warsh, who on September 16 declined to frame policy relative to the neutral rate (R-Star), instead emphasizing broad financial conditions as the operative guide. This matters for EM/FX traders because it signals the Fed may keep hiking to prevent financial conditions from easing further, even as the neutral-rate debate suggests policy isn't clearly restrictive.\n\n**Key points**\n- Warsh said he'd be hard-pressed to call financial conditions restrictive, a view he claims is shared by the FOMC.\n- The Fed hiked 25bp in September, largely as markets had priced; PIMCO's base case is one or two more 25bp hikes into early next year.\n- The S&P 500 is up roughly 13% YTD, supporting consumption via the wealth channel despite higher real rates.\n- Fed regional bank R-Star estimates range 0.8%-2.6% (median 1.4%), with 90% confidence bands spanning +/-1.7pp — highly uncertain.\n- Post-pandemic, R-Star estimates rose ~100bp (0.5% to 1.5%), driven mainly by higher estimated potential growth (1.8% to 2.5%), possibly AI-related.\n- Non-labor cost pressures (tariffs, energy, AI/computing equipment prices) are seen fading by early 2027, which should limit further hikes.\n\n**FX / rates implications**\n- A Fed still willing to hike to offset easy financial conditions is USD-supportive near-term and a headwind for EM Asia and LATAM carry trades reliant on a dovish Fed pivot.\n- Elevated UST yields and sticky Fed hawkishness reinforce higher-for-longer US real rates, pressuring EM local rates and FX via narrower rate differentials.\n- If R-Star has structurally risen (AI-driven productivity), terminal Fed rate expectations could stay elevated longer than markets assume, a persistent USD/EM headwind.\n\n**Watch list**\n- Upcoming FOMC meetings for additional 25bp hikes through early next year.\n- Evolution of tariff, energy, and AI-equipment price pressures into 2027 as a signal for when hikes stop.\n- Any abrupt reset in financial conditions (geopolitical shock, growth scare, fiscal surprise) that could force a faster Fed pivot.",
+      "summarized_at": "2026-09-25T15:45:24.665720+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-25"
 }

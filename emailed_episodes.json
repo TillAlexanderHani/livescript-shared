@@ -17247,8 +17247,71 @@
       "feed": "BlackRock - The Bid",
       "processed": "2026-09-25T05:30:17.085394+00:00",
       "episode_id": "343721492c6e5485"
+    },
+    "9298c427ecc55ec8": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8075815898.mp3",
+      "title": "Why the Bond Market May Be the Stock Market's Biggest Risk",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-09-25T14:47:53.602773+00:00",
+      "episode_id": "9298c427ecc55ec8"
+    },
+    "15b044dfb6d18fb3": {
+      "url": "https://mcdn.podbean.com/mf/web/am7c9it6w6xa7hvc/GDP260924GregAllan_KAL-1-S76WE2F9.mp3",
+      "title": "Global Data Pod: Another hawkish week in Western Europe",
+      "feed": "Global Data Pod",
+      "processed": "2026-09-25T14:54:10.458381+00:00",
+      "episode_id": "15b044dfb6d18fb3"
+    },
+    "89b5b0a12906c563": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/7dnuzsn48e3vxq6z/Macrovoices-2026-09-24-Michael-Every.mp3",
+      "title": "MacroVoices #551 Michael Every: Decoding The Global Geopolitical Puzzle",
+      "feed": "Macro Voices",
+      "processed": "2026-09-25T15:09:18.902110+00:00",
+      "episode_id": "89b5b0a12906c563"
+    },
+    "29100e2ac0c2d484": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/77d27e49-f26e-4c79-8913-b4cf01192cf5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Hollywood Was Cooked Before AI, and Now It's Only Getting Worse",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-09-25T15:22:14.168676+00:00",
+      "episode_id": "29100e2ac0c2d484"
+    },
+    "4734202e95b6e640": {
+      "url": "https://traffic.megaphone.fm/BLM5369883876.mp3",
+      "title": "State of Distressed: Latham’s Sobolewski on Evolving LME Tactics",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-09-25T15:32:18.855639+00:00",
+      "episode_id": "4734202e95b6e640"
+    },
+    "3ca3ba82c15aba62": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19862313-through-the-noise-earnings-above-all.mp3",
+      "title": "Through the noise: Earnings above all",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-25T15:34:06.400807+00:00",
+      "episode_id": "3ca3ba82c15aba62"
+    },
+    "04e657a1c92f59bc": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/b8dc01b1-cd99-4240-9bdd-7db713707656/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=b8dc01b1-cd99-4240-9bdd-7db713707656&feed=IFy3imsg&t=podcast&e=nx-s1-5980410&p=510325&d=550&size=8807322",
+      "title": "Unaffordability index: Rent, GLP-1s, Obamacare",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-09-25T15:35:50.404434+00:00",
+      "episode_id": "04e657a1c92f59bc"
+    },
+    "8ee7c663bf73fd02": {
+      "url": "https://media.transistor.fm/bab2441b/81f7b55d.mp3",
+      "title": "Xi meets Trump: What next for China?",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-09-25T15:43:20.762869+00:00",
+      "episode_id": "8ee7c663bf73fd02"
+    },
+    "664277bbb2c45b39": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC9874791269.mp3",
+      "title": "A Recalibration, Not a Rate-Hike Cycle",
+      "feed": "PIMCO Pod",
+      "processed": "2026-09-25T15:45:24.665720+00:00",
+      "episode_id": "664277bbb2c45b39"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-25T05:30:17.085433+00:00"
+  "last_updated": "2026-09-25T15:45:24.665760+00:00"
 }
