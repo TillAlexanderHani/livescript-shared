@@ -17366,8 +17366,22 @@
       "feed": "Planet Money",
       "processed": "2026-09-26T00:35:19.259471+00:00",
       "episode_id": "0581047b0a278f50"
+    },
+    "499a3732f211b173": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6ab63d90bd67ce4b5341b3b5/media.mp3",
+      "title": "Global crosscurrents intensify",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-09-26T05:33:43.232242+00:00",
+      "episode_id": "499a3732f211b173"
+    },
+    "062c5f64cc64222f": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/8066dbe6-1682-4e7e-8dd8-942005a6c244.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "AI Meets the Physical Economy",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-26T05:35:13.875465+00:00",
+      "episode_id": "062c5f64cc64222f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-26T00:35:19.259511+00:00"
+  "last_updated": "2026-09-26T05:35:13.875506+00:00"
 }
