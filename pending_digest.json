@@ -1,28 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "I’m not *that* French",
-      "published": "Fri, 25 Sep 2026 20:00:00 +0100",
-      "url": "https://www.buzzsprout.com/1811593/episodes/19864683-i-m-not-that-french.mp3",
-      "feed": "The GlobalCapital Podcast",
-      "provider": "GlobalCapital",
-      "priority": 3,
-      "tags": [
-        "EUR",
-        "Bund",
-        "OAT",
-        "France",
-        "Fiscal",
-        "Sovereign debt",
-        "Credit",
-        "UST 10y",
-        "Brent",
-        "Inflation",
-        "Risk sentiment"
-      ],
-      "summary": "**Summary**\nA global government bond sell-off intensified this week, driven by stronger-than-expected US PMI data and rising oil prices amid doubts over an Iran peace deal, fueling fresh central bank rate-hike expectations. Separately, French OAT spreads over Bunds hit record wide levels amid fiscal and political concerns ahead of October budget negotiations, with knock-on effects across European credit markets.\n\n**Key points**\n- 10-year US Treasury yield sold off 18bp on Wednesday alone amid the broader rates rout.\n- French OAT-Bund 10y spread hit ~113bp, up from ~80bp at the start of the year and just 60-70bp mid-year — a roughly 2x widening in three months, now wider than Spain, Italy and even Greece.\n- France's budget deficit is projected at 5.7% next year (vs Italy's 2.9%, which is falling), with French debt/GDP trajectory rising toward 120% versus Italy's 139% but decelerating.\n- French credit issuance surged ahead of the October budget talks: French corporates issued ~17bn euro-equivalent in September (25% of total European corporate issuance), banks (BPCE, BFCM) issued multiple senior non-preferred deals; French new-issue premiums averaged 5.6bp vs 4bp market-wide, and French bank secondary spreads widened ~10bp since end-August vs ~3bp for the broader index.\n- Turkey priced a sovereign bond dollar deal amid the peak Wednesday sell-off; EM secondary markets showed a disconnect from primary pricing, with illiquid EM issuer bonds not adjusting to the sell-off as fast as liquid SSA names.\n- KfW (German development bank) raised its 2024 funding program modestly from €75-80bn to €80-85bn, citing asset-side growth in domestic and export-finance lending; balance sheet ~€550bn, expected to reach ~€600bn.\n- Sterling floating-rate note issuance surged (~£6bn YTD, highest since 2019) as banks and SSAs sought protection from rate volatility.\n\n**FX / rates implications**\n- Global bond sell-off (UST +18bp in a day) driven by strong US PMI and rebounding oil prices raises the odds of fewer/later Fed cuts, a headwind for broad EM carry trades and a modestly supportive factor for USD/DXY.\n- Rising oil prices on Iran/Strait of Hormuz supply risk is a negative terms-of-trade shock for oil-importing EM Asia (India, Philippines, Thailand) and supportive for EM oil exporters (Colombia, Mexico).\n- Widening OAT-Bund spreads and French political risk (2027 election, Le Pen far-right prospects) are a EUR-negative, European sovereign-risk story that could spill into broader risk sentiment and credit spreads globally.\n\n**Watch list**\n- French budget negotiations beginning October, and any further OAT-Bund spread widening beyond 113bp.\n- Iran/US negotiations and Strait of Hormuz risk premium in oil prices.\n- Upcoming central bank meetings for confirmation of hawkish repricing following stronger US PMI data.",
-      "summarized_at": "2026-09-26T20:18:09.351968+00:00"
-    }
-  ],
-  "last_digest_date": "2026-09-26"
+  "episodes": [],
+  "last_digest_date": "2026-09-27"
 }
