@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How to be a middle power in a superpower world. With Jenny Bates",
+      "published": "Fri, 25 Sep 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6ab51b2ccf7654f56a75a5c2/media.mp3",
+      "feed": "The Economics Show",
+      "provider": "The Economist",
+      "priority": 2,
+      "tags": [
+        "Trade",
+        "Tariffs",
+        "China",
+        "Critical Minerals",
+        "Geopolitics",
+        "Industrial Policy",
+        "CPTPP",
+        "Manufacturing"
+      ],
+      "summary": "**Summary**\nA UK Foreign Office veteran (Jenny Bates) discusses how middle powers like the UK should navigate a world where the US, China and the EU increasingly weaponise economic linkages (tariffs, export controls, sanctions, tech/payment-system access). Framed around UK strategy, but the underlying themes — industrial policy, critical minerals security, and trade-bloc diversification — are relevant to broader geopolitical risk pricing.\n\n**Key points**\n- Rates the current geopolitical risk environment a 7/10 for the UK (above calm, below panic).\n- Cites weaponisation of economic levers (Trump tariffs, China export threats, sanctions cutting counterparties off payment systems) as a top threat.\n- China's manufacturing export surge is disrupting trading partners and the rules-based system even where it doesn't directly compete with UK services.\n- Discusses a US-led \"Critical Minerals Club\" buyers' cartel to diversify away from China's cheap single-supplier dominance — UK reportedly resisted it over fears of raising input costs for manufacturers.\n- Notes tariff levels are historically low currently, but sees risk of new barriers being erected for strategic resilience.\n- References CPTPP and the Anglo-Dutch-German Urenco nuclear consortium as models of middle-power cooperation/diversification against superpower dominance.\n- Discusses potential UK moves toward national-resilience reporting requirements and \"golden share\"-style conditionality on strategic investment.\n\n**FX / rates implications**\n- No direct EM Asia/LATAM FX or rates calls; relevance is thematic — reinforces the broader narrative of deglobalisation, tariff risk, and critical-minerals supply-chain reshoring that underlies commodity price volatility (rare earths, copper) and China-linked trade-war headline risk.\n- Any acceleration of Western critical-minerals buyer cartels or reciprocal China export curbs would be a fresh source of tail risk for commodity-linked and China-exposed EM currencies (CNY, KRW, CLP, PEN via copper).\n\n**Watch list**\n- Progress (or lack of) on a US-led Critical Minerals Club and China's response.\n- EU/UK stance on Chinese car and goods import barriers, which could spill into broader China trade-policy risk.\n- CPTPP expansion/reform talks as a barometer of non-US/China trade-bloc cohesion.",
+      "summarized_at": "2026-09-27T20:32:11.746809+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-27"
 }

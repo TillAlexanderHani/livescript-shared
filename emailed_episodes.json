@@ -17387,8 +17387,15 @@
       "feed": "The GlobalCapital Podcast",
       "processed": "2026-09-26T20:18:09.351968+00:00",
       "episode_id": "97ae9f104abdda8f"
+    },
+    "8877b83dabdfe2d9": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6ab51b2ccf7654f56a75a5c2/media.mp3",
+      "title": "How to be a middle power in a superpower world. With Jenny Bates",
+      "feed": "The Economics Show",
+      "processed": "2026-09-27T20:32:11.746809+00:00",
+      "episode_id": "8877b83dabdfe2d9"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-26T20:18:09.352009+00:00"
+  "last_updated": "2026-09-27T20:32:11.746850+00:00"
 }
