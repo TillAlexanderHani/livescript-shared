@@ -17401,8 +17401,29 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-09-28T06:07:14.451797+00:00",
       "episode_id": "56be810791018db6"
+    },
+    "08048fed19842ef8": {
+      "url": "https://traffic.megaphone.fm/CLS4620503535.mp3",
+      "title": "Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-09-28T18:02:31.299752+00:00",
+      "episode_id": "08048fed19842ef8"
+    },
+    "d360e9aa9c5b6948": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7a3568d9-8263-4e3a-8f8f-b4d00139959f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Why Building a Crosswalk in LA Is Kafkaesque",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-09-28T18:16:42.506580+00:00",
+      "episode_id": "d360e9aa9c5b6948"
+    },
+    "4daa2ba49ce71897": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/4ed930dc-9155-4a50-9b63-1eda28ac0c21/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=4ed930dc-9155-4a50-9b63-1eda28ac0c21&feed=IFy3imsg&t=podcast&e=nx-s1-5981349&p=510325&d=565&size=9052247",
+      "title": "How the rich make money by losing money",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-09-28T18:25:48.395467+00:00",
+      "episode_id": "4daa2ba49ce71897"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-28T06:07:14.451847+00:00"
+  "last_updated": "2026-09-28T18:25:48.395514+00:00"
 }
