@@ -17429,8 +17429,29 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-09-28T20:36:42.748754+00:00",
       "episode_id": "7d617ca2555cd5cd"
+    },
+    "6d535de6d28fc032": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/c2bd9dde-964b-4d77-a993-0e0a6ce8f7ba.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Stock Market’s Bad Breadth",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-28T22:41:01.647835+00:00",
+      "episode_id": "6d535de6d28fc032"
+    },
+    "87235791395dc17f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/1f396222-e6a1-4b3c-b33f-c94864b19210/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=1f396222-e6a1-4b3c-b33f-c94864b19210&feed=tc4zxWgX",
+      "title": "Nvidia’s Security Push, Consumer Conundrum, and the Diesel Divide  9/28/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-28T22:46:44.057331+00:00",
+      "episode_id": "87235791395dc17f"
+    },
+    "961eeb266d4c8ea2": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC6177775582.mp3",
+      "title": "The Credit Market Lens: Hyperscalers Are Repricing, Not Displacing (So Far)",
+      "feed": "PIMCO Pod",
+      "processed": "2026-09-28T22:58:03.032418+00:00",
+      "episode_id": "961eeb266d4c8ea2"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-28T20:36:42.748788+00:00"
+  "last_updated": "2026-09-28T22:58:03.032459+00:00"
 }

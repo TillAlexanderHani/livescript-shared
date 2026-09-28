@@ -1,23 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "How the rich make money by losing money",
-      "published": "Mon, 28 Sep 2026 07:00:04 +0000",
-      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/4ed930dc-9155-4a50-9b63-1eda28ac0c21/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=4ed930dc-9155-4a50-9b63-1eda28ac0c21&feed=IFy3imsg&t=podcast&e=nx-s1-5981349&p=510325&d=565&size=9052247",
-      "feed": "The Indicator (Planet Money)",
-      "provider": "NPR",
-      "priority": 2,
-      "tags": [
-        "Hedge funds",
-        "Tax policy",
-        "Fiscal",
-        "Wealth management",
-        "Credit",
-        "Equities"
-      ],
-      "summary": "**Summary**\nThe Indicator (NPR) profiles Cliff Asness, founder of AQR Capital Management, and the rise of \"tax-aware long-short\" investing — a sophisticated version of tax-loss harvesting that has propelled AQR to become the world's largest hedge fund. The story is a wealth-management/tax-policy piece with essentially no direct read-through for EM FX or rates, but it flags a broader theme of capital flows into complex, leverage-heavy hedge fund structures among the ultra-wealthy.\n\n**Key points**\n- AQR's tax-aware long-short strategy builds portfolios with thousands of long and short positions, using borrowed money to intentionally generate realizable losses that offset gains elsewhere in a client's portfolio.\n- Example pitch: a $100 million investment could grow to $300 million over 10 years while generating $600 million in harvestable losses to erase tax liability on winning positions.\n- Assets in these accounts grew from $3 billion to $70 billion in roughly three years, an unusually fast asset-raising pace even by hedge fund standards.\n- Treasury officials have voiced concern about \"potentially abusive tax avoidance strategies\" without naming AQR; Charles Schwab and Fidelity have pulled back offering the accounts to new clients amid regulatory uncertainty.\n- The trend coincides with state-level pushes (California, Maryland, New York proposals; Hawaii, Washington, Maine enacted millionaire's taxes) to raise taxes on the wealthy.\n\n**FX / rates implications**\nNone directly — this is a US domestic tax/wealth-management story with no discussion of currencies, central banks, or cross-border capital flows relevant to EM Asia or LATAM books.\n\n**Watch list**\n- Potential Treasury/IRS or Congressional action to close the tax-loss harvesting loophole, which could affect hedge fund AUM flows and leverage usage in US markets.\n- State-level millionaire's tax legislation in California, Maryland, and New York.",
-      "summarized_at": "2026-09-28T18:25:48.395467+00:00"
-    }
-  ],
-  "last_digest_date": "2026-09-28"
+  "episodes": [],
+  "last_digest_date": "2026-09-29"
 }
