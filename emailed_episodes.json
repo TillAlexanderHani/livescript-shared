@@ -17422,8 +17422,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-09-28T18:25:48.395467+00:00",
       "episode_id": "4daa2ba49ce71897"
+    },
+    "7d617ca2555cd5cd": {
+      "url": "https://traffic.megaphone.fm/BLM7309276084.mp3",
+      "title": "Credit Crunch: Ellington’s Vranos on MBS Innovation and Alpha",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-09-28T20:36:42.748754+00:00",
+      "episode_id": "7d617ca2555cd5cd"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-28T18:25:48.395514+00:00"
+  "last_updated": "2026-09-28T20:36:42.748788+00:00"
 }
