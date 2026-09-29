@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! Turning cautious on China equities near term",
+      "published": "Tue, 29 Sep 2026 12:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19879682-cut-to-the-chase-turning-cautious-on-china-equities-near-term.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "China",
+        "PBoC",
+        "CNY",
+        "CNH",
+        "S&P 500",
+        "Risk sentiment",
+        "Fiscal",
+        "Equities"
+      ],
+      "summary": "**Summary**\nStandard Chartered's North Asia CIO downgrades China equities from overweight to core holding, citing weak domestic demand, property-sector financing stress, and a new offshore wealth trust tax crackdown that could trigger forced equity selling. While not a direct EM Asia FX/rates call, the piece is a read on China's growth and policy trajectory, which remains the dominant regional risk-sentiment driver for CNY, CNH and broader EM Asia.\n\n**Key points**\n- August retail sales rose just 0.4% y/y; fixed asset investment fell 7.2% y/y for the first eight months of 2025, both signaling subdued domestic demand.\n- No notable policy clarity has emerged, and last week's Trump-Xi summit failed to produce a positive catalyst.\n- Late-August property lending reforms restrict bank loans to funding only already-built homes, cutting off pre-sale proceeds for developers and making land bank sales harder, raising fears over local/provincial government financing conditions.\n- Chinese authorities widened the tax net to offshore wealth trusts (Bulletin-21), requiring self-declaration of outstanding tax on asset transfers/income before the 22nd of next month, which could force investors to sell stocks to raise cash for unexpected tax bills.\n- Additional dilution risk from share placements by majority shareholders (to fund tax) and by tech firms issuing new shares to fund AI capex.\n- Hang Seng Index 12-month target cut to 26,600 from 28,000; recommended tilt toward quality dividend stocks (financials, telecoms) with moderate tech/materials exposure.\n\n**FX / rates implications**\n- A cautious China equity call alongside soft activity data and unresolved local government financing stress reinforces downside risk bias for CNY/CNH and keeps PBoC fixing management and stimulus expectations in focus.\n- Forced selling pressure on Chinese equities from the offshore trust tax deadline could weigh on broader China-linked risk sentiment, a headwind for regional EM Asia currencies (KRW, TWD, MYR) that trade as China proxies.\n- Weak Chinese domestic demand data keeps commodity-linked EM currencies (AUD-adjacent trades, copper/iron ore exposure) under watch given China's demand role.\n\n**Watch list**\n- Trust tax self-declaration deadline on the 22nd of next month — potential forced equity/asset selling window.\n- Any fresh policy stimulus signals from Chinese authorities on property or domestic demand.\n- Corporate earnings recovery path and further share placement/dilution announcements from Chinese tech and property-linked developers.",
+      "summarized_at": "2026-09-29T06:29:11.110071+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-29"
 }
