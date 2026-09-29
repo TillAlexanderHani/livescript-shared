@@ -17485,8 +17485,22 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-09-29T18:57:42.644963+00:00",
       "episode_id": "430d7a1933dfcad3"
+    },
+    "c42f56ae79219b03": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/7993023f-c1e6-41a8-b173-61cb484c837b.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "China’s $12 Trillion Manufacturing Upgrade",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-09-29T21:34:38.132300+00:00",
+      "episode_id": "c42f56ae79219b03"
+    },
+    "723a5b5c90c45df5": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6abc0d9c06846f55a3e3e952/media.mp3",
+      "title": "An ode to stock picking",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-09-29T21:44:44.740188+00:00",
+      "episode_id": "723a5b5c90c45df5"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-29T18:57:42.645001+00:00"
+  "last_updated": "2026-09-29T21:44:44.740231+00:00"
 }
