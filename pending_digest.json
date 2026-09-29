@@ -36,6 +36,25 @@
       ],
       "summary": "**Summary**\nThis Planet Money/Indicator episode explains NAICS (North American Industry Classification System) codes, the once-every-five-years government process that determines how industries are categorized for statistical, regulatory, insurance and federal-contracting purposes. It's a structural/economic-data story rather than a markets story, but it touches on how official US economic statistics (GDP, employment, industry output) are constructed.\n\n**Key points**\n- NAICS codes, adopted in 1997 to replace the older SIC system, are used by the Census Bureau, BLS, BEA (for GDP), Medicare, and the Department of Transportation to measure and monitor economic activity.\n- In fiscal year 2025, almost $800 billion in federal contracts was awarded, with agencies filtering vendors by NAICS code — industries without a code are harder to discover and can lose out on contracts.\n- New/emerging industries (e.g., cannabis until 2022, emergency restoration/disaster cleanup companies today) often lack dedicated codes, forcing them into ill-fitting categories (e.g., mold remediation lumped with asbestos/oil-and-gas) that distort insurance underwriting, liability costs and workers' comp pricing.\n- The emergency-restoration industry (e.g., PuroClean) applied for its own code in 2025 but was rejected in July 2026 for insufficient data/industry size; new codes (including a merged airport/spaceport category) will be announced in January 2027.\n- The five-yearly code review functions like an \"Olympics\" of statistical classification, with years-long lag before a rejected industry can reapply.\n\n**Watch list**\n- January 2027: official announcement of new/revised NAICS codes, relevant to how future US industry-level economic and GDP data are categorized.",
       "summarized_at": "2026-09-29T16:31:36.565773+00:00"
+    },
+    {
+      "title": "OpenAI’s Dev Day and A Shift for College Sports? 9/29/26",
+      "published": "Tue, 29 Sep 2026 18:23:15 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/cd1d5dd2-dd3c-43ef-8a00-39b09f191ebd/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=cd1d5dd2-dd3c-43ef-8a00-39b09f191ebd&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 3,
+      "tags": [
+        "USD",
+        "UST 10y",
+        "Inflation",
+        "Rate cycle",
+        "Risk sentiment",
+        "IPO",
+        "Credit"
+      ],
+      "summary": "**Summary**\nCNBC's Exchange blends OpenAI's Dev Day/White House tech-CEO lunch coverage with a notable rates conversation: Ariel Investments' Charlie Bobrinskoy argues the 40-year secular decline in US interest rates (1981-2020) has reversed, driven by structurally higher inflation expectations, with real implications for leveraged and long-duration assets. Useful macro backdrop for a rates trader even without EM-specific content.\n\n**Key points**\n- US equities modestly lower: Dow -0.6% (~310pts), Russell 2000 -0.3%; oil slightly lower; bond yields ticking higher on the day\n- Bobrinskoy: rates fell from ~1981 highs to an unsupportable 0.65% in 2020, now reversing; cites 10-year yield at 5.27%; stresses the change in rates (first derivative), not the level, drives multiple compression for leveraged buyouts, PE, long-duration growth stocks and real estate\n- 30-year mortgage hit 7.58% today; $11.5tn in tapable US home equity sits largely unused as over half of mortgage holders are locked into sub-4% rates, adjustable-rate share of applications rose to 10% (from 2-3% in 2020-21)\n- OpenAI now targeting a 2027 IPO (citing safety review needs); smart-ring maker Aura postponed its IPO citing market uncertainty — both framed as signals on IPO-market conditions amid midterms, inflation, debt and private-credit concerns\n- OpenAI Dev Day: new \"dots\" always-on agent, GPT 6.1 model update, $500/month Ultra plan, ChatGPT at 1.2bn users\n\n**FX / rates implications**\n- A higher-for-longer US 10-year yield (5.27%) and rising inflation expectations, if this thesis plays out, would support a firmer USD/DXY and steeper UST curve — a headwind for EM local-rates and carry trades broadly\n- Softer US risk appetite (equities down, IPO pipeline pulling back) is a mild drag on global risk sentiment relevant to EM FX flows, though no direct EM Asia/LATAM commentary in this episode\n\n**Watch list**\n- US 10-year Treasury yield and inflation prints, given the structural rate-reversal thesis\n- OpenAI/Anthropic 2027 IPO timeline as a read on tech-risk sentiment\n- US midterm elections and private-credit/debt concerns flagged as macro overhangs on primary markets",
+      "summarized_at": "2026-09-29T18:57:42.644963+00:00"
     }
   ],
   "last_digest_date": "2026-09-29"

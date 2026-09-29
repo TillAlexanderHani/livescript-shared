@@ -17478,8 +17478,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-09-29T16:31:36.565773+00:00",
       "episode_id": "af25e888c8a18749"
+    },
+    "430d7a1933dfcad3": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/cd1d5dd2-dd3c-43ef-8a00-39b09f191ebd/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=cd1d5dd2-dd3c-43ef-8a00-39b09f191ebd&feed=tc4zxWgX",
+      "title": "OpenAI’s Dev Day and A Shift for College Sports? 9/29/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-09-29T18:57:42.644963+00:00",
+      "episode_id": "430d7a1933dfcad3"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-29T16:31:36.565814+00:00"
+  "last_updated": "2026-09-29T18:57:42.645001+00:00"
 }
