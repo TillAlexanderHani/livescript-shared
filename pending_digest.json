@@ -1,4 +1,23 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The U.S. Housing Market Becomes a More Local Story",
+      "published": "Wed, 30 Sep 2026 15:20:00 -0000",
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC1676778163.mp3",
+      "feed": "PIMCO Pod",
+      "provider": "PIMCO",
+      "priority": 2,
+      "tags": [
+        "Housing",
+        "Mortgage credit",
+        "UST 10y",
+        "Fed",
+        "Inflation",
+        "Credit"
+      ],
+      "summary": "**Summary**\nPIMCO's housing market monitor argues the US housing market is fragmenting into a local story, driven by regional supply divergence, elevated mortgage rates, and rising insurance/tax burdens, rather than a single national trend. This is primarily a US fixed-income/mortgage-credit thesis with limited direct EM relevance, though it touches on rate sensitivity and affordability dynamics tied to the broader US rates backdrop.\n\n**Key points**\n- As bond yields have risen, mortgage rates face renewed upward pressure, extending post-pandemic affordability strain; affordability is near its worst since the 1980s.\n- National inventory has risen to pre-COVID months-of-supply levels and the mortgage lock-in effect is eroding as more homeowners hold newer, higher-rate loans.\n- US homeowners hold roughly $35 trillion in equity with historically low leverage; PIMCO sees no path to 2008-style contagion, though FHA-loan delinquencies are rising (a K-shaped mortgage market).\n- A 1 percentage point drop in mortgage rates roughly equals a 10% price decline in payment terms; taxes/insurance (2-3% of loan balance) have risen sharply in states like Florida (~80% since 2019 vs ~50% nationally).\n- Regional divergence: Texas/Florida seeing price declines amid oversupply and rising insurance costs; West Coast stabilizing/rising (aided by AI boom wealth effects); Northeast remains under-supplied with persistent appreciation.\n- Metro areas that built more apartments saw class C rents fall ~8%, versus +12% in supply-constrained metros.\n\n**FX / rates implications**\n- The piece underscores that further rises in US mortgage rates/UST yields would tighten US housing-linked demand, a secondary drag on US growth that could feed into Fed reaction function and broader USD/UST trajectory, indirectly relevant to EM carry and DXY direction.\n- GSE (Fannie Mae/Freddie Mac) reform is flagged as a swing factor for US mortgage credit pricing — a domestic policy risk rather than an EM driver.\n\n**Watch list**\n- Path of US mortgage rates and UST yields as the key swing factor for housing affordability.\n- Potential GSE/Fannie-Freddie reform and its repricing impact on mortgage credit.\n- Demographic shifts (aging population, slower immigration) as a structural demand factor for US housing over coming years.",
+      "summarized_at": "2026-09-30T16:42:05.584527+00:00"
+    }
+  ],
   "last_digest_date": "2026-09-30"
 }

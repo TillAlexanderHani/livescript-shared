@@ -17506,8 +17506,36 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-09-30T06:12:42.045007+00:00",
       "episode_id": "ced290b2dfed663a"
+    },
+    "1b037c367386fffb": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6abb898bf4720dfefb71999e/media.mp3",
+      "title": "The bloody birth of the bond market",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-09-30T16:15:47.186285+00:00",
+      "episode_id": "1b037c367386fffb"
+    },
+    "68d97b3eb2fcea72": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284",
+      "title": "Who’s gonna pay for your Social Security?",
+      "feed": "Planet Money",
+      "processed": "2026-09-30T16:19:15.130004+00:00",
+      "episode_id": "68d97b3eb2fcea72"
+    },
+    "898db6fd917cf14a": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/58c9f21f-a08e-4f7c-bc42-ad9a03665db0/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=58c9f21f-a08e-4f7c-bc42-ad9a03665db0&feed=IFy3imsg&t=podcast&e=nx-s1-5985211&p=510325&d=545&size=8735017",
+      "title": "Is investing in sports worth it for universities?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-09-30T16:35:52.329624+00:00",
+      "episode_id": "898db6fd917cf14a"
+    },
+    "b82580b7cb3c6d7c": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC1676778163.mp3",
+      "title": "The U.S. Housing Market Becomes a More Local Story",
+      "feed": "PIMCO Pod",
+      "processed": "2026-09-30T16:42:05.584527+00:00",
+      "episode_id": "b82580b7cb3c6d7c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-30T06:12:42.045051+00:00"
+  "last_updated": "2026-09-30T16:42:05.584561+00:00"
 }
