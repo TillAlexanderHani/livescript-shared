@@ -17499,8 +17499,15 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-09-29T21:44:44.740188+00:00",
       "episode_id": "723a5b5c90c45df5"
+    },
+    "ced290b2dfed663a": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19885218-cut-to-the-chase-navigating-turbulence-in-indian-equities.mp3",
+      "title": "Cut to the Chase! Navigating turbulence in Indian equities",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-09-30T06:12:42.045007+00:00",
+      "episode_id": "ced290b2dfed663a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-09-29T21:44:44.740231+00:00"
+  "last_updated": "2026-09-30T06:12:42.045051+00:00"
 }
