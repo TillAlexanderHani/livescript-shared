@@ -17618,8 +17618,22 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-10-01T19:16:09.991396+00:00",
       "episode_id": "4712a1546b6e5a51"
+    },
+    "d00fb8383a759ea4": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/34hit79p26me7aq3/Macrovoices-2026-10-01-David-Rosenberg.mp3",
+      "title": "MacroVoices #552 David Rosenberg: Navigating The Noise",
+      "feed": "Macro Voices",
+      "processed": "2026-10-01T22:14:57.555305+00:00",
+      "episode_id": "d00fb8383a759ea4"
+    },
+    "46035641a8f87370": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6abeb0b1d2d2814e2c3ce14f/media.mp3",
+      "title": "Hyperscale my debt!",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-10-01T22:31:20.925339+00:00",
+      "episode_id": "46035641a8f87370"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-01T19:16:09.991436+00:00"
+  "last_updated": "2026-10-01T22:31:20.925379+00:00"
 }
