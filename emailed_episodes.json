@@ -17597,8 +17597,29 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-10-01T17:43:39.704748+00:00",
       "episode_id": "2f1e168d3107eb81"
+    },
+    "11261646fe47299a": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6abe3297fa77186ceb49a0ee/media.mp3",
+      "title": "Insights from Indonesia",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-10-01T19:06:11.791240+00:00",
+      "episode_id": "11261646fe47299a"
+    },
+    "2ed9917a1cb33560": {
+      "url": "https://mcdn.podbean.com/mf/web/wsyeqar26fdc36rp/GDP_Nora_KAL-1-R7H511IJ.mp3",
+      "title": "Global Data Pod: Inflation monitor: Goods inflation moving into higher gear",
+      "feed": "Global Data Pod",
+      "processed": "2026-10-01T19:09:53.705029+00:00",
+      "episode_id": "2ed9917a1cb33560"
+    },
+    "4712a1546b6e5a51": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/f823fb99-37e0-4105-97ce-de6433a5c26c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=f823fb99-37e0-4105-97ce-de6433a5c26c&feed=tc4zxWgX",
+      "title": "Under-the-Rader AI Plays, Housing Shift, and Sneaker Softness 10/1/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-01T19:16:09.991396+00:00",
+      "episode_id": "4712a1546b6e5a51"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-01T17:43:39.704790+00:00"
+  "last_updated": "2026-10-01T19:16:09.991436+00:00"
 }
