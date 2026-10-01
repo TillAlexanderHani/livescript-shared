@@ -17555,8 +17555,50 @@
       "feed": "Standard Chartered India - Money Insights",
       "processed": "2026-10-01T06:56:22.748719+00:00",
       "episode_id": "a4a8cacbb8280b27"
+    },
+    "d81f4252da51b934": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Cflox-Lux-1.mp3?dest-id=1534493",
+      "title": "Live from Treasury 360° Europe: The Year-End Liquidity Opportunity",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-10-01T17:02:05.579678+00:00",
+      "episode_id": "d81f4252da51b934"
+    },
+    "9fc904bdd7bc4ee3": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/19597850-ep93-making-asia-s-climate-transition-bankable-with-yvonne-huang-earth-life-symbio.mp3",
+      "title": "Ep93 Making Asia's Climate Transition Bankable with Yvonne Huang, Earth & Life Symbio",
+      "feed": "Asia Climate Finance Podcast",
+      "processed": "2026-10-01T17:19:31.360442+00:00",
+      "episode_id": "9fc904bdd7bc4ee3"
+    },
+    "19ed9643a00905c0": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19891903-cut-to-the-chase-time-to-be-greedy-not-fearful.mp3",
+      "title": "Cut to the Chase! Time to be greedy, not fearful",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-01T17:35:45.693444+00:00",
+      "episode_id": "19ed9643a00905c0"
+    },
+    "4163ce5f914eddbb": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/595c0a27-2388-4fce-afb9-97176478d736/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=595c0a27-2388-4fce-afb9-97176478d736&feed=IFy3imsg&t=podcast&e=nx-s1-5985907&p=510325&d=502&size=8034516",
+      "title": "New college degrees designed to job-proof graduates",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-01T17:37:14.786485+00:00",
+      "episode_id": "4163ce5f914eddbb"
+    },
+    "96d41d9e4679ad48": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/19895386-is-latin-america-poised-for-takeoff.mp3",
+      "title": "Is Latin America Poised for Takeoff?",
+      "feed": "The Americas Quarterly Podcast",
+      "processed": "2026-10-01T17:41:16.005546+00:00",
+      "episode_id": "96d41d9e4679ad48"
+    },
+    "2f1e168d3107eb81": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261001_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - Special Episode - Fireside Chat with Dr Catherine L Mann",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-10-01T17:43:39.704748+00:00",
+      "episode_id": "2f1e168d3107eb81"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-01T06:56:22.748759+00:00"
+  "last_updated": "2026-10-01T17:43:39.704790+00:00"
 }

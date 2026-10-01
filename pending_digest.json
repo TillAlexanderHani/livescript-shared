@@ -1,4 +1,75 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! Time to be greedy, not fearful",
+      "published": "Thu, 01 Oct 2026 08:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19891903-cut-to-the-chase-time-to-be-greedy-not-fearful.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "UST 10y",
+        "USD",
+        "DXY",
+        "Fed",
+        "PCE",
+        "Inflation",
+        "Oil",
+        "Brent",
+        "Risk sentiment",
+        "S&P 500"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Steve Bryce argues bond markets are at an inflection point: the 10-year US Treasury yield rose over 50bps in September, positioning is extremely short, and despite supportive news (weaker PCE inflation, lower oil prices) yields have kept rising — a divergence he attributes to forced selling by hedge funds and REITs rather than fundamentals. He frames this as a buying opportunity across both bonds and equities.\n\n**Key points**\n- 10-year UST yield rose over 50bps in September; StanChart holds a long 10-year duration view initiated earlier in the week.\n- Saudi Arabia reopened its oil pipeline, pulling oil prices off highs.\n- US PCE deflator (Fed's preferred inflation gauge) came in weaker than expected, both headline and core.\n- FT reports yield rises are triggering forced selling among hedge funds and REITs, with insufficient buyer demand yet to offset flows — described as a \"doom loop.\"\n- Global equities only 3.5% off summer peak-to-trough lows and just 2.5% off record highs, despite elevated single-stock volatility; US Q3 earnings season has begun with expectations for strong results.\n\n**FX / rates implications**\n- Rising UST yields and a stretched short-duration market are a key global risk driver: a snapback lower in US yields (StanChart's base case) would likely ease pressure on EM rates and support EM FX carry trades broadly.\n- Weaker-than-expected US PCE inflation is dollar-negative at the margin and Fed-dovish, a theme relevant to EM Asia and LATAM currencies sensitive to US rate differentials.\n- Lower oil prices (Saudi pipeline reopening) ease import-bill and inflation pressure for oil-importing EM economies (India, Philippines, Thailand).\n- Forced selling dynamics (hedge funds, REITs) flagged as a technical, not fundamental, driver — a reversal could trigger rapid UST yield declines and broad risk-on flows into EM assets.\n\n**Watch list**\n- Pace and extent of any reversal in the \"doom loop\" forced-selling cycle in UST markets.\n- US Q3 corporate earnings season results and guidance.\n- Further oil price moves tied to Saudi supply restoration.\n- Year-end equity market trajectory as a signal of risk appetite into EM.",
+      "summarized_at": "2026-10-01T17:35:45.693444+00:00"
+    },
+    {
+      "title": "Is Latin America Poised for Takeoff?",
+      "published": "Thu, 01 Oct 2026 12:00:00 -0400",
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/19895386-is-latin-america-poised-for-takeoff.mp3",
+      "feed": "The Americas Quarterly Podcast",
+      "provider": "Americas Quarterly",
+      "priority": 3,
+      "tags": [
+        "BRL",
+        "MXN",
+        "ARS",
+        "COP",
+        "PEN",
+        "CLP",
+        "USD",
+        "DXY",
+        "Brent",
+        "Copper",
+        "Carry",
+        "Trade",
+        "Tariffs",
+        "Elections",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nCiti's chief Latin America economist Ernesto Revilla lays out a bullish report arguing the region could see a growth acceleration similar to the 2000s China-driven commodities supercycle, this time driven by high commodity prices, a weak US dollar, business-friendly governments, and favorable positioning in the global trade reconfiguration. The discussion is relevant background for EM LATAM positioning but is a medium-term structural/macro thesis rather than a near-term trading catalyst.\n\n**Key points**\n- Citi report \"LatAm Poised for Takeoff\" cites record commodity prices, a dollar down almost 10% since April 2025 (Liberation Day), and rightward political shifts as tailwinds.\n- Latin America is one of the only regions to have gained market share in both the US and China since 2016, unlike Japan, Germany, South Korea, or Canada.\n- Region-wide growth seen at 2.1% in 2027 (vs ~2.3% recent average), with upside to 3-4% by 2028 if reforms are implemented; per-capita GDP convergence to the US has stagnated at ~26-28% since 1990.\n- Brazil: commodity/mineral superpower with high carry (room to cut rates); growth seen slowing to 1.8% (2026) and 1.4% (2027) ahead of the election; fiscal consolidation is the key sentiment driver.\n- Argentina: three years of fiscal surpluses, rising reserves, growth seen accelerating from 2.5% to 3.1% in 2027, but Milei's approval is at its lowest and opposition risk could unsettle FX and rates ahead of elections.\n- Mexico: weak investment and growth (slowest in LatAm) but resilient macro fundamentals, investment-grade status, and a booming data-center/electronics export sector tied to US AI buildout.\n- Colombia: Petro's fiscal transparency revealed a worse deficit and persistent inflation, prompting a cut to 2027 growth forecasts; Peru and Chile seen more bullish, with Peru's Fujimori-linked reform momentum already boosting mining investment; \"hummingbird\" economies (Panama, Dominican Republic, Costa Rica) seen growing ~4%+ with improving credit ratings.\n\n**FX / rates implications**\n- A sustained weak-USD/DXY environment plus firm Brent/oil, copper and broader commodity prices is a structural tailwind for LatAm currencies (MXN cited near 17/USD, BRL near 5.2/USD) and supports carry trades, especially in Brazil given high real rates.\n- Rising long-term global interest rates over the past 5-6 weeks (led by the US) are flagged as a key risk that could raise financing costs and dampen the region's growth/FX tailwind.\n- Election-driven volatility is a near-term risk for BRL (October Brazil election, fiscal consolidation outlook) and ARS (Milei's slipping approval raising opposition-win probability, risk of FX/rate pressure).\n- COP faces downside growth revision risk on larger-than-expected fiscal adjustment needs; PEN seen as a relative outperformer on investment-grade fundamentals and fast-moving reform/mining investment.\n\n**Watch list**\n- Brazil's October 2026 presidential election and its implications for fiscal consolidation and BRL/rates.\n- Argentina's upcoming election and Milei's approval trajectory as a driver of ARS and reform-continuity risk.\n- Global long-term rate trends (led by UST) and any resumption of Iran-related oil supply disruption as external risks to the LatAm tailwind.",
+      "summarized_at": "2026-10-01T17:41:16.005546+00:00"
+    },
+    {
+      "title": "The Week Ahead - Special Episode - Fireside Chat with Dr Catherine L Mann",
+      "published": "Thu, 01 Oct 2026 15:38:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261001_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "feed": "Nomura - The Week Ahead",
+      "provider": "Nomura",
+      "priority": 3,
+      "tags": [
+        "GBP",
+        "BoE",
+        "UK rates",
+        "Inflation",
+        "Oil",
+        "Brent",
+        "Risk sentiment",
+        "Financial conditions",
+        "Term premium"
+      ],
+      "summary": "**Summary**\nA Nomura \"Week Ahead\" fireside chat with Bank of England MPC member Dr Catherine Mann covers UK financial conditions, the energy-price shock from an unspecified ongoing conflict, and the BoE's reaction function. Relevance to EM/LATAM trading desks is limited and mostly indirect, via global risk sentiment and energy-price channels.\n\n**Key points**\n- Mann argues energy futures curves are too optimistic in pricing a quick resolution to the conflict and a fall in energy prices, understating costs tied to infrastructure, refining capacity and future-proofing supply.\n- She describes a sequence of \"successive supply shocks\" (Russia's invasion of Ukraine, a follow-on food supply shock, and now a new shock), yet notes the BoE's broad financial conditions index has been \"pretty flat\" since a 2022 tightening, which she finds surprising given the scale of shocks.\n- Discussion of whether the path (\"delta\") of rate changes matters as much as the level, with Mann stressing that how policy gets to a destination affects volatility and transmission to the economy.\n- On sterling and gilts: Mann says the exchange-rate component of financial conditions has been less influential than expected in the UK context, citing prior BoE research (Kristin Forbes) that the nature of the shock determines whether the currency appreciates or depreciates.\n- She unpacks UK term premium as largely an inflation risk premium rather than evidence that the yield curve is doing the BoE's tightening work for it, implying policy must still act via Bank Rate and real rates to hit the 2% inflation target.\n\n**FX / rates implications**\n- Sterling/gilts: Mann's framing suggests GBP and UK rates remain sensitive to further energy-driven inflation surprises if futures curves are too sanguine; a less dovish BoE reaction function is implied if term premium is inflation-driven rather than growth-driven.\n- Global spillover: persistent upside risk to energy prices (oil/gas) if conflict-related supply disruption proves more durable than markets price could pressure EM current-account and inflation-sensitive currencies broadly, though no EM-specific detail is given.\n\n**Watch list**\n- Energy futures curve repricing and refining/infrastructure capacity data as a signal for inflation risk.\n- BoE's monetary policy report \"second round effects\" dashboard for inflation pass-through evidence.\n- Any BoE commentary on sterling/gilt co-movement risk reminiscent of the 2022 sell-off.",
+      "summarized_at": "2026-10-01T17:43:39.704748+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-01"
 }
