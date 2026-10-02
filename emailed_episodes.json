@@ -17667,8 +17667,36 @@
       "feed": "BlackRock - The Bid",
       "processed": "2026-10-02T06:20:57.393577+00:00",
       "episode_id": "e866301aded3b0e1"
+    },
+    "f6798d316e869d7a": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19899159-cooking-up-a-storm-in-markets.mp3",
+      "title": "Cooking up a storm in markets",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-10-02T16:01:54.895968+00:00",
+      "episode_id": "f6798d316e869d7a"
+    },
+    "6b071b487ab02326": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Tariq-Lux.mp3?dest-id=1534493",
+      "title": "Live from Treasury 360° Europe: Is Treasury Ready for What Comes Next?",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-10-02T16:03:43.419093+00:00",
+      "episode_id": "6b071b487ab02326"
+    },
+    "cd0026e917e64b1f": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6abe8003d2d2814e2c28faaf/media.mp3",
+      "title": "Why Big Tech wants more economists",
+      "feed": "The Economics Show",
+      "processed": "2026-10-02T16:24:20.423903+00:00",
+      "episode_id": "cd0026e917e64b1f"
+    },
+    "900af48fbd38fb8b": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261002_WeekAhead_192kbps_v2.mp3?dest-id=2089145",
+      "title": "The Week Ahead - Blow Up?",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-10-02T16:53:34.669309+00:00",
+      "episode_id": "900af48fbd38fb8b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-02T06:20:57.393622+00:00"
+  "last_updated": "2026-10-02T16:53:34.669350+00:00"
 }
