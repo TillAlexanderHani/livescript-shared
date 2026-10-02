@@ -17695,8 +17695,57 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-10-02T16:53:34.669309+00:00",
       "episode_id": "900af48fbd38fb8b"
+    },
+    "0b9e9802fa004e78": {
+      "url": "https://mcdn.podbean.com/mf/web/3h5rqrdhx3b8pkyq/AARFXMW021026_KAL-1-YGCABFR9.mp3",
+      "title": "Global FX: Spilled OATs, Payrolls, Risks to carry",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-10-02T18:45:17.560089+00:00",
+      "episode_id": "0b9e9802fa004e78"
+    },
+    "59931b54213ed4e2": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6abf6e0401239e8aeef3bda5/media.mp3",
+      "title": "EM bulls have cash to splash",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-10-02T18:46:55.942782+00:00",
+      "episode_id": "59931b54213ed4e2"
+    },
+    "43cff316be1d0af6": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_JAIN.mp3?dest-id=1929056",
+      "title": "Ep. 378: Apurv Jain on Alternative Data, Real-Time Macro Nowcasting, and AI's Economic Role",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-10-02T19:05:55.176382+00:00",
+      "episode_id": "43cff316be1d0af6"
+    },
+    "0c937061a77c594e": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4dabf3ec-4fc6-4bb9-a7a7-b4d601226e6f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How Airlines Actually Hedge Higher Fuel Prices",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-02T19:11:29.677102+00:00",
+      "episode_id": "0c937061a77c594e"
+    },
+    "a2c8ef77e09c14df": {
+      "url": "https://traffic.megaphone.fm/BLM6658849278.mp3",
+      "title": "FICC Focus Special: Baring's Slaven Is Cautious on Complexity",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-10-02T19:14:22.221631+00:00",
+      "episode_id": "a2c8ef77e09c14df"
+    },
+    "37fb1c3daf757d1b": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19898707-through-the-noise-opportunities-from-the-bond-sell-off.mp3",
+      "title": "Through the noise: Opportunities from the bond sell-off",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-02T19:15:39.211095+00:00",
+      "episode_id": "37fb1c3daf757d1b"
+    },
+    "152f6b977f10e8e8": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/2c2c6fa4-e4ea-474c-8cc6-2b4e0cb883de/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=2c2c6fa4-e4ea-474c-8cc6-2b4e0cb883de&feed=IFy3imsg&t=podcast&e=nx-s1-5988860&p=510325&d=549&size=8790605",
+      "title": "Can we make Social Security better for blue-collar workers?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-02T19:16:48.705685+00:00",
+      "episode_id": "152f6b977f10e8e8"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-02T16:53:34.669350+00:00"
+  "last_updated": "2026-10-02T19:16:48.705730+00:00"
 }
