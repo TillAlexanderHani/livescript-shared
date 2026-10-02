@@ -1,4 +1,68 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How AI and Tokenization Could Reshape Wealth Management",
+      "published": "Thu, 01 Oct 2026 20:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/688ac976-1f89-4ae4-966c-4a3154af4b3f.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 2,
+      "tags": [
+        "Tokenization",
+        "AI",
+        "Asset management",
+        "Wealth management",
+        "Stablecoins",
+        "Collateral",
+        "AUM",
+        "Market structure"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's Betsy Grassick and Mike Cypress discuss how tokenization and AI could reshape asset and wealth management, with AUM growth increasingly driven by market beta rather than net new flows. This is an industry-structure piece with limited direct EM FX/rates relevance, but touches on collateral mobility and stablecoins, which have tangential links to funding markets.\n\n**Key points**\n- Tokenized real-world assets (mainly tokenized stock funds) seen growing from ~$40bn today to ~$2.3tn by 2030 in MS's base case, concentrated in collateral mobility and treasury/reserve management use cases.\n- Global AUM forecast to grow ~9% annually from ~$160tn today to ~$247tn by 2030, but ~75% of that is market beta, leaving only ~2.5% organic growth.\n- Tokenization enables per-second yield accrual, easier collateral movement, and reduced trapped/idle liquidity via tokenized deposits, money funds and stablecoins.\n- AI could unlock up to 15 points of operating-margin improvement for industry leaders over time, though gains will be partly reinvested and partly competed away; advisor capacity could rise 30-40%.\n- NASDAQ/NYSE moving to 23.5-hour trading on December 6 (closed only 8-9pm), a step toward 24/7 markets; tokenization seen as necessary to let cash/collateral keep pace with round-the-clock securities trading.\n\n**FX / rates implications**\n- Broader push toward tokenized cash/collateral and stablecoins could gradually affect short-term funding and collateral velocity in US markets, with indirect read-through for global dollar liquidity management, though no direct EM currency or rate impact discussed.\n- Tokenization lowering barriers for non-US investors to access US market exposure could marginally support cross-border portfolio flows into US assets.\n\n**Watch list**\n- NASDAQ/NYSE extended-hours (23.5/5) launch on December 6, a milestone on the path toward 24/7 equity markets.\n- Pace of AI-driven margin and productivity gains across asset/wealth managers over the next few years.",
+      "summarized_at": "2026-10-02T01:09:35.565937+00:00"
+    },
+    {
+      "title": "Australia's housing squeeze",
+      "published": "Wed, 30 Sep 2026 14:00:00 -0000",
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH6147177707.mp3",
+      "feed": "Reuters Econ World",
+      "provider": "Reuters",
+      "priority": 3,
+      "tags": [
+        "AUD",
+        "RBA",
+        "Housing",
+        "Mortgage rates",
+        "Inflation",
+        "Bond yields",
+        "Iron Ore",
+        "Gold",
+        "Copper",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nA deep dive into Australia's property downturn as the RBA's four rate hikes this year collide with a market where over 80% of mortgages are variable-rate, giving monetary policy an unusually fast and direct transmission into household balance sheets. For a macro trader, it's a live case study on how aggressive DM tightening cycles feed through housing wealth effects into broader consumption and growth.\n\n**Key points**\n- RBA hiked rates four times in 2026, pushing the average mortgage rate to ~6.5%; 1980s rates peaked at 17%.\n- National home prices down ~4% YTD, Sydney/Melbourne down ~8%; smaller markets (Perth, up ~80% over five years) still due for corrections.\n- Economists expect a 10-13% peak-to-trough decline, the worst downturn in 30 years; transaction volumes down up to 20% in some markets, costing an estimated AUD 2.8-5.6bn/year in lost income across the real-estate supply chain.\n- Property wealth equals ~60% of household wealth and two-thirds of Australians own homes, so the wealth-effect channel into consumption is significant, though labor-market strength and savings buffers are cushioning the blow so far.\n- Offsetting growth drivers: elevated iron ore, gold and copper prices, a US-linked AI data-center capex boom, and strong net migration (including from a weak New Zealand) are keeping GDP resilient even as RBA Governor Michele Bullock signals higher-for-longer rates are the \"new normal.\"\n\n**FX / rates implications**\n- AUD and Australian rates are a read on how a commodity-linked, variable-rate-mortgage economy absorbs DM tightening; resilience here (strong labor market, commodity terms of trade) argues against RBA easing soon, a mild positive for AUD carry versus other high-beta DM/EM currencies.\n- State governments borrowing more to offset falling stamp-duty revenue adds modest AUD sovereign supply, relevant for cross-market rates comparisons.\n- Firm iron ore, copper and gold prices referenced here are a secondary positive cross-check for Brazil (iron ore/Vale-linked BRL) and broader EM commodity-FX correlations.\n\n**Watch list**\n- Next RBA policy decisions: a further 1-2 hikes would push the price decline toward 13% versus 10%.\n- Full-year earnings from property-exposed Australian companies for signs of broader consumer-spending pullback.\n- Migration and data-center capex trends as offsets to the housing drag on GDP.",
+      "summarized_at": "2026-10-02T01:21:23.415866+00:00"
+    },
+    {
+      "title": "Monetary Policy Through the Lens of Financial Conditions",
+      "published": "Thu, 01 Oct 2026 22:42:00 -0000",
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC3341752663.mp3",
+      "feed": "PIMCO Pod",
+      "provider": "PIMCO",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Inflation",
+        "Risk sentiment",
+        "ECB",
+        "BoJ",
+        "Credit"
+      ],
+      "summary": "**Summary**\nPIMCO's Tiffany Wilding examines how the Fed, ECB, BoJ and RBA are increasingly framing policy through the lens of broad financial conditions rather than just the policy rate versus an uncertain neutral rate (R-star). This matters for EM traders because US financial conditions — rates, equities, dollar, credit spreads — are the primary transmission channel into global risk appetite and EM funding costs.\n\n**Key points**\n- Fed's September hike described by Chair Kevin Warsh as removing accommodation to align financial/credit conditions with objectives; ECB's Lagarde and BoJ's Ueda used similar framing; RBA's Bullock said conditions need to stay tight enough to curb inflation.\n- PIMCO's Financial Conditions Impulse on Growth (FCIG) index reads -0.9 in 2Q2026, implying conditions add ~0.9ppt to US growth over the next year — far easier than the -0.5 to -1.0ppt drag seen in 2022-23 hiking cycle.\n- Equity market strength is the largest contributor to loose conditions; US output estimated 1-1.5ppt above potential.\n- Conditions were ~50bps too easy as of end-2Q; equivalent tightening could come via a 70bp rise in 10y UST, a 9% equity decline, or a 4% broad USD appreciation (or combination).\n- 10y UST yields already up ~80bps since June, meaning the rates market may have already delivered most of the needed tightening — reducing need for further Fed hikes.\n\n**FX / rates implications**\n- A Fed that leans on broader financial conditions (dollar strength, credit spreads, equities) rather than repeated hikes could mean a shallower, more data/market-dependent tightening path — relevant for DXY direction and EM carry trades.\n- If UST yields have already done the tightening work, the Fed may need fewer hikes, a modestly dovish signal supporting EM Asia and LATAM local rates and carry.\n- A stronger broad USD is flagged as one possible channel for tightening conditions — a risk factor for EM Asia and LATAM FX if markets price this in.\n\n**Watch list**\n- Fed commentary on financial conditions targeting versus traditional rate-path guidance.\n- US equity market performance, corporate credit spreads, and 10y UST yield trajectory relative to futures-implied paths.\n- AI-driven productivity/investment dynamics as a swing factor for future Fed easing or tightening bias.",
+      "summarized_at": "2026-10-02T01:22:26.705423+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-02"
 }
