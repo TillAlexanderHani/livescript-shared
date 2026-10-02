@@ -17653,8 +17653,22 @@
       "feed": "PIMCO Pod",
       "processed": "2026-10-02T01:22:26.705423+00:00",
       "episode_id": "cdef49b088c16635"
+    },
+    "39f4cf32530492cc": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD2330470894.mp3",
+      "title": "AI Is Becoming a Stock Picker's Market",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-10-02T06:16:41.545121+00:00",
+      "episode_id": "39f4cf32530492cc"
+    },
+    "e866301aded3b0e1": {
+      "url": "https://rss.art19.com/episodes/0878da48-2ccc-4e94-a848-d07425d4b92b.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "273: AI Beyond Tech: How Artificial Intelligence Is Reshaping the Economy",
+      "feed": "BlackRock - The Bid",
+      "processed": "2026-10-02T06:20:57.393577+00:00",
+      "episode_id": "e866301aded3b0e1"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-02T01:22:26.705467+00:00"
+  "last_updated": "2026-10-02T06:20:57.393622+00:00"
 }
