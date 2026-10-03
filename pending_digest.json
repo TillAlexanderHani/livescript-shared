@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Global Commodities: The final 11%",
+      "published": "Fri, 02 Oct 2026 14:48:59 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/3atytgqiqrpa4vzi/AARKaneva100226KAL-1-VG9AAKFW.mp3",
+      "feed": "At Any Rate Podcast",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Brent",
+        "Oil",
+        "Copper",
+        "Gold",
+        "CNY",
+        "CLP",
+        "INR",
+        "UST 10y",
+        "Fed",
+        "Diesel",
+        "Tariffs",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nJPMorgan's commodities team unpacks why Middle East oil export recovery (89% of pre-war levels) hasn't translated into lower crude/product prices, then pivots to copper's resilience amid Chinese demand and supply tightness, and gold's surprising strength despite rising real yields. These three threads — oil, copper, gold — are key inputs into EM growth, inflation and currency dynamics, especially for commodity-linked EM.\n\n**Key points**\n- Middle East oil exports now just 11% below pre-war levels; crude flows at 98% of pre-war (17.5mb/d) but product exports still depressed at 58%, keeping diesel/jet fuel tight even as Brand trades near $100.\n- India's Middle East crude imports rose to ~3mb/d (incl. unknown origins), up 1.2mb/d from August and above 2025 levels.\n- Copper: LME price caught between US tariff-driven COMEX dynamics and Chinese demand pull; China onshore social inventories only 75kt heading into Oct-Nov peak season; JPM base case bullish toward 15k, with upside risk from ~4% of global mine supply under strike risk and Chile's diesel-ban exposure (>70% diesel-import reliance for mining).\n- Gold recorrelated with US 10yr real yields since March (beta ~$17/oz per 1bp) but has shown a much shallower beta (~50 cents/oz per 1bp) since Jackson Hole; ETF holdings up ~5% since late July with no outflows despite higher real yields, suggesting new retail/diversifier demand; JPM sees a floor near $4,000/oz and a path to $5,000 by end-2027 as rate cuts get priced in.\n\n**FX / rates implications**\n- CLP: prolonged Chile diesel-ban risk is a direct downside risk to copper mining output/exports — watch for CLP sensitivity to copper supply disruption headlines.\n- CNY/China growth: copper demand pull reflects limited stimulus traction and grid investment pickup — a read-through for broader China demand and CNY sentiment.\n- Oil/diesel tightness is a stagflationary cross-current for EM oil importers (India, broader Asia) via import bills and inflation, even as crude itself stays range-bound.\n- Gold's resilience and ETF inflows signal markets are not yet pricing out further Fed hikes; a dovish repricing in US real yields would be bullish gold and risk-supportive for EM carry trades broadly.\n\n**Watch list**\n- Potential US diesel export ban and European inventory releases — product market tightness catalyst.\n- Chile diesel-import dependency and El Nino weather effects on mining supply (Chile, Southern Africa copper belt, Southeast Asia).\n- US Treasury real yields and FOMC pricing path into year-end/early 2027 as the gold inflection trigger.\n- China copper inventories and stimulus follow-through into Oct-Nov-Dec peak demand season.",
+      "summarized_at": "2026-10-03T00:48:23.307121+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-03"
 }
