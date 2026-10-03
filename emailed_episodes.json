@@ -17786,8 +17786,15 @@
       "feed": "Planet Money",
       "processed": "2026-10-03T01:04:22.848940+00:00",
       "episode_id": "aa21f035424a518b"
+    },
+    "b3f7728a254ef464": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19900442-bad-weather-for-bonds.mp3",
+      "title": "Bad weather for bonds",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-10-03T05:58:18.153729+00:00",
+      "episode_id": "b3f7728a254ef464"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-03T01:04:22.848981+00:00"
+  "last_updated": "2026-10-03T05:58:18.153773+00:00"
 }
