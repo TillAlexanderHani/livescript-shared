@@ -17793,8 +17793,15 @@
       "feed": "The GlobalCapital Podcast",
       "processed": "2026-10-03T05:58:18.153729+00:00",
       "episode_id": "b3f7728a254ef464"
+    },
+    "820e1a52b6594c6b": {
+      "url": "https://mcdn.podbean.com/mf/web/qzum6jcwehfaq85n/Weekender_100226_KAL-1-PV48RQAT.mp3",
+      "title": "Global Data Pod Weekender: Now what?",
+      "feed": "Global Data Pod",
+      "processed": "2026-10-03T14:32:10.158751+00:00",
+      "episode_id": "820e1a52b6594c6b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-03T05:58:18.153773+00:00"
+  "last_updated": "2026-10-03T14:32:10.158790+00:00"
 }
