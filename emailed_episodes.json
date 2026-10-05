@@ -17814,8 +17814,29 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-10-05T06:26:03.094519+00:00",
       "episode_id": "fdb673cadc9a9189"
+    },
+    "fc33aa4098e06713": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/dae6ae39-6959-4781-9418-6760c624ce6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=dae6ae39-6959-4781-9418-6760c624ce6a&feed=tc4zxWgX",
+      "title": "A New Normal, From Wall Street to Y’all Street, and “Net” Bets 10/5/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-05T19:01:38.762606+00:00",
+      "episode_id": "fc33aa4098e06713"
+    },
+    "f72340150c123d42": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/315bbd2e-d3b1-4a09-8b93-fcab0635bdb3/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=315bbd2e-d3b1-4a09-8b93-fcab0635bdb3&feed=IFy3imsg&t=podcast&e=nx-s1-5989639&p=510325&d=554&size=8865420",
+      "title": "The proper etiquette of the Venmo nudge",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-05T19:13:11.573388+00:00",
+      "episode_id": "f72340150c123d42"
+    },
+    "71ccb4adf374bc37": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC1969454469.mp3",
+      "title": "The Credit Market Lens: An Oil Shock (Mostly) Like No Other",
+      "feed": "PIMCO Pod",
+      "processed": "2026-10-05T19:14:47.675855+00:00",
+      "episode_id": "71ccb4adf374bc37"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-05T06:26:03.094560+00:00"
+  "last_updated": "2026-10-05T19:14:47.675906+00:00"
 }
