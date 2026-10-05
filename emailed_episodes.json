@@ -17800,8 +17800,22 @@
       "feed": "Global Data Pod",
       "processed": "2026-10-03T14:32:10.158751+00:00",
       "episode_id": "820e1a52b6594c6b"
+    },
+    "9f379074295a6a4a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/3d21b14d-592f-46bd-a989-b981870c5e99/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=3d21b14d-592f-46bd-a989-b981870c5e99&feed=tc4zxWgX",
+      "title": "A Jobs Jolt, Mayer’s New Venture, and Can Nike Pick Up the “Pace”? 10/2/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-05T06:21:18.880982+00:00",
+      "episode_id": "9f379074295a6a4a"
+    },
+    "fdb673cadc9a9189": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19909754-cut-to-the-chase-a-boring-jobs-report-implies-a-fed-pause.mp3",
+      "title": "Cut to the Chase! A ‘boring’ jobs report implies a Fed pause",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-05T06:26:03.094519+00:00",
+      "episode_id": "fdb673cadc9a9189"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-03T14:32:10.158790+00:00"
+  "last_updated": "2026-10-05T06:26:03.094560+00:00"
 }
