@@ -1,4 +1,49 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Why Treasuries Are 'Risky' Again",
+      "published": "Mon, 05 Oct 2026 08:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/924d0a40-8d01-4c5e-b43d-b4d7010d938b/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 4,
+      "tags": [
+        "UST 10y",
+        "Fed",
+        "FOMC",
+        "USD",
+        "DXY",
+        "Inflation",
+        "Carry",
+        "Risk sentiment",
+        "CNY",
+        "Oil"
+      ],
+      "summary": "**Summary**\nOdd Lots hosts Carolyn Fluger, an economist studying how monetary policy reaction functions and treasury bond risk have evolved, against a backdrop of a surging US 30-year yield (5.592%, highest since 2002) even after a recent Fed rate cut. The discussion centers on why treasuries have become riskier (more stock-correlated) over the past five years and what that means for yields, inflation credibility, and US financial hegemony — all directly relevant to a global rates desk pricing US duration and the dollar's safe-haven status.\n\n**Key points**\n- US 30-year yield at 5.592%, highest since 2002, rising sharply despite a recent Fed rate hike/cut (hosts note confusion over direction), raising questions about whether policy is dampening financial conditions.\n- Fluger's research (with Bauer and Sundaram) shows the Fed's perceived policy reaction function was nearly flat in 2020-21 (rates expected near zero despite 5-6% inflation surprises) and only steepened after the Fed actually began hiking in 2022 — a \"learning from actions\" channel.\n- Treasury-stock correlation has flipped positive again recently (bonds act \"risky\"/stock-like), reversing the post-2000 negative-correlation regime; a large share of the 2020-2025 yield rise is attributed to this rising bond riskiness rather than inflation expectations, which have stayed stable.\n- Chinese 30-year bond yield cited at ~2% vs US 30yr ~5.6%, a 300-350bp spread that has blown out since late 2020/2018-19 (coinciding with China's bond index inclusion) — framed as a possible marker of shifting financial hegemony.\n\n**FX / rates implications**\n- Rising UST term premium and risky-bond dynamics support continued upward pressure on US long-end yields and a firmer-for-longer USD/DXY backdrop, a headwind for EM carry trades (INR, IDR, MXN, BRL rates) via the global risk-free rate channel.\n- Persistent US fiscal deficits, AI-capex-driven borrowing, and debated Fed credibility could keep term premia elevated, implying EM central banks may need to maintain wider rate buffers over UST to defend currencies and attract flows.\n- Widening UST-China yield spread signals diverging growth/policy trajectories; not directly actionable for EM but relevant context for global capital flow narratives.\n\n**Watch list**\n- Further moves in the 30-year UST yield and any Fed communication on its reaction function/credibility framework.\n- Supply-driven narratives (deficits, AI hyperscaler borrowing) versus risk-premium repricing as the dominant driver of long-end yields.",
+      "summarized_at": "2026-10-06T02:05:52.389685+00:00"
+    },
+    {
+      "title": "Cut to the Chase! Policy credibility concerns",
+      "published": "Tue, 06 Oct 2026 09:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19915949-cut-to-the-chase-policy-credibility-concerns.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "UST 10y",
+        "JGB",
+        "Bund",
+        "DXY",
+        "Oil",
+        "Inflation",
+        "Fiscal",
+        "Risk sentiment",
+        "Carry"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Steve Price examines the global march higher in long-dated government bond yields through the first nine months of the year, arguing it reflects fading policy credibility on both fiscal and monetary fronts rather than just energy-driven inflation — a theme with direct implications for global risk appetite and EM carry trades.\n\n**Key points**\n- Year-to-date 10-year yield moves: US +114bps, UK +93bps, France +115bps, Germany +62bps, Japan +97bps.\n- Initial catalyst was Middle East conflict pushing oil prices higher, fueling short-term inflation fears and central bank hawkishness.\n- Despite recent softer US inflation and employment data, falling oil prices, and Fed members signaling a hike at the October 28 meeting is unlikely, US 10-year yields remain higher than a week ago — seen as a credibility warning sign.\n- Rising debt-servicing costs as a share of GDP are both a cause and effect of higher yields; Europe faces limited fiscal room given already-high tax rates plus looming AI infrastructure and defense spending needs; the US has no visible political path to address its budget deficit.\n- The Fed is caught between presidential pressure for lower rates (to ease borrowing costs) and a resilient economy with still-elevated inflation arguing for stable-to-higher rates.\n\n**FX / rates implications**\n- Fading fiscal/monetary credibility in DM sovereigns keeps term premia elevated, a headwind for duration broadly and a factor EM rates desks should track given co-movement with UST yields.\n- Standard Chartered's house view: expect continued volatility over the near term but believes yields look increasingly attractive on a 6-12 month horizon and equities should grind higher — framing any downside (yield spike/equity selloff) as a buying opportunity, which supports a constructive medium-term backdrop for EM carry and risk assets.\n- Fed policy path uncertainty (political pressure vs. inflation/growth resilience) is a key swing factor for USD and EM FX funding costs.\n\n**Watch list**\n- Next FOMC meeting October 28 — markets currently pricing a hike as unlikely.\n- Further UST, Gilt, Bund, and JGB yield moves as a gauge of sovereign credibility concerns.\n- Oil price trajectory tied to Middle East conflict developments.",
+      "summarized_at": "2026-10-06T02:06:42.894560+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-06"
 }
