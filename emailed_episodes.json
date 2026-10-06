@@ -17933,8 +17933,22 @@
       "feed": "Horizontes de Latinoamérica (S&P Global)",
       "processed": "2026-10-06T19:18:04.364110+00:00",
       "episode_id": "32d6a5fb23fce5ba"
+    },
+    "c87424bb5e8f6519": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/585287c5-771e-4078-a035-d040c933a3e1.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Japan’s Banks Enter a New Era of Opportunity",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-10-06T21:56:38.523368+00:00",
+      "episode_id": "c87424bb5e8f6519"
+    },
+    "2635f39939f894d4": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6ac548a0d3bfab176e53a1f2/media.mp3",
+      "title": "There is only one trade",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-10-06T22:01:59.650084+00:00",
+      "episode_id": "2635f39939f894d4"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-06T19:18:04.364144+00:00"
+  "last_updated": "2026-10-06T22:01:59.650126+00:00"
 }
