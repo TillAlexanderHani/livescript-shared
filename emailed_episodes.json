@@ -17919,8 +17919,22 @@
       "feed": "Standard Chartered India - Money Insights",
       "processed": "2026-10-06T16:32:37.303113+00:00",
       "episode_id": "69f5359dc3856d8a"
+    },
+    "c6f0c626c82109cd": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/26efb4b7-6a8f-46af-8ac9-834c083bf776/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=26efb4b7-6a8f-46af-8ac9-834c083bf776&feed=tc4zxWgX",
+      "title": "Stocks at Record Highs, The Bullish Case for Bonds, and NYC’s AI Safety Push 10/6/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-06T19:13:40.701346+00:00",
+      "episode_id": "c6f0c626c82109cd"
+    },
+    "32d6a5fb23fce5ba": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/19918541-haiti-s-unending-transition-to-democracy-gangs-politics-and-hope.mp3",
+      "title": "Haiti’s Unending Transition to Democracy: Gangs, Politics, and Hope",
+      "feed": "Horizontes de Latinoamérica (S&P Global)",
+      "processed": "2026-10-06T19:18:04.364110+00:00",
+      "episode_id": "32d6a5fb23fce5ba"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-06T16:32:37.303156+00:00"
+  "last_updated": "2026-10-06T19:18:04.364144+00:00"
 }
