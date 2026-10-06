@@ -17863,8 +17863,29 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-10-06T02:06:42.894560+00:00",
       "episode_id": "c400e03f726f7d56"
+    },
+    "f4e9da9367557bd0": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD6405641425.mp3",
+      "title": "Inside the Revival of Venture Capital Liquidity with an Industry Pioneer",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-10-06T06:58:01.937525+00:00",
+      "episode_id": "f4e9da9367557bd0"
+    },
+    "d5816293b214a39d": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/e7f57783-e9c7-4385-b10b-274446f6680e/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=e7f57783-e9c7-4385-b10b-274446f6680e&feed=IFy3imsg&t=podcast&e=nx-s1-5991846&p=510325&d=484&size=7754901",
+      "title": "Inside Norway's sovereign wealth fund dilemma to divest from Israel",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-06T07:02:50.380051+00:00",
+      "episode_id": "d5816293b214a39d"
+    },
+    "2f61c132bdd13b26": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Kaiser_Kuo.mp3?dest-id=4287628",
+      "title": "Is America Getting Tired of Fighting China?",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-10-06T07:08:48.897949+00:00",
+      "episode_id": "2f61c132bdd13b26"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-06T02:06:42.894601+00:00"
+  "last_updated": "2026-10-06T07:08:48.897988+00:00"
 }
