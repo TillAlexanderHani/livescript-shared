@@ -1,4 +1,28 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! Expecting higher equity volatility in the weeks ahead",
+      "published": "Wed, 07 Oct 2026 08:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19922500-cut-to-the-chase-expecting-higher-equity-volatility-in-the-weeks-ahead.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "S&P 500",
+        "Nasdaq 100",
+        "VIX",
+        "MOVE index",
+        "UST 10y",
+        "Risk sentiment",
+        "Equities",
+        "Elections",
+        "Earnings",
+        "Taiwan",
+        "Semiconductors"
+      ],
+      "summary": "**Summary**\nStandard Chartered's daily markets note flags rising equity volatility ahead despite the S&P 500 and Nasdaq 100 hitting fresh record highs, as bond-equity volatility divergence, narrow sector participation, and the US midterm elections create a bumpier near-term backdrop. The bank stays structurally bullish on equities (12-month S&P 500 target of 8,400) but is tactically cautious for the coming weeks.\n\n**Key points**\n- S&P 500 and Nasdaq 100 touched new record highs overnight; StanChart maintains a 12-month S&P 500 target of 8,400.\n- MOVE index (bond volatility) is near year-to-date highs while VIX (equity volatility) is near year-to-date lows — an unusual divergence given the two normally correlate, implying either bond vol falls or equity vol rises to converge.\n- Market breadth has narrowed: over the past month only Information Technology and Communication Services sectors posted positive returns globally; all other sectors declined.\n- US midterm elections (3 November) expected to lift volatility into election day, though medium/long-term market impact seen as manageable.\n- October is seasonally volatile, and Q3 earnings season brings debate risk around interest rates, inflation, and debt dynamics despite expected solid headline results.\n- StanChart closed two opportunistic trades — global semiconductors and MSCI Taiwan — booking 10% returns over 3 months and 8% over 1 month, calling it profit-taking rather than a negative fundamental view; remains overweight Taiwan equities in its Asia-ex-Japan strategy and may revisit AI-adoption themes at better entry points.\n\n**FX / rates implications**\n- Rising UST volatility (MOVE index near YTD highs) alongside still-low VIX suggests rates markets are pricing more uncertainty than equities — a risk-sentiment air pocket that could spill into USD and EM FX if equity vol catches up, pressuring carry trades broadly.\n- A volatility convergence event (equity vol rising) would typically be USD-supportive/risk-off, a headwind for high-beta EM Asia and LATAM currencies.\n- Taiwan equity/semiconductor profit-taking is a sentiment signal for TWD and regional tech-linked Asia FX (KRW), though not a fundamental downgrade.\n\n**Watch list**\n- US midterm elections, 3 November — expected volatility catalyst into election day.\n- Q3 earnings season — watch for debate around rates/inflation/debt dynamics beyond headline beats.\n- MOVE vs VIX convergence dynamic — key signal for whether equity volatility re-rates higher.",
+      "summarized_at": "2026-10-07T06:41:12.412455+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-07"
 }
