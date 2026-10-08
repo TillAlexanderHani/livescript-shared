@@ -1,4 +1,24 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Will Midterms Test the AI Investment Cycle?",
+      "published": "Wed, 07 Oct 2026 20:00:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/76cea057-f102-4d83-a0bb-176ce738f691.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "Data centers",
+        "Elections",
+        "Midterms",
+        "Regulation",
+        "China",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's Public Policy Research head Ariana Salvatore examines how the US midterm elections could shape sentiment around the AI investment cycle, distinguishing between data center buildout friction and broader AI safety/regulation, where election outcomes matter far less.\n\n**Key points**\n- Two channels: (1) data center opposition, where midterms are an important catalyst, and (2) AI safety/regulation, where congressional composition matters much less.\n- Base case remains a conditional AI infrastructure buildout, with substantial investment continuing but subject to power costs, grid capacity, siting, permitting, water use and community impact.\n- No broad federal pause on data centers is expected; AI compute is increasingly framed in Washington as strategic infrastructure given competition with China, which supports continued buildout.\n- Many levers that could delay projects (interconnection approvals, large-load electricity tariffs, zoning, water permits, tax abatements) sit at the state/local level, not federal — governors, state legislatures and utility commissions may matter more than Senate control.\n- A Republican sweep would be most constructive for AI infrastructure sentiment (fewer regulatory constraints, permitting reform, more power generation, federal land development); divided government preserves status quo uncertainty; a Democratic sweep would be least constructive, raising odds of tighter local restrictions and more federal scrutiny post-2028.\n- Expectation remains incremental, fragmented AI regulation rather than sweeping federal legislation, absent a major safety/security incident.\n\n**FX / rates implications**\n- Primarily a US domestic policy and equity/tech-capex theme; no direct EM Asia or LATAM FX/rates transmission discussed. Indirect relevance only via broader US risk sentiment and mega-cap tech capex, which can influence global equity risk appetite and, at the margin, USD-funded flows into risk assets.\n\n**Watch list**\n- November midterm results, particularly governors' races, state legislatures and public utility commission elections, which may be more consequential for AI infrastructure buildout than federal control.\n- Potential high-profile AI safety/security incidents that could trigger more comprehensive federal legislation.",
+      "summarized_at": "2026-10-08T01:23:57.473940+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-08"
 }

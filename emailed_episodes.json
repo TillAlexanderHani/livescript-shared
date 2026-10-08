@@ -17989,8 +17989,22 @@
       "feed": "Reuters Econ World",
       "processed": "2026-10-07T20:00:04.286156+00:00",
       "episode_id": "86e2b817136b0f1c"
+    },
+    "80af9d2b87dfb714": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/76cea057-f102-4d83-a0bb-176ce738f691.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Will Midterms Test the AI Investment Cycle?",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-10-08T01:23:57.473940+00:00",
+      "episode_id": "80af9d2b87dfb714"
+    },
+    "cf6da2fa8945eba3": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6ac4da80924bc02b55a2ca51/media.mp3",
+      "title": "How the US financed World War I using Charlie Chaplin and Girl Scouts",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-10-08T01:36:00.620393+00:00",
+      "episode_id": "cf6da2fa8945eba3"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-07T20:00:04.286199+00:00"
+  "last_updated": "2026-10-08T01:36:00.620432+00:00"
 }
