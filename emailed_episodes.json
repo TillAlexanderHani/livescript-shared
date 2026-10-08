@@ -18045,8 +18045,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-10-08T17:22:38.198962+00:00",
       "episode_id": "2c8393e5c7e368ad"
+    },
+    "3b466ba70686701a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/27425f70-10ff-4f29-aeaa-b3ffb910369e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=27425f70-10ff-4f29-aeaa-b3ffb910369e&feed=tc4zxWgX",
+      "title": "Oil Spike, The Technical Take, and Oppormunities 10/8/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-08T19:38:33.564022+00:00",
+      "episode_id": "3b466ba70686701a"
+    },
+    "3a7930fb02af96cf": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/qc8cq4yw8pwgqqic/Macrovoices-2026-10-08-Brent-Johnson.mp3",
+      "title": "MacroVoices #553 Brent Johnson: Disparate Housewives",
+      "feed": "Macro Voices",
+      "processed": "2026-10-08T19:48:13.272862+00:00",
+      "episode_id": "3a7930fb02af96cf"
+    },
+    "df075267a6e2cdad": {
+      "url": "https://traffic.megaphone.fm/BLM7260581672.mp3",
+      "title": "Macro Matters: Pimco’s Clarida on Fed Policy and Balance Sheet",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-10-08T20:03:45.490611+00:00",
+      "episode_id": "df075267a6e2cdad"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-08T17:22:38.199011+00:00"
+  "last_updated": "2026-10-08T20:03:45.490647+00:00"
 }
