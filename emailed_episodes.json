@@ -18003,8 +18003,29 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "processed": "2026-10-08T01:36:00.620393+00:00",
       "episode_id": "cf6da2fa8945eba3"
+    },
+    "96e727fb196528ea": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d277218c-1303-498a-9044-4631880e3d98/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d277218c-1303-498a-9044-4631880e3d98&feed=tc4zxWgX",
+      "title": "Bond Bull, Un-Freezing Housing, and Under-the-Radar AI Names 10/7/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-08T06:47:03.257235+00:00",
+      "episode_id": "96e727fb196528ea"
+    },
+    "08adcf618cd98356": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19928427-cut-to-the-chase-the-illusion-of-diversification-look-beyond-the-labels.mp3",
+      "title": "Cut to the Chase! The illusion of diversification, look beyond the labels",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-08T06:53:09.497211+00:00",
+      "episode_id": "08adcf618cd98356"
+    },
+    "cbb957af361b3e1c": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC3260187411.mp3",
+      "title": "Growth Holds, Risks Widen",
+      "feed": "PIMCO Pod",
+      "processed": "2026-10-08T06:55:43.114695+00:00",
+      "episode_id": "cbb957af361b3e1c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-08T01:36:00.620432+00:00"
+  "last_updated": "2026-10-08T06:55:43.114737+00:00"
 }
