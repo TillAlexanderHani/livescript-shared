@@ -18024,8 +18024,29 @@
       "feed": "PIMCO Pod",
       "processed": "2026-10-08T06:55:43.114695+00:00",
       "episode_id": "cbb957af361b3e1c"
+    },
+    "c7c121ec2a320d12": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/TMI_T360-Lux_Michel.mp3?dest-id=1534493",
+      "title": "Live from Treasury 360° Europe:  Are We Getting Treasury Transformation Wrong?",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-10-08T17:00:02.465699+00:00",
+      "episode_id": "c7c121ec2a320d12"
+    },
+    "2564518217698980": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6ac77fe8f38f25c0f048e313/media.mp3",
+      "title": "Asia's race against time",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-10-08T17:02:23.548265+00:00",
+      "episode_id": "2564518217698980"
+    },
+    "2c8393e5c7e368ad": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/b6f9b5da-beb5-4a54-bf6d-2a0730b17b8a/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=b6f9b5da-beb5-4a54-bf6d-2a0730b17b8a&feed=IFy3imsg&t=podcast&e=nx-s1-5993893&p=510325&d=553&size=8848700",
+      "title": "The chilling effect of ICE in hospitals",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-08T17:22:38.198962+00:00",
+      "episode_id": "2c8393e5c7e368ad"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-08T06:55:43.114737+00:00"
+  "last_updated": "2026-10-08T17:22:38.199011+00:00"
 }
