@@ -1,4 +1,30 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "EM Fixed Income: Enduring the heat, trying not to get burned",
+      "published": "Thu, 08 Oct 2026 13:38:05 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/ym2cj7t93dg5xtsu/AAREM081026_KAL-1-OPIQPZQ4.mp3",
+      "feed": "At Any Rate Podcast",
+      "provider": "J.P. Morgan",
+      "priority": 5,
+      "tags": [
+        "EM FX",
+        "EM rates",
+        "Carry",
+        "Brazil",
+        "BRL",
+        "Credit spreads",
+        "Fed",
+        "USD",
+        "UST 10y",
+        "Fiscal",
+        "Elections",
+        "Oil",
+        "ECB"
+      ],
+      "summary": "**Summary**\nJPMorgan strategists dissect the EM FX/rates sell-off that began in early September and persisted into October, driven by a rates-shock bear flattening, rising crude back above $100, and resurfacing growth-outlook uncertainty, before turning to Brazil's first-round election as the key idiosyncratic trade of the moment.\n\n**Key points**\n- The sharp EMFX sell-off (from ~Sept 9) is best explained by a bond-positioning squeeze rather than FX positioning — a rates shock spilled into FX vol, hitting the highest-carry, most-crowded currencies hardest.\n- Countries with large diesel/gas product exposure sold off more than those with broad energy exposure generally.\n- US 10y Treasury yields kept rising despite the Fed, as strong growth, fiscal pressure and sticky inflation expectations persist; the Fed's evolving forward-guidance framework complicates its response.\n- EM rates sold off via bear flattening — long-end yields up on term/real-rate repricing, front ends softer as markets price central banks weighing growth risk; US and EM term premia have been roughly flat, arguing against a purely fiscal explanation.\n- ECB commentary suggests monetary tightening may already be denting growth, reducing the need to tighten further.\n- Fiscal widening forecasts across EM are not large, but persistently high yields risk a \"fiscal trap\" via rising interest burdens.\n- Brazil's first-round election: Bolsonaro outperformed polls versus Lula; Congress results showed the strongest right-leaning showing in decades with less fragmentation, raising odds of a more governable post-election legislature focused on fiscal consolidation.\n\n**FX / rates implications**\n- Base case stays reflationary/resilient growth, favoring carry strategies, but the bias is shifting toward higher-carry EM currencies that have already delivered hikes versus lower-carry laggards still behind the curve and more vulnerable to repricing.\n- Rising UST 10y and firmer USD remain the dominant global drag on broad EMFX; actual delivery (not just pricing) of EM rate hikes is needed to stabilize long-end EM rates.\n- Brazil's BRL and sovereign credit have outperformed EM peers; spreads have tightened to trade between BB and BBB (Brazil lost investment grade years ago), with markets sensing a potential path back toward IG if fiscal consolidation follows through post-election.\n- Elevated oil/crude (above $100) continues to pressure EM countries with high energy/product import exposure.\n\n**Watch list**\n- Brazil's second-round runoff and signals on fiscal consolidation plans from Lula/Bolsonaro camps.\n- UST 10y trajectory and any shift in Fed forward guidance framework.\n- Crude oil price action, given its renewed break above $100.\n- Actual delivery of rate hikes by lagging EM central banks versus currently priced expectations.\n- Further ECB signals on growth-driven policy moderation.",
+      "summarized_at": "2026-10-09T01:39:57.513748+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-09"
 }

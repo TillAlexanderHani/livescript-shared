@@ -18066,8 +18066,22 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-10-08T20:03:45.490611+00:00",
       "episode_id": "df075267a6e2cdad"
+    },
+    "d6479f670f385f6c": {
+      "url": "https://mcdn.podbean.com/mf/web/ym2cj7t93dg5xtsu/AAREM081026_KAL-1-OPIQPZQ4.mp3",
+      "title": "EM Fixed Income: Enduring the heat, trying not to get burned",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-10-09T01:39:57.513748+00:00",
+      "episode_id": "d6479f670f385f6c"
+    },
+    "0fe620f9ca93a083": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/e6cffb8d-5132-49c3-a238-44de05c548d3/group-item/731e40fb-5532-4f34-9b3a-096302a88753/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "The Predictability Premium with Christian Lins (Part 1)",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-10-09T01:52:55.072575+00:00",
+      "episode_id": "0fe620f9ca93a083"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-08T20:03:45.490647+00:00"
+  "last_updated": "2026-10-09T01:52:55.072615+00:00"
 }
