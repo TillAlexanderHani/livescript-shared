@@ -18164,8 +18164,36 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-10-09T17:25:16.664660+00:00",
       "episode_id": "f6e546b2fcf6ac1b"
+    },
+    "0f357c8959f37b04": {
+      "url": "https://mcdn.podbean.com/mf/web/4d35ktcrq5u3cfqi/AARKaneva10926KAL-1-XKSI6OKN97ker.mp3",
+      "title": "Global Commodities: Dancing in the Dark",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-10-09T19:04:14.766435+00:00",
+      "episode_id": "0f357c8959f37b04"
+    },
+    "f6c077dad43a7ab2": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6ac8e1537ce338e8cd067bcb/media.mp3",
+      "title": "Breaking the data",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-10-09T19:08:51.464059+00:00",
+      "episode_id": "f6c077dad43a7ab2"
+    },
+    "2c826dafb894482c": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19935746-is-france-just-the-hors-d-oeuvre.mp3",
+      "title": "Is France just the hors d'oeuvre?",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-10-09T19:18:00.592889+00:00",
+      "episode_id": "2c826dafb894482c"
+    },
+    "d793643ae0aebef5": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261009_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - Mon Dieu!",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-10-09T19:27:49.033114+00:00",
+      "episode_id": "d793643ae0aebef5"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-09T17:25:16.664700+00:00"
+  "last_updated": "2026-10-09T19:27:49.033151+00:00"
 }
