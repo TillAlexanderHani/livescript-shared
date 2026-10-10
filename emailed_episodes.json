@@ -18227,8 +18227,15 @@
       "feed": "NatWest Currency Exchange",
       "processed": "2026-10-10T06:27:23.446072+00:00",
       "episode_id": "55499dccface2c9b"
+    },
+    "437700d6d2857cea": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6ac7ed178f34078889ba8414/media.mp3",
+      "title": "Is France too blasé about borrowing costs?",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-10-10T15:50:43.473770+00:00",
+      "episode_id": "437700d6d2857cea"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-10T06:27:23.446117+00:00"
+  "last_updated": "2026-10-10T15:50:43.473812+00:00"
 }
