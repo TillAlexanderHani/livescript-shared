@@ -18234,8 +18234,15 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-10-10T15:50:43.473770+00:00",
       "episode_id": "437700d6d2857cea"
+    },
+    "c7ccb4c7657b3de8": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/607c47ac-44a8-4db4-896e-b788a7245155/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=607c47ac-44a8-4db4-896e-b788a7245155&feed=tc4zxWgX",
+      "title": "SpaceX’s Starlink Push, The Real Price of Oil, and the NBA’s Big Bet 10/9/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-10T20:49:32.964768+00:00",
+      "episode_id": "c7ccb4c7657b3de8"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-10T15:50:43.473812+00:00"
+  "last_updated": "2026-10-10T20:49:32.964813+00:00"
 }
