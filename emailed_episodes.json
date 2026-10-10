@@ -18213,8 +18213,22 @@
       "feed": "Planet Money",
       "processed": "2026-10-10T01:36:58.117642+00:00",
       "episode_id": "308100bf1ae813ca"
+    },
+    "a69bd5435441d056": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3561644322.mp3",
+      "title": "Hedge Funds Are Cautious on Stocks amid Rates and Energy Volatility",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-10-10T06:25:47.327844+00:00",
+      "episode_id": "a69bd5435441d056"
+    },
+    "55499dccface2c9b": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/19934922-dollar-gains-again-amid-euro-woes.mp3",
+      "title": "Dollar gains (again) amid euro woes",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-10-10T06:27:23.446072+00:00",
+      "episode_id": "55499dccface2c9b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-10T01:36:58.117684+00:00"
+  "last_updated": "2026-10-10T06:27:23.446117+00:00"
 }
