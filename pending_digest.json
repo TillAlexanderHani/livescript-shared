@@ -1,4 +1,24 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Should we all be getting tariff refunds right now?",
+      "published": "Fri, 09 Oct 2026 21:07:00 +0000",
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555",
+      "feed": "Planet Money",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Tariffs",
+        "Trade",
+        "IEEPA",
+        "Supreme Court",
+        "Fiscal",
+        "Inflation",
+        "Consumer spending"
+      ],
+      "summary": "**Summary**\nThis Planet Money episode is a human-interest deep dive into the chaotic aftermath of the US Supreme Court striking down IEEPA tariffs on November 5, 2025, and the uneven, largely discretionary process by which companies are (or aren't) passing tariff refunds back to consumers. It's framed through small anecdotes (a $14.02 refund on a niche video game console) rather than macro analysis, but it surfaces real figures on the scale of the US tariff refund process.\n\n**Key points**\n- The US government has filed figures citing roughly $122 billion in tariff refunds paid out as of early September, against a cited total collection range of $166-170 billion under IEEPA tariffs.\n- Companies, not consumers, are legally entitled to claim refunds via a US Customs data-portal process (submitting entry-number spreadsheets); consumers only get money back if a company voluntarily passes it along.\n- Corporate behavior varies widely: Panic (maker of the Playdate console) refunded 100% of tariffs it had itemized (about $100,000 total); Sony and Microsoft raised console prices but are keeping refunds; Nintendo offered a temporary discount sale instead of direct refunds.\n- Trade attorney Maureen Thorsten notes there was no established precedent for refund mechanics given the novelty of the IEEPA ruling, and untangling tariff-driven price increases from broader inflation/supply-chain effects is largely impractical for most retailers.\n\n**FX / rates implications**\n- No direct FX or rates read-through is discussed; this is a US domestic trade-policy/consumer-finance story with no EM currency, central bank, or Treasury yield content.\n- Tangential macro relevance: confirms IEEPA tariffs are being unwound and billions in duties refunded, part of the broader narrative of easing US tariff aggressiveness, with only indirect bearing on global trade flows and risk sentiment, not quantified here.\n\n**Watch list**\n- Ongoing US Court of International Trade filings tracking cumulative tariff refund totals.\n- Whether more companies follow Panic's lead in voluntarily passing refunds to consumers, a minor data point on post-tariff corporate margin and pricing behavior.",
+      "summarized_at": "2026-10-10T01:36:58.117642+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-10"
 }
