@@ -18241,8 +18241,15 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-10-10T20:49:32.964768+00:00",
       "episode_id": "c7ccb4c7657b3de8"
+    },
+    "bf3d8be4b29bbc1b": {
+      "url": "https://mcdn.podbean.com/mf/web/bbhxexp8wcpi2jw2/Podcast_10-09-26.mp3",
+      "title": "October WASDE delivers a sweet treat, or a spooky surprise?",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-10-11T00:37:40.808351+00:00",
+      "episode_id": "bf3d8be4b29bbc1b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-10T20:49:32.964813+00:00"
+  "last_updated": "2026-10-11T00:37:40.808389+00:00"
 }
