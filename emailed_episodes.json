@@ -18248,8 +18248,15 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "processed": "2026-10-11T00:37:40.808351+00:00",
       "episode_id": "bf3d8be4b29bbc1b"
+    },
+    "968a5872d22d927c": {
+      "url": "https://media.transistor.fm/82393360/7ed76fe3.mp3",
+      "title": "Bond Market Turbulence, France's Fiscal Reckoning and Europe's China Dilemma",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-10-11T16:03:32.902246+00:00",
+      "episode_id": "968a5872d22d927c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-11T00:37:40.808389+00:00"
+  "last_updated": "2026-10-11T16:03:32.902292+00:00"
 }
