@@ -18262,8 +18262,29 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-10-12T06:36:52.113552+00:00",
       "episode_id": "94337b1aa92583e1"
+    },
+    "8745c2ecf2173e71": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/70a304c6-bfbf-4f1e-a4ee-e98cb8264c03/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=70a304c6-bfbf-4f1e-a4ee-e98cb8264c03&feed=tc4zxWgX",
+      "title": "The Bull Market Turns Four, Energy Headwinds, and Isaacson on AI Safety 10/12/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-12T19:26:50.434503+00:00",
+      "episode_id": "8745c2ecf2173e71"
+    },
+    "d642adbf1880907d": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Nate Soares on How AI Really Could Kill Us All",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-12T19:40:05.738936+00:00",
+      "episode_id": "d642adbf1880907d"
+    },
+    "3f5ffdcc7c26f85b": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/251ad37c-6b1f-4167-8405-13781d5d63bb/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=251ad37c-6b1f-4167-8405-13781d5d63bb&feed=IFy3imsg&t=podcast&e=nx-s1-5996621&p=510325&d=570&size=9120792",
+      "title": "The echo of the bison (Encore)",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-12T19:42:02.401875+00:00",
+      "episode_id": "3f5ffdcc7c26f85b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-12T06:36:52.113592+00:00"
+  "last_updated": "2026-10-12T19:42:02.401923+00:00"
 }

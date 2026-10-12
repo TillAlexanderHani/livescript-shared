@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The Bull Market Turns Four, Energy Headwinds, and Isaacson on AI Safety 10/12/26",
+      "published": "Mon, 12 Oct 2026 18:20:48 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/70a304c6-bfbf-4f1e-a4ee-e98cb8264c03/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=70a304c6-bfbf-4f1e-a4ee-e98cb8264c03&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Brent",
+        "WTI",
+        "Oil",
+        "Risk sentiment",
+        "Geopolitics",
+        "S&P 500",
+        "Nasdaq",
+        "UST 10y",
+        "Fed",
+        "USD"
+      ],
+      "summary": "**Summary**\nCNBC's The Exchange marks the US bull market's fourth anniversary (Dow +78%, S&P +118%, Nasdaq +162% over four years) against a backdrop of rising oil prices after deadly Houthi missile attacks on Riyadh's airport and a shaky Trump-brokered Russia-Ukraine \"energy ceasefire\" that Russia appears to have already violated. Bank earnings season kicks off this week (JPM, Wells Fargo, Goldman, Citi Tuesday; BofA, Morgan Stanley Wednesday) alongside a big AI capex/monetization debate ahead of tech earnings — all relevant macro inputs for a trader tracking global risk sentiment, oil-sensitive EM currencies and USD direction, even though the episode itself stays US/DM-centric with no direct EM Asia or LATAM discussion.\n\n**Key points**\n- Oil only up ~2% despite the Riyadh airport attacks (two strikes, 300+ wounded) — Brookings' Michael O'Hanlon says the market is pricing a Saudi-Houthi/Iran conflict that has run far longer than expected; a direct Saudi strike on Iran, or Iranian attacks on oil/gas infrastructure, would be a major escalation risk for crude.\n- Bespoke's Paul Hickey flags a \"three-headed monster\" (strong crude, strong 10yr yield, strong dollar) as historically a tough setup for equities, though breadth has only weakened modestly so far; his \"mortgage-gas\" consumer stress indicator hit a record high last week.\n- US bond market closed for Columbus Day; jobless claims below 200k for four straight weeks, a labor-market strength not seen since 1969.\n- Bank earnings: KBE regional bank index on a 5th straight weekly loss amid NIM-peak worries and softer trading/IB revenue (global IB proxy revenue -8% y/y, -21% q/q per Jefferies).\n- Reported AI deal flow: Amazon in talks to buy AI startup Baseten/DigitalOcean-type firm \"Dicecart\"(~$7bn) and Nvidia exploring Reflection AI, underscoring continued mega-cap AI capex.\n\n**FX / rates implications**\n- Sustained Brent/WTI gains from Gulf conflict escalation would pressure current-account/oil-importer EM Asia currencies (INR, PHP, IDR) via wider trade deficits, while supporting oil-exporter LATAM credits (Colombia, Mexico to a lesser extent) and the energy-linked complex broadly.\n- A simultaneous strong USD + rising UST yields + firm oil (\"three-headed monster\") is a classic EM-negative combination, tightening financial conditions and pressuring carry trades across EM Asia and LATAM FX.\n- Strong US labor data and resilient equities reduce near-term odds of a dovish Fed pivot, a modest headwind for EM rates/FX positioning into bank earnings and CPI this week.\n\n**Watch list**\n- Escalation risk: any direct Saudi-Iran confrontation or Iranian strikes on oil/gas infrastructure — flagged as the key trigger for a much larger oil move.\n- US CPI print this week — Hickey expects energy/gas prices to show up in the inflation data.\n- JPM, Wells Fargo, Goldman, Citi (Tue) and BofA, Morgan Stanley (Wed) earnings/guidance on NIM, trading and loan demand.\n- Durability of the Russia-Ukraine energy ceasefire, already reportedly breached by Russian strikes on Ukrainian energy assets.",
+      "summarized_at": "2026-10-12T19:26:50.434503+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-12"
 }
