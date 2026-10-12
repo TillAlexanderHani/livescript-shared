@@ -1,31 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "Bond Market Turbulence, France's Fiscal Reckoning and Europe's China Dilemma",
-      "published": "Fri, 09 Oct 2026 13:27:23 +0100",
-      "url": "https://media.transistor.fm/82393360/7ed76fe3.mp3",
-      "feed": "Capital Economics Weekly Briefing",
-      "provider": "Capital Economics",
-      "priority": 4,
-      "tags": [
-        "UST 10y",
-        "Fed",
-        "EUR",
-        "ECB",
-        "France",
-        "Italy",
-        "Bund spread",
-        "S&P 500",
-        "China",
-        "Trade",
-        "Tariffs",
-        "Oil",
-        "Fiscal",
-        "Risk sentiment"
-      ],
-      "summary": "**Summary**\nCapital Economics' weekly briefing covers the global bond sell-off (10-year UST yields up ~100bp since end-June to 5.25%, now stabilizing), France's deepening fiscal crisis and widening spread versus Italy, a narrow US equity rally masking broad softness, and the EU Trade Commissioner's Beijing visit amid rising EU-China friction. All are first-order inputs to the global rates/risk backdrop that EM trades off.\n\n**Key points**\n- UST 10-year yields fell ~10bp Thursday to 5.25%, still ~100bp higher than end-June; driver is higher energy prices lifting Fed tightening expectations plus strong US data surprises and AI productivity optimism — fundamentals, not dysfunction.\n- France-Italy bond spread hit a record high; France's primary deficit (ex-interest) is ~3% of GDP vs Italy's more stable ~3% headline deficit; political fragmentation blocks consolidation. No repeat of 2010-12 crisis given stronger ECB toolkit.\n- S&P 500 at record highs but ~75% of index constituents are 10%+ below their own highs — rally concentrated in mega-cap IT.\n- EU hardening stance on China trade (Macron/Merz joint letter), more anti-dumping/anti-subsidy tools likely, but no US-style tariff war; Germany now backing a tougher line.\n\n**FX / rates implications**\n- Higher-for-longer UST yields and Fed repricing (energy-driven, not panic-driven) support continued USD/DXY firmness and keep pressure on EM carry trades (INR, IDR, PHP, MXN, BRL rates) via higher US real rates.\n- EUR vulnerable to French fiscal headline risk; eurozone periphery spreads (France vs Italy, Bunds) are a volatility signal worth tracking for broader risk sentiment.\n- Narrow equity rally signals fragile risk-on backdrop — a reversal in mega-cap tech could trigger a broader risk-off that typically hits EM FX hard.\n- Firmer EU stance on Chinese import competition could add to China growth/trade headwinds, an indirect drag on commodity-linked EM (CLP copper, COP/BRL metals/agri).\n\n**Watch list**\n- UST 10-year yield path around the 5% threshold and Fed rate-expectation repricing.\n- French parliamentary budget debate and France-Italy spread trajectory.\n- Further EU measures (anti-dumping probes, diversification tools) following the Beijing trade visit.",
-      "summarized_at": "2026-10-11T16:03:32.902246+00:00"
-    }
-  ],
-  "last_digest_date": "2026-10-11"
+  "episodes": [],
+  "last_digest_date": "2026-10-12"
 }
