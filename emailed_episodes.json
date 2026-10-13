@@ -18304,8 +18304,36 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-10-13T07:26:05.385615+00:00",
       "episode_id": "20e066ebd2cf2d73"
+    },
+    "1241a2780f2b5a50": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0726_INNO26_Stephanie_Steven.mp3?dest-id=1534493",
+      "title": "The Amber Light Test",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-10-13T17:11:27.802734+00:00",
+      "episode_id": "1241a2780f2b5a50"
+    },
+    "4ba77ed9c057fe16": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/UJ_EP0001_192kbps_v2.mp3?dest-id=2089145",
+      "title": "Understanding Japan - How are Demographics Changing Japan?",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-10-13T17:43:58.129324+00:00",
+      "episode_id": "4ba77ed9c057fe16"
+    },
+    "12e0cbfe2ae1b6d2": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC3179818297.mp3",
+      "title": "The Credit Market Lens: Green Shoots and Legacy Risks in Direct Lending",
+      "feed": "PIMCO Pod",
+      "processed": "2026-10-13T17:50:38.944872+00:00",
+      "episode_id": "12e0cbfe2ae1b6d2"
+    },
+    "1691087b129d32b3": {
+      "url": "https://traffic.libsyn.com/secure/franklintempletontalkingmarkets/FT_TalkingMarketsAOR_Oct2026_v3.mp3?dest-id=584964",
+      "title": "Anatomy of a Recession: Anatomy of a Recession: Not All Hiking Cycles Are Created Equal",
+      "feed": "Talking Markets with Franklin Templeton",
+      "processed": "2026-10-13T17:54:08.890536+00:00",
+      "episode_id": "1691087b129d32b3"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-13T07:26:05.385649+00:00"
+  "last_updated": "2026-10-13T17:54:08.890584+00:00"
 }
