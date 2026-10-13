@@ -1,4 +1,22 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How did we get a Nobel Prize in economics?",
+      "published": "Tue, 13 Oct 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/37710a4f-4d7f-4833-9770-261f7fb17ad5/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=37710a4f-4d7f-4833-9770-261f7fb17ad5&feed=IFy3imsg&t=podcast&e=nx-s1-5999497&p=510325&d=568&size=9099058",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Nobel Prize",
+        "Macroeconomics",
+        "Fed",
+        "Inflation",
+        "Central banks"
+      ],
+      "summary": "**Summary**\nThis episode covers the 2026 Nobel Prize in Economics, awarded to Robert Hall (Stanford) and Michael Woodford (Columbia) for \"microeconomic foundations of macroeconomic stabilization,\" and traces the prize's origin story from 1960s Sweden. It is a historical/institutional piece on economic theory and the prize's politicized creation, not a markets or policy update, so direct trading relevance is minimal.\n\n**Key points**\n- Hall and Woodford helped rebuild macroeconomic models on microeconomic foundations after Keynesian models failed to explain 1970s stagflation (simultaneous high unemployment and high inflation).\n- Their work underpins \"new Keynesian economics,\" which still guides central bank policymaking frameworks today.\n- The prize, formally the \"Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,\" was created in 1968 by Swedish central bank governor Per Åsbrink to boost the bank's prestige around its 300th anniversary, not by Alfred Nobel himself.\n- Sweden's Social Democratic government backed the prize because it saw Keynesian economics as scientific validation for its interventionist policies; the Nobel family reluctantly agreed only if it was framed as a memorial prize, not a true Nobel.\n- Economic historian Gabriel Söderberg argues the prize historically gave a scientific veneer to market-liberal/neoliberal ideas, though he has softened this critique as the prize increasingly rewards empirically-tested theory.\n\n**FX / rates implications**\nNone directly — this is an academic/historical retrospective with no bearing on current rate decisions, currency moves, or flows in EM Asia or LATAM markets.\n\n**Watch list**\n- No market catalysts; purely background on the intellectual framework (new Keynesian economics) that continues to inform how central banks like the Fed think about stabilization policy.",
+      "summarized_at": "2026-10-13T07:26:05.385615+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-13"
 }
