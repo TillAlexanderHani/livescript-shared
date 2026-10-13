@@ -18332,8 +18332,57 @@
       "feed": "Talking Markets with Franklin Templeton",
       "processed": "2026-10-13T17:54:08.890536+00:00",
       "episode_id": "1691087b129d32b3"
+    },
+    "d880011f05cf58f5": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3207274747.mp3",
+      "title": "Where Chinese Exports Are Gaining the Most Market Share",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-10-13T20:00:35.588754+00:00",
+      "episode_id": "d880011f05cf58f5"
+    },
+    "2e3c3a15a61396eb": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/7cb1f975-f172-43e9-8a87-d1343aa8a1a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=7cb1f975-f172-43e9-8a87-d1343aa8a1a8&feed=tc4zxWgX",
+      "title": "the Exchange 10/13/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-13T20:05:14.812832+00:00",
+      "episode_id": "2e3c3a15a61396eb"
+    },
+    "0b3468518553621b": {
+      "url": "https://traffic.megaphone.fm/CLS2134103794.mp3",
+      "title": "David Vélez - Building Nubank and the Future of Global Banking - [Invest Like the Best, EP.495]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-10-13T20:12:30.386584+00:00",
+      "episode_id": "0b3468518553621b"
+    },
+    "1f810bbbc935458b": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/19809017-ep94-why-coal-contracts-block-asia-s-green-transition-with-elrika-hamdi-ernst-kuneman-agora.mp3",
+      "title": "Ep94 Why Coal Contracts Block Asia's Green Transition with Elrika Hamdi & Ernst Kuneman, Agora",
+      "feed": "Asia Climate Finance Podcast",
+      "processed": "2026-10-13T20:17:51.228797+00:00",
+      "episode_id": "1f810bbbc935458b"
+    },
+    "481dcde731645d3a": {
+      "url": "https://www.buzzsprout.com/1885786/episodes/19953369-what-s-driving-the-india-equity-markets.mp3",
+      "title": "What's driving the India equity markets",
+      "feed": "Standard Chartered India - Money Insights",
+      "processed": "2026-10-13T20:20:08.893798+00:00",
+      "episode_id": "481dcde731645d3a"
+    },
+    "bc320563c32c9cf9": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Ananth_Krishnan.mp3?dest-id=4287628",
+      "title": "India-China Relations Are Improving. Here's What Remains Unresolved",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-10-13T20:24:15.923779+00:00",
+      "episode_id": "bc320563c32c9cf9"
+    },
+    "c4980a187077f5d1": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6ace7cee9fea6e0a64e39723/media.mp3",
+      "title": "Mortgages, diesel and the US midterms",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-10-13T20:26:20.941561+00:00",
+      "episode_id": "c4980a187077f5d1"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-13T17:54:08.890584+00:00"
+  "last_updated": "2026-10-13T20:26:20.941602+00:00"
 }
