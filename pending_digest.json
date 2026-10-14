@@ -1,4 +1,43 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Why the French Revolution was a financial revolution - Part 1",
+      "published": "Wed, 14 Oct 2026 04:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6ace3a93253c13a898e63172/media.mp3",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "provider": "Financial Times",
+      "priority": 2,
+      "tags": [
+        "Fiscal",
+        "Sovereign debt",
+        "Credit",
+        "Inflation"
+      ],
+      "summary": "**Summary**\nThis is a history podcast on the French Revolution's financial origins, covering the fiscal crisis of the ancien régime, the nationalization of Church property, and the creation of the assignat as a land-backed financial instrument. It has no bearing on modern FX, rates, or EM markets, but offers a historical case study in sovereign fiscal crisis, credit, and currency creation that may interest a macro-minded listener.\n\n**Key points**\n- Pre-revolutionary France had a decent credit rating despite chronic deficits driven by near-constant wars with Britain; the nobility and clergy held vast untaxed wealth, and decades of failed tax reform attempts led Louis XVI to convene the Estates General in 1789 for the first time since 1614.\n- The Third Estate declared itself the National Assembly, asserted that unapproved taxes were illegal, yet urged continued payment pending new legislation — a mixed message that undermined fiscal discipline.\n- After the storming of the Bastille (July 14, 1789), France's effective creditworthiness collapsed; the Assembly nonetheless pledged never to default.\n- To fund debts, the Assembly nationalized Catholic Church property (the \"biens nationaux\") on a motion by Talleyrand, then created the assignat in December 1789 — initially a 5%-interest short-term bond backed by future church-property sales, later (April 1790) converted into a hybrid circulating currency.\n- Sudden social upheaval collapsed the credit-based informal economy ordinary people relied on, forcing a scramble for cash liquidity.\n- A fierce Assembly debate (Aug–Sept 1790) over reimbursing purchased government offices with more assignats reflected the original left-right political divide by seating arrangement.\n\n**FX / rates implications**\nNone directly — pre-modern, pre-fiat-FX history with no transmission channel to current currencies, central banks, or risk sentiment.\n\n**Watch list**\n- Part 2 of this series (next episode) will cover the assignat's eventual trajectory and link to hyperinflation debates often cited in fiat-currency discussions.",
+      "summarized_at": "2026-10-14T05:32:23.335509+00:00"
+    },
+    {
+      "title": "Cut to the Chase! US Q3 2026 earnings and sector preferences",
+      "published": "Wed, 14 Oct 2026 09:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19959018-cut-to-the-chase-us-q3-2026-earnings-and-sector-preferences.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "S&P 500",
+        "UST 10y",
+        "Earnings",
+        "Risk sentiment",
+        "Financials",
+        "Healthcare",
+        "Technology",
+        "Communication services",
+        "Materials",
+        "Credit"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Q3 2026 US earnings preview looks at the start of bank earnings season and flags rising market dispersion beneath a near-record S&P 500, alongside fresh sector reallocation calls. Relevant for a macro trader as a read on US growth resilience, bond-yield pressure on bank balance sheets, and shifting equity risk appetite that colors global risk sentiment.\n\n**Key points**\n- Major US banks' Q3 results were mixed: healthy loan/deposit growth and stable credit quality, but no proactive provision increases.\n- Capital markets revenue grew y/y but fell q/q on seasonal weakness; some banks saw book value hit by mark-to-market bond losses as yields rose sharply in Q3.\n- S&P 500 Q3 earnings growth estimated above 30%; full-year 2026 growth ~36%, decelerating to ~16% in 2027.\n- Market leadership is narrow: only ~25% of S&P 500 names outperformed the index over the past month, and nearly 50% trade below their 200-day moving average.\n- Much of the 15-20% expected 2027 earnings growth relies on further margin expansion, which StanChart sees as an increasingly thin margin of safety.\n- Sector changes: US healthcare upgraded to overweight (obesity/diabetes treatments, oncology, medical devices, robotics); communication services downgraded to neutral (mega-cap tech/ad-spend concentration). Overweights now span technology, healthcare, financials and materials.\n\n**FX / rates implications**\n- Rising US bond yields through Q3 that hit bank book values signal continued upward pressure on UST yields, a headwind for EM carry trades and a supportive factor for USD strength if yields stay elevated.\n- Narrowing equity leadership and warnings of rising volatility suggest reduced risk appetite ahead, a mild negative for EM FX risk sentiment and capital flows broadly.\n- Resilient US consumer/business investment data supports a soft-landing narrative, limiting aggressive Fed easing bets and keeping USD supported near-term.\n\n**Watch list**\n- Continued Q3 bank and S&P 500 earnings releases for margin trends and provisioning signals.\n- UST yield trajectory given its direct impact on bank valuations and broader risk sentiment.\n- Equity market breadth/leadership rotation as a signal for risk-on/risk-off shifts affecting EM flows.",
+      "summarized_at": "2026-10-14T05:40:39.499485+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-14"
 }
