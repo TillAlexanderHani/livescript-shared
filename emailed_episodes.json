@@ -18416,8 +18416,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-10-14T14:45:31.888698+00:00",
       "episode_id": "3ac4f00f7ce257bb"
+    },
+    "7db238e2a5a0deaa": {
+      "url": "https://www.buzzsprout.com/1885786/episodes/19960569-india-fixed-income-and-currency-outlook-oct-26.mp3",
+      "title": "India Fixed Income and Currency Outlook: Oct'26",
+      "feed": "Standard Chartered India - Money Insights",
+      "processed": "2026-10-14T18:15:06.318214+00:00",
+      "episode_id": "7db238e2a5a0deaa"
+    },
+    "52636cbbea6f65d6": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261014_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - Special Edition: Assessing EM Sovereign Ratings with Fitch",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-10-14T18:17:22.587224+00:00",
+      "episode_id": "52636cbbea6f65d6"
+    },
+    "1141ee1da553028b": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH4355836254.mp3",
+      "title": "France's fiscal fault lines",
+      "feed": "Reuters Econ World",
+      "processed": "2026-10-14T18:23:34.755294+00:00",
+      "episode_id": "1141ee1da553028b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-14T14:45:31.888736+00:00"
+  "last_updated": "2026-10-14T18:23:34.755329+00:00"
 }
