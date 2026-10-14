@@ -18437,8 +18437,22 @@
       "feed": "Reuters Econ World",
       "processed": "2026-10-14T18:23:34.755294+00:00",
       "episode_id": "1141ee1da553028b"
+    },
+    "28c8a8a879c84a36": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a31b59e7-06d6-4158-91f2-3b7b5acd5e93.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "What to Expect From the UK Budget",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-10-14T21:02:07.716416+00:00",
+      "episode_id": "28c8a8a879c84a36"
+    },
+    "6a7cf2f9e196c32a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d02bed1b-c04a-4e0d-aa25-15073c8cfa97/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d02bed1b-c04a-4e0d-aa25-15073c8cfa97&feed=tc4zxWgX",
+      "title": "Goldman Sachs CEO, The Debt Dilemma, and Open A-Spy? 10/14/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-14T21:08:57.958990+00:00",
+      "episode_id": "6a7cf2f9e196c32a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-14T18:23:34.755329+00:00"
+  "last_updated": "2026-10-14T21:08:57.959032+00:00"
 }
