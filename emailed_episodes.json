@@ -18493,8 +18493,29 @@
       "feed": "MERICS China Podcast",
       "processed": "2026-10-15T14:35:49.883104+00:00",
       "episode_id": "247a84e884749a59"
+    },
+    "4516cab33d6d8ba0": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6ad07cfd8f34078889b3861f/media.mp3",
+      "title": "How to build a data centre",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-10-15T18:01:31.562237+00:00",
+      "episode_id": "4516cab33d6d8ba0"
+    },
+    "efcbb4724487b6bb": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/v8w8aidie3mnqp2z/Macrovoices-2026-10-15-Yasir-Arafat.mp3",
+      "title": "MacroVoices #554 Yasir Arafat: Mass Manufacturing Nuclear Power Plants",
+      "feed": "Macro Voices",
+      "processed": "2026-10-15T18:12:03.230809+00:00",
+      "episode_id": "efcbb4724487b6bb"
+    },
+    "f048c098a2211b8e": {
+      "url": "https://traffic.megaphone.fm/BLM6839435516.mp3",
+      "title": "Macro Matters: Wellington’s Medeiros on the Fed and 2027 Risks",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-10-15T18:15:10.406393+00:00",
+      "episode_id": "f048c098a2211b8e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-15T14:35:49.883154+00:00"
+  "last_updated": "2026-10-15T18:15:10.406433+00:00"
 }
