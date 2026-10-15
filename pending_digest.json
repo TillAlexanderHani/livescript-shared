@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid",
+      "published": "Thu, 15 Oct 2026 09:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b143850e-7e8f-4144-8299-b4e30171ca7d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 2,
+      "tags": [
+        "Crypto",
+        "Derivatives",
+        "Perps",
+        "CFTC",
+        "Brent",
+        "WTI",
+        "Market structure",
+        "Fintech"
+      ],
+      "summary": "**Summary**\nOdd Lots interviews Jeff Yan, co-founder of Hyperliquid, a blockchain-based perpetual futures protocol aiming to \"house all of finance\" on-chain. The conversation covers market structure, regulation, and the mechanics of perpetual futures trading rather than any EM FX/rates catalyst, but is relevant as a read on crypto-adjacent financial infrastructure and derivatives market plumbing.\n\n**Key points**\n- Hyperliquid is a permissionless blockchain with ~30 validators (top 27 by stake operate the network) hosting an on-chain order book and clearing system for perpetual futures on crypto, equities (Nvidia, SK Hynix), and commodities (Brent, WTI, S&P 500).\n- \"Deployers\" (e.g., trade XYZ) stake 500,000 HYPE tokens to win Dutch-auction slots (every ~31 hours) allowing them to list new perpetual contracts and define oracle price feeds.\n- US persons are barred from trading on Hyperliquid under its terms of service; Trump referenced the platform and the CFTC is reportedly exploring how to bring such on-chain derivatives venues into the US regulatory perimeter.\n- During the Iran conflict this spring, Hyperliquid saw heavy engagement in 24/7 WTI and Brent perpetual trading, with Yan noting oracle/funding mechanisms can sustain pricing even without continuous underlying spot trading.\n- An oracle pricing error with an SK Hynix perp earlier this year caused losses, later addressed via a post-mortem and refunds from deployer trade XYZ.\n\n**FX / rates implications**\n- No direct EM FX/rates signal; relevant mainly as a structural/plumbing story for how commodity (oil) and equity exposures are increasingly tokenized and traded 24/7 outside traditional venues, a long-run watch item for liquidity fragmentation and price discovery in benchmarks like Brent/WTI.\n- Growing institutional interest in on-chain perpetuals infrastructure could eventually affect collateral flows and counterparty risk models if traditional players (ETF issuers, asset managers) become \"deployers.\"\n\n**Watch list**\n- CFTC's evolving stance on on-chain derivatives platforms and potential US market access for Hyperliquid-style venues.\n- Continued growth of tokenized real-world-asset perpetuals (equities, commodities) as a parallel liquidity venue to traditional futures exchanges.",
+      "summarized_at": "2026-10-15T14:33:24.073543+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-15"
 }

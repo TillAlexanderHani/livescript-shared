@@ -18472,8 +18472,29 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-10-15T05:17:09.830970+00:00",
       "episode_id": "31e5f333a72557df"
+    },
+    "1c20f9544786bf7b": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b143850e-7e8f-4144-8299-b4e30171ca7d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-15T14:33:24.073543+00:00",
+      "episode_id": "1c20f9544786bf7b"
+    },
+    "12a0d130becdfb5f": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/3c0f1911-9fff-46e3-bfed-1fcc0682e7e9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=3c0f1911-9fff-46e3-bfed-1fcc0682e7e9&feed=IFy3imsg&t=podcast&e=nx-s1-6002938&p=510325&d=492&size=7876109",
+      "title": "How did political campaigns get so expensive?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-15T14:34:34.212913+00:00",
+      "episode_id": "12a0d130becdfb5f"
+    },
+    "247a84e884749a59": {
+      "url": "https://www.buzzsprout.com/1825833/episodes/19966309-the-ccp-prepares-for-the-fifth-plenum-with-alexander-davey.mp3",
+      "title": "The CCP prepares for the Fifth Plenum, with Alexander Davey",
+      "feed": "MERICS China Podcast",
+      "processed": "2026-10-15T14:35:49.883104+00:00",
+      "episode_id": "247a84e884749a59"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-15T05:17:09.831016+00:00"
+  "last_updated": "2026-10-15T14:35:49.883154+00:00"
 }
