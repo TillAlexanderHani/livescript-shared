@@ -18451,8 +18451,22 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-10-14T21:08:57.958990+00:00",
       "episode_id": "6a7cf2f9e196c32a"
+    },
+    "fd15ce87cafc94d3": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
+      "title": "Wanna slow down AI? These biologists can help.",
+      "feed": "Planet Money",
+      "processed": "2026-10-15T00:13:10.635215+00:00",
+      "episode_id": "fd15ce87cafc94d3"
+    },
+    "21bedf8daad89f5e": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/9882572c-1a86-4977-90c1-dcbaba3daf1b/group-item/d17c9052-1141-41cf-8291-4a0b24770192/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "HC Group's Q3 Market Review Ready to Download",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-10-15T00:14:11.366993+00:00",
+      "episode_id": "21bedf8daad89f5e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-14T21:08:57.959032+00:00"
+  "last_updated": "2026-10-15T00:14:11.367037+00:00"
 }
