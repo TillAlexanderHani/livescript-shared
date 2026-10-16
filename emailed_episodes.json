@@ -18549,8 +18549,43 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-10-16T05:19:10.945054+00:00",
       "episode_id": "e231135cb27c9b61"
+    },
+    "c8d7cc07e30b622c": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1008_Serrala_Stablecoin.mp3?dest-id=1534493",
+      "title": "What Has Stablecoin Ever Done For Us?",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-10-16T14:20:11.688120+00:00",
+      "episode_id": "c8d7cc07e30b622c"
+    },
+    "cff75d13923690b3": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV7081549916.mp3",
+      "title": "AI Bubble Popping Or A Boring Pullback?",
+      "feed": "Macro Trading Floor",
+      "processed": "2026-10-16T14:31:58.055148+00:00",
+      "episode_id": "cff75d13923690b3"
+    },
+    "5de15655b7e49dfa": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19971434-through-the-noise-staying-defensive-and-diversified.mp3",
+      "title": "Through the noise: Staying defensive and diversified",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-16T14:51:14.860280+00:00",
+      "episode_id": "5de15655b7e49dfa"
+    },
+    "d61eca91e9032a4e": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/dffa7745-568d-4656-a698-e11117f57ce9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=dffa7745-568d-4656-a698-e11117f57ce9&feed=IFy3imsg&t=podcast&e=nx-s1-6004278&p=510325&d=553&size=8856225",
+      "title": "Supercore inflation, Bumble valuation and Pooh's repatriation",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-16T14:53:32.027252+00:00",
+      "episode_id": "d61eca91e9032a4e"
+    },
+    "712d9ca53b2d13d5": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261016_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - A Sticky Situation",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-10-16T14:56:33.452342+00:00",
+      "episode_id": "712d9ca53b2d13d5"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-16T05:19:10.945088+00:00"
+  "last_updated": "2026-10-16T14:56:33.452375+00:00"
 }

@@ -1,4 +1,121 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "What Has Stablecoin Ever Done For Us?",
+      "published": "Fri, 16 Oct 2026 09:54:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1008_Serrala_Stablecoin.mp3?dest-id=1534493",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "provider": "TMI - Treasury Management International",
+      "priority": 2,
+      "tags": [
+        "Stablecoin",
+        "USD",
+        "EUR",
+        "Fiscal",
+        "Regulation",
+        "Cross-border payments",
+        "Digital assets"
+      ],
+      "summary": "**Summary**\nA Treasury Management International piece examines how stablecoins are being integrated into corporate payment systems, driven by new US and EU regulatory frameworks. The content is corporate-treasury operational in nature with no direct EM FX or rates market relevance, though it touches on the broader institutional plumbing of USD- and EUR-denominated payment rails.\n\n**Key points**\n- US Genius Act establishes a regulatory framework favoring stablecoin adoption; the Clarity Act, aiming to modernize sanctions enforcement and create broader digital asset infrastructure rules, remains unapproved.\n- EU has the clearest stablecoin rules via MiCA, though treasury demand there is seen as lower than in the US or APAC.\n- Across APAC, regulatory development is fragmented — Singapore and Hong Kong are ahead, many other markets lag.\n- A Red Compass Labs survey of 300 payments professionals found 72% of banks are planning/building/piloting payment stablecoins, but only 10% have live production capability; 35% cite regulatory uncertainty as the top adoption barrier.\n- JPMorgan and Siemens partnered on a tokenized deposit and programmable payments system for cross-border intercompany payments.\n- Europe's Wero digital wallet (European Payments Initiative) is absorbing Netherlands' iDEAL system, now overseen by the Dutch Central Bank, to enable real-time cross-border retail payments.\n- Cited corporate use case: a client executing ~30 acquisitions annually using stablecoins to speed up establishing banking infrastructure in developing markets.\n\n**FX / rates implications**\n- No direct EM Asia or LATAM FX/rates transmission; this is a corporate payments infrastructure and regulatory story rather than a market-moving macro event.\n- Longer-term, broader stablecoin/tokenized deposit adoption for cross-border payments (e.g., paying Brazil-based suppliers from the US) could marginally affect corporate FX transaction flows and settlement speed, but no quantifiable impact on USD, BRL, or other EM currencies is indicated.\n\n**Watch list**\n- US Clarity Act approval timeline and its provisions on federal/state enforcement powers, stablecoin yields, and banking safeguards.\n- Pace of APAC stablecoin regulatory development beyond Singapore/Hong Kong.\n- Broader institutional adoption metrics as banks move from piloting (72%) toward production (currently only 10%).",
+      "summarized_at": "2026-10-16T14:20:11.688120+00:00"
+    },
+    {
+      "title": "AI Bubble Popping Or A Boring Pullback?",
+      "published": "Fri, 16 Oct 2026 14:19:00 -0000",
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV7081549916.mp3",
+      "feed": "Macro Trading Floor",
+      "provider": "At Any Rate",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Fed",
+        "CPI",
+        "Core PCE",
+        "EUR",
+        "USDCAD",
+        "Credit",
+        "Risk sentiment",
+        "Inflation"
+      ],
+      "summary": "**Summary**\nTwo macro strategists debate whether the AI-capex-driven wobble in Nasdaq and tightening of credit (CoreWeave CDS blowing out, Character.AI bankruptcy, a cancelled Australian data-center IPO) marks the start of a bigger unwind or just a pause in the 'one-legged stool' economy (AI capex → wealth effect → consumer spending → mag-7 earnings). They pivot to the Fed's October meeting, hot CPI/PPI feeding into core PCE, and a sharp divergence between the Fed's own financial conditions index (still accommodative) and the need to tighten further to hit 2% inflation.\n\n**Key points**\n- Bonds have decoupled from oil and started trading like a hedge against equities/Nasdaq (positive carry plus equity-hedge properties) — a new dynamic versus the prior oil-driven regime.\n- Core PCE run-rate calculated at ~0.33% m/m (~3.6% annualized), pushing y/y core PCE toward ~3.1%; nominal core consumer spending grew 6.5% last quarter, strongest since 1996.\n- Market pricing under 5-6bp probability of an October hike despite the hot inflation prints; Fed speakers (incl. Williams) signaled no urgency to hike.\n- Dollar showed a 'good news, bad price' pattern: rallied then fully reversed on strong CPI/PPI, with EUR and CAD snapping back hard; USD positioning flagged as stretched long.\n\n**FX / rates implications**\n- Fed skipping a hike while inflation data firms could reinforce dollar weakness and push the long end of UST higher as the market does the tightening the Fed won't — bearish USD, bearish duration medium-term.\n- EUR seen as constructive near-term; USDCAD bias lower after failing repeatedly at 1.43.\n- 10yr UST yields holding above the 5% pivot (now ~5.10%) seen as key; a weekly close below 5% would challenge the 'rates need to go higher' thesis.\n\n**Watch list**\n- October FOMC decision and guidance.\n- French budget vote (Oct 20) and expected Moody's downgrade of France (Oct 23) — both seen as largely priced in, watch EUR/French spread reaction.\n- UST 10yr yield relative to 5% support/resistance.\n- AI credit stress indicators: CoreWeave CDS/borrowing costs, further AI-linked bankruptcies or stalled IPOs.",
+      "summarized_at": "2026-10-16T14:31:58.055148+00:00"
+    },
+    {
+      "title": "Through the noise: Staying defensive and diversified",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19971434-through-the-noise-staying-defensive-and-diversified.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "UST 10y",
+        "CPI",
+        "Inflation",
+        "S&P 500",
+        "VIX",
+        "France",
+        "Credit",
+        "NZD",
+        "RBNZ",
+        "BoJ",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered's CIO Office explains a shift to defensive equity positioning and diversification, driven by elevated bond yields, narrowing market breadth and pre-midterm political uncertainty, while also covering the US inflation surprise, French fiscal/credit risk, and a technical NZD/USD call — all with indirect but real implications for the Fed path and global risk appetite that feed into EM.\n\n**Key points**\n- NASDAQ 100 posted its largest weekly decline in months after hotter-than-expected September US CPI; still only ~4% off peak, S&P 500 near all-time highs.\n- VIX rose from below 15 to 17.5, short of the 22-30 range typical of broader sell-offs; constructive turn needs NASDAQ -10%, VIX 25-30, and extreme fear on their sentiment gauge.\n- US financials favored post-Q3 earnings (healthy loan/deposit growth, resilient consumer spend, strong M&A pipeline); US healthcare upgraded to overweight for defensive earnings profile; Japanese banks still liked despite BOJ rate-hike-odds volatility.\n- September US headline CPI 3.7% y/y (vs 3.6% consensus), core 2.6% (vs 2.5%), driven by gasoline/diesel and pass-through to autos/transport; market-implied odds of an October Fed hike briefly topped 50% before fading.\n- 10-year UST yield spiked to 5.3% intraday before reversing as equity weakness unwound bearish bond bets; base case is two more hikes by June 2027, with a December move likely if inflation stays firm.\n- France: rating downgrade seen unlikely unless the 2027 budget passes with major changes; first National Assembly vote set for October 20; OAT-Bund spread to stay elevated into presidential-election-year volatility.\n- NZD/USD seen recovering toward 0.57 on improving NZ business confidence (net 40% in Q3 vs 14% in Q2) and a hawkish RBNZ bias ahead of the October 28 decision.\n\n**FX / rates implications**\n- Elevated/sticky US CPI keeps the Fed cautious, limiting near-term UST downside (yields seen ranging 5.0-5.25%, with moves above 5.25% flagged as buying opportunities) — a firm-for-longer Fed/UST backdrop caps EM carry trades and keeps USD support intact near-term.\n- Risk-off equity/VIX dynamics (NASDAQ drawdown, narrowing breadth) are a headwind for EM FX risk appetite broadly until political (US midterms) and inflation clarity improves.\n- NZD/USD technical rebound call toward 0.57 is a read-across for other high-beta/commodity DM and EM currencies sensitive to a stabilizing risk mood, though capped by firm US yields.\n\n**Watch list**\n- French National Assembly first budget vote: October 20.\n- RBNZ policy decision: October 28, following October 22 NZ CPI print.\n- US Fed: October meeting (hike odds faded from brief >50%), with December seen as more likely move if inflation stays firm.\n- NASDAQ 100 drawdown depth and VIX level (25-30 threshold) as triggers for a more constructive equity stance.",
+      "summarized_at": "2026-10-16T14:51:14.860280+00:00"
+    },
+    {
+      "title": "Supercore inflation, Bumble valuation and Pooh's repatriation",
+      "published": "Fri, 16 Oct 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/dffa7745-568d-4656-a698-e11117f57ce9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=dffa7745-568d-4656-a698-e11117f57ce9&feed=IFy3imsg&t=podcast&e=nx-s1-6004278&p=510325&d=553&size=8856225",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 4,
+      "tags": [
+        "CPI",
+        "Inflation",
+        "Fed",
+        "USD",
+        "Wages",
+        "Carry",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nThe episode's core macro content is the September US CPI report, highlighting \"Super Core\" services inflation (ex-housing, ex-energy, ex-goods services like healthcare, legal, and personal care) running at a 4.6% annualized rate over the past three months, even as headline CPI rose to 3.7% y/y for a second consecutive month. This is a key input for Fed policy expectations and thus for the dollar and UST yield path that drives EM FX and rates. The rest of the episode covers Bumble's $100%+ stock surge on a take-private buyout bid and a pop-culture segment on Winnie the Pooh's repatriation debate, both market-adjacent but not macro-relevant.\n\n**Key points**\n- Headline CPI came in at 3.7% y/y in September, the second straight monthly increase.\n- Super Core services inflation (manicurists, landscapers, healthcare, legal services) is running at a 4.6% annualized pace over the trailing three months, a proxy for wage-driven inflation since these prices adjust faster than housing costs.\n- Wages have risen only about 3% y/y over the past year, lagging the 4.6% Super Core rate — a sign firms may be passing labor costs to consumers faster than wages catch up.\n- Separately, Bumble is being taken private by Ithaca Holdings (founded by former Meta/Instacart executives) at more than double its prior share price, with stock up 119% since the company's troubles were last discussed.\n\n**FX / rates implications**\n- Sticky Super Core services inflation running well above wage growth reinforces a \"disinflation is stalling\" narrative that could push the Fed toward a more cautious/hawkish rate path, supporting USD and UST yields near-term — a headwind for EM Asia and LATAM carry trades (INR, IDR, MXN, BRL) that benefit from a dovish Fed and softer DXY.\n- A slower pace of Fed cuts driven by firm services inflation would widen the US rate advantage, pressuring EM local-currency bonds and increasing hedging costs for EM FX carry positions.\n\n**Watch list**\n- Upcoming CPI prints and wage growth data for confirmation of whether Super Core inflation persists above the 4.6% pace, which would firm up market pricing for a slower/shallower Fed cutting cycle.\n- Fed commentary reacting to the September CPI composition (goods vs. services vs. Super Core) ahead of the next FOMC decision.",
+      "summarized_at": "2026-10-16T14:53:32.027252+00:00"
+    },
+    {
+      "title": "The Week Ahead - A Sticky Situation",
+      "published": "Fri, 16 Oct 2026 12:38:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261016_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "feed": "Nomura - The Week Ahead",
+      "provider": "Nomura",
+      "priority": 5,
+      "tags": [
+        "IDR",
+        "PHP",
+        "KRW",
+        "BI",
+        "BSP",
+        "BoK",
+        "CNY",
+        "USD",
+        "Fed",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Trade",
+        "Tariffs",
+        "EUR",
+        "GBP",
+        "BoE",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nNomura's Week Ahead covers US sticky inflation and Fed path, UK/France data and fiscal risk, China Q3 GDP and EU-China trade de-escalation, plus a packed EM Asia central bank calendar (Indonesia, Philippines, Korea) — all directly relevant to EM Asia positioning.\n\n**Key points**\n- US core PCE tracking revised up to ~31-32bp from ~20bp pre-data; CPI beat driven by rent and tech-sensitive core goods (AI/memory-chip related), raising concerns inflation persistence isn't transitory.\n- Fed (Chair Kevin Warsh commentary) expected to hold in October despite hot inflation; terminal rate expectations likely to drift higher; some hawkish dissent possible.\n- AI-trade credit spread widening flagged (NASDAQ ~5% off highs) as an emerging risk that could eventually tip the Fed toward cuts if contagion spreads into broader credit markets — not yet at that threshold.\n- UK growth resilient (strongest in G7 H1); UK CPI expected to jump from 3.1% to 3.5% on energy/fuel; labor market data due, wage growth key for BoE.\n- France budget vote (20 Oct) faces gridlock; yields already worst among DM this year; deficit target of 3% in three years seen as very difficult.\n- China Q3 GDP forecast at 4.3% y/y (below consensus 4.4%); EU-China trade truce includes halving EV tariff exposure and rare-earth/magnet export relaxation, but called a short-term reprieve, not structural fix; China's EU trade surplus hit record $35bn monthly.\n- Indonesia: BI expected to hike 25bp to 6% on 21 Oct amid IDR pressure and equity market stress (MSCI status issue).\n- Philippines: BSP expected to hike 25bp to 5.25% (4th straight hike) on sticky, above-target inflation.\n- Korea: BoK expected to pause at 3%, assessing resilient export-led growth.\n\n**FX / rates implications**\n- IDR: BI hike to 6% signals financial-stability-driven tightening; watch for currency stabilization vs continued outflow pressure.\n- PHP: fourth consecutive BSP hike to 5.25% underscores persistent inflation risk, supportive of PHP carry but signals inflation overshoot.\n- KRW: BoK pause keeps policy steady; resilient exports support growth narrative.\n- USD/Fed: sticky inflation plus AI-related credit stress creates two-sided risk — hawkish on data, potentially dovish if AI contagion spreads; DXY path hinges on credit market signals.\n- CNY: trade truce reduces near-term EU tariff escalation risk but structural imbalance unresolved — limited durable CNY support.\n- EUR/GBP: France fiscal risk a yield widener; UK CPI jump to 3.5% could pressure BoE hawkish repricing.\n\n**Watch list**\n- Indonesia BI decision 21 Oct (expect +25bp to 6%).\n- Philippines BSP decision, Korea BoK decision next week.\n- China Q3 GDP and September activity data, Monday.\n- French budget vote 20 Oct; EU Council meeting ongoing.\n- UK CPI and labor market data next week.\n- Fed Chair Warsh/FOMC commentary ahead of October meeting.",
+      "summarized_at": "2026-10-16T14:56:33.452342+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-16"
 }
