@@ -18619,8 +18619,22 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-10-16T18:21:42.302153+00:00",
       "episode_id": "9b46b92ded43481d"
+    },
+    "5bd0d10287e56aed": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/782e43e3-7bdd-40dd-8796-07081b690056/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=782e43e3-7bdd-40dd-8796-07081b690056&feed=tc4zxWgX",
+      "title": "Flying Cars, Deep Value in Korea, and Tech on Deck 10/16/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-16T20:25:04.556836+00:00",
+      "episode_id": "5bd0d10287e56aed"
+    },
+    "4b031a040e4c76d4": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_EDMANS_.mp3?dest-id=1929056",
+      "title": "Ep. 380: Alex Edmans on Market Bubbles, Investor Biases, and the Madness of Markets",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-10-16T20:39:23.535502+00:00",
+      "episode_id": "4b031a040e4c76d4"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-16T18:21:42.302188+00:00"
+  "last_updated": "2026-10-16T20:39:23.535543+00:00"
 }
