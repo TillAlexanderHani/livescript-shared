@@ -18535,8 +18535,22 @@
       "feed": "Thoughts on the Market",
       "processed": "2026-10-15T23:56:40.349053+00:00",
       "episode_id": "e4f75f3df0676677"
+    },
+    "b973d7045a5e9a38": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/097cfb60-bbca-42f4-8f21-bfc0007b2190/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=097cfb60-bbca-42f4-8f21-bfc0007b2190&feed=tc4zxWgX",
+      "title": "Risk off, Rate Reprieve and a new OpenAI Lawsuit 10/15/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-16T05:08:11.587653+00:00",
+      "episode_id": "b973d7045a5e9a38"
+    },
+    "e231135cb27c9b61": {
+      "url": "https://traffic.megaphone.fm/BLM3176614255.mp3",
+      "title": "FX Moment: Structural Yuan Bull Run vs Unsolved Yen Bull Puzzle",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-10-16T05:19:10.945054+00:00",
+      "episode_id": "e231135cb27c9b61"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-15T23:56:40.349098+00:00"
+  "last_updated": "2026-10-16T05:19:10.945088+00:00"
 }
