@@ -18675,8 +18675,29 @@
       "feed": "The GlobalCapital Podcast",
       "processed": "2026-10-17T05:15:08.336694+00:00",
       "episode_id": "74e3dbd426cd982b"
+    },
+    "8cddfa4da35cb114": {
+      "url": "https://mcdn.podbean.com/mf/web/mjkm6mkn4s2c52qk/Podcast_10-16-26.mp3",
+      "title": "Cocoa & chocolate market: Supply, grindings, & Halloween sales",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-10-17T13:18:19.613705+00:00",
+      "episode_id": "8cddfa4da35cb114"
+    },
+    "547dd94fbc093674": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/80a8c551-836d-45b7-9004-b4e600024717/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-17T13:22:40.511769+00:00",
+      "episode_id": "547dd94fbc093674"
+    },
+    "1f71a68d90c66a27": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC1053630735.mp3",
+      "title": "The AI Investment Boom Goes Beyond America",
+      "feed": "PIMCO Pod",
+      "processed": "2026-10-17T13:27:09.908024+00:00",
+      "episode_id": "1f71a68d90c66a27"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-17T05:15:08.336727+00:00"
+  "last_updated": "2026-10-17T13:27:09.908065+00:00"
 }
