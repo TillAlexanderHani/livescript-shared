@@ -244,6 +244,70 @@
       ],
       "summary": "**Summary**\nA sharp AI/semiconductor selloff dominated US and Korean equity markets this week, with knock-on effects for credit spreads, the 10-year Treasury yield and crude prices that matter for broader risk sentiment and EM positioning.\n\n**Key points**\n- Nasdaq down 3% this week (worst since July), SOX semi ETF down for 9 straight sessions (longest losing streak in two decades), DRAM -4%; CoreWeave below 62 with concerns over its unsecured debt and hyperscalers borrowing at 5.2-6.2%.\n- Korea's Kospi fell over 14% this week, its worst since 2008, as Samsung/SK Hynix (>50% of index) sold off; iShares Korea ETF down 11%. A guest argues ex-chip Korean value stocks are deeply cheap (cheapest quintile at 8x earnings vs 16x in US), aided by a 2024 \"value-up\" corporate governance reform program modeled on Japan's 2023 reforms.\n- US 10-year yield swung 25bp this week, settling near 5.12% (up a couple bp today); oil (WTI/Brent) saw upward pressure Friday afternoon, helping shift market tone.\n- SpaceX stock down 11% this week despite Evercore raising its target to 275 from 145; concerns that its aggressive capex ($18-25bn) versus modest revenue ($13bn) could pressure debt markets amid rising rates for AI-related credit.\n- Tesla down 3% today, -21% YTD, the only Mag7 stock in the red in 2026, despite the new Roadster unveil.\n\n**FX / rates implications**\n- AI-driven de-risking is pulling UST yields lower intraweek (25bp swing), a dynamic any EM rates desk should track as a risk-off/risk-on swing factor for carry trades.\n- Korea's equity rout (Kospi -14%) and KRW-sensitive chip names are a read on broader Asian tech-exporter sentiment (relevant cross-currency context for TWD, as Taiwan's chip exposure parallels Korea's).\n- Rising oil prices (WTI/Brent firming Friday) are a modest tailwind for commodity-linked EM currencies (MXN, COP, BRL) if sustained, though the move was described as modest/early-stage.\n- AI-credit stress (CoreWeave, SpaceX capex-vs-revenue gap) signals potential tightening in corporate credit spreads that could spill into EM corporate and sovereign credit if it broadens.\n\n**Watch list**\n- Next week's earnings: Tesla/SpaceX Wednesday, Netflix, Meta — all will move risk sentiment and potentially UST yields further.\n- Continued SOX/semiconductor losing streak and any stabilization in Kospi as a signal for Asian tech-FX sentiment.\n- Crude oil follow-through (WTI/Brent) into next week for commodity-FX implications.",
       "summarized_at": "2026-10-16T20:25:04.556836+00:00"
+    },
+    {
+      "title": "Bond yields vs AI",
+      "published": "Fri, 16 Oct 2026 07:25:08 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6ad1d15c7ce338e8cdf08f00/media.mp3",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "UST 10y",
+        "Fed",
+        "DXY",
+        "S&P 500",
+        "Risk sentiment",
+        "Inflation",
+        "Fiscal",
+        "BRL",
+        "Carry"
+      ],
+      "summary": "**Summary**\nHSBC's Ryan Wang (US economist) and Alistair Pinder (global equity strategist) discuss why US Treasury yields have pushed above 5% — multi-decade highs — and what that means for the US economy and global equities. The topic matters for EM traders as US rate levels and the dollar backdrop are the dominant transmission channel into EM FX and local rates markets.\n\n**Key points**\n- UST 10yr yield is above 5%, highest in decades; mortgage rates over 7%.\n- Drivers: resilient US GDP growth (~2% real this year), sticky inflation, Fed hiking to control it, surging AI-related investment demand, and large fiscal deficits (~$2tn/6% of GDP for FY2026).\n- Hyperscalers issued ~$250bn in debt this year, adding to competition for investable capital alongside government borrowing.\n- S&P 500 near all-time highs but forward P/E down ~18% this year; 30-40% of constituents de-rated >20%; earnings growth (20-30% y/y) has offset valuation compression.\n- EM equity earnings growth in Q2 ran ~60% (AI-driven), ~25% ex-tech.\n- Large caps have 80% fixed debt and low leverage (low rate sensitivity); Russell 2000 small caps have ~50% floating debt, higher leverage, 40% with negative earnings — down ~10% since August.\n- Brazil bond yields at 14% yet equities still rallying — high yields alone don't break equities; the speed of yield moves matters more.\n- K-shaped US consumer: high-income households/brands resilient, low-to-middle income households strained by elevated inflation and rates.\n\n**FX / rates implications**\n- Persistently high UST yields and a resilient US economy support a firmer-for-longer USD/DXY backdrop, a headwind for EM Asia and LATAM carry trades.\n- Speed/pace of UST yield moves, not absolute level, is the key risk signal for EM risk sentiment and capital flows — rapid repricing (as seen recently) pressures risk-sensitive EM assets more than high-but-stable yields.\n- Brazil (BRL) cited explicitly as resilient despite 14% yields — a reference point for high-carry EM assets holding up amid US rate volatility.\n- Large fiscal deficits and hyperscaler debt issuance keep term premium/supply pressure on USTs, a structural drag relevant to EM external financing costs.\n\n**Watch list**\n- US labor market/unemployment rate (~4%) — a deterioration would shift Fed focus and rate path.\n- Q3/Q4 US earnings season — has been the key equity catalyst since 2025 (S&P +4% during earnings seasons vs ~0% outside).\n- Anthropic's expected IPO later this year — will test AI capex profitability narrative and investor appetite.\n- Further UST 10yr yield trajectory above 5% and any acceleration in the pace of moves.",
+      "summarized_at": "2026-10-17T00:03:26.416478+00:00"
+    },
+    {
+      "title": "AI Boom Faces a Higher-Yield Roadblock",
+      "published": "Fri, 16 Oct 2026 21:00:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/496e3b3c-f220-4c1c-ba01-afe26600d1e0.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 3,
+      "tags": [
+        "UST 5y",
+        "Credit",
+        "Credit spreads",
+        "ABS",
+        "CMBS",
+        "Rates",
+        "Fed",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMorgan Stanley strategists flag that rising US borrowing costs are becoming a headwind for AI-driven data center financing, a fast-growing corner of the securitized credit market. Five-year Treasury yields are up over 100bp since January 2026, pushing data center ABS/CMBS yields from below 5% to near 7%, squeezing issuance even as demand for AI compute capacity surges.\n\n**Key points**\n- Data center operators have issued ~$15bn in ABS and ~$7bn in CMBS so far in 2026, roughly flat vs last year but below what AI-driven demand growth would imply.\n- Rental income on these bonds is locked in via long-term leases signed before financing is sought, so revenue doesn't rise with borrowing costs — a structural mismatch.\n- Issuance becomes significantly harder once borrowing costs approach 8%.\n- US data center power capacity is forecast to grow from ~60GW today to 150GW by 2028, though power constraints could leave actual capacity 30-40% below projections.\n- MS trimmed 2026-27 securitized issuance forecasts but held 2028 steady; total supply over the next few years now seen at $120-150bn.\n- Collocation data centers (multi-tenant, shorter leases) are preferred over hyperscaler campuses given ability to quickly re-price amid rising rents and ~1% vacancy.\n\n**FX / rates implications**\n- Rising US 5y Treasury yields and wider credit spreads reflect a broader tightening in US financial conditions that typically pressures DXY higher and EM carry trades, a headline-level read-through for EM FX/rates even though this episode is US-credit-specific.\n- Sustained higher UST yields raise the bar for EM local-currency bonds and widen EM credit spreads via the global risk-free rate channel.\n\n**Watch list**\n- Whether 5y UST yields stabilize or continue climbing toward levels that push data center borrowing costs through the 8% issuance-impairment threshold.\n- 2028 data center capacity build-out ($120-150bn supply) as a gauge of sustained AI capex and associated credit issuance volumes.",
+      "summarized_at": "2026-10-17T00:04:20.961009+00:00"
+    },
+    {
+      "title": "China's future: Deflation, Trade Tensions and Alternative Scenarios",
+      "published": "Fri, 16 Oct 2026 12:47:22 +0100",
+      "url": "https://media.transistor.fm/616f4f3a/a256d53b.mp3",
+      "feed": "Capital Economics Weekly Briefing",
+      "provider": "Capital Economics",
+      "priority": 4,
+      "tags": [
+        "CNY",
+        "China",
+        "Trade",
+        "Tariffs",
+        "Deflation",
+        "CPI",
+        "Oil",
+        "Brent",
+        "Risk sentiment",
+        "Rare earths"
+      ],
+      "summary": "**Summary**\nCapital Economics' Julian Evans-Pritchard and Fathom Consulting's Eric Burton (chief economist) discuss China's economic trajectory and launch a new joint scenarios service layering Fathom's macro models around Capital Economics' China baseline. The core theme: China's domestic demand is structurally weak while exports remain the key growth engine, with deflation risk persisting — directly relevant to commodity demand, global trade flows and EM supply chains tied to China.\n\n**Key points**\n- China's domestic demand (investment and consumption) remains weak; the property downturn continues with large housing oversupply still to be absorbed over several more years, keeping prices falling and savings rates high.\n- September trade data were very strong; exports act as an \"escape valve\" for domestic overcapacity, with tariffs from the US and EU reducing bilateral trade but not China's overall surplus.\n- China Activity Proxy growth is ~3% now, forecast to slow gradually to ~2% by end of decade, driven increasingly by industry as construction contracts and services soften.\n- Underlying inflation (core CPI, services) stays very low; recent pickup is cost-push from the Iran/Middle East conflict, not demand-driven — outright deflation avoided but inflation to hover near zero.\n- China's current account surplus is near a record share of global GDP and forecast to widen further, a non-consensus call versus peers expecting it to shrink.\n- New scenario service outlines six paths: central case, a China-triumphant tech/export upside, a coordinated West-China decoupling downside, an AI-boom boost, and an oil-shock scenario (Strait of Hormuz blockade, Brent to $130-150) that would push China into short-term recession.\n\n**FX / rates implications**\n- Persistent Chinese export dumping and a widening surplus signal continued disinflationary pressure globally, reinforcing soft commodity demand (copper, iron ore) relevant to CLP, PEN, BRL and AUD-linked trades.\n- Escalating US/EU-China trade tension is a tail risk for broad EM Asia FX (CNY, KRW, TWD) via supply-chain and tariff spillovers.\n- An oil-shock scenario (Brent $130-150) would be a major risk-off catalyst for EM FX broadly and a headwind for oil-importing Asia (INR, IDR, PHP, KRW).\n\n**Watch list**\n- EU-China EV/hybrid trade negotiations and any further bilateral tariff actions.\n- Iran/Middle East conflict trajectory and oil price response given China's depleted inventories.\n- China's trade surplus and CPI/PPI data for confirmation of the widening-surplus, near-zero-inflation thesis.",
+      "summarized_at": "2026-10-17T00:26:07.338592+00:00"
     }
   ],
   "last_digest_date": "2026-10-16"

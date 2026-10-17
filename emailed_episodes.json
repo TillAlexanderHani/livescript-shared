@@ -18633,8 +18633,36 @@
       "feed": "Macro Hive Conversations",
       "processed": "2026-10-16T20:39:23.535502+00:00",
       "episode_id": "4b031a040e4c76d4"
+    },
+    "0e5c873c32f9411f": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6ad1d15c7ce338e8cdf08f00/media.mp3",
+      "title": "Bond yields vs AI",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-10-17T00:03:26.416478+00:00",
+      "episode_id": "0e5c873c32f9411f"
+    },
+    "c5a01cdf8251ad01": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/496e3b3c-f220-4c1c-ba01-afe26600d1e0.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "AI Boom Faces a Higher-Yield Roadblock",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-10-17T00:04:20.961009+00:00",
+      "episode_id": "c5a01cdf8251ad01"
+    },
+    "cf597e5788e37996": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911",
+      "title": "Anatomy of a movie market",
+      "feed": "Planet Money",
+      "processed": "2026-10-17T00:19:29.089479+00:00",
+      "episode_id": "cf597e5788e37996"
+    },
+    "cde23b87da5bd9b0": {
+      "url": "https://media.transistor.fm/616f4f3a/a256d53b.mp3",
+      "title": "China's future: Deflation, Trade Tensions and Alternative Scenarios",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-10-17T00:26:07.338592+00:00",
+      "episode_id": "cde23b87da5bd9b0"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-16T20:39:23.535543+00:00"
+  "last_updated": "2026-10-17T00:26:07.338639+00:00"
 }
