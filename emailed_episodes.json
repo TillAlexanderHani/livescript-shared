@@ -18661,8 +18661,22 @@
       "feed": "Capital Economics Weekly Briefing",
       "processed": "2026-10-17T00:26:07.338592+00:00",
       "episode_id": "cde23b87da5bd9b0"
+    },
+    "3e464e740b1c6f85": {
+      "url": "https://mcdn.podbean.com/mf/web/4jjymbmdb3eqpa4s/10162026_MMTVuse.mp3",
+      "title": "Global Data Pod Weekender: Knowing where you are",
+      "feed": "Global Data Pod",
+      "processed": "2026-10-17T05:09:59.078806+00:00",
+      "episode_id": "3e464e740b1c6f85"
+    },
+    "74e3dbd426cd982b": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/19969969-the-best-from-bangkok.mp3",
+      "title": "The best from Bangkok",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-10-17T05:15:08.336694+00:00",
+      "episode_id": "74e3dbd426cd982b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-17T00:26:07.338639+00:00"
+  "last_updated": "2026-10-17T05:15:08.336727+00:00"
 }
