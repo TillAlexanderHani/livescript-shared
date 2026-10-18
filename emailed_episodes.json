@@ -18703,8 +18703,15 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-10-17T16:49:56.926720+00:00",
       "episode_id": "8efd3ee7439d0ea0"
+    },
+    "6238fd17420e77f5": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/c20dabd9-d511-4a35-bb3f-f7932e6955f6/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=c20dabd9-d511-4a35-bb3f-f7932e6955f6&feed=IFy3imsg&t=podcast&e=nx-s1-6006805&p=510325&d=148&size=2384126",
+      "title": "Will AI take my job? Ask an economist!",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-18T13:41:18.516118+00:00",
+      "episode_id": "6238fd17420e77f5"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-17T16:49:56.926759+00:00"
+  "last_updated": "2026-10-18T13:41:18.516152+00:00"
 }
