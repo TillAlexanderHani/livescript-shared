@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! What should investors make of the US mid-term elections?",
+      "published": "Mon, 19 Oct 2026 08:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/19981336-cut-to-the-chase-what-should-investors-make-of-the-us-mid-term-elections.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "Elections",
+        "S&P 500",
+        "VIX",
+        "Oil",
+        "Inflation",
+        "Earnings",
+        "Risk sentiment",
+        "Geopolitics"
+      ],
+      "summary": "**Summary**\nUS midterm elections on 3 November are two weeks away, with prediction markets (Polymarket) pointing to a Democratic clean sweep. Standard Chartered argues the near-term market impact is volatility risk, while the medium-term equity impact is likely limited regardless of outcome, making this more a political/geopolitical risk marker than a direct EM rates driver.\n\n**Key points**\n- Polymarket gives Democrats a 91% chance of winning the House and 64% of the Senate, which would be a clean sweep; historically the president's party has kept both chambers only twice in 50 years (1978, 2002).\n- Driver of the swing: high gasoline prices and inflation tied to the Iran conflict, which have hurt real incomes and pushed US mortgage rates above 7%.\n- Even a Democratic sweep leaves the presidential veto and the Senate filibuster (Republicans likely retain at least 40 seats) intact, making major tax, regulation or climate legislation unlikely over the next two years.\n- VIX typically peaks about a month before election day and falls afterward; Q3 earnings season (consensus >30% growth, driven by oil/energy and AI/tech) is seen as a bigger near-term market determinant than the election itself.\n- Historically, US equities rally after midterms regardless of outcome: S&P 500 +16.2% on average over 12 months, with an opposition clean sweep (the favoured scenario) historically best at +17.2%, versus +15.4% (divided government) and +14.7% (presidents party retains majority).\n\n**FX / rates implications**\n- Primary transmission channel for EM is oil: any late-October escalation in the Middle East/Iran conflict ahead of the election could push oil prices higher, a risk factor for oil-importing EM Asia currencies (INR, PHP) versus oil exporters (COP, MXN to a lesser extent).\n- Broader risk sentiment/VIX dynamics (peak-before-election, fade-after) are a generic signal for EM carry trades and risk-on flows into EM Asia/LATAM FX.\n- Note: episode does not address the Fed, USD/DXY or UST yields directly, so direct EM FX/rates read-through is limited to the oil and risk-sentiment channels.\n\n**Watch list**\n- 3 November: US midterm elections and Senate battleground results.\n- Q3 earnings season acceleration over the next two weeks, particularly tech/AI monetization commentary and earnings breadth beyond tech.\n- Any late-October Middle East/Iran escalation that could spike oil prices into election day.\n- Market pricing of less business-friendly policy risk is not expected until late 2027/early 2028.",
+      "summarized_at": "2026-10-19T05:23:58.299730+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-19"
 }
