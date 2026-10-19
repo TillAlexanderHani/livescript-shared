@@ -18731,8 +18731,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-10-19T16:46:34.462638+00:00",
       "episode_id": "8511fcb1111e0259"
+    },
+    "951c76bb6fd8bea0": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/414f2afd-d143-439f-8042-725ff782bbd5/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=414f2afd-d143-439f-8042-725ff782bbd5&feed=tc4zxWgX",
+      "title": "Bull Case for Coreweave, Putin Suggests Summit, and the Read on Retail 10/19/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-19T19:36:54.046651+00:00",
+      "episode_id": "951c76bb6fd8bea0"
+    },
+    "5c993ba757e0a96f": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC1572515847.mp3",
+      "title": "The Credit Market Lens: Improved Optics But Unchanged Economics in Software Loans",
+      "feed": "PIMCO Pod",
+      "processed": "2026-10-19T19:44:58.949961+00:00",
+      "episode_id": "5c993ba757e0a96f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-19T16:46:34.462671+00:00"
+  "last_updated": "2026-10-19T19:44:58.950003+00:00"
 }
