@@ -18801,8 +18801,22 @@
       "feed": "Thoughts on the Market",
       "processed": "2026-10-21T00:13:01.939471+00:00",
       "episode_id": "bdfea5d469063e22"
+    },
+    "e3b033c666bb391c": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6ad756fa10faf2bcfcce7cf0/media.mp3",
+      "title": "The French Revolution's disastrous money experiment - Part 2",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-10-21T05:32:52.767296+00:00",
+      "episode_id": "e3b033c666bb391c"
+    },
+    "13dc306df7378129": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/32688ea9-4cbb-4bb4-8b3c-b4e8018899f5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-21T05:40:41.601746+00:00",
+      "episode_id": "13dc306df7378129"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-21T00:13:01.939514+00:00"
+  "last_updated": "2026-10-21T05:40:41.601788+00:00"
 }
