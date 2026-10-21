@@ -18815,8 +18815,50 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-10-21T05:40:41.601746+00:00",
       "episode_id": "13dc306df7378129"
+    },
+    "06b18b947f1ae46c": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/19989322-falkland-islands-malvinas-oil-sovereignty-and-rising-tensions.mp3",
+      "title": "Falkland Islands / Malvinas: Oil, Sovereignty and Rising Tensions",
+      "feed": "Horizontes de Latinoamérica (S&P Global)",
+      "processed": "2026-10-21T14:53:12.249509+00:00",
+      "episode_id": "06b18b947f1ae46c"
+    },
+    "432606162fa3ec40": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698",
+      "title": "We try to fix election polling (update)",
+      "feed": "Planet Money",
+      "processed": "2026-10-21T14:57:57.160614+00:00",
+      "episode_id": "432606162fa3ec40"
+    },
+    "f747ff4b1e3c02d6": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/37177cbc-17c8-4339-b063-702937804a70/group-item/bd7ad2a1-c939-4724-9620-a0fa7c5c46e1/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Hormuz and the Accelerated Rise of Electrotech with Daan Walter",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-10-21T15:05:06.919024+00:00",
+      "episode_id": "f747ff4b1e3c02d6"
+    },
+    "165336cd49ffb3b7": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/fc8d0d2b-9eb1-4ed2-bdfb-b4e9015241dc/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "James Robinson on What It Looks Like When a State is Failing",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-21T15:10:49.156606+00:00",
+      "episode_id": "165336cd49ffb3b7"
+    },
+    "63b4bba710c81608": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/19995432-cut-to-the-chase-private-credit-noise-or-warning-signal.mp3",
+      "title": "Cut to the Chase! Private credit: Noise or warning signal?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-21T15:11:50.224058+00:00",
+      "episode_id": "63b4bba710c81608"
+    },
+    "cf8afe7e8f8d8206": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/bbaa0292-09cd-4d6f-bcfe-680ed9876cb4/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=bbaa0292-09cd-4d6f-bcfe-680ed9876cb4&feed=IFy3imsg&t=podcast&e=nx-s1-6009421&p=510325&d=562&size=9005854",
+      "title": "The case for sharing your salary",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-21T15:13:27.364263+00:00",
+      "episode_id": "cf8afe7e8f8d8206"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-21T05:40:41.601788+00:00"
+  "last_updated": "2026-10-21T15:13:27.364304+00:00"
 }
