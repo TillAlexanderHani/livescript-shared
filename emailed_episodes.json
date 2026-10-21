@@ -18857,8 +18857,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-10-21T15:13:27.364263+00:00",
       "episode_id": "cf8afe7e8f8d8206"
+    },
+    "bd46fe44c77f7789": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Laos.mp3?dest-id=4287628",
+      "title": "Why China's New Military Facility in Laos Matters",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-10-21T18:26:43.699620+00:00",
+      "episode_id": "bd46fe44c77f7789"
+    },
+    "f8c164ffc246b15a": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH3154404437.mp3",
+      "title": "Prediction markets and social good: an interview with Kalshi's CEO",
+      "feed": "Reuters Econ World",
+      "processed": "2026-10-21T18:35:57.700614+00:00",
+      "episode_id": "f8c164ffc246b15a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-21T15:13:27.364304+00:00"
+  "last_updated": "2026-10-21T18:35:57.700670+00:00"
 }
