@@ -18934,8 +18934,29 @@
       "feed": "IMF Podcasts",
       "processed": "2026-10-22T18:30:52.097981+00:00",
       "episode_id": "e8d2d7ac245958a4"
+    },
+    "815d1a1a29ff6428": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/1473fdea-a2ce-4edb-87eb-781b5a6c67bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=1473fdea-a2ce-4edb-87eb-781b5a6c67bd&feed=tc4zxWgX",
+      "title": "Capital Concerns Hammer the AI Trade 10/22/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-22T21:01:28.730447+00:00",
+      "episode_id": "815d1a1a29ff6428"
+    },
+    "2e725196fbb277be": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/ij3485k75mubkijz/Macrovoices-2026-10-22-Anas_Alhaji.mp3",
+      "title": "MacroVoices #554 Dr. Anas Alhajji + Louis-Vincent Gave: Developing Crises in Middle-East and France",
+      "feed": "Macro Voices",
+      "processed": "2026-10-22T21:15:00.079385+00:00",
+      "episode_id": "2e725196fbb277be"
+    },
+    "57797dac7b5e834d": {
+      "url": "https://traffic.megaphone.fm/BLM1567146436.mp3",
+      "title": "Macro Matters: Buckler’s Lazar on Repo, Clearing and the Fed",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-10-22T21:19:01.630944+00:00",
+      "episode_id": "57797dac7b5e834d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-22T18:30:52.098039+00:00"
+  "last_updated": "2026-10-22T21:19:01.630990+00:00"
 }
