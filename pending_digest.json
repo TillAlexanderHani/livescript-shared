@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "What does 'made in China' mean today?",
+      "published": "Thu, 22 Oct 2026 07:13:59 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6ad9b7bc23f48c4f245c3a62/media.mp3",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 2,
+      "tags": [
+        "CNY",
+        "China",
+        "Trade",
+        "Tariffs",
+        "Supply chains",
+        "Semiconductors",
+        "ASEAN",
+        "VND",
+        "JPY",
+        "KRW"
+      ],
+      "summary": "**Summary**\nHSBC's Under the Banyan Tree podcast examines China's industrial upgrading since the 2015 \"Made in China 2025\" plan, arguing US tech export controls inadvertently spurred Chinese self-sufficiency rather than derailing it. For an EM trader this matters mostly as a structural backdrop for Asian trade/supply-chain dynamics rather than a near-term FX catalyst.\n\n**Key points**\n- China's semiconductor self-sufficiency rose from ~15% (2015) to ~25% today, though leading-edge chips remain import-reliant.\n- China has become a net exporter in autos (especially EVs), high-speed rail, solar panels, drones and robotics; commercial aircraft remains import-dependent.\n- China is shifting from \"world's factory floor\" (final assembly) to \"world's factory for factories,\" exporting intermediate components and equipment (e.g., battery and solar tech) to trading partners.\n- Export market share losses are concentrated in advanced economies: Japan and Germany have already lost share in machine tools, autos and steelmaking; South Korea has held up so far (helped by AI-driven memory chip demand) but faces longer-term pressure in memory semiconductors.\n- ASEAN, particularly Vietnam, is flagged as the main beneficiary as China's final-assembly activity relocates outward; Vietnam's export complexity has improved the most in Asia over the past decade due to deep integration with China, Korea and Japan supply chains.\n\n**FX / rates implications**\n- Structural tailwind for VND and broader ASEAN FX (manufacturing/FDI inflows, export diversification) versus structural competitive pressure on JPY- and KRW-linked trade sectors (autos, machine tools, memory semis).\n- Reinforces China's state-directed push up the value chain as a persistent theme for CNY/CNH policy and export competitiveness narratives, relevant to broader Asia FX positioning.\n- No direct near-term rates or central-bank policy signal.\n\n**Watch list**\n- Trajectory of China's semiconductor self-sufficiency rate and any escalation/easing of US export controls.\n- Korea's memory-chip competitiveness versus China as a swing factor for KRW trade balance.\n- Continued Chinese outbound investment flows into Vietnam/ASEAN as a gauge of supply-chain relocation.",
+      "summarized_at": "2026-10-22T14:49:13.165407+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-22"
 }

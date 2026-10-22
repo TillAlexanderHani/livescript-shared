@@ -18892,8 +18892,36 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-10-22T05:26:42.806707+00:00",
       "episode_id": "1ed1e319bda73501"
+    },
+    "3cce06c13c84babf": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_1015_SG_Bourgier.mp3?dest-id=1534493",
+      "title": "Back to ACK",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-10-22T14:47:34.760556+00:00",
+      "episode_id": "3cce06c13c84babf"
+    },
+    "041641011c57f2ad": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6ad9b7bc23f48c4f245c3a62/media.mp3",
+      "title": "What does 'made in China' mean today?",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-10-22T14:49:13.165407+00:00",
+      "episode_id": "041641011c57f2ad"
+    },
+    "b05b9ee911916dfd": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/a0e15df4-4a62-4b81-bbf5-b4ea00ed7a3c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-22T14:57:17.561041+00:00",
+      "episode_id": "b05b9ee911916dfd"
+    },
+    "22d43c28bf75f411": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/7a57bbf4-3454-4013-aa40-7880f0414d24/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=7a57bbf4-3454-4013-aa40-7880f0414d24&feed=IFy3imsg&t=podcast&e=nx-s1-6011504&p=510325&d=508&size=8143185",
+      "title": "Can a \"moneyball\" system work for campaign funding?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-22T14:58:41.364899+00:00",
+      "episode_id": "22d43c28bf75f411"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-22T05:26:42.806750+00:00"
+  "last_updated": "2026-10-22T14:58:41.364946+00:00"
 }
