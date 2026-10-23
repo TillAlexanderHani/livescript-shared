@@ -19039,8 +19039,22 @@
       "feed": "Capital Economics Weekly Briefing",
       "processed": "2026-10-23T15:35:59.911832+00:00",
       "episode_id": "db0cbdd91ac9ff3b"
+    },
+    "d6db2b88551777d7": {
+      "url": "https://mcdn.podbean.com/mf/web/qpipnebdh5gf7a9k/AARKaneva102326KAL-1-DOHSU34T.mp3",
+      "title": "Global Commodities: What is the price of oil?",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-10-23T18:24:50.458939+00:00",
+      "episode_id": "d6db2b88551777d7"
+    },
+    "1d91c4ab5e924c07": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/20007685-issuers-battle-to-wrap-up-funding-amid-disruption-but-islamic-rmbs-evolves.mp3",
+      "title": "Issuers battle to wrap up funding amid disruption but Islamic RMBS evolves",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-10-23T18:31:49.569501+00:00",
+      "episode_id": "1d91c4ab5e924c07"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-23T15:35:59.911876+00:00"
+  "last_updated": "2026-10-23T18:31:49.569549+00:00"
 }
