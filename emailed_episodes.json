@@ -18962,8 +18962,22 @@
       "feed": "PIMCO Pod",
       "processed": "2026-10-23T00:33:10.636474+00:00",
       "episode_id": "bece79c05375b5fc"
+    },
+    "adb7fc7d6a427c1b": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/e49dc98d-47f6-472a-a0f9-5d54d15da531.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Economic Roundtable: What’s Keeping Global Growth Going?",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-10-23T05:27:07.159428+00:00",
+      "episode_id": "adb7fc7d6a427c1b"
+    },
+    "b718380229b5363c": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6ada6422a25058b22abaab6c/media.mp3",
+      "title": "Why oil hasn’t ruined the global economy. With Rory Johnston",
+      "feed": "The Economics Show",
+      "processed": "2026-10-23T05:31:32.136482+00:00",
+      "episode_id": "b718380229b5363c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-23T00:33:10.636515+00:00"
+  "last_updated": "2026-10-23T05:31:32.136527+00:00"
 }
