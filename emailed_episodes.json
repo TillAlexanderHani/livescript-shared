@@ -18955,8 +18955,15 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-10-22T21:19:01.630944+00:00",
       "episode_id": "57797dac7b5e834d"
+    },
+    "bece79c05375b5fc": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC3034306373.mp3",
+      "title": "October Fed Meeting Preview: A Pause Is Still a Recalibration",
+      "feed": "PIMCO Pod",
+      "processed": "2026-10-23T00:33:10.636474+00:00",
+      "episode_id": "bece79c05375b5fc"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-22T21:19:01.630990+00:00"
+  "last_updated": "2026-10-23T00:33:10.636515+00:00"
 }
