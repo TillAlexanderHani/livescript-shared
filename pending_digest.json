@@ -1,4 +1,186 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Why Investors Are Reducing AI Exposure",
+      "published": "Fri, 23 Oct 2026 13:20:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD5715934563.mp3",
+      "feed": "Goldman Sachs The Markets",
+      "provider": "Goldman Sachs",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "Oil",
+        "Credit",
+        "CCC",
+        "Risk sentiment",
+        "S&P 500",
+        "Rates",
+        "Fiscal",
+        "France",
+        "Inflation"
+      ],
+      "summary": "**Summary**\nGoldman Sachs' Rich Privorotsky (head of European equities trading) explains the unwind of the summer's consensus \"long AI, short everything\" trade into Q3 earnings, and argues energy prices remain the dominant macro swing factor tightening financial conditions and keeping the Fed hawkish.\n\n**Key points**\n- The AI/semis/hyperscaler trade has reversed sharply, driven by (1) financing cost concerns for leveraged AI capex and Neoclouds (CCC spreads, European sovereign spreads widening), (2) power-supply bottlenecks limiting the 40-50GW of data centers needed next year, and (3) broad de-risking.\n- Hyperscaler capex consensus is ~$1.1trn for next year; market now demands proof of cloud monetization, not just spend.\n- Median S&P 500 stock is down over 10% even though the index itself has masked the damage; last week saw the biggest single week of tech selling ever in GS's prime book.\n- High energy prices have driven major FCI tightening, effectively forcing the Fed to \"reprice the entire hiking cycle.\"\n- Structural shift from a \"savings glut\" to a \"spending glut\" (trillion-dollar AI capex plus large fiscal deficits globally) is raising the cost of capital and credit-cycle risk, pressuring fringe/lower-quality borrowers and French sovereign spreads.\n- Preferred trades now: electrification, civil aerospace, transport — de-rated names offering convexity if energy risk resolves.\n\n**FX / rates implications**\n- Oil-driven FCI tightening sustains Fed hawkishness and higher UST yields, a headwind for EM carry trades funded against USD.\n- Widening credit spreads (CCC, French sovereign) signal a risk-off impulse that typically pressures EM FX and widens EM sovereign/corporate spreads.\n- AI capex deceleration is growth-negative/bond-positive, supportive of duration broadly, but credit-cycle fears remain an EM credit and carry headwind.\n\n**Watch list**\n- Remaining Q3 hyperscaler earnings: capex vs. monetization delivery.\n- Potential energy/oil price resolution in \"the next few weeks.\"\n- CCC and French sovereign spread trajectory as credit-cycle signal.",
+      "summarized_at": "2026-10-23T14:53:45.223895+00:00"
+    },
+    {
+      "title": "UK Budget and US mid-terms: What matters for markets?",
+      "published": "Fri, 23 Oct 2026 09:00:00 +0100",
+      "url": "https://www.buzzsprout.com/2109661/episodes/20007776-uk-budget-and-us-mid-terms-what-matters-for-markets.mp3",
+      "feed": "NatWest Currency Exchange",
+      "provider": "NatWest",
+      "priority": 3,
+      "tags": [
+        "GBP",
+        "BoE",
+        "UK gilts",
+        "UST 10y",
+        "Fiscal",
+        "Elections",
+        "Fed",
+        "Inflation",
+        "CPI",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nNatWest strategists preview the UK's 28 October budget and the US midterm elections, two events framed as unlikely to be major market shocks but carrying important signals for gilts, the Bank of England, and Fed appointment risk — all relevant to a global rates/FX trader's read on DM policy and fiscal credibility.\n\n**Key points**\n- UK budget expected to be a minimalist 'holding operation': VAT cut on electricity extended, fuel duty freeze extended, targeted energy support, funded mainly by a bank corporation tax surcharge (3-5bn pounds needed); capital gains tax hike ruled out.\n- CGNCR borrowing likely overshoots OBR's March forecast of 137bn pounds by ~4-5bn to ~140-142bn; fiscal headroom seen falling from ~24bn to 10-15bn pounds (0.2-0.3% of GDP), a historically thin buffer.\n- DMO likely trims the long-end ('longs') issuance bucket modestly and may raise bill stock, but no step-change expected; curve flattening (5s15s) could again deter a bigger long-end cut as happened in 2025.\n- UK wage and inflation data (recorded day of CPI release) support a near fully-priced November BoE hike (24bp), with a February follow-up; back-to-back Nov-Dec hikes seen as unlikely given a dovish MPC.\n- US House highly likely to flip Democrat (generic ballot +8pts, betting markets ~90%); Senate is a toss-up, hinging on NC (Tillis seat, locked for Dems) plus Alaska/Texas/Iowa/Ohio.\n- Senate control matters for Fed appointments (advice-and-consent on Powell's successor around early 2028) more than for legislation, since Trump remains president through 2028 regardless of outcome.\n- Analysts argue 2026 midterms carry far less market-moving potential than 2024 since no scenario removes Republican control of the presidency; fiscal policy likely stays expansionary-leaning even under divided government (gridlock historically leads to more spending on both sides, not less) — supportive for Treasuries, not contractionary.\n\n**FX / rates implications**\n- GBP/gilts: cross-market gilt outperformance (10y fair value 5.25%, range 5.25-5.50%) may fade post-budget as 'good news' is already priced; any disappointment on DMO funding mix or headroom could reverse recent outperformance versus other DM rates markets.\n- BoE repricing toward more hikes than currently in forecasts is the stated risk, while ECB hiking looks less likely as Euro area long yields rise — supports further GBP/EUR rate divergence.\n- US: midterm outcome seen as low systemic risk for broad risk sentiment/USD; main channel is long-run Fed composition risk rather than near-term fiscal swing, limiting spillover to EM carry trades for now.\n\n**Watch list**\n- UK budget, 28 October: borrowing revisions, headroom level, DMO issuance mix (bills vs. longs).\n- BoE policy decision, expected November hike with guidance tone in focus.\n- US midterm elections: early-closing swing states (Florida, Ohio, Virginia) as fast signals; Senate race outcomes in NC, Alaska, Texas, Iowa, Ohio.\n- Fed, ECB meetings and BoE meeting flagged for next week's episode.",
+      "summarized_at": "2026-10-23T15:01:58.102518+00:00"
+    },
+    {
+      "title": "Shifting trade dependencies",
+      "published": "Fri, 23 Oct 2026 14:30:09 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6adb6f7428324fc86a609abc/media.mp3",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "provider": "HSBC Global Research",
+      "priority": 2,
+      "tags": [
+        "Trade",
+        "Tariffs",
+        "CNY",
+        "USD",
+        "China"
+      ],
+      "summary": "**Summary**\nHSBC's Macro Brief explores a new report on global trade \"fault lines,\" analysing import dependencies across 65 economies and 78,000 product relationships. The key finding: despite tariffs, pandemics, and geopolitical shocks, trade has proven resilient (goods volumes ~20% above 2019 levels), but genuine supply-chain diversification remains limited, with most countries still highly dependent on a narrow set of suppliers.\n\n**Key points**\n- Around 70% of economies studied became MORE reliant on a small number of suppliers over recent years, despite government push for diversification.\n- For roughly half of 78,000 import relationships, top three suppliers account for at least 80% of imports.\n- Trade \"re-routing\" (relabeling, re-invoicing, final-assembly relocation) is often mistaken for genuine diversification; underlying value-added dependency persists.\n- US headline data shows reduced China import reliance, but on a value-added basis China's contribution has flatlined — value-add now rerouted through Taiwan, Vietnam, and Mexico.\n- Russia diversified sourcing toward China and Central Asia after Western sanctions.\n- Just-in-time production, which created vulnerabilities during COVID, has largely returned despite post-pandemic calls for inventory buffers, mainly due to cost pressures.\n\n**FX / rates implications**\n- Reinforces that China remains the indispensable upstream node in Asian and global supply chains (CNY/CNH relevant), even as headline trade flows shift to Vietnam, Taiwan (TWD), and Mexico (MXN) — supportive of continued EM Asia and Mexico manufacturing/export linkages to China.\n- Persistent US tariff risk (sectoral broadening into semiconductors, industrial machinery, robotics) is a tail risk for China-linked and Mexico-linked FX given USMCA exposure.\n- EU-China trade tensions flagged as a watch item for protectionism risk, relevant to broader risk sentiment and CNY.\n\n**Watch list**\n- Ongoing implementation of UK-India and UK-GCC trade deals.\n- EU-China trade tension developments over next six months.\n- Potential broadening of US sectoral tariffs (semiconductors, industrial machinery, robotics).",
+      "summarized_at": "2026-10-23T15:04:27.375059+00:00"
+    },
+    {
+      "title": "Why Oil Prices Are Surging Despite Recovering Supply",
+      "published": "Fri, 23 Oct 2026 04:00:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8749172286.mp3",
+      "feed": "Goldman Sachs Exchanges",
+      "provider": "Goldman Sachs",
+      "priority": 4,
+      "tags": [
+        "Brent",
+        "WTI",
+        "Oil",
+        "Diesel",
+        "Gasoline",
+        "TTF",
+        "Natural Gas",
+        "Copper",
+        "Gold",
+        "Fed"
+      ],
+      "summary": "**Summary**\nGoldman Sachs' Dan Struyven explains why Brent crude has surged to ~$112/bbl despite Middle East oil flows recovering to near-2025 average levels, driven by a risk premium rather than fundamentals. For an EM trader, this matters because elevated and volatile energy prices feed directly into EM current-account dynamics, inflation prints, and risk sentiment, particularly for oil-importing EM Asia (India, Philippines, Thailand) versus exporters.\n\n**Key points**\n- Brent at $112/bbl; Goldman's fair value estimate (based on inventories) is $85, meaning ~$27/bbl is pure risk premium from shipping attacks and Houthi strikes on infrastructure.\n- Base case: Brent at $90 by year-end, 2027 average $80 — but risks skewed to the upside (further shipping disruption, infrastructure damage, sticky risk premium).\n- Refined products are tighter than crude: product exports from the Persian Gulf are only 40% of 2025 levels vs. crude at 110%, pushing diesel and gasoline prices up independently of a Middle East resolution.\n- Global crude freight rates up $20/bbl YoY, three-quarters tied to Middle East supply-chain reorganization — raising landed costs disproportionately for Asian refiners far from crude sources.\n- European TTF gas could swing between 70 and 150 euros depending on Qatari LNG flows and winter weather; upside capped below the 2022 peak (300 euros) due to demand destruction and non-Middle East supply growth.\n- Copper up 35% YTD, seen rising another 10% to $15,600 on US stockpiling (tariff-driven) and Chinese scrap shortages.\n- Gold outlook bullish on central-bank buying (5x pre-2020 pace) despite higher rates, contingent on the Fed finishing its hiking cycle in December.\n\n**FX / rates implications**\n- Sustained high oil/diesel/gasoline prices are a negative terms-of-trade and inflation shock for EM Asia oil importers (INR, IDR, PHP, THB), pressuring current accounts and complicating central bank easing paths.\n- Higher freight costs disproportionately hit Asia-bound crude, amplifying imported inflation versus the Americas.\n- Elevated copper prices are a modest tailwind for LATAM metals exporters (Chile/CLP, Peru/PEN).\n- Gold's bullish central-bank-buying narrative is consistent with EM reserve diversification trends away from USD.\n- Fed's base case of a final December hike and subsequent pause is a key swing factor for gold and broader EM carry trades.\n\n**Watch list**\n- Any post-midterm diplomatic resolution in the Middle East that could unwind the ~$27/bbl risk premium.\n- European winter weather and Qatari LNG export recovery for TTF price direction (70 vs. 150 range).\n- Fed's December meeting as the assumed final hike in Goldman's base case.\n- US copper tariff/stockpiling developments and Chinese scrap supply.",
+      "summarized_at": "2026-10-23T15:06:46.107162+00:00"
+    },
+    {
+      "title": "Can the next Brazilian president satisfy investors?",
+      "published": "Fri, 23 Oct 2026 07:00:00 -0400",
+      "url": "https://www.buzzsprout.com/1572577/episodes/20004390-can-the-next-brazilian-president-satisfy-investors.mp3",
+      "feed": "Standard Chartered Macro Bytes",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "BRL",
+        "Brazil",
+        "BCB",
+        "Elections",
+        "Fiscal",
+        "Sovereign debt",
+        "Carry",
+        "Risk sentiment",
+        "Trade",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nAhead of Brazil's October 25th presidential runoff between incumbent Lula and right-wing challenger Flavio Bolsonaro, markets are pricing a ~75% chance of a Bolsonaro win, which investors view as the catalyst for fiscal reform and yield compression. This is a core LATAM election with direct implications for BRL, Brazilian rates and sovereign bonds.\n\n**Key points**\n- Lula's term ends with a fiscal deficit near 9.5% of GDP and government debt near 97% (IMF), despite a primary deficit of only ~0.6.5% (sic, discussed as modest).\n- BCB's Selic rate is expected to be cut toward 13.25% by year-end and gradually toward 11% through 2027; real rates remain very high near 9%.\n- Bolsonaro's Liberal Party had its strongest election result since the 1990s, giving the right/center-right just over 50% in the lower house and above the three-fifths supermajority in the Senate needed for constitutional reform.\n- Bolsonaro has campaigned on fiscal tightening of ~1.5% of GDP over 18 months but details on debt-to-GDP targets and automatic spending cuts remain vague; Brazil's debt-stabilizing primary balance is estimated near 2.7% of GDP, above both candidates' short-term targets.\n- Mandatory constitutional spending (pensions, healthcare, education) accounts for ~90% of government spending, limiting reform room regardless of winner.\n- First-round surprise (Bolsonaro outperforming polls) already triggered rallies in BRL, Brazilian bonds and equities.\n- Colombia's similar right-wing election win earlier this year saw an initial bond rally fade as fiscal realities set in — a cautionary parallel for Brazil.\n- A Bolsonaro win would mark the last major LatAm economy shifting right/pro-US, though Brazil's trade ties with China (which has offset US tariff drag) are expected to persist regardless of outcome.\n\n**FX / rates implications**\n- BRL and Brazilian local bonds have rallied on Bolsonaro's first-round lead and 75% implied win probability; a confirmed win should extend the rally, while a Lula comeback would trigger a sharp reversal.\n- High real rates (~9%) and gradual BCB easing path are key for carry trades in BRL; fiscal credibility under the next government will drive how far yields can compress.\n- Watch Colombia as a read-across: initial bond/FX rally on right-wing election outcome partially reversed once underwhelming budget plans emerged — a risk case for BRL positioning post-runoff.\n\n**Watch list**\n- October 25th presidential runoff result (Bolsonaro vs Lula).\n- Post-election budget/fiscal reform proposals and any constitutional reform momentum given the right's supermajority in the Senate.\n- BCB Selic rate path (13.25% year-end target, 11% by 2027) versus inflation/yield data.\n- Brazil-US trade/tariff relationship and Brazil-China trade ties, including rare earths/critical minerals policy.",
+      "summarized_at": "2026-10-23T15:10:22.235449+00:00"
+    },
+    {
+      "title": "CoreWeave woes, Pokémon foes, and maple syrup lows",
+      "published": "Fri, 23 Oct 2026 07:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/aa6a6a20-bbdd-468c-aa68-33a61d7dccd7/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=aa6a6a20-bbdd-468c-aa68-33a61d7dccd7&feed=IFy3imsg&t=podcast&e=nx-s1-6012368&p=510325&d=546&size=8743376",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "CoreWeave",
+        "Credit",
+        "AI",
+        "Nvidia",
+        "Tariffs",
+        "Trade",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nThis lighthearted Planet Money indicator roundup covers three disconnected stories: data-center firm CoreWeave's rising default risk, a $963,000 Pokemon/sports card heist in California, and a maple syrup supply crunch in Quebec tied to US tariff front-running. Only the CoreWeave segment carries real macro/credit relevance for a markets audience.\n\n**Key points**\n- Bloomberg estimates CoreWeave has a 60% probability of defaulting on its debt within five years; the company leases data centers long-term and resells shorter-term compute contracts to large customers like IBM.\n- Investors are growing wary after Oracle's debt concerns surfaced earlier in the week, reflecting broader skepticism about heavily levered AI infrastructure plays.\n- Epoch AI reported the cost of achieving a given level of AI performance fell roughly 13-fold (1300%) over the past year, raising questions about whether as much data-center capacity will be needed going forward.\n- CoreWeave bond and stock prices have fallen, though bulls note it has contracted customers and backing from Nvidia, which has pledged to absorb excess compute capacity if demand weakens.\n- Separately, Quebec's strategic maple syrup reserve has been drawn down to zero after US buyers stockpiled supply ahead of anticipated tariffs; producers are now looking to diversify export markets away from the US.\n\n**FX / rates implications**\n- The CoreWeave/Oracle debt story is a microcosm of broader AI-capex credit concerns; a disorderly repricing of AI-linked corporate credit could widen high-yield/IG spreads and dent broader risk sentiment, a mild headwind for EM carry trades if it spreads.\n- The maple syrup anecdote is a small, concrete illustration of tariff front-running distorting trade flows between the US and a trading partner, consistent with ongoing US tariff uncertainty discussed more broadly in markets.\n\n**Watch list**\n- CoreWeave and Oracle credit spreads/bond prices as a bellwether for AI-infrastructure debt sentiment.\n- Further AI efficiency gains (per Epoch AI) that could pressure data-center demand assumptions and related equity/credit valuations.",
+      "summarized_at": "2026-10-23T15:29:39.716391+00:00"
+    },
+    {
+      "title": "The Week Ahead – Time to look out the window",
+      "published": "Fri, 23 Oct 2026 13:13:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261023_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "feed": "Nomura - The Week Ahead",
+      "provider": "Nomura",
+      "priority": 5,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "ECB",
+        "EUR",
+        "BoJ",
+        "JPY",
+        "BoC",
+        "CAD",
+        "RBNZ",
+        "BOT",
+        "THB",
+        "China",
+        "CNY",
+        "PMI",
+        "CPI",
+        "Inflation",
+        "UST 10y",
+        "France",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nNomura's Week Ahead previews a packed global central-bank calendar (Fed, ECB, BoJ, BoC, RBNZ, BOT) alongside France's widening OAT-Bund spread and an AI/memory-chip supply crunch — all key inputs for EM FX/rates positioning into month-end.\n\n**Key points**\n- Fed (29 Oct): expected to skip despite hotter CPI, as Jefferson, Williams and Waller pushed back on an October move; Nomura expects a December hike instead; September core PCE seen accelerating to 0.32% m/m on AI-capex-driven goods/services inflation.\n- ECB (Oct meeting): hold at 2.5% depo rate expected; Nomura's house view is hikes in December and March to a 3% terminal rate.\n- France: 10y OAT-Bund spread widened to ~175bp (from 160bp), BTP-Bund near 50bp — contagion building but still well below TPI-trigger levels (~250bp in 2022); ECB seen as reluctant to intervene yet.\n- UK Budget (Wed 28 Oct, 12:30 London): fiscal headroom ~£15bn, ~£4bn financing overshoot, gilt/T-bill issuance split evenly (~£2bn each) versus prior plans.\n- BoJ (Fri): hold expected; only hawk Takata dissents; underlying inflation nearing 14-year-delayed 2% target; market prices ~80% odds of a December hike.\n- BoC: 25bp hike now expected on energy-driven inflation spillovers.\n- RBNZ: 60/40 hold vs. 25bp hike; BOT: unanimous hold, dovish tone, CPI forecast cut to 2% from 2.8%.\n- China official manufacturing PMI seen softening to 49.8, non-manufacturing to ~50 (Golden Week travel drag).\n- AI memory-chip supply shortage expected to persist to 2028+; global capex near $1tn, up 100% this year, +70% next.\n\n**FX / rates implications**\n- USD: Fed skip-then-December-hike path keeps dollar firm into year-end, a headwind for EM Asia carry.\n- EUR: France contagion risk caps upside; ECB hike path (Dec/March) could later support EUR if delivered.\n- GBP/Gilts: slightly reduced fiscal headroom and higher issuance are gilt-bearish.\n- JPY: BoJ hold with ~80%-priced December hike keeps JPY carry-unwind risk alive.\n- THB: dovish BOT tone and CPI downgrade argue for continued accommodative stance, soft THB.\n- CNY/regional Asia FX: softer PMIs signal fading China momentum, a modest drag on regional EM Asia currencies.\n- KRW/TWD: memory super-cycle (chip shortage to 2028) supportive of Korea/Taiwan tech exporters and currencies via terms-of-trade.\n\n**Watch list**\n- Fed decision Oct 29 and September core PCE.\n- ECB press conference tone on France/TPI.\n- UK Budget Wed 28 Oct.\n- BoJ decision Friday and press-conference language on \"next meeting.\"\n- France OAT-Bund spread trajectory; China PMI print; Australia CPI (headline 0.4% m/m, trimmed mean 0.2%).",
+      "summarized_at": "2026-10-23T15:33:16.513401+00:00"
+    },
+    {
+      "title": "Fed, ECB and UK Budget: A Big Week for the Global Economy",
+      "published": "Fri, 23 Oct 2026 12:18:28 +0100",
+      "url": "https://media.transistor.fm/d0abb254/d17b049c.mp3",
+      "feed": "Capital Economics Weekly Briefing",
+      "provider": "Capital Economics",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "ECB",
+        "BoE",
+        "BoJ",
+        "USD",
+        "EUR",
+        "GBP",
+        "JPY",
+        "Inflation",
+        "Gilts",
+        "Oil",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nCapital Economics previews a pivotal week: the Fed and ECB both meet, followed by the UK Budget and Bank of England and Bank of Japan decisions shortly after. The divergence in central bank reaction functions to a shared energy shock is the key theme, with direct implications for the USD and relative rate paths across DM that ripple into EM funding costs and carry trades.\n\n**Key points**\n- Fed expected to hold rates at 3.75-4% next week but signal \"pause, not done\"; CE forecasts 25bp hikes in December and March, taking rates to 4.25-4.5%.\n- US core PCE rose an estimated 0.35% m/m in September; core services ex-housing inflation jumped to 3.1%, showing broad-based (not just energy-driven) price pressure; ISM price-paid indices hit 4-year highs.\n- ECB expected to hold deposit rate at 2.5%, with one more December hike seen as the cycle's likely end; CE sees this as a pure energy/supply shock with no second-round effects on core inflation or wages, unlike the US — markets price Eurozone rates up to ~3% and staying there, a gap vs CE's view.\n- BoE seen hiking 25bp to 4% in early November (one more hike pencilled in after), with cuts possible by late 2027; BoJ seen continuing policy normalization on tight domestic labor market/wage growth.\n- UK Budget (Wed 28 Oct): a \"compromise\" package — ~£10bn extra spending by 2029-30 funded by ~£5bn tax rises (tilted to high earners/banks) and ~£5bn more borrowing; expected to be gilt-market-neutral.\n\n**FX / rates implications**\n- Divergent Fed/ECB paths (Fed hiking further on broad inflation vs ECB likely done after December) support a \"US rates higher for longer than Europe\" view — a USD-supportive, EM-funding-cost-relevant signal.\n- Hawkish Fed communication risk (new chair Kevin Walsh) could tighten global financial conditions abruptly if the tone surprises markets, a risk factor for EM carry trades.\n- UK fiscal path framed as orderly versus France's deteriorating credibility — modest gilt market reaction expected if Budget meets expectations.\n\n**Watch list**\n- Fed FOMC decision and Walsh press conference next week.\n- ECB rate decision and Lagarde guidance on second-round effects next week.\n- UK Budget, Wednesday 28 October; BoE decision in early November.\n- Energy prices (oil/gas) as the swing factor for whether ECB/BoE inflation pass-through intensifies.",
+      "summarized_at": "2026-10-23T15:35:59.911832+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-23"
 }

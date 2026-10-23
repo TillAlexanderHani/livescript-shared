@@ -18976,8 +18976,71 @@
       "feed": "The Economics Show",
       "processed": "2026-10-23T05:31:32.136482+00:00",
       "episode_id": "b718380229b5363c"
+    },
+    "27b04a53efd08ed2": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD5715934563.mp3",
+      "title": "Why Investors Are Reducing AI Exposure",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-10-23T14:53:45.223895+00:00",
+      "episode_id": "27b04a53efd08ed2"
+    },
+    "5f4202980118da36": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/20007776-uk-budget-and-us-mid-terms-what-matters-for-markets.mp3",
+      "title": "UK Budget and US mid-terms: What matters for markets?",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-10-23T15:01:58.102518+00:00",
+      "episode_id": "5f4202980118da36"
+    },
+    "9b7dc167d7f2e12c": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6adb6f7428324fc86a609abc/media.mp3",
+      "title": "Shifting trade dependencies",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-10-23T15:04:27.375059+00:00",
+      "episode_id": "9b7dc167d7f2e12c"
+    },
+    "d1a230e8211f9226": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8749172286.mp3",
+      "title": "Why Oil Prices Are Surging Despite Recovering Supply",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-10-23T15:06:46.107162+00:00",
+      "episode_id": "d1a230e8211f9226"
+    },
+    "b949eb82047b2868": {
+      "url": "https://www.buzzsprout.com/1572577/episodes/20004390-can-the-next-brazilian-president-satisfy-investors.mp3",
+      "title": "Can the next Brazilian president satisfy investors?",
+      "feed": "Standard Chartered Macro Bytes",
+      "processed": "2026-10-23T15:10:22.235449+00:00",
+      "episode_id": "b949eb82047b2868"
+    },
+    "693bb567689141d1": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/99473588-d4a5-4d5e-bdd6-b4eb013c526e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "The Forgotten Godmother of Economic Literature",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-23T15:19:20.507220+00:00",
+      "episode_id": "693bb567689141d1"
+    },
+    "f7963140ce983106": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/aa6a6a20-bbdd-468c-aa68-33a61d7dccd7/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=aa6a6a20-bbdd-468c-aa68-33a61d7dccd7&feed=IFy3imsg&t=podcast&e=nx-s1-6012368&p=510325&d=546&size=8743376",
+      "title": "CoreWeave woes, Pokémon foes, and maple syrup lows",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-23T15:29:39.716391+00:00",
+      "episode_id": "f7963140ce983106"
+    },
+    "f021598aef868981": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261023_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead – Time to look out the window",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-10-23T15:33:16.513401+00:00",
+      "episode_id": "f021598aef868981"
+    },
+    "db0cbdd91ac9ff3b": {
+      "url": "https://media.transistor.fm/d0abb254/d17b049c.mp3",
+      "title": "Fed, ECB and UK Budget: A Big Week for the Global Economy",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-10-23T15:35:59.911832+00:00",
+      "episode_id": "db0cbdd91ac9ff3b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-23T05:31:32.136527+00:00"
+  "last_updated": "2026-10-23T15:35:59.911876+00:00"
 }
