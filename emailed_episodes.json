@@ -19088,8 +19088,22 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "processed": "2026-10-24T05:12:26.764181+00:00",
       "episode_id": "a49a55e4f5b78774"
+    },
+    "b4267759c8442595": {
+      "url": "https://mcdn.podbean.com/mf/web/wiuntphwuf24zxxb/Weekender_KAL-1-X81VBX9W_23Oct26.mp3",
+      "title": "Global Data Pod Weekender: Once more unto the breach",
+      "feed": "Global Data Pod",
+      "processed": "2026-10-24T13:40:29.765800+00:00",
+      "episode_id": "b4267759c8442595"
+    },
+    "c6d59c83b7492698": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/0e910a81-d26f-4e7f-852a-b4ec0142c272/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How a Chicago Restaurant Has Stayed Open For Nearly Three Decades",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-24T13:52:13.735952+00:00",
+      "episode_id": "c6d59c83b7492698"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-24T05:12:26.764219+00:00"
+  "last_updated": "2026-10-24T13:52:13.735996+00:00"
 }

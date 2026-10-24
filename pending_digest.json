@@ -1,4 +1,29 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Global Data Pod Weekender: Once more unto the breach",
+      "published": "Fri, 23 Oct 2026 18:28:33 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/wiuntphwuf24zxxb/Weekender_KAL-1-X81VBX9W_23Oct26.mp3",
+      "feed": "Global Data Pod",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "UST 10y",
+        "ECB",
+        "Inflation",
+        "CPI",
+        "PMI",
+        "Credit",
+        "Sovereign debt",
+        "France",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nJPMorgan economists Bruce Kasman and Joe Lupton debate the US growth/consumer outlook into Q4 and preview next week's G3 central bank meetings plus the ECB's handling of sovereign stress, particularly around France. For an EM trader, the Fed's reaction function and any shift toward a hiking bias, alongside ECB tolerance for widening European spreads, are the key global transmission channels into USD, UST yields and risk sentiment.\n\n**Key points**\n- Global Q3 GDP growth ran well above trend (China Q3 strong, US tracking near 3%), despite an energy price shock; Q4 growth expected to moderate with a rotation — US consumption slowing toward 1-1.5% (from ~3.5%) while Asia (China, Japan) picks up.\n- Debate centers on whether business-sector hiring (forecast ~100-125k/month) offsets consumer weakness from falling real disposable income (~0.5pp drag) as tax-cut and wealth-effect tailwinds fade and energy costs bite (~$160bn drag vs ~$170bn tax cut fading).\n- No G3 central bank (Fed, ECB, BoJ) expected to move next week, but Canada, UK and Sweden are described as beginning to shift; Fed statement language may signal a bias toward December action; new Fed chair (Warsh) in focus for forward-guidance credibility.\n- ECB seen tolerating widening sovereign spreads (France) to force fiscal discipline, with TPI-style intervention only if spread widening threatens region-wide growth or euro breakup risk; French political risk (Le Pen vs. a potential left government) flagged as a tail risk.\n\n**FX / rates implications**\n- A Fed bias toward December hiking/tightening language would be USD-supportive and UST yield-negative for duration, a headwind for EM carry trades broadly.\n- Rising European sovereign spread stress (France) is a risk-off catalyst that could spill into broader credit and EM risk sentiment if it escalates beyond idiosyncratic pricing.\n\n**Watch list**\n- Next week's Fed, ECB, BoJ meetings and statement language changes.\n- October US payrolls report (two weeks out) and Q3 PCE/consumption data for Q4 momentum signal.\n- French OAT spreads and political developments as an ECB stress trigger.",
+      "summarized_at": "2026-10-24T13:40:29.765800+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-24"
 }
