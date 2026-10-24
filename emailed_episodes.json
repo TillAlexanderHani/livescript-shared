@@ -19067,8 +19067,22 @@
       "feed": "Macro Trading Floor",
       "processed": "2026-10-23T20:59:32.244665+00:00",
       "episode_id": "97cc593cc583ab8c"
+    },
+    "0654a77221d888a2": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/9c9ffd83-5d6b-4226-91ee-e70eb08c94c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=9c9ffd83-5d6b-4226-91ee-e70eb08c94c9&feed=tc4zxWgX",
+      "title": "The Exchange 10/23/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-24T00:13:59.461736+00:00",
+      "episode_id": "0654a77221d888a2"
+    },
+    "573989332f7c8252": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916",
+      "title": "How surveillance crept up on us",
+      "feed": "Planet Money",
+      "processed": "2026-10-24T00:17:51.033146+00:00",
+      "episode_id": "573989332f7c8252"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-23T20:59:32.244699+00:00"
+  "last_updated": "2026-10-24T00:17:51.033192+00:00"
 }
