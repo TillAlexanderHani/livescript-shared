@@ -19102,8 +19102,15 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-10-24T13:52:13.735952+00:00",
       "episode_id": "c6d59c83b7492698"
+    },
+    "d8626c531456ff25": {
+      "url": "https://traffic.megaphone.fm/BLM1254902890.mp3",
+      "title": "Credit Crunch: Waterfall’s Cuby on ABF and the European Consumer",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-10-24T20:06:25.203395+00:00",
+      "episode_id": "d8626c531456ff25"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-24T13:52:13.735996+00:00"
+  "last_updated": "2026-10-24T20:06:25.203446+00:00"
 }
