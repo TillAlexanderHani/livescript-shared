@@ -19123,8 +19123,15 @@
       "feed": "Macro Hive Conversations",
       "processed": "2026-10-25T17:22:27.042529+00:00",
       "episode_id": "556bd5a27f8e5426"
+    },
+    "8435f26ed51cbc09": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/20008044-through-the-noise-policy-politics-and-earnings.mp3",
+      "title": "Through the Noise: Policy, politics and earnings",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-25T23:40:04.300627+00:00",
+      "episode_id": "8435f26ed51cbc09"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-25T17:22:27.042570+00:00"
+  "last_updated": "2026-10-25T23:40:04.300672+00:00"
 }
