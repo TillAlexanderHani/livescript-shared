@@ -19116,8 +19116,15 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-10-25T00:00:17.944963+00:00",
       "episode_id": "130e4a44bd89b2fa"
+    },
+    "556bd5a27f8e5426": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_NADROWSKI2.mp3?dest-id=1929056",
+      "title": "Ep. 381: Tomasz Nadrowski on Energy Chokepoints, Asymmetric Warfare, and Critical Minerals",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-10-25T17:22:27.042529+00:00",
+      "episode_id": "556bd5a27f8e5426"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-25T00:00:17.945057+00:00"
+  "last_updated": "2026-10-25T17:22:27.042570+00:00"
 }
