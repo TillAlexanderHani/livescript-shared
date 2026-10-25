@@ -19109,8 +19109,15 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-10-24T20:06:25.203395+00:00",
       "episode_id": "d8626c531456ff25"
+    },
+    "130e4a44bd89b2fa": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6ada6a144281670f07aebaba/media.mp3",
+      "title": "Breaking down the bond market",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-10-25T00:00:17.944963+00:00",
+      "episode_id": "130e4a44bd89b2fa"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-24T20:06:25.203446+00:00"
+  "last_updated": "2026-10-25T00:00:17.945057+00:00"
 }
