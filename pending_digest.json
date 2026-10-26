@@ -17,6 +17,52 @@
       ],
       "summary": "**Summary**\nThis episode covers a corporate treasury case study: energy-equipment group Halion's five-month overhaul of its European cash management structure after separating from its former parent, built with BNP Paribas. It is an operational treasury/banking-infrastructure story rather than a market-moving macro event, but it illustrates how large corporates are centralising liquidity and automating reconciliation in Europe.\n\n**Key points**\n- Halion implemented a collections-on-behalf-of (COBO) structure, centralising EUR and CHF flows through a single physical account per currency held by its in-house bank (IHB) in the Netherlands and Switzerland.\n- A two-tier virtual account structure was built with BNP Paribas: ~entity-level accounts plus roughly 2,700 customer-level virtual accounts, paired with ISO 20022 CAMT.053 XML reporting feeding SAP for automated reconciliation.\n- More than 40,000 customers had payment instructions updated without disrupting collections; the group also closed ~170 accounts (130 collection, 40 dormant) as part of a global rationalisation drive.\n- Go-live was achieved in November 2025, five months after programme start, reusing prior Treasury transformation work from Latin America and North America.\n\n**Watch list**\n- Halion's continued rollout onto the COBO structure and progress of its SAP S/4HANA migration, which is expected to further automate reconciliation and improve working-capital visibility.\n- Broader corporate-treasury trend toward in-house-bank/virtual-account models in Europe as a template other multinationals may replicate, relevant for banks' cash-management and transaction-banking franchises (e.g., BNP Paribas) rather than for EM FX or rates positioning.",
       "summarized_at": "2026-10-26T16:21:42.843641+00:00"
+    },
+    {
+      "title": "Anthropic’s Public IPO Filing, Big Tech on Deck, and Down the (AI)sle 10/26/26",
+      "published": "Mon, 26 Oct 2026 18:23:05 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/04ac03e3-68d8-4536-bdaf-547adbbbe06b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=04ac03e3-68d8-4536-bdaf-547adbbbe06b&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 5,
+      "tags": [
+        "BRL",
+        "Brazil",
+        "Elections",
+        "Risk sentiment",
+        "S&P 500",
+        "Nasdaq",
+        "Capex",
+        "Credit",
+        "AI",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nThe episode is dominated by Anthropic's S-1 IPO filing (potentially the largest IPO ever, pricing expected the week of Nov 16), which is lifting chip and AI-infrastructure names and pushing the Nasdaq to fresh highs. Buried in the show is a sharper EM signal: Brazil's left-wing president won an unexpected record fourth term, triggering a sharp selloff in Brazilian stocks, with the iShares MSCI Brazil ETF cited as down roughly 20% intraday.\n\n**Key points**\n- Anthropic's S-1 shows revenue up ~1,000-1,300% YoY, losses narrowing to ~$700mn, and ~$270bn in multi-year compute commitments concentrated in Amazon, Microsoft and Alphabet.\n- Founders retain 50.1% voting control via a special Class F share; risk factors include AI self-preservation behavior and customer concentration (two customers = ~25% of revenue).\n- Microsoft is offering voluntary buyouts to as many as 60,000 staff ahead of this week's Big Tech earnings (Microsoft, Amazon, Alphabet all report), seen as funding a larger capex ramp.\n- Brazil: an unexpected re-election win for the incumbent left-wing president sent Brazilian equities sharply lower, framed by the anchors as a major emerging-markets risk-off event.\n- SpaceX closed a $40bn debt deal for Nvidia chips; Meta is pursuing a $95bn equity raise with Nvidia/AMD/Broadcom possibly participating.\n\n**FX/rates implications**\n- Brazil: the surprise election outcome is a direct political-risk repricing for BRL and local rates — watch for fiscal-continuity concerns feeding into BCB policy expectations and sovereign spreads.\n- Broad risk sentiment: mega-cap AI capex optimism and record Nasdaq highs are a near-term tailwind for carry and EM risk appetite, but the scale of debt-funded AI spending (SpaceX, Meta, Anthropic) is a two-sided risk to global risk sentiment and credit spreads if sentiment turns.\n- Heavy capex commitments from Big Tech sustain demand for Asian semiconductor exporters (Taiwan, Korea), an indirect positive growth/trade channel for TWD and KRW.\n\n**Watch list**\n- Microsoft, Amazon and Alphabet earnings and capex guidance this week.\n- Anthropic IPO pricing, expected week of Nov 16, ahead of Thanksgiving.\n- Follow-through on Brazil's political/fiscal fallout and its impact on BRL and Brazilian sovereign spreads.",
+      "summarized_at": "2026-10-26T19:56:39.655333+00:00"
+    },
+    {
+      "title": "Cut to the Chase! Big Three central banks on hold",
+      "published": "Mon, 26 Oct 2026 09:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/20018541-cut-to-the-chase-big-three-central-banks-on-hold.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "ECB",
+        "BoJ",
+        "USD",
+        "EUR",
+        "JPY",
+        "UST 10y",
+        "JGB",
+        "Oil",
+        "Brent",
+        "Inflation",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStandard Chartered expects the Fed, ECB and BoJ to all hold rates this week after a busy September of hikes, with all three resuming hikes in December. The divergent inflation drivers (oil/gas shock vs. homegrown Japanese inflation) and the view that bond markets are already doing some tightening work are central to the rates call, which matters for global duration, USD, EUR and JPY positioning.\n\n**Key points**\n- September hikes: Fed +25bp to 3.75-4% (first hike in 3 years), ECB deposit rate to 2.5% (second hike of cycle), BoJ to 1.25% (31-year high).\n- US 10y yields up ~130bp since February, ~120bp of which is real yield, tightening financial conditions ahead of any Fed move.\n- September US payrolls rose only 29,000; hotter-than-expected inflation print partly offset dovish repricing.\n- Refined fuel product exports from the Gulf remain ~60% of pre-conflict levels despite crude exports normalizing; Russian refinery damage adds to tightness.\n- Fed's own PCE inflation forecast: 3.7% this year falling to 2.3% by end-2027.\n- Japan core inflation (ex fresh food/energy) hit 2.4% YoY in September; StanChart expects BoJ to hike every quarter to 2% by June 2027 — more hawkish than consensus.\n- StanChart expects fewer Fed/ECB hikes than the ~60bp money markets currently price over 12 months; sees Fed rate cuts possible by H2 2027 as oil/fuel prices ease by mid-next year.\n\n**FX / rates implications**\n- A more hawkish BoJ path than market pricing supports JPY and could pressure carry trades funded in yen, with knock-on effects for EM Asia carry positioning (KRW, THB, MYR).\n- Dollar and UST yields path is key EM driver: less aggressive Fed hiking plus eventual 2027 cut potential is a medium-term USD-negative/EM-positive signal, though near-term holds keep volatility low this week.\n- Elevated fuel/refined product prices (Brent proxy) remain an inflation tailwind for oil-importing EM Asia (India, Philippines, Indonesia).\n- StanChart favors 3-7y DM government bonds, flagging 5y USTs as cheap — relevant for EM rates relative value and curve positioning.\n\n**Watch list**\n- This week's Fed, ECB and BoJ policy decisions (all expected holds).\n- December meetings for expected resumption of hikes by all three.\n- Oil/fuel price trajectory into mid-2027 as the key swing factor for the disinflation and eventual Fed cut thesis.\n- BoJ pace of hikes (quarterly path to 2% by June 2027) as an outlier risk to JPY and global carry.",
+      "summarized_at": "2026-10-26T20:07:15.870489+00:00"
     }
   ],
   "last_digest_date": "2026-10-26"
