@@ -19158,8 +19158,22 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-10-26T20:07:15.870489+00:00",
       "episode_id": "5f752253c21a68f7"
+    },
+    "8f562a1035b008bb": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/8099c51e-bf9c-4688-9a98-d9877fb49b12.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Next Stage of the Market Correction",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-10-26T21:57:35.007113+00:00",
+      "episode_id": "8f562a1035b008bb"
+    },
+    "2f8cac09c2ed6fdc": {
+      "url": "https://www.buzzsprout.com/1825833/episodes/20021641-china-in-26-mogliches-trump-xi-putin-treffen-exportkontrollen-funftes-plenum.mp3",
+      "title": "China in 26: Mögliches Trump-Xi-Putin-Treffen + Exportkontrollen + Fünftes Plenum",
+      "feed": "MERICS China Podcast",
+      "processed": "2026-10-26T22:14:04.243814+00:00",
+      "episode_id": "2f8cac09c2ed6fdc"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-26T20:07:15.870531+00:00"
+  "last_updated": "2026-10-26T22:14:04.243855+00:00"
 }
