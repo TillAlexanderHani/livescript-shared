@@ -1,4 +1,23 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Building a Best-in-Class European Cash Model",
+      "published": "Mon, 26 Oct 2026 10:44:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/treasurycast/ElevenLabs_0729_INNO26_Haleon.mp3?dest-id=1534493",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "provider": "TMI - Treasury Management International",
+      "priority": 2,
+      "tags": [
+        "EUR",
+        "CHF",
+        "Treasury",
+        "Liquidity",
+        "Cash management",
+        "Corporate finance"
+      ],
+      "summary": "**Summary**\nThis episode covers a corporate treasury case study: energy-equipment group Halion's five-month overhaul of its European cash management structure after separating from its former parent, built with BNP Paribas. It is an operational treasury/banking-infrastructure story rather than a market-moving macro event, but it illustrates how large corporates are centralising liquidity and automating reconciliation in Europe.\n\n**Key points**\n- Halion implemented a collections-on-behalf-of (COBO) structure, centralising EUR and CHF flows through a single physical account per currency held by its in-house bank (IHB) in the Netherlands and Switzerland.\n- A two-tier virtual account structure was built with BNP Paribas: ~entity-level accounts plus roughly 2,700 customer-level virtual accounts, paired with ISO 20022 CAMT.053 XML reporting feeding SAP for automated reconciliation.\n- More than 40,000 customers had payment instructions updated without disrupting collections; the group also closed ~170 accounts (130 collection, 40 dormant) as part of a global rationalisation drive.\n- Go-live was achieved in November 2025, five months after programme start, reusing prior Treasury transformation work from Latin America and North America.\n\n**Watch list**\n- Halion's continued rollout onto the COBO structure and progress of its SAP S/4HANA migration, which is expected to further automate reconciliation and improve working-capital visibility.\n- Broader corporate-treasury trend toward in-house-bank/virtual-account models in Europe as a template other multinationals may replicate, relevant for banks' cash-management and transaction-banking franchises (e.g., BNP Paribas) rather than for EM FX or rates positioning.",
+      "summarized_at": "2026-10-26T16:21:42.843641+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-26"
 }
