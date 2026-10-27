@@ -87,6 +87,46 @@
       ],
       "summary": "**Summary**\nThis episode examines the US-China contest over AI adoption in the Global South, focusing on cost competition between Chinese open-weight models (DeepSeek, Alibaba's Qwen, Moonshot's Kimi) and US labs (OpenAI's new cheaper GPT model), and the geopolitical pressure on third countries to pick a technology bloc. While not a markets episode, it touches themes (export controls, tech decoupling, Global South alignment) that intersect with trade/tariff and capital-flow narratives relevant to EM.\n\n**Key points**\n- Chinese AI token costs are no longer uniformly cheaper than US rivals; OpenAI's new model undercuts DeepSeek and Qwen in some tiers, intensifying a price war.\n- Chinese models reportedly accounted for 58% of tokens processed by US firms via OpenRouter as of July, reflecting rapid Chinese market penetration even domestically in the US.\n- Huawei and ZTE are bundling free AI compute/tokens with hardware sales across the Global South, seen as a distribution-layer strategy akin to selling infrastructure rather than models.\n- The US's Pax Silica initiative pressures allied/Global South countries toward exclusive US tech stacks; China's rival WAIO/WACO coalition (~29 countries, many African/Southeast Asian) offers an alternative.\n- Brazil launched an AI initiative blending US and Chinese technology, resisting binary alignment; experts expect smaller countries face tougher forced-choice pressure.\n\n**FX / rates implications**\n- Limited direct FX read-through, but escalation of US tech export controls or forced bloc alignment (Pax Silica vs WAIO) could reinforce broader US-China decoupling themes that periodically weigh on EM Asia risk sentiment (CNY, KRW, TWD, VND) and capital flows.\n- Any softening/hardening of chip export curbs remains a swing factor for regional tech-exposed currencies (KRW, TWD).\n\n**Watch list**\n- Further US export-control actions tied to Pax Silica compliance.\n- Concrete benefits/obligations clarified for China's WAIO coalition members (Africa, Southeast Asia).",
       "summarized_at": "2026-10-27T19:33:03.816508+00:00"
+    },
+    {
+      "title": "To Hike or Not to Hike",
+      "published": "Tue, 27 Oct 2026 21:00:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/b6cba5bb-e3b5-4c57-bcd4-809c60ca9d8e.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Labor market",
+        "Rate hikes",
+        "Energy prices"
+      ],
+      "summary": "**Summary**\nMorgan Stanley strategists debate how Fed Chair Worsh frames policy at the upcoming FOMC: the Fed has already delivered a hike but faces the challenge of signaling more tightening ahead without committing to hiking at every meeting. For an EM trader, the pace and tone of Fed tightening is the dominant driver of UST yields, the dollar, and global risk appetite into year-end and 2027.\n\n**Key points**\n- The Fed already hiked once and is weighing a measured recalibration (the Ben Bernanke-style leisurely hike) versus an aggressive tightening cycle (the Don Kohn-style hike), reversing part of the 75bp of cuts delivered in 2025.\n- Growth is resilient and inflation sticky, but the labor market isn't overheating: payrolls running ~50k/month, low unemployment but decelerating wage growth, even amid the AI investment boom.\n- A key risk is residual seasonality in CPI data (seasonal-adjustment quirks causing stronger Jan/Feb prints), which Morgan Stanley expects to persist into 2027 and could trigger one additional rate hike in March before the Fed pauses as disinflation becomes clearer.\n- The 10-year UST yield round-tripped from above 5.25% down to ~5%, then back up toward 5.25%, driven first by the Fed's shift from easing in 2025 to tightening in 2026-27 (linked to energy-price-driven inflation), then by technical flows across the broader fixed income market (MBS, corporates), not a changed Fed view.\n\n**FX / rates implications**\n- A hawkish-but-measured Fed stance (gradual hikes vs. urgent tightening) supports a firmer USD and higher UST yields near-term, a headwind for EM Asia and LATAM carry trades (INR, IDR, MXN, BRL) if yields grind higher into early 2027.\n- Energy/commodity price pass-through to US inflation is flagged as the primary driver of the bond sell-off since March — EM commodity exporters (COP, CLP, BRL) should watch oil/energy prices as a transmission channel to US rates and thus to EM funding costs.\n- If March's seasonal inflation bump proves transitory and disinflation resumes, UST yields should fall back toward fair value, easing pressure on EM FX and supporting carry strategies into H2 2027.\n\n**Watch list**\n- Next FOMC meeting in early December — tone on hike frequency (every meeting vs. data-dependent) key for dollar/UST direction.\n- US CPI prints in January/February 2027 for residual seasonality distorting the inflation trend.\n- Labor market data (wage growth, unemployment rate) for signs of broad-based overheating beyond AI-driven business investment.\n- 10-year UST yield levels around 5%-5.25% as a gauge of technical vs. fundamental repricing.",
+      "summarized_at": "2026-10-27T21:32:17.103121+00:00"
+    },
+    {
+      "title": "How much is Anthropic really worth?",
+      "published": "Tue, 27 Oct 2026 20:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6ae101e25a3cc3c4c4f6273c/media.mp3",
+      "feed": "Financial Times Unhedged",
+      "provider": "Financial Times",
+      "priority": 2,
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "Equity valuation",
+        "S&P 500",
+        "Risk sentiment",
+        "Oil",
+        "WTI"
+      ],
+      "summary": "**Summary**\nAnthropic filed its S-1 ahead of a planned IPO before end-November, seeking a valuation reportedly around $1.5-2 trillion. Hosts argue the historical financials are nearly useless for valuation given explosive, unsustainable growth rates, and discuss the company's unusual public-benefit-corporation governance structure. While not an EM/FX story, the episode is a window into mega-cap tech capital raising and risk appetite in US equity/private markets.\n\n**Key points**\n- First-half 2025 revenue was $16.3bn, ~15x higher than the same period last year; Q2 revenue growth hit 1,368% year-on-year.\n- Hosts estimate a trillion-plus IPO valuation (comparisons made to SpaceX at ~$2 trillion and Meta at ~$1.8 trillion) will likely be set by bankers/management rather than derived from fundamentals.\n- Anthropic is structured as a public-benefit corporation with dual power centers: seven founders hold 50.1% of voting shares, and a five-person Long-Term Benefit Trust (including Ben Bernanke) nominates four of seven board seats.\n- Massive planned capex on data centers and AI research is expected to weigh on free cash flow for years.\n- Long and short segment: long airline ticket prices (oil costs, JetBlue credit distress, bonds trading near 40 cents on the dollar); short political headwear (Donald Trump Jr.'s Mongolia trip).\n\n**FX / rates implications**\n- No direct EM FX/rates read-through; this is idiosyncratic to US private/public tech equity capital markets rather than a macro driver.\n- Tangential signal: heavy anticipated AI capex (data centers) feeds into broader US corporate investment and labor-market narratives that occasionally factor into Fed policy debate, though not addressed directly here.\n- JetBlue credit distress and rising oil-driven airline costs are a minor read on US high-yield credit stress and energy cost pass-through, relevant to credit spread watchers.\n\n**Watch list**\n- Anthropic IPO pricing and timing, expected before end-November.\n- Final seating of the fifth Long-Term Benefit Trust member and board composition.\n- JetBlue creditor restructuring talks given distressed bond pricing (~40 cents on the dollar).",
+      "summarized_at": "2026-10-27T21:44:20.379283+00:00"
     }
   ],
   "last_digest_date": "2026-10-27"
