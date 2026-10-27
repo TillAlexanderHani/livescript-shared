@@ -19172,8 +19172,29 @@
       "feed": "MERICS China Podcast",
       "processed": "2026-10-26T22:14:04.243814+00:00",
       "episode_id": "2f8cac09c2ed6fdc"
+    },
+    "c199725dfa3776cf": {
+      "url": "https://rss.art19.com/episodes/7bd5ed24-99dd-43c6-8c02-6a7a6aaaad70.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Mr. China’s Great Enterprise: Tim Clissold and the Fight for a Chinese Civilisation A-level",
+      "feed": "Sinica Podcast (China)",
+      "processed": "2026-10-27T01:30:01.893306+00:00",
+      "episode_id": "c199725dfa3776cf"
+    },
+    "488c6ce0e9f78b49": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/20024962-cut-to-the-chase-the-search-for-diversification-beyond-equities.mp3",
+      "title": "Cut to the Chase! The search for diversification beyond equities",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-27T01:30:50.385163+00:00",
+      "episode_id": "488c6ce0e9f78b49"
+    },
+    "07cc736bce0798ea": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC5539160178.mp3",
+      "title": "The Credit Market Lens: The Other Side of Higher Yields",
+      "feed": "PIMCO Pod",
+      "processed": "2026-10-27T01:33:23.493936+00:00",
+      "episode_id": "07cc736bce0798ea"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-26T22:14:04.243855+00:00"
+  "last_updated": "2026-10-27T01:33:23.493989+00:00"
 }

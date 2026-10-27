@@ -1,4 +1,45 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Cut to the Chase! The search for diversification beyond equities",
+      "published": "Tue, 27 Oct 2026 08:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/20024962-cut-to-the-chase-the-search-for-diversification-beyond-equities.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 3,
+      "tags": [
+        "Equities",
+        "AI",
+        "Hedge funds",
+        "Private equity",
+        "Private debt",
+        "Credit",
+        "Risk sentiment",
+        "Diversification"
+      ],
+      "summary": "**Summary**\nStandard Chartered's Money Insights podcast examines portfolio diversification through a factor lens rather than simple asset-class allocation, warning that traditional 60/40 portfolios are far more concentrated in AI-related equity risk than investors realize. The discussion is relevant to macro traders as a read on equity market structure and crowding risk, though it does not touch EM FX/rates directly.\n\n**Key points**\n- A traditional 60/40 portfolio derives more than half its risk from equities, with roughly one-third of total portfolio risk coming from the broader AI ecosystem (semiconductors, hyperscalers, software platforms, power infrastructure).\n- Adding alternatives to a multi-asset portfolio can cut equity risk contribution from over 50% to around 35%, and AI-related risk from over 30% to below 20%, while preserving long-term return potential.\n- Within hedge funds: equity long-short remains the most equity-sensitive strategy (though still less exposed than equities outright); relative value strategies show the lowest beta/correlation to global equities; multi-strategy funds sit in between.\n- Private equity and venture capital remain closely linked to equity outcomes and growth/liquidity factors, offering strong long-term returns but limited diversification benefit; private debt shows the lowest sensitivity to equity factors, driven instead by contractual cash flow and credit fundamentals.\n\n**FX / rates implications**\n- No direct EM FX/rates read-through; this is a developed-market equity/alternatives allocation discussion, with implications mainly for global risk appetite and equity positioning rather than currencies or local rates.\n- A broad unwind of AI-equity concentration, if it materialized, could be a secondary risk-sentiment driver worth monitoring for spillover into EM risk assets, but the episode itself stops short of that linkage.\n\n**Watch list**\n- Monitor AI-equity concentration trends and any rotation into alternatives (hedge funds, private debt) as a gauge of broader equity risk appetite that could eventually spill into global risk sentiment.",
+      "summarized_at": "2026-10-27T01:30:50.385163+00:00"
+    },
+    {
+      "title": "The Credit Market Lens: The Other Side of Higher Yields",
+      "published": "Mon, 26 Oct 2026 23:10:00 -0000",
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC5539160178.mp3",
+      "feed": "PIMCO Pod",
+      "provider": "PIMCO",
+      "priority": 2,
+      "tags": [
+        "Credit",
+        "UST 10y",
+        "Risk sentiment",
+        "High Yield",
+        "Fiscal",
+        "France",
+        "CRE",
+        "Carry"
+      ],
+      "summary": "**Summary**\nPIMCO's Lotfi Karui argues the reset higher in yields has restored bonds' dual role as income and diversification, but the same higher-rate backdrop is now exposing differentiation among weaker borrowers: low-quality US high yield (CCC), AI-linked leveraged financing, European sovereigns (notably France), US housing, and commercial real estate. This is a developed-market credit/duration piece with limited direct EM linkage, but relevant background for a global rates desk tracking the US Treasury and core European sovereign backdrop.\n\n**Key points**\n- A tech-driven equity selloff this month saw UST yields fall on flight-to-safety, restoring the stock/bond hedge relationship after years of breakdown.\n- US high yield CCC spreads have decompressed sharply versus the broader HY index as investors reach less for incremental spread given attractive yields higher up the quality curve.\n- US yield backup reflects mostly real yields (growth repricing); European backup is driven more by breakeven inflation — French OAT spreads have widened materially, with weak growth, elevated funding costs and a long political calendar sustaining risk premium.\n- AI financing: compute demand remains strong, but markets are repricing sustainability of leverage models as debt supply grows and higher-quality alternatives (hyperscalers, IG data centers) compete for capital.\n- US housing: higher mortgage rates extend rather than deepen the existing downturn; affordability remains severely constrained, transaction volumes depressed.\n- CRE: REIT selloff looks like a valuation reset (cap rates rising) rather than a 2023-style credit event; CMBS spreads and financing markets remain resilient.\n\n**FX / rates implications**\n- UST yield behavior (real-yield driven, flight-to-safety dynamics) is a key input for USD/DXY direction and global duration/carry trades that underpin EM rates positioning.\n- French fiscal/political risk premium widening in OATs is a EUR-area credit signal; persistent European fiscal strain could weigh on EUR and broader risk sentiment.\n- Credit decompression in US HY/AI financing is an early indicator of tightening financial conditions that could spill into risk sentiment and EM credit spreads if it broadens.\n\n**Watch list**\n- France OAT spread trajectory and political calendar.\n- US HY CCC spread decompression as a stress gauge.\n- AI-linked debt issuance pricing and absorption in coming financing waves.",
+      "summarized_at": "2026-10-27T01:33:23.493936+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-27"
 }
