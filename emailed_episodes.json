@@ -19200,8 +19200,29 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-10-27T05:47:55.323973+00:00",
       "episode_id": "0477f4444bdc8f21"
+    },
+    "3a0af2ca185140b2": {
+      "url": "https://traffic.megaphone.fm/CLS5603610979.mp3",
+      "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-10-27T15:42:49.521475+00:00",
+      "episode_id": "3a0af2ca185140b2"
+    },
+    "60f7d88a3de06493": {
+      "url": "https://www.buzzsprout.com/1885786/episodes/20026618-the-week-that-was-23-oct-indian-markets-slide-as-crude-prices-surge.mp3",
+      "title": "The Week That Was - 23 Oct: Indian Markets Slide as Crude Prices Surge",
+      "feed": "Standard Chartered India - Money Insights",
+      "processed": "2026-10-27T15:45:26.155453+00:00",
+      "episode_id": "60f7d88a3de06493"
+    },
+    "88ac126474c788bb": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/7656aafb-9989-486f-9b21-031b75dabe80/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=7656aafb-9989-486f-9b21-031b75dabe80&feed=IFy3imsg&t=podcast&e=nx-s1-6018569&p=510325&d=606&size=9712205",
+      "title": "Why Meta is giving you Muse for free",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-27T15:47:27.239081+00:00",
+      "episode_id": "88ac126474c788bb"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-27T05:47:55.324017+00:00"
+  "last_updated": "2026-10-27T15:47:27.239128+00:00"
 }
