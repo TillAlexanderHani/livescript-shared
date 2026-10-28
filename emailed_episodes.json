@@ -19298,8 +19298,15 @@
       "feed": "Reuters Econ World",
       "processed": "2026-10-28T16:50:50.107342+00:00",
       "episode_id": "fd773d9ca8b2d954"
+    },
+    "58d2c976bcf6f7da": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/35eb6c56-0114-45cd-880b-ea4a7e25dca6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=35eb6c56-0114-45cd-880b-ea4a7e25dca6&feed=tc4zxWgX",
+      "title": "Anatomy of Anthropic, Buys Outside of AI, and What’s Next for Warsh? 10/27/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-10-28T19:14:53.740185+00:00",
+      "episode_id": "58d2c976bcf6f7da"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-28T16:50:50.107384+00:00"
+  "last_updated": "2026-10-28T19:14:53.740228+00:00"
 }
