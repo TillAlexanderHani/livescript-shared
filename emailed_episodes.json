@@ -19242,8 +19242,22 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-10-27T21:44:20.379283+00:00",
       "episode_id": "987a380d1d42c3f9"
+    },
+    "7c24a311f8fe12c0": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6ae0bb8933b363c95de3d422/media.mp3",
+      "title": "Can economics help explain Europe’s deadly witch trials?",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-10-28T06:33:47.501232+00:00",
+      "episode_id": "7c24a311f8fe12c0"
+    },
+    "7cbafd1849cd90c2": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/20031435-cut-to-the-chase-what-will-big-tech-earnings-reveal.mp3",
+      "title": "Cut to the Chase! What will Big Tech earnings reveal?",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-28T06:42:09.018900+00:00",
+      "episode_id": "7cbafd1849cd90c2"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-27T21:44:20.379331+00:00"
+  "last_updated": "2026-10-28T06:42:09.018942+00:00"
 }
