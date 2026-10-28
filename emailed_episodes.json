@@ -19256,8 +19256,50 @@
       "feed": "Standard Chartered Money Insights",
       "processed": "2026-10-28T06:42:09.018900+00:00",
       "episode_id": "7cbafd1849cd90c2"
+    },
+    "c28fe81cfea108fe": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8901879985.mp3",
+      "title": "Goldman Sachs Chairman and CEO David Solomon on AI: Implementation, Accountability, and Jobs",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-10-28T16:20:20.585557+00:00",
+      "episode_id": "c28fe81cfea108fe"
+    },
+    "a1165b65653566c6": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
+      "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+      "feed": "Planet Money",
+      "processed": "2026-10-28T16:31:43.695389+00:00",
+      "episode_id": "a1165b65653566c6"
+    },
+    "df6f8e054f80c8e1": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/c2c78317-e6b2-4124-82bd-0606615f5325/group-item/af6a7bf7-6c98-4b7b-924a-25b76d372d36/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "Momentification of Everything: power, gas and satellite intel with Bill Perkins",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-10-28T16:38:39.752290+00:00",
+      "episode_id": "df6f8e054f80c8e1"
+    },
+    "0918f3d2cae0f25c": {
+      "url": "https://traffic.megaphone.fm/BLM5796086758.mp3",
+      "title": "All Options Considered: Is 100 High for Rates Volatility?",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-10-28T16:40:00.610654+00:00",
+      "episode_id": "0918f3d2cae0f25c"
+    },
+    "ab62778468cb129e": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/92535f1c-d358-49d4-85db-0df11aae734c/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=92535f1c-d358-49d4-85db-0df11aae734c&feed=IFy3imsg&t=podcast&e=nx-s1-6019698&p=510325&d=559&size=8959043",
+      "title": "Is it time to abolish the MBA?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-28T16:41:47.170867+00:00",
+      "episode_id": "ab62778468cb129e"
+    },
+    "fd773d9ca8b2d954": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH5257610476.mp3",
+      "title": "An economist behind the Prop 40 California wealth tax",
+      "feed": "Reuters Econ World",
+      "processed": "2026-10-28T16:50:50.107342+00:00",
+      "episode_id": "fd773d9ca8b2d954"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-28T06:42:09.018942+00:00"
+  "last_updated": "2026-10-28T16:50:50.107384+00:00"
 }
