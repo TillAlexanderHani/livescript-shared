@@ -19326,8 +19326,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-10-29T16:42:51.848216+00:00",
       "episode_id": "7e7c4866419be0b0"
+    },
+    "7e1a2fadcdbb7e0c": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_VALLEE.mp3?dest-id=1929056",
+      "title": "Ep. 382: Shahin Vallée on French Political Risk, Le Pen's Rise, and European Bond Spreads",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-10-29T19:31:26.958004+00:00",
+      "episode_id": "7e1a2fadcdbb7e0c"
+    },
+    "399874702e7a1663": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/a830f773-b13e-4ffb-8e2b-b4f10170ca4e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "What Wall Street Really Thinks About the AI Trade Now",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-29T19:37:40.777494+00:00",
+      "episode_id": "399874702e7a1663"
+    },
+    "b231b62f4157eace": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Clean_Tech.mp3?dest-id=4287628",
+      "title": "China Finds New Ways to Expand Its Clean Tech Abroad",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-10-29T19:46:24.894635+00:00",
+      "episode_id": "b231b62f4157eace"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-29T16:42:51.848258+00:00"
+  "last_updated": "2026-10-29T19:46:24.894676+00:00"
 }
