@@ -1,4 +1,24 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Signals to Watch in the U.S. Midterms",
+      "published": "Wed, 28 Oct 2026 22:00:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/9f4cecdb-d47a-4594-b018-81c87222c2e0.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 3,
+      "tags": [
+        "Elections",
+        "S&P 500",
+        "Fiscal",
+        "Inflation",
+        "Tariffs",
+        "Credit",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nMorgan Stanley strategists preview the Nov 3 US midterms, arguing the election outcome matters less for markets than what happens after — fiscal negotiations, tax policy drift, and state-level AI infrastructure decisions. The framing is US-domestic but carries read-through for global risk sentiment and the fiscal/tax backdrop that shapes Treasury supply and the dollar.\n\n**Key points**\n- Midterm signal monitor shows a challenging setup for the incumbent party: Democrats lead the generic congressional ballot by ~8 points, presidential approval is 38.8% (below the 40% threshold where the opposition gains momentum), October consumer sentiment is the lowest pre-midterm reading in University of Michigan survey history, and September gasoline prices rose 37.6% y/y, tied partly to the Iran conflict.\n- Executive-branch policy (tariffs, deregulation, immigration, export controls, geopolitics) stays the key uncertainty driver regardless of midterm outcome, since the president retains veto power through 2027 — no reversal of last year's OBBA tax policy expected.\n- Divided government would complicate government funding, the debt limit, and defense spending (NDAA due December) negotiations; S&P 500 has historically averaged ~14% in the year after a midterm vs ~3% in the midterm year itself, but 2025 has already outperformed that pattern.\n- AI/data-center buildout seen continuing nationally (bipartisan, China-competition driven) but facing growing state/local pushback on electricity prices and water usage — a theme for munis and utilities.\n\n**FX / rates implications**\n- Limited direct EM read-through; the relevant channel is US fiscal/political uncertainty feeding into UST supply, the debt-limit/NDAA calendar, and broad risk sentiment that indirectly affects USD and EM carry trades into year-end.\n- Elevated US borrowing costs and persistent inflation cited as affordability pressures — consistent with a higher-for-longer rates backdrop relevant to EM rate differentials.\n\n**Watch list**\n- Nov 3 midterm results and subsequent lame-duck fiscal calendar: government funding, debt limit, NDAA (due December).\n- Potential US-China meetings before year-end.\n- State/local electricity-cost and AI-infrastructure policy decisions affecting municipal bond issuers.",
+      "summarized_at": "2026-10-29T01:20:33.186146+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-29"
 }
