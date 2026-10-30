@@ -1,4 +1,46 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How Digital Assets Are Rewiring Financial Markets",
+      "published": "Thu, 29 Oct 2026 21:00:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a1d9d29a-a423-4891-847d-5334c306b074.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 2,
+      "tags": [
+        "Crypto",
+        "Tokenization",
+        "Stablecoins",
+        "Digital assets",
+        "Blockchain",
+        "Regulation",
+        "Collateral management",
+        "Capital markets infrastructure"
+      ],
+      "summary": "**Summary**\nMorgan Stanley strategists discuss how tokenization and stablecoins are reshaping financial market infrastructure beyond crypto price speculation, with implications for collateral management, settlement and 24/7 trading. Relevant to macro traders mainly as a structural/infrastructure theme rather than a near-term price driver.\n\n**Key points**\n- Tokenized real-world assets are currently ~$30-40bn but Morgan Stanley forecasts growth to ~$2.3 trillion by 2030.\n- Tokenized money market funds and government securities are among the fastest-growing segments, valued for easier cross-institution transfer and use as collateral.\n- Stablecoin payment volumes are approaching ~$100bn/month, still largely crypto-focused but increasingly used in real payments.\n- Roughly a quarter of financial firms by count (60% by market cap) have announced, piloted or launched digital asset initiatives.\n- US regulatory backdrop: the CLARITY Act (crypto market infrastructure) has stalled relative to expectations; the GENIUS Act (stablecoin regulation) takes effect January 2027; SEC/CFTC are issuing guidance and innovation exemptions in the interim.\n- Speakers see a multi-year, hybrid transition rather than a binary shift, drawing parallels to the decades-long adoption of electronic trading.\n\n**FX / rates implications**\n- Tokenized government securities and collateral mobility could eventually improve cross-border collateral efficiency relevant to repo/funding markets, but no direct near-term read-through to specific EM or G10 currencies was discussed.\n- Broader 24/7 settlement infrastructure, if adopted at scale, could over time affect how FX and rates markets clear outside traditional hours, a secondary structural consideration rather than an immediate trading catalyst.\n\n**Watch list**\n- GENIUS Act stablecoin rules entering force January 2027.\n- Further SEC/CFTC rulemaking and innovation exemptions following the CLARITY Act's stalled progress.\n- Growth trajectory of tokenized money market funds/government securities as a proxy for institutional collateral adoption.",
+      "summarized_at": "2026-10-30T01:28:49.024251+00:00"
+    },
+    {
+      "title": "Is AI Crowding Out the Rest of the Economy?",
+      "published": "Thu, 29 Oct 2026 22:04:00 -0000",
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC9832330933.mp3",
+      "feed": "PIMCO Pod",
+      "provider": "PIMCO",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "UST 10y",
+        "Inflation",
+        "Credit",
+        "Risk sentiment",
+        "Oil",
+        "S&P 500",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nPIMCO examines whether the US AI investment boom (announced hyperscaler capex pointing to over $1 trillion annually) is genuinely adding to GDP growth or simply reallocating resources away from other sectors. Since US growth has stayed moderate at roughly 2-2.5% despite an investment surge comparable to the 1990s internet/telecom boom, the analysis concludes the economy is undergoing a crowding-out adjustment driven significantly by higher interest rates — a dynamic with direct implications for the Fed's rate path, the dollar, and global risk appetite that matter to EM positioning.\n\n**Key points**\n- Hyperscaler capex plans exceed $1 trillion annually, larger than the housing/shale booms, yet aggregate GDP growth hasn't accelerated proportionally.\n- Rising UST yields have been driven mainly by repricing of expected real short-term rates, not term premia; Middle East conflict-driven energy price increases are cited as a key driver of that repricing.\n- AI capex is largely insensitive to rates (strong hyperscaler balance sheets, short-lived assets), so monetary tightening instead squeezes housing, small firms, leveraged companies and traditional investment.\n- Credit spreads have widened for lower-quality borrowers and high-yield issuance slowed sharply in October after a strong September, per Goldman Sachs research cited.\n- Roughly 90% of US high-tech equipment is imported, meaning the AI boom is partly financed via a wider US trade/current account deficit.\n- Equity dispersion is historically high — more S&P 500 constituents show negative correlation to the index despite ~12% YTD index gains.\n- Labor data show disproportionate job separations among above-median earners, softening wage/income growth.\n\n**FX / rates implications**\n- A narrative of structurally higher US real rates and a wider US current account deficit (from AI-equipment imports) is USD/UST-relevant: higher-for-longer US yields support carry trades into EM but also tighten global financial conditions.\n- Credit spread widening for lower-quality US borrowers is an early warning for broader EM credit/sovereign spread sensitivity if it spreads.\n- Middle East-driven energy price shocks cited as a rate driver keep oil (Brent/WTI) as a transmission channel to EM inflation and central bank policy, especially oil-importing Asia (India, Indonesia, Philippines) versus exporters.\n\n**Watch list**\n- Credit market lens (Goldman Sachs) updates on AI-linked bond issuance and spread moves.\n- US labor market data for further high-wage job separations signaling demand destruction.\n- Fed policy expectations amid persistent above-potential growth and energy-driven inflation risk.\n- US current account/import trends as a release valve for AI-related overheating.",
+      "summarized_at": "2026-10-30T01:47:51.177854+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-30"
 }
