@@ -19396,8 +19396,78 @@
       "feed": "Macro Voices",
       "processed": "2026-10-30T06:55:55.195730+00:00",
       "episode_id": "db6a57bd56c1b650"
+    },
+    "24eb3ad42386efe8": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6ae477afca7c04d3987e157d/media.mp3",
+      "title": "What Brazil's election means for LatAm",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-10-30T16:21:11.962042+00:00",
+      "episode_id": "24eb3ad42386efe8"
+    },
+    "c078646521af2a6c": {
+      "url": "https://mcdn.podbean.com/mf/web/28cekffnnjwdcqhp/261030GDP_Greg_Raphael_KAL-1-W39MF9LF.mp3",
+      "title": "Global Data Pod: Lagarde to depart, but the direction of travel remains",
+      "feed": "Global Data Pod",
+      "processed": "2026-10-30T16:24:26.161511+00:00",
+      "episode_id": "c078646521af2a6c"
+    },
+    "0e1a297f82a1e7c0": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/cbaad2bb-14e3-4e9e-98cf-b4f2015679b2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-10-30T16:39:46.358016+00:00",
+      "episode_id": "0e1a297f82a1e7c0"
+    },
+    "888e2755cf57023c": {
+      "url": "https://traffic.megaphone.fm/BLM1702912643.mp3",
+      "title": "Credit Crunch: PGIM Credit’s Peters on Convergence, Crowding Out",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-10-30T16:47:48.476592+00:00",
+      "episode_id": "888e2755cf57023c"
+    },
+    "3ce2447e9b9a794d": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/20045929-through-the-noise-transitioning-to-mid-cycle.mp3",
+      "title": "Through the noise: Transitioning to mid-cycle",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-10-30T16:49:44.860510+00:00",
+      "episode_id": "3ce2447e9b9a794d"
+    },
+    "d24f58f94f495f4c": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/7d245fc0-69a8-472d-a682-31b5090ea5ef/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=7d245fc0-69a8-472d-a682-31b5090ea5ef&feed=IFy3imsg&t=podcast&e=nx-s1-6022553&p=510325&d=563&size=9017556",
+      "title": "Corporate tax cheats, recession deal eats and costly Halloween treats!",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-10-30T16:51:45.459532+00:00",
+      "episode_id": "d24f58f94f495f4c"
+    },
+    "9f5c096857f81aeb": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261030_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead – Midterm madness?",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-10-30T17:00:28.418936+00:00",
+      "episode_id": "9f5c096857f81aeb"
+    },
+    "c2ee6aeae2f96475": {
+      "url": "https://media.transistor.fm/56620621/8e03bcae.mp3",
+      "title": "Two elections and a Budget",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-10-30T17:03:48.281409+00:00",
+      "episode_id": "c2ee6aeae2f96475"
+    },
+    "d99f5ec55bba5dec": {
+      "url": "https://www.buzzsprout.com/1825833/episodes/20046205-chinese-soft-power-in-africa-with-maria-repnikova-and-daria-impiombato.mp3",
+      "title": "Chinese Soft Power in Africa, with Maria Repnikova and Daria Impiombato",
+      "feed": "MERICS China Podcast",
+      "processed": "2026-10-30T17:08:37.843309+00:00",
+      "episode_id": "d99f5ec55bba5dec"
+    },
+    "bee58dc04915812e": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC6272551528.mp3",
+      "title": "Fed Pauses as Rate Recalibration Continues",
+      "feed": "PIMCO Pod",
+      "processed": "2026-10-30T17:13:53.306909+00:00",
+      "episode_id": "bee58dc04915812e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-30T06:55:55.195773+00:00"
+  "last_updated": "2026-10-30T17:13:53.306953+00:00"
 }
