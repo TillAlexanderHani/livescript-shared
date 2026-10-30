@@ -19466,8 +19466,29 @@
       "feed": "PIMCO Pod",
       "processed": "2026-10-30T17:13:53.306909+00:00",
       "episode_id": "bee58dc04915812e"
+    },
+    "9fe86db367bff51b": {
+      "url": "https://mcdn.podbean.com/mf/web/x8hg4sjk6pftpird/AARDgebuadze103026KAL-1-1QQVSJCL.mp3",
+      "title": "Global Commodities: Triple digit gas, again",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-10-30T18:55:17.928301+00:00",
+      "episode_id": "9fe86db367bff51b"
+    },
+    "ea8fea40048a0f50": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/20046223-how-the-us-mid-terms-and-anthropic-are-disrupting-global-capital-markets.mp3",
+      "title": "How the US mid-terms and Anthropic are disrupting global capital markets",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-10-30T19:08:13.596831+00:00",
+      "episode_id": "ea8fea40048a0f50"
+    },
+    "1230a48c9925c277": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/20041925-lula-s-comeback-and-challenges-ahead.mp3",
+      "title": "Lula’s Comeback and Challenges Ahead",
+      "feed": "The Americas Quarterly Podcast",
+      "processed": "2026-10-30T19:17:43.305382+00:00",
+      "episode_id": "1230a48c9925c277"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-30T17:13:53.306953+00:00"
+  "last_updated": "2026-10-30T19:17:43.305445+00:00"
 }
