@@ -19487,8 +19487,29 @@
       "feed": "The Americas Quarterly Podcast",
       "processed": "2026-10-30T19:17:43.305382+00:00",
       "episode_id": "1230a48c9925c277"
+    },
+    "d2b4b98efa69b1a6": {
+      "url": "https://mcdn.podbean.com/mf/web/a78zu3nxazbsr7rc/AARBarry30Oct26_KAL-1-I9M59587.mp3",
+      "title": "US Rates: Between a rock and a hard place",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-10-30T21:45:04.298813+00:00",
+      "episode_id": "d2b4b98efa69b1a6"
+    },
+    "6383eb31a44a8e10": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/259e778c-617f-4d78-97a4-116651eb513b.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "The Curious Calm of Credit Markets",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-10-30T21:46:46.471521+00:00",
+      "episode_id": "6383eb31a44a8e10"
+    },
+    "f0f4ad1f9e780c19": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD4354719969.mp3",
+      "title": "Brookfield’s Connor Teskey on the Real Bottleneck in the AI Buildout",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-10-30T21:56:42.577517+00:00",
+      "episode_id": "f0f4ad1f9e780c19"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-30T19:17:43.305445+00:00"
+  "last_updated": "2026-10-30T21:56:42.577558+00:00"
 }
