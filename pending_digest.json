@@ -1,4 +1,69 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Global Data Pod Weekender: A good foundation",
+      "published": "Fri, 30 Oct 2026 17:20:26 -0400",
+      "url": "https://mcdn.podbean.com/mf/web/4tfytfg85yrkqu9z/Weekender_TNQYSSWQ_30Oct26.mp3",
+      "feed": "Global Data Pod",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "GDP",
+        "Payrolls",
+        "PMI",
+        "Inflation",
+        "ECB",
+        "EUR",
+        "Brent",
+        "Oil",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nJPMorgan economists Bruce Kasman and Joe Lupton debate the US/global growth outlook after a strong but imbalanced Q3 GDP print, with the Fed's December decision, labor market handoff, and an oil-price geopolitical risk as the key swing factors for the quarter ahead.\n\n**Key points**\n- Global GDP tracking 3.1% annualized, nearly a point above trend; US domestic demand grew 6.6% annualized, the fastest in a quarter-century ex-COVID, but a 3%-of-GDP net trade drag masked underlying imbalance.\n- Labor income lagged: 5.5% nominal GDP growth produced only 3.4% employment compensation growth; next week's payroll print is forecast at just 75k (vs. a 100k quarterly run-rate and earlier 150k hopes).\n- Fed seen hiking in December with ~70-75% odds (one economist) vs. 25-40% odds of a pause from the other; Fed's Worsh called dovish-leaning despite hawkish prepared remarks on strong growth/high inflation.\n- Core PCE/CPI tracking 0.2-0.3% MoM over next two prints; a high print could push a December hike plus a faster move to remove last year's easing (toward 4.50%).\n- Europe: Q4 growth tracked at ~1.5% (vs. US ~1.75%); France flagged as a political risk with Moody's holding off a downgrade, but market underpricing of a far-left election surprise next year; German sentiment notably more optimistic in Frankfurt meetings.\n- Oil: forecast still ~$70/bbl by Q1, but Middle East conflict intensification seen as near-imminent from Dubai conversations, creating two-sided upside risk to crude.\n\n**FX / rates implications**\n- A December Fed hike (base case, ~70%+ probability per one desk) with a weak payrolls print would keep USD/DXY and UST yields volatile into year-end; a soft labor report could tip sentiment toward a January pause instead, a key driver for EM carry trades.\n- Elevated/sticky oil prices (upside risk toward $90-115 vs. $70 base case) are a negative terms-of-trade shock for oil-importing EM Asia (India, Philippines, Thailand) and support for LatAm exporters (Mexico, Colombia); geopolitical escalation risk warrants hedging.\n- Strong Japan/Korea September production and expected strong Asian PMIs support the 'Asian production pickup' rotation thesis, constructive for KRW/JPY-linked trade and regional risk sentiment.\n- EUR faces French political-risk headline risk into next year's election with underpriced far-left tail risk; broad DM growth deceleration into Q4 is a risk-sentiment headwind for EM FX broadly.\n\n**Watch list**\n- US October payrolls next week (desk forecast 75k vs. ~100-125k needed to validate the bullish modal view).\n- US PMIs next week, especially Asian PMI readings for confirmation of the production-pickup rotation.\n- FOMC December meeting and any shift in hike/pause odds; next two core PCE/CPI prints (0.2-0.3% range watched for upside surprise).\n- Middle East conflict developments and oil price trajectory toward/away from the $70/bbl Q1 forecast.\n- French political developments ahead of next year's election and any Moody's rating follow-through.",
+      "summarized_at": "2026-10-31T01:12:25.480735+00:00"
+    },
+    {
+      "title": "Ep95 The Hidden Energy Cost of AI in Southeast Asia with Junice Yeo, Eco-Business",
+      "published": "Sat, 31 Oct 2026 08:00:00 +0800",
+      "url": "https://op3.dev/e/https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/20049233-ep95-the-hidden-energy-cost-of-ai-in-southeast-asia-with-junice-yeo-eco-business.mp3",
+      "feed": "Asia Climate Finance Podcast",
+      "provider": "Asia Climate Finance",
+      "priority": 2,
+      "tags": [
+        "ASEAN",
+        "China",
+        "Southeast Asia",
+        "Energy",
+        "Renewable Energy",
+        "Data Centers",
+        "Trade",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nThis episode examines how explosive AI/data-center growth is straining Southeast Asia's power grids and risks locking the region back into fossil fuels, while also assessing progress (and roadblocks) on the long-discussed ASEAN power grid. It is a climate-finance/ESG conversation rather than a markets one, but it touches on regional energy demand, China-ASEAN trade flows and sovereignty dynamics that have second-order relevance to Southeast Asian growth and investment narratives.\n\n**Key points**\n- Data center power consumption in Southeast Asia is projected to quadruple from 2.6GW (2025) to 10.7GW (2035), equal to ~10% of regional power demand growth and roughly all of Singapore's 2024 annual electricity use.\n- Google sources only 0.15% of its Southeast Asia electricity from renewables, illustrating the gap between corporate \"100% renewable\" accounting claims and physical grid reality.\n- Chinese clean-tech exports to Southeast Asia hit ~$20bn (Jan-Jul 2025), up ~50% y/y, with ASEAN taking ~57% of China's solar exports to Asia; BYD and Chery are building vehicle plants in Thailand/Vietnam/Malaysia.\n- The ASEAN Power Grid (APG) remains a patchwork of bilateral links (Laos-Thailand hydro, Malaysia-Singapore, Thailand-Cambodia) rather than an integrated grid; political/energy-sovereignty concerns and inconsistent regulatory regimes are bigger barriers than engineering.\n- Southeast Asian power demand is already growing 3-7%/year from economic development alone, before AI-driven demand is added, unlike flat/negative demand growth in Europe/Japan.\n\n**FX / rates implications**\n- No direct FX/rates signal, but rising power-import bills and fossil-fuel subsidy persistence in Malaysia, Vietnam and other ASEAN states could pressure current accounts/fiscal balances if gas/coal demand is locked in for 30-40 years as a hedge against clean-energy shortfalls.\n- Heavy Chinese capital/hardware penetration into regional clean-tech and EV supply chains (BYD, Chery) reinforces China-ASEAN trade linkages relevant to regional growth and CNY-linked supply chain exposure, though not a direct rates catalyst.\n\n**Watch list**\n- EcoBusiness/UNDP \"Unlocking AI for Sustainability\" summit in Singapore, November.\n- Data center buildout pace in Malaysia and Vietnam versus grid/clean-power capacity additions.\n- Any ASEAN moves toward fossil-fuel subsidy removal, which would reprice carbon externalities into regional financial markets.",
+      "summarized_at": "2026-10-31T01:24:41.229272+00:00"
+    },
+    {
+      "title": "Is this how the great international borrowing spree ends?",
+      "published": "Sat, 31 Oct 2026 00:15:00 +0000",
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
+      "feed": "Planet Money",
+      "provider": "NPR",
+      "priority": 3,
+      "tags": [
+        "France",
+        "EUR",
+        "ECB",
+        "Sovereign debt",
+        "Fiscal",
+        "Credit spreads",
+        "UST 10y",
+        "Italy",
+        "Greece",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nThis Planet Money episode examines the French sovereign debt crisis brewing in the OAT market, where investors now demand higher yields from France than from Greece or Italy, and sets it in the context of a broader multi-decade borrowing spree among rich-world governments. For a macro trader, it's a useful read on how debt-trajectory credibility, not just debt-to-GDP levels, drives sovereign risk pricing — and how fragile that credibility can be once political dysfunction sets in.\n\n**Key points**\n- French 10-year bond yields spiked from ~3% to near 5%, the highest since the 2000s, as the France-Germany spread (the market's fear gauge) widened sharply after political paralysis and nationwide \"cost of living\" protests since September.\n- France's debt-to-GDP is ~120%, below Greece's 136% and Italy's 137%, yet investors now price France as riskier — markets weight trajectory and political credibility over absolute debt levels.\n- Rich-country debt levels have broken historic norms: UK 102%, US 126%, Italy 137% of GDP, versus a pre-2008 informal 60% ceiling; economist Olivier Blanchard argues debt is sustainable if growth exceeds borrowing costs, but warns France may already be in the \"danger zone\" where investor doubt becomes self-reinforcing (a sovereign doom loop).\n- Backstops exist (ECB crisis tools, EU rescue fund) but none has tested a bailout of an economy this large; the fund would impose austerity conditions.\n\n**FX / rates implications**\n- EUR and French OAT-Bund spreads are the direct read; sustained widening signals eurozone fragmentation risk reminiscent of 2011-12, a theme that can pressure EUR and spill into broader risk sentiment.\n- A disorderly French debt event would likely trigger global flight-to-quality, pressuring EM FX/rates broadly (risk-off channel) even though EM Asia/LATAM aren't directly named.\n- The US debt/deficit comparison (126% of GDP, larger deficits than France) is a reminder that UST term-premium and USD credibility narratives remain a tail risk worth monitoring.\n\n**Watch list**\n- France's OAT-Bund spread and any ECB/EU rescue-fund signaling.\n- French budget negotiations and further unrest; political ability (or inability) to pass a credible deficit-reduction path.",
+      "summarized_at": "2026-10-31T01:27:55.531533+00:00"
+    }
+  ],
   "last_digest_date": "2026-10-31"
 }

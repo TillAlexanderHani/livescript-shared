@@ -19508,8 +19508,29 @@
       "feed": "Goldman Sachs Exchanges",
       "processed": "2026-10-30T21:56:42.577517+00:00",
       "episode_id": "f0f4ad1f9e780c19"
+    },
+    "3ca96c785f6dedb0": {
+      "url": "https://mcdn.podbean.com/mf/web/4tfytfg85yrkqu9z/Weekender_TNQYSSWQ_30Oct26.mp3",
+      "title": "Global Data Pod Weekender: A good foundation",
+      "feed": "Global Data Pod",
+      "processed": "2026-10-31T01:12:25.480735+00:00",
+      "episode_id": "3ca96c785f6dedb0"
+    },
+    "ef87f6514dce0eb3": {
+      "url": "https://op3.dev/e/https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/20049233-ep95-the-hidden-energy-cost-of-ai-in-southeast-asia-with-junice-yeo-eco-business.mp3",
+      "title": "Ep95 The Hidden Energy Cost of AI in Southeast Asia with Junice Yeo, Eco-Business",
+      "feed": "Asia Climate Finance Podcast",
+      "processed": "2026-10-31T01:24:41.229272+00:00",
+      "episode_id": "ef87f6514dce0eb3"
+    },
+    "649cea54406cfa35": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
+      "title": "Is this how the great international borrowing spree ends?",
+      "feed": "Planet Money",
+      "processed": "2026-10-31T01:27:55.531533+00:00",
+      "episode_id": "649cea54406cfa35"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-30T21:56:42.577558+00:00"
+  "last_updated": "2026-10-31T01:27:55.531578+00:00"
 }
