@@ -19529,8 +19529,15 @@
       "feed": "Planet Money",
       "processed": "2026-10-31T01:27:55.531533+00:00",
       "episode_id": "649cea54406cfa35"
+    },
+    "a953f6792c07c943": {
+      "url": "https://mcdn.podbean.com/mf/web/6tasnq9y4nqe9ace/Podcast_10-30-26.mp3",
+      "title": "Horror stories with Mike & Nicole (because what’s scarier than oil markets?)",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-11-01T00:40:03.400079+00:00",
+      "episode_id": "a953f6792c07c943"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-10-31T01:27:55.531578+00:00"
+  "last_updated": "2026-11-01T00:40:03.400123+00:00"
 }
