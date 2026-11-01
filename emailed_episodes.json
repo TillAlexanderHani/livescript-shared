@@ -19536,8 +19536,15 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "processed": "2026-11-01T00:40:03.400079+00:00",
       "episode_id": "a953f6792c07c943"
+    },
+    "6ee21c7d262b1eb3": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/368df236-a14c-4c91-8dc8-dd82ff8aa052/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=368df236-a14c-4c91-8dc8-dd82ff8aa052&feed=tc4zxWgX",
+      "title": "Fed Rate Debate and AI Sell-Off at the Shadow Fed Conference 10/30/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-01T18:43:36.741669+00:00",
+      "episode_id": "6ee21c7d262b1eb3"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-01T00:40:03.400123+00:00"
+  "last_updated": "2026-11-01T18:43:36.741706+00:00"
 }
