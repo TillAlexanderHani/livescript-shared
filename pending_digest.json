@@ -1,27 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "Fed Rate Debate and AI Sell-Off at the Shadow Fed Conference 10/30/26",
-      "published": "Fri, 30 Oct 2026 20:55:13 +0000",
-      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/368df236-a14c-4c91-8dc8-dd82ff8aa052/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=368df236-a14c-4c91-8dc8-dd82ff8aa052&feed=tc4zxWgX",
-      "feed": "CNBC - The Exchange",
-      "provider": "CNBC",
-      "priority": 4,
-      "tags": [
-        "Fed",
-        "UST 10y",
-        "Treasury",
-        "Inflation",
-        "CPI",
-        "S&P 500",
-        "Credit",
-        "Risk sentiment",
-        "Fiscal",
-        "USD"
-      ],
-      "summary": "**Summary**\nLive coverage from the Shadow Fed conference captures a sharp tech sell-off (Nasdaq -3%, S&P -1.8%, Intel -30%) alongside a hawkish turn from regional Fed presidents just days after Chair Kevin Warsh held rates steady but signaled fewer meetings ahead. The combination of AI-bubble jitters and renewed Fed tightening rhetoric is the key cross-asset story for rates and risk sentiment globally.\n\n**Key points**\n- Dallas Fed's Lorie Logan says the Fed needs at least two more 25bp hikes before pausing, calling policy \"not restrictive\" and inflation elevated; Musalem and Barkin also struck hawkish tones, with Barkin citing CPI near 3.7% y/y, above target for five years.\n- Former Fed presidents Lacker and Bullard flagged surprise at the lack of urgency on inflation and discussed nominal GDP targeting as a possible new framework anchor.\n- Treasury's August decision to triple long-end buyback sizes broke its usual predictable issuance playbook (per Lou Crandall of Wrightson ICAP); next Wednesday's refunding announcement is now a bigger wild card, with possible increases to 2/3/5-year auction sizes amid rising bill issuance and elevated deficits.\n- Odds of a third Fed hike next year have fallen below 50%, even as sell-off and AI capex/data-center political backlash (Trennerd, Baird) weigh on sentiment; Binance disclosed a record $6.3bn crypto hack, possibly North Korea-linked.\n\n**FX / rates implications**\n- Hawkish Fed speak (Logan, Musalem, Barkin) pushing back against a near-term pause narrative is USD-supportive and UST-bearish at the margin, a headwind for EM carry trades and EM FX funded via dollar liquidity.\n- Treasury's erratic buyback/issuance signaling and potential auction-size increases add UST term-premium risk, a key input for EM local-rates curves and USD funding costs.\n- Tech-led risk-off (Nasdaq/S&P) and AI-bubble repricing could spill into broader risk sentiment, pressuring high-beta EM Asia/LATAM FX if it persists.\n\n**Watch list**\n- Treasury quarterly refunding announcement next Wednesday — auction size and buyback guidance.\n- Fed's remaining 2026 meeting cadence (one non-live meeting flagged for H2) and further hawkish Fed speak.\n- Follow-through in AI/tech earnings and data-center political backlash ahead of Tuesday midterms.",
-      "summarized_at": "2026-11-01T18:43:36.741669+00:00"
-    }
-  ],
-  "last_digest_date": "2026-11-01"
+  "episodes": [],
+  "last_digest_date": "2026-11-02"
 }
