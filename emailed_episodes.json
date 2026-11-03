@@ -19606,8 +19606,22 @@
       "feed": "The China-Global South Podcast",
       "processed": "2026-11-03T17:41:34.155729+00:00",
       "episode_id": "588a9e1f1471e5d3"
+    },
+    "0b1dc2e1ddbbfe76": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/3f09ba9e-49e9-4a97-8c64-029a4cee0b21/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=3f09ba9e-49e9-4a97-8c64-029a4cee0b21&feed=tc4zxWgX",
+      "title": "Oil Slides, AI Stocks Rally, Midterm Stakes and Market Rotation 11/3/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-03T20:24:44.665222+00:00",
+      "episode_id": "0b1dc2e1ddbbfe76"
+    },
+    "a1090ddfcb4b5c0a": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC4410725783.mp3",
+      "title": "CRE: A Reset, Not a Replay",
+      "feed": "PIMCO Pod",
+      "processed": "2026-11-03T20:36:57.446226+00:00",
+      "episode_id": "a1090ddfcb4b5c0a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-03T17:41:34.155769+00:00"
+  "last_updated": "2026-11-03T20:36:57.446260+00:00"
 }
