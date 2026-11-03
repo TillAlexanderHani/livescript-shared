@@ -19585,8 +19585,29 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-11-03T07:30:19.443981+00:00",
       "episode_id": "0165de74232a31be"
+    },
+    "edd3acdc95cc2b9e": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8d41f02c-cfbb-4d5d-9940-b4f6012379c2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "An Election Day Special With Nate Silver",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-11-03T17:34:30.324212+00:00",
+      "episode_id": "edd3acdc95cc2b9e"
+    },
+    "00ea92d51baa42ce": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/c910bb0b-629a-4a47-8057-3c07b0842056/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=c910bb0b-629a-4a47-8057-3c07b0842056&feed=IFy3imsg&t=podcast&e=nx-s1-6026712&p=510325&d=511&size=8183309",
+      "title": "Is it time to reconsider the adjustable rate mortgage?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-11-03T17:36:17.295961+00:00",
+      "episode_id": "00ea92d51baa42ce"
+    },
+    "588a9e1f1471e5d3": {
+      "url": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Alonso_E._Illueca.mp3?dest-id=4287628",
+      "title": "Can the U.S. Push China Out of Peru and Latin America?",
+      "feed": "The China-Global South Podcast",
+      "processed": "2026-11-03T17:41:34.155729+00:00",
+      "episode_id": "588a9e1f1471e5d3"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-03T07:30:19.444027+00:00"
+  "last_updated": "2026-11-03T17:41:34.155769+00:00"
 }
