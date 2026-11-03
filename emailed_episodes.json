@@ -19557,8 +19557,15 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-11-02T22:51:40.417146+00:00",
       "episode_id": "3855b62bedc140d2"
+    },
+    "31aaaa1d4ec8d256": {
+      "url": "https://traffic.megaphone.fm/BLM7697056070.mp3",
+      "title": "Macro Matters: Northern Trust’s Bahuguna on AI and Equities",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-11-03T00:23:00.001596+00:00",
+      "episode_id": "31aaaa1d4ec8d256"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-02T22:51:40.417181+00:00"
+  "last_updated": "2026-11-03T00:23:00.001640+00:00"
 }

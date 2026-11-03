@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Macro Matters: Northern Trust’s Bahuguna on AI and Equities",
+      "published": "Mon, 02 Nov 2026 15:35:00 -0000",
+      "url": "https://traffic.megaphone.fm/BLM7697056070.mp3",
+      "feed": "Bloomberg FICC Focus",
+      "provider": "Bloomberg Intelligence",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "Inflation",
+        "CPI",
+        "Risk sentiment",
+        "KRW",
+        "TWD",
+        "S&P 500",
+        "Geopolitics",
+        "Elections",
+        "Carry"
+      ],
+      "summary": "**Summary**\nNorthern Trust Asset Management global co-CIO Unviti Pahuguna discusses a shifting US macro regime—from the post-GFC low-growth/low-inflation era to a post-COVID world of 3%+ real growth and inflation near 3.5%, implying nominal GDP above 6%. She frames Fed policy under new leadership as more hawkish in tone but slower in action (one hike so far, a quarterly rather than per-meeting pace), with committee dissent now more likely than under Greenspan or Bernanke. For an EM trader, the key signal is that markets are currently pricing roughly two to three more hikes and tolerating that path, but a re-acceleration of inflation—tied partly to unresolved geopolitics—could force a more aggressive Fed response and a sharp repricing of rate curves.\n\n**Key points**\n- Q3 US GDP ran ~3.5%; inflation down from 6% to ~3.5%, nominal GDP north of 6%.\n- Wage growth ~4% y/y; strong wealth effect (equities +10-12%/yr, IG yields 4-5%, credit yields 7-8%) is propping up consumer spending.\n- Northern Trust is overweight EM equities, driven heavily by Korea and Taiwan semiconductor/AI infrastructure trades, with EM earnings outpacing S&P 500 expectations.\n- AI capex buildout politically contested in US midterms (36 governors up, anti-data-center platforms); delays of 3-5 years (vs 12-18 months) seen as likely but not fatal to the theme.\n- Resolution of Ukraine/Iran conflicts flagged as a positive catalyst for energy markets and capex.\n\n**FX / rates implications**\n- Further Fed hikes beyond the ~2-3 priced would likely pressure UST yields higher and strengthen USD/DXY, a headwind for EM Asia and LATAM carry trades broadly.\n- EM Asia bullishness is equity/semiconductor-driven (Korea, Taiwan) rather than an explicit FX call, but sustained EM earnings outperformance could support portfolio inflows and currency support in KRW/TWD-adjacent complex.\n- A re-escalation of inflation tied to geopolitics is the key risk scenario for a sharper-than-priced hiking path and broad risk-off for EM.\n\n**Watch list**\n- US midterm election results (Oct 30, 2026 timeframe) and state-level data-center/AI policy as a drag on capex timelines.\n- Inflation data trajectory versus Fed's 2% target—key driver of whether hikes stay at a measured quarterly pace or accelerate.\n- Any resolution progress on Ukraine/Iran conflicts, relevant for energy prices and risk sentiment.",
+      "summarized_at": "2026-11-03T00:23:00.001596+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-03"
 }
