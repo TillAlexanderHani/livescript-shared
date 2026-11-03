@@ -19620,8 +19620,29 @@
       "feed": "PIMCO Pod",
       "processed": "2026-11-03T20:36:57.446226+00:00",
       "episode_id": "a1090ddfcb4b5c0a"
+    },
+    "b3fe9ba7fb94f785": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/74531d9d-3663-4b7c-9265-2a005629d4ae.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Solving AI’s Power Bottleneck",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-11-03T22:36:41.933580+00:00",
+      "episode_id": "b3fe9ba7fb94f785"
+    },
+    "e6432d8367016ff7": {
+      "url": "https://traffic.megaphone.fm/BLM2508094203.mp3",
+      "title": "FX Moment: Sterling’s Fiscal Hurdle Cleared, Moving On to BOE",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-11-03T22:46:51.856573+00:00",
+      "episode_id": "e6432d8367016ff7"
+    },
+    "c907bf5f8a3777d8": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6aea4f92b1966848f3ae101b/media.mp3",
+      "title": "What the historic heist of Binance means for crypto",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-11-03T22:50:30.042091+00:00",
+      "episode_id": "c907bf5f8a3777d8"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-03T20:36:57.446260+00:00"
+  "last_updated": "2026-11-03T22:50:30.042135+00:00"
 }
