@@ -19564,8 +19564,29 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-11-03T00:23:00.001596+00:00",
       "episode_id": "31aaaa1d4ec8d256"
+    },
+    "13980375a405e27a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/fbb8eff2-8b4e-4c49-9472-c88fea9f0d97/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=fbb8eff2-8b4e-4c49-9472-c88fea9f0d97&feed=tc4zxWgX",
+      "title": "AI Sell-Off, Data Centers and Midterm Market Risks 11/2/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-03T07:19:37.058041+00:00",
+      "episode_id": "13980375a405e27a"
+    },
+    "b86f0a5841b76745": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/c83156f0-326c-44af-9f49-b4f300fbe7d5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "The $300 Billion Structured Notes Market Is Booming",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-11-03T07:24:44.971629+00:00",
+      "episode_id": "b86f0a5841b76745"
+    },
+    "0165de74232a31be": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6ae392679fd2fa3c16caf908/media.mp3",
+      "title": "Why the slowdown in Wall Street deals?",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-11-03T07:30:19.443981+00:00",
+      "episode_id": "0165de74232a31be"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-03T00:23:00.001640+00:00"
+  "last_updated": "2026-11-03T07:30:19.444027+00:00"
 }
