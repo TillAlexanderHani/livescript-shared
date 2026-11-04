@@ -19648,8 +19648,22 @@
       "feed": "Standard Chartered India - Money Insights",
       "processed": "2026-11-04T07:18:02.780994+00:00",
       "episode_id": "0c1b84c39e0ae2de"
+    },
+    "22f9c40b3bd8c373": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002",
+      "title": "The history of light (classic)",
+      "feed": "Planet Money",
+      "processed": "2026-11-04T17:55:31.851847+00:00",
+      "episode_id": "22f9c40b3bd8c373"
+    },
+    "dfaa69d498fcb9c2": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/911da7df-97ee-4074-95b8-cb7db4fd953e/f16f4497-1462-46a1-9e27-57c332c5c121/episodes/audio/group/28ce36b0-6264-48ab-9505-37fd8019508d/group-item/3a761221-7f7f-429e-81aa-c230d280f028/128_default_tc.mp3?aid=rss_feed&feed=QXaWSc4o",
+      "title": "The Duration Trade: crude and products with Emily Kyne",
+      "feed": "The HC Commodities Podcast",
+      "processed": "2026-11-04T18:05:11.178477+00:00",
+      "episode_id": "dfaa69d498fcb9c2"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-04T07:18:02.781038+00:00"
+  "last_updated": "2026-11-04T18:05:11.178521+00:00"
 }
