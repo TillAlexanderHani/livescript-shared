@@ -1,4 +1,32 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "The Week That Was - 30 Oct:Indian Markets Rebound as Fed Holds Rates",
+      "published": "Wed, 04 Nov 2026 10:00:00 +0530",
+      "url": "https://www.buzzsprout.com/1885786/episodes/20071621-the-week-that-was-30-oct-indian-markets-rebound-as-fed-holds-rates.mp3",
+      "feed": "Standard Chartered India - Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 5,
+      "tags": [
+        "INR",
+        "USDINR",
+        "Fed",
+        "USD",
+        "UST 10y",
+        "ECB",
+        "BoJ",
+        "JPY",
+        "Brent",
+        "Gold",
+        "India",
+        "Nifty",
+        "Risk sentiment",
+        "Fiscal",
+        "Elections"
+      ],
+      "summary": "**Summary**\nThe Fed held rates at 3.75-4% (two dissents favoring a hike) while signaling data-dependence on inflation, and the ECB and BoJ also held steady, with BoJ flagging underlying inflation has reached its 2% target. Lower US Treasury yields post-Fed drove a rebound in Indian equities and a softening in Indian bond yields, while oil prices rose on a tanker attack near the Strait of Hormuz, raising input-cost risks for India.\n\n**Key points**\n- Fed funds held at 3.75-4%; markets now price a rising probability of a December hike.\n- US Q3 GDP grew an annualized 3.4%, driven by AI-related investment and consumer spending; tech earnings were mixed.\n- Oil rose toward $180/barrel on Hormuz tanker attack supply concerns (note: figure as stated in transcript).\n- US 10-year Treasury yield fell ~7bp to ~4.93% post-FOMC; developed markets fell ~0.3% (S&P 500 -0.6%), EM fell ~0.7%, Asia-ex-Japan rose ~0.5%.\n- India IP grew 6.7% y/y in September, below expectations; fiscal deficit reached 42.1% of FY budget target (Apr-Sep), above year-ago levels; FX reserves fell for a 7th straight week to ~$720bn on gold valuation declines.\n- Nifty rose ~2%, Sensex ~1.8%, closing above 23,000; midcaps/smallcaps up 2.7%/4.1%; all sectors higher, led by pharma (+7%) and utilities (+6%); banks lagged, PSU banks under pressure.\n- Foreign investors turned buyers Friday, but October overall saw heavy outflows.\n\n**FX / rates implications**\n- USDINR broadly flat near 95 for the week; lower UST yields supported risk sentiment and capped rupee weakness.\n- 10-year Indian G-Sec yield eased ~6bp to ~7.41%, tracking the UST move lower post-Fed.\n- Rising oil prices are a risk to India's import bill, current account and inflation outlook, a key INR vulnerability to monitor.\n\n**Watch list**\n- US midterm/mid-cycle elections on November 3rd as a near-term macro catalyst.\n- December FOMC meeting for a potential follow-up hike.\n- Oil prices and Strait of Hormuz tensions for India's terms-of-trade impact.\n- Continuation of FII flow trends into Indian equities after October's outflows.",
+      "summarized_at": "2026-11-04T07:18:02.780994+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-04"
 }

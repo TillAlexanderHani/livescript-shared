@@ -19641,8 +19641,15 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-11-03T22:50:30.042091+00:00",
       "episode_id": "c907bf5f8a3777d8"
+    },
+    "0c1b84c39e0ae2de": {
+      "url": "https://www.buzzsprout.com/1885786/episodes/20071621-the-week-that-was-30-oct-indian-markets-rebound-as-fed-holds-rates.mp3",
+      "title": "The Week That Was - 30 Oct:Indian Markets Rebound as Fed Holds Rates",
+      "feed": "Standard Chartered India - Money Insights",
+      "processed": "2026-11-04T07:18:02.780994+00:00",
+      "episode_id": "0c1b84c39e0ae2de"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-03T22:50:30.042135+00:00"
+  "last_updated": "2026-11-04T07:18:02.781038+00:00"
 }
