@@ -19711,8 +19711,50 @@
       "feed": "PIMCO Pod",
       "processed": "2026-11-05T18:06:12.529102+00:00",
       "episode_id": "a615ef903ab8cb90"
+    },
+    "d3a900042ea20dcf": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6aec709cd4f8b3b748d42d84/media.mp3",
+      "title": "Are the cracks beginning to show?",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-11-05T21:24:42.494919+00:00",
+      "episode_id": "d3a900042ea20dcf"
+    },
+    "5ba9e91d78763e52": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/468e99b6-7c28-4fc4-86d7-b4f8016f319d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "James Bosworth on What Comes After Lula's Stunning Win",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-11-05T21:46:31.500438+00:00",
+      "episode_id": "5ba9e91d78763e52"
+    },
+    "e0859ec65139868c": {
+      "url": "https://traffic.megaphone.fm/BLM7386515909.mp3",
+      "title": "Macro Matters: BNY’s Velis on Fed Policy, Curves and the Dollar",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-11-05T21:48:48.739157+00:00",
+      "episode_id": "e0859ec65139868c"
+    },
+    "b0315d2ff241faac": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6aecf7e03be80be7f3d5a201/media.mp3",
+      "title": "Taking stock of tumbling stocks",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-11-05T21:55:24.313418+00:00",
+      "episode_id": "b0315d2ff241faac"
+    },
+    "b8f1727accc8d949": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH1098749323.mp3",
+      "title": "Democrats and the AI economy",
+      "feed": "Reuters Econ World",
+      "processed": "2026-11-05T21:58:02.622425+00:00",
+      "episode_id": "b8f1727accc8d949"
+    },
+    "8c79872bd6b120f2": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC5518030313.mp3",
+      "title": "With Echoes of 1974, a Decisive Victory for the Democratic Party",
+      "feed": "PIMCO Pod",
+      "processed": "2026-11-05T21:59:22.607785+00:00",
+      "episode_id": "8c79872bd6b120f2"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-05T18:06:12.529144+00:00"
+  "last_updated": "2026-11-05T21:59:22.607825+00:00"
 }
