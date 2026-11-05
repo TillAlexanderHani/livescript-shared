@@ -19753,8 +19753,29 @@
       "feed": "PIMCO Pod",
       "processed": "2026-11-05T21:59:22.607785+00:00",
       "episode_id": "8c79872bd6b120f2"
+    },
+    "64679182bac2e211": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/912b89bf-0f61-42ec-9c1f-795a79f9a3a5.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "A Credit Perspective on the AI Buildout",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-11-05T22:57:25.838597+00:00",
+      "episode_id": "64679182bac2e211"
+    },
+    "364864de63a9430c": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/9z62c5kqcmsuegcs/Macrovoices-2026-11-05-Michael-Every.mp3",
+      "title": "MacroVoices #557 Michael Every: The Blue Tsunami Lands on Markets... and Geopolitics",
+      "feed": "Macro Voices",
+      "processed": "2026-11-05T23:24:53.122408+00:00",
+      "episode_id": "364864de63a9430c"
+    },
+    "6d8984706e3b8300": {
+      "url": "https://www.buzzsprout.com/1825833/episodes/20078466-outcomes-of-the-fifth-plenum-with-katja-drinhausen-and-daria-impiombato.mp3",
+      "title": "Outcomes of the Fifth Plenum, with Katja Drinhausen and Daria Impiombato",
+      "feed": "MERICS China Podcast",
+      "processed": "2026-11-05T23:31:41.055236+00:00",
+      "episode_id": "6d8984706e3b8300"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-05T21:59:22.607825+00:00"
+  "last_updated": "2026-11-05T23:31:41.055277+00:00"
 }
