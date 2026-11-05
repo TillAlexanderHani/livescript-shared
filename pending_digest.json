@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "John Waldron on GDP Growth, AI, and the M&A Outlook",
+      "published": "Wed, 04 Nov 2026 18:17:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD4850394850.mp3",
+      "feed": "Goldman Sachs Exchanges",
+      "provider": "Goldman Sachs",
+      "priority": 3,
+      "tags": [
+        "Inflation",
+        "Fed",
+        "Rates",
+        "Growth",
+        "China",
+        "Japan",
+        "Europe",
+        "M&A",
+        "Risk sentiment",
+        "Credit"
+      ],
+      "summary": "**Summary**\nGoldman Sachs President John Waldron discusses business and investor sentiment, the macro outlook, and the firm's AI and M&A strategy. While framed around Goldman's own business, his comments carry broad read-through on global growth, inflation and regional divergence that matter to a macro trader.\n\n**Key points**\n- Sentiment is still optimistic but more cautious than 6-12 months ago, citing higher inflation, higher rates, and geopolitics (notably Iran) weighing on 2027 planning.\n- Goldman forecasts US nominal growth north of 6%, real growth around 2.5% (could reach 3%), with inflation expected to migrate lower over time.\n- Regional divergence: Asia and the US show strong growth; Europe is \"underperforming\" with poor sentiment driven by energy insecurity, the Ukraine and Iran wars, and Chinese export competition hitting European autos.\n- China described as a \"tale of two cities\" — weak domestic economy but strong innovation and export growth.\n- Japan singled out for a positive sentiment shift: more loan demand, a usable yield curve, and asset-management flows unlocking household deposits.\n- Corporate M&A volumes up 30-35% this year, on track for a record year, driven by a \"bias for scale\" — large-cap consolidation alongside parallel fit-and-focus divestitures/spin-offs.\n- Government balance sheets are seen as increasingly levered post-COVID, shifting capital-formation burden to the private sector — a structural financing tailwind for banks.\n\n**FX / rates implications**\n- Divergent growth narrative (strong US/Asia, weak Europe) supports relative EUR softness versus USD and Asian currencies on a fundamental growth-differential basis.\n- Japan's improving loan demand and \"workable yield curve\" commentary is consistent with the broader BoJ normalization narrative relevant to JPY positioning.\n- China's export-led growth amid weak domestic demand reinforces the deflationary export-price pressure theme relevant to CNY and competing EM Asia exporters.\n- Elevated inflation and higher-for-longer cost of capital globally reinforces cautious duration/carry positioning across EM rates.\n\n**Watch list**\n- Record M&A volumes and capital-raising activity as a read on corporate risk appetite and credit issuance supply into year-end and 2027.",
+      "summarized_at": "2026-11-05T01:55:17.699988+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-05"
 }

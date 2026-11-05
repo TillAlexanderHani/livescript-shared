@@ -19683,8 +19683,15 @@
       "feed": "CNBC - The Exchange",
       "processed": "2026-11-04T23:08:25.415800+00:00",
       "episode_id": "af65664fb3c51c4e"
+    },
+    "df1e6968eecccd6f": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD4850394850.mp3",
+      "title": "John Waldron on GDP Growth, AI, and the M&A Outlook",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-11-05T01:55:17.699988+00:00",
+      "episode_id": "df1e6968eecccd6f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-04T23:08:25.415835+00:00"
+  "last_updated": "2026-11-05T01:55:17.700033+00:00"
 }
