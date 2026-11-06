@@ -19865,8 +19865,64 @@
       "feed": "Capital Economics Weekly Briefing",
       "processed": "2026-11-06T17:41:57.774160+00:00",
       "episode_id": "98b61b732a42db68"
+    },
+    "23a0422716965747": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD9759990577.mp3",
+      "title": "How the US Midterms May Reshape the Stock Market",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-11-06T20:35:20.147352+00:00",
+      "episode_id": "23a0422716965747"
+    },
+    "925c9a3a16a081f3": {
+      "url": "https://mcdn.podbean.com/mf/web/jeahuinkmv7qfexs/AAR_USRates110626_KAL-1-H42P435W.mp3",
+      "title": "US Rates: Climb a mountain and turn around",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-11-06T20:36:59.216530+00:00",
+      "episode_id": "925c9a3a16a081f3"
+    },
+    "4d773a12b76f5c1e": {
+      "url": "https://mcdn.podbean.com/mf/web/h8d24rb9ebritupr/GDP261106_GregAllan_KAL-1-GBY4E72R.mp3",
+      "title": "Global Data Pod: W. European central banks stay on the post-midterms hiking path",
+      "feed": "Global Data Pod",
+      "processed": "2026-11-06T20:42:30.658312+00:00",
+      "episode_id": "4d773a12b76f5c1e"
+    },
+    "19e02d601865cbc7": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/20083091-democrats-deals-and-debt-markets.mp3",
+      "title": "Democrats, deals and debt markets",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-11-06T20:58:40.538504+00:00",
+      "episode_id": "19e02d601865cbc7"
+    },
+    "985e302ebc164978": {
+      "url": "https://www.buzzsprout.com/1833434/episodes/19759493-why-africa-can-become-the-next-east-asia-nneka-eze-vestedworld.mp3",
+      "title": "Why Africa Can Become the Next East Asia | Nneka Eze, VestedWorld",
+      "feed": "INSEAD Emerging Markets Podcast",
+      "processed": "2026-11-06T21:09:05.873573+00:00",
+      "episode_id": "985e302ebc164978"
+    },
+    "877110e18789d214": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_KOLL.mp3?dest-id=1929056",
+      "title": "Ep. 383: Jesper Koll on Japan's Capitalist Renaissance, Takaichinomics, and BOJ Rate Hikes",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-11-06T21:21:02.439753+00:00",
+      "episode_id": "877110e18789d214"
+    },
+    "7052b24c0b95279c": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/c08d0fcd-1882-43f3-a1e0-b4f9015cfb5c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "The Macro Implications of the Blue Tsunami",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-11-06T21:30:43.123084+00:00",
+      "episode_id": "7052b24c0b95279c"
+    },
+    "4e5a8acc125af737": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC8010878059.mp3",
+      "title": "Policy Options Are Available Now to Lower U.S. Mortgage Rates",
+      "feed": "PIMCO Pod",
+      "processed": "2026-11-06T21:40:49.218238+00:00",
+      "episode_id": "4e5a8acc125af737"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-06T17:41:57.774222+00:00"
+  "last_updated": "2026-11-06T21:40:49.218278+00:00"
 }
