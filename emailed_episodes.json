@@ -19781,8 +19781,29 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "processed": "2026-11-06T02:02:22.618933+00:00",
       "episode_id": "80938e08d080f17d"
+    },
+    "b73d8940e971d385": {
+      "url": "https://mcdn.podbean.com/mf/web/77xkarsktxx49r5i/051126GDPNORA_KAL-1-0DE58FIR.mp3",
+      "title": "Global Data Pod: Inflation Monitor: Another squeeze, with broader pressures",
+      "feed": "Global Data Pod",
+      "processed": "2026-11-06T08:00:15.466700+00:00",
+      "episode_id": "b73d8940e971d385"
+    },
+    "5d559ac587c5e104": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/b466d021-0d24-4f27-818a-992e75302b6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=b466d021-0d24-4f27-818a-992e75302b6d&feed=tc4zxWgX",
+      "title": "AI Stock Sell-Off: Tech Rout, Data Centers and Market Volatility",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-06T08:06:54.205470+00:00",
+      "episode_id": "5d559ac587c5e104"
+    },
+    "64d6e4fb74984a48": {
+      "url": "https://rss.art19.com/episodes/7db88f88-698d-4323-9fbd-d4c241dc14d0.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "277: Global Equity Markets: Can the Stock Market Rally Continue Beyond AI?",
+      "feed": "BlackRock - The Bid",
+      "processed": "2026-11-06T08:10:13.687986+00:00",
+      "episode_id": "64d6e4fb74984a48"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-06T02:02:22.618972+00:00"
+  "last_updated": "2026-11-06T08:10:13.688031+00:00"
 }

@@ -1,4 +1,73 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Global Data Pod: Inflation Monitor: Another squeeze, with broader pressures",
+      "published": "Thu, 05 Nov 2026 11:41:48 -0500",
+      "url": "https://mcdn.podbean.com/mf/web/77xkarsktxx49r5i/051126GDPNORA_KAL-1-0DE58FIR.mp3",
+      "feed": "Global Data Pod",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "ECB",
+        "USD",
+        "EUR",
+        "Brent",
+        "Oil",
+        "Inflation",
+        "CPI",
+        "Food inflation",
+        "El Nino",
+        "Peru",
+        "Rates"
+      ],
+      "summary": "**Summary**\nJPMorgan's Global Data Pod reviews September inflation prints showing a broadening \"second squeeze\" in both the US and Euro area, just as Brent crude has dropped ~15% on the week following the US midterms, while El Nino-driven food inflation is emerging as a fresh EM risk. The mix of fading energy pressure but sticky core/goods/food inflation complicates the policy outlook for the Fed and ECB and has knock-on effects for EM central banks via commodity and rate channels.\n\n**Key points**\n- Global September headline CPI rose 0.6% m/m, lifting 3-month annualized momentum to ~5%; core momentum rose to 3.3%, with goods, food and services all firming.\n- US core CPI was broad-based across housing, supercore services and goods; core PC seen near 3.2% Q4/Q4 this year vs Fed's own (pre-revision) forecast, with JPM at 2.7% for 2027 vs Fed's 2.5%, raising risk of hikes extending past December if hot prints persist into H1 2027.\n- Euro area October core inflation ~0.22% m/m (annualized ~2.7%), judged still a modest, not accelerating, trend; limited energy-to-core pass-through so far; JPM sees Euro-area core inflation peaking at 2.8% early next year, easing to 2.4% by year-end, consistent with ECB's own path and two more hikes (December, March).\n- El Nino is near its strongest since the 1950s, expected to stay strong through March 2027; San Francisco Fed estimates it could add >0.5pp to US core PC, mostly in H2 2027. EM food inflation 3-month annualized is already near 6%, with Peru flagged as notably affected.\n\n**FX / rates implications**\n- Lower Brent (-15% w/w) reduces the energy-driven inflation/hiking risk for energy-importing EM Asia (INR, PHP, IDR) and softens the case for aggressive EM tightening tied to oil.\n- Sticky US/Euro core inflation keeps Fed and ECB hiking bias alive, a headwind for EM carry trades and risk sentiment broadly; USD and UST yields remain key transmission channels to EM FX.\n- EM food inflation pickup (Peru, agri-exposed LATAM/Asia) is an idiosyncratic upside risk to local rates in the most El Nino-exposed economies even as energy offsets some pressure.\n\n**Watch list**\n- Trajectory of Brent crude and whether the recent drop persists into early 2027 (house view: oil moving lower).\n- EM food inflation broadening beyond currently affected countries (Peru highlighted) as El Nino lag effects build into H1 2027.\n- Fed and ECB rate paths: Fed's December decision and whether H1 2027 core PC runs hot enough to push hikes beyond; ECB's priced December and March hikes.",
+      "summarized_at": "2026-11-06T08:00:15.466700+00:00"
+    },
+    {
+      "title": "AI Stock Sell-Off: Tech Rout, Data Centers and Market Volatility",
+      "published": "Thu, 5 Nov 2026 20:15:33 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/b466d021-0d24-4f27-818a-992e75302b6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=b466d021-0d24-4f27-818a-992e75302b6d&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "UST 10y",
+        "S&P 500",
+        "Risk sentiment",
+        "Oil",
+        "Fed",
+        "Credit",
+        "Elections",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nUS equities suffered their worst sell-off since April 2025 as the AI/tech trade violently unwound, with the Nasdaq down ~5.3%, S&P 500 down 4% to 7,381, and chipmakers (Nvidia -9%, Qualcomm -11%, AMD -15%, SOX ETF -11%) and memory names (SanDisk -20%, Seagate/Micron -15%) hit hardest after a post-election rally reversed. For an EM trader this matters as a global risk-off/VIX shock (VIX spiked to 27-28, highest since April) with direct spillover to carry trades and risk appetite.\n\n**Key points**\n- 10-year UST yield fell to 4.18% from 5.3% in early October, a half-point drop from highs a month ago — a flight-to-quality bid.\n- Triggers debated: Democratic midterm sweep raising AI regulation/data-center moratorium risk, large fund (Wal-Mart-like \"Wall-I\"/hedge fund) deleveraging, and stretched positioning after chips ran 31% in a month.\n- Private equity/credit exposure to data centers (Blue Owl -7%, KKR, Blackstone, Apollo, Aries down sharply) raises financing-stress concerns; banks Goldman/Morgan Stanley down 6%.\n- Anthropic's IPO valuation math reportedly cut from ~$2tn bull case toward $1.5tn given the sell-off and Texas data-center political pushback.\n- Analysts (Raymond James CIO, Bernstein) see this as positioning/technical washout, not fundamental deterioration; next catalysts: Nvidia earnings Nov 17, Broadcom early December.\n\n**FX / rates implications**\n- Sharp UST yield decline and VIX spike signal a global risk-off impulse that typically pressures high-beta EM FX (IDR, BRL, MXN, ZAR-type currencies) and widens EM credit spreads even absent local catalysts.\n- A sustained equity/tech rout could reinforce a lower-yield, weaker-DXY dynamic if it reflects Fed-cut repricing, but risk-off flows can also trigger safe-haven USD demand — watch DXY reaction closely for which dominates.\n- Oil referenced as a side case (CIO sees Brent/WTI-relevant easing toward $65 on potential Iran detente), relevant to LATAM (COP, MXN) and commodity-linked EM.\n\n**Watch list**\n- Nvidia earnings Nov 17 and Broadcom in early December as sentiment catalysts.\n- US jobs report due the next morning, plus San Francisco Fed President Mary Daly's reaction/interview.\n- Further VIX/UST yield moves as gauge of whether this is contained positioning unwind or a broader macro risk-off.",
+      "summarized_at": "2026-11-06T08:06:54.205470+00:00"
+    },
+    {
+      "title": "277: Global Equity Markets: Can the Stock Market Rally Continue Beyond AI?",
+      "published": "Fri, 06 Nov 2026 05:00:00 -0000",
+      "url": "https://rss.art19.com/episodes/7db88f88-698d-4323-9fbd-d4c241dc14d0.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "BlackRock - The Bid",
+      "provider": "BlackRock",
+      "priority": 4,
+      "tags": [
+        "S&P 500",
+        "AI",
+        "UST 10y",
+        "Taiwan",
+        "Brazil",
+        "Risk sentiment",
+        "Healthcare",
+        "PMI",
+        "Equities",
+        "Fed"
+      ],
+      "summary": "**Summary**\nBlackRock's Carrie King and Alex Brazier discuss whether the AI-driven US equity rally (S&P 500 roughly doubled since ChatGPT's Nov 2022 launch) can broaden beyond mega-cap tech, and flag a side effect relevant to rates: AI capex demand is pushing up the cost of capital across all borrowers, including sovereigns.\n\n**Key points**\n- Global equities up ~13% YTD but chopped sideways since early August; investor sentiment \"mildly bullish\" everywhere (Asia, Europe, US) but with unusually wide dispersion — in Europe, about a third want to add US equity exposure, a third want to cut it.\n- Consensus AI buildout spend: ~$7 trillion cumulative capex over the next five years; hyperscaler cloud revenue growth accelerated from 15% (Q2'24) to ~50% (Q2'25) on a doubled revenue base, seen as validating the capex thesis.\n- Real yields on US government debt (inflation-adjusted) have risen to near 3%, the highest since 2008, attributed to intense competition for capital from the AI infrastructure buildout.\n- Equal-weight US/European indices (ex-AI concentration) down ~5% since start of summer; semiconductor volatility this summer was the highest in 24 years.\n- EM equity flows are bifurcating: inflows into Taiwan purely as an AI-buildout proxy, and into Brazil (post first-round election, currency and local equities rallied) purely as a low-correlation, non-AI diversifier — not a geographic EM thesis.\n- Healthcare flagged as top non-AI diversification pick (strong earnings revisions, demographic tailwinds, AI-adoption optionality); US PMIs show six straight months of expansion.\n\n**FX / rates implications**\n- Rising US real yields driven by AI capex crowding-out is a USD/UST-positive, broadly EM-negative channel if it persists — worth monitoring alongside Fed messaging (Fed Chair Worsh cited on higher-rates case since late August).\n- Brazil (BRL) flagged as a specific beneficiary of \"flight from AI-correlation\" flows post-election; Taiwan (TWD) as an AI-proxy beneficiary — both idiosyncratic rather than broad EM beta plays.\n\n**Watch list**\n- Q3 hyperscaler earnings/cloud revenue growth for continued AI capex validation.\n- US real 10-year yield trajectory as a cost-of-capital/crowding-out signal for EM funding costs.\n- Brazil election run-off dynamics and BRL/equity follow-through.",
+      "summarized_at": "2026-11-06T08:10:13.687986+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-06"
 }
