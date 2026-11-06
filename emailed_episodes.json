@@ -19774,8 +19774,15 @@
       "feed": "MERICS China Podcast",
       "processed": "2026-11-05T23:31:41.055236+00:00",
       "episode_id": "6d8984706e3b8300"
+    },
+    "80938e08d080f17d": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6ae8ed5f9cb48f65eaa674f6/media.mp3",
+      "title": "France’s colonial battle to control African money",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-11-06T02:02:22.618933+00:00",
+      "episode_id": "80938e08d080f17d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-05T23:31:41.055277+00:00"
+  "last_updated": "2026-11-06T02:02:22.618972+00:00"
 }
