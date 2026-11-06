@@ -19921,8 +19921,43 @@
       "feed": "PIMCO Pod",
       "processed": "2026-11-06T21:40:49.218238+00:00",
       "episode_id": "4e5a8acc125af737"
+    },
+    "c9d8d5679adfc12c": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6aed90ccd256fade1240dde9/media.mp3",
+      "title": "US midterms: Democrats, deficits and data centers",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-11-06T22:54:24.831154+00:00",
+      "episode_id": "c9d8d5679adfc12c"
+    },
+    "25fc9b090c35d69b": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/f0f42523-75f5-4cec-850b-edabb858af1c.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Why the Bond Market Remains Calm After the Blue Wave",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-11-06T22:55:13.225198+00:00",
+      "episode_id": "25fc9b090c35d69b"
+    },
+    "1ec871ba845e703d": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/20065207-unpacking-lula-s-victory-key-strategies-and-insights.mp3",
+      "title": "Unpacking Lula's Victory: Key Strategies and Insights",
+      "feed": "Horizontes de Latinoamérica (S&P Global)",
+      "processed": "2026-11-06T23:06:29.256057+00:00",
+      "episode_id": "1ec871ba845e703d"
+    },
+    "43ca5e5383bb72fd": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653",
+      "title": "Inside the insurance industry’s destruction lab",
+      "feed": "Planet Money",
+      "processed": "2026-11-06T23:19:59.560727+00:00",
+      "episode_id": "43ca5e5383bb72fd"
+    },
+    "d6725e9618a13297": {
+      "url": "https://mcdn.podbean.com/mf/web/g93br4jybyy9686b/Podcast_11-06-26.mp3",
+      "title": "October jobs growth confirms strengthening economy",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-11-06T23:22:44.570288+00:00",
+      "episode_id": "d6725e9618a13297"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-06T21:40:49.218278+00:00"
+  "last_updated": "2026-11-06T23:22:44.570332+00:00"
 }
