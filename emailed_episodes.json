@@ -19802,8 +19802,71 @@
       "feed": "BlackRock - The Bid",
       "processed": "2026-11-06T08:10:13.687986+00:00",
       "episode_id": "64d6e4fb74984a48"
+    },
+    "9588498e9eb37616": {
+      "url": "https://mcdn.podbean.com/mf/web/bbznrctex9gab6jj/261106AARKhagendraMarcus_KAL-1-3QAWCVAR.mp3",
+      "title": "Global Rates: Systematic trading of EUR rates gamma – a new model",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-11-06T16:58:00.443131+00:00",
+      "episode_id": "9588498e9eb37616"
+    },
+    "ce8ef5055735a20a": {
+      "url": "https://www.buzzsprout.com/2109661/episodes/20083292-sterling-supported-by-rate-rise-as-us-midterms-reshape-the-market.mp3",
+      "title": "Sterling supported by rate rise as US midterms reshape the market",
+      "feed": "NatWest Currency Exchange",
+      "processed": "2026-11-06T16:59:55.156661+00:00",
+      "episode_id": "ce8ef5055735a20a"
+    },
+    "61565ca7575dd9c1": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Amundi-webinar-Oct-26.mp3?dest-id=1534493",
+      "title": "Tokenised Liquidity: Rethinking MMFs",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-11-06T17:02:22.994680+00:00",
+      "episode_id": "61565ca7575dd9c1"
+    },
+    "0948e1794e697ea0": {
+      "url": "https://traffic.megaphone.fm/CLS7293803007.mp3",
+      "title": "Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-11-06T17:10:00.569239+00:00",
+      "episode_id": "0948e1794e697ea0"
+    },
+    "421127e57265e086": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6aece0eb4cac7bbabb2bd5ba/media.mp3",
+      "title": "Can economics fight fascism? With Isabella Weber",
+      "feed": "The Economics Show",
+      "processed": "2026-11-06T17:22:03.921247+00:00",
+      "episode_id": "421127e57265e086"
+    },
+    "fd485a2dab643011": {
+      "url": "https://traffic.megaphone.fm/BLM4672970275.mp3",
+      "title": "FICC Focus Special: Seeking Alpha in Global Securitized With TCW",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-11-06T17:32:23.565452+00:00",
+      "episode_id": "fd485a2dab643011"
+    },
+    "a6fde21d1d78f12b": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/20082891-through-the-noise-increasing-signs-of-a-bottom.mp3",
+      "title": "Through the Noise: Increasing signs of a bottom",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-11-06T17:34:31.958645+00:00",
+      "episode_id": "a6fde21d1d78f12b"
+    },
+    "1c20c91812f981bd": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/16ca5482-bc0a-4011-95dd-9b9b3efb32e6/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=16ca5482-bc0a-4011-95dd-9b9b3efb32e6&feed=IFy3imsg&t=podcast&e=nx-s1-6032597&p=510325&d=557&size=8928114",
+      "title": "Caution: Men NOT at Work",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-11-06T17:35:36.082894+00:00",
+      "episode_id": "1c20c91812f981bd"
+    },
+    "98b61b732a42db68": {
+      "url": "https://media.transistor.fm/c8de6df9/94f4343a.mp3",
+      "title": "Midterm upset, rate cycles split",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-11-06T17:41:57.774160+00:00",
+      "episode_id": "98b61b732a42db68"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-06T08:10:13.688031+00:00"
+  "last_updated": "2026-11-06T17:41:57.774222+00:00"
 }

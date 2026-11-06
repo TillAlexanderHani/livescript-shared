@@ -67,6 +67,156 @@
       ],
       "summary": "**Summary**\nBlackRock's Carrie King and Alex Brazier discuss whether the AI-driven US equity rally (S&P 500 roughly doubled since ChatGPT's Nov 2022 launch) can broaden beyond mega-cap tech, and flag a side effect relevant to rates: AI capex demand is pushing up the cost of capital across all borrowers, including sovereigns.\n\n**Key points**\n- Global equities up ~13% YTD but chopped sideways since early August; investor sentiment \"mildly bullish\" everywhere (Asia, Europe, US) but with unusually wide dispersion — in Europe, about a third want to add US equity exposure, a third want to cut it.\n- Consensus AI buildout spend: ~$7 trillion cumulative capex over the next five years; hyperscaler cloud revenue growth accelerated from 15% (Q2'24) to ~50% (Q2'25) on a doubled revenue base, seen as validating the capex thesis.\n- Real yields on US government debt (inflation-adjusted) have risen to near 3%, the highest since 2008, attributed to intense competition for capital from the AI infrastructure buildout.\n- Equal-weight US/European indices (ex-AI concentration) down ~5% since start of summer; semiconductor volatility this summer was the highest in 24 years.\n- EM equity flows are bifurcating: inflows into Taiwan purely as an AI-buildout proxy, and into Brazil (post first-round election, currency and local equities rallied) purely as a low-correlation, non-AI diversifier — not a geographic EM thesis.\n- Healthcare flagged as top non-AI diversification pick (strong earnings revisions, demographic tailwinds, AI-adoption optionality); US PMIs show six straight months of expansion.\n\n**FX / rates implications**\n- Rising US real yields driven by AI capex crowding-out is a USD/UST-positive, broadly EM-negative channel if it persists — worth monitoring alongside Fed messaging (Fed Chair Worsh cited on higher-rates case since late August).\n- Brazil (BRL) flagged as a specific beneficiary of \"flight from AI-correlation\" flows post-election; Taiwan (TWD) as an AI-proxy beneficiary — both idiosyncratic rather than broad EM beta plays.\n\n**Watch list**\n- Q3 hyperscaler earnings/cloud revenue growth for continued AI capex validation.\n- US real 10-year yield trajectory as a cost-of-capital/crowding-out signal for EM funding costs.\n- Brazil election run-off dynamics and BRL/equity follow-through.",
       "summarized_at": "2026-11-06T08:10:13.687986+00:00"
+    },
+    {
+      "title": "Global Rates: Systematic trading of EUR rates gamma – a new model",
+      "published": "Fri, 06 Nov 2026 09:14:38 -0500",
+      "url": "https://mcdn.podbean.com/mf/web/bbznrctex9gab6jj/261106AARKhagendraMarcus_KAL-1-3QAWCVAR.mp3",
+      "feed": "At Any Rate Podcast",
+      "provider": "J.P. Morgan",
+      "priority": 3,
+      "tags": [
+        "EUR",
+        "Gamma",
+        "Volatility",
+        "VIX",
+        "Bund",
+        "Risk sentiment",
+        "Carry",
+        "UST 10y"
+      ],
+      "summary": "**Summary**\nJ.P. Morgan's European rates team unveils a new systematic model for trading 6-month-into-10-year EUR rates gamma, replacing an older random-forest approach. The strategy aims to switch between long and short gamma positions to exploit the implied-vs-realized volatility premium while avoiding drawdowns during volatility spikes — a framework relevant to any desk thinking about rate-vol regime shifts.\n\n**Key points**\n- New model: sign-constrained, regularized logistic regression on 16 indicators grouped into macro regime, EUR rates vol transmission, and cross-asset risk (domestic: equity/credit/FX vol; external: USD implied vols and VIX).\n- Since 2004: net information ratio of 1.1, ~110bp annualized return, 57% hit rate; robust across short-favorable (2009-13) and long-favorable (2008, 2022) regimes; 2026 YTD net return ~120bp.\n- Signal scaled -1 to +1; strategy goes long above +0.175, short below -0.175, holding until the signal flips.\n- Currently short 6m10y EUR gamma; flipped long on Sept 10 amid a Middle East-driven vol spike, then back to short on Oct 8 as implied vol richened.\n- New model convincingly outperforms the prior random-forest strategy on risk-adjusted and cumulative PnL basis.\n\n**FX / rates implications**\n- Primarily a EUR developed-market rates/options strategy with no direct EM Asia/LATAM FX read-through, but the model's reliance on VIX and USD implied vols as cross-asset risk inputs underscores how global vol regimes transmit into DM and, by extension, EM rate-vol positioning.\n- Useful as a conceptual template for EM rates desks monitoring how global shocks (Fed-driven UST vol, geopolitical risk) spill into local gamma/vol pricing.\n\n**Watch list**\n- Signal currently short; a further fall in implied vol alongside rising realized vol, or a standalone richening reversal in implied vol, would push the signal back toward long gamma (above +0.175 threshold).",
+      "summarized_at": "2026-11-06T16:58:00.443131+00:00"
+    },
+    {
+      "title": "Sterling supported by rate rise as US midterms reshape the market",
+      "published": "Fri, 06 Nov 2026 11:00:00 +0000",
+      "url": "https://www.buzzsprout.com/2109661/episodes/20083292-sterling-supported-by-rate-rise-as-us-midterms-reshape-the-market.mp3",
+      "feed": "NatWest Currency Exchange",
+      "provider": "NatWest",
+      "priority": 3,
+      "tags": [
+        "GBP",
+        "BoE",
+        "USD",
+        "Fed",
+        "DXY",
+        "AI",
+        "Risk sentiment",
+        "Brent",
+        "UST 10y",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nNatWest FX strategists Brian Dangerfield and Paul Robson discuss the Bank of England's hawkish rate hike and the aftermath of US midterm elections, where a larger-than-expected Democratic sweep is reshaping market expectations around AI data-center build-out and the Iran war, with knock-on effects for the dollar and risk sentiment.\n\n**Key points**\n- BoE hiked 25bp but with a hawkish 8-1 vote split (the dissenter wanted 50bp), surprising markets that had expected a dovish hike; Governor Bailey also signalled rates may not fall quickly even if Middle East tensions ease.\n- Sterling's trade-weighted index is at its highest since the 2016 Brexit referendum, supported by carry, strong portfolio/equity inflows offsetting the current account deficit, and reduced gilt risk premium.\n- EUR/GBP has tracked the gilt-OAT spread closely; UK budget delivered 98 policy changes but minimal market reaction, pushing hard fiscal decisions into 2027.\n- US midterms saw a much larger Democratic sweep than the ~70% betting-market odds implied, hitting AI/tech equities on fears of slower data-center build-out and regulation.\n- Market reads the result as a mandate to end the Iran war, with Iran-related mood music and oil prices falling on hopes of de-escalation.\n- Dollar reaction has been muted/mixed (dollar smile dynamic): AI slowdown hurts US growth/rate-differential support for USD, but risk-off equity weakness supports USD as safe haven.\n\n**FX / rates implications**\n- NatWest retains a medium-term bearish USD view, reinforced by expectations of a slower AI investment cycle curbing US growth outperformance and Fed tightening relative to other central banks.\n- Sterling's carry advantage should improve over coming quarters if BoE hikes less than priced while other G10 central banks also under-deliver versus market pricing; fiscal credibility remains a 2027 risk factor via gilt-OAT spreads.\n- Lower oil prices (on Iran de-escalation hopes) would ease inflation pressure and interest rate expectations globally, a tailwind for EM disinflation trades and carry.\n\n**Watch list**\n- UK spring statement and spending review for fiscal policy clarity ahead of 2027.\n- Pace of AI capex/data-center build-out and any US tech equity follow-through.\n- Iran war developments, oil prices, and potential US administration/personnel shifts signalling de-escalation.\n- Relative central bank tightening paths (Fed vs BoE vs others) versus current market pricing.",
+      "summarized_at": "2026-11-06T16:59:55.156661+00:00"
+    },
+    {
+      "title": "Tokenised Liquidity: Rethinking MMFs",
+      "published": "Fri, 06 Nov 2026 09:47:00 +0000",
+      "url": "https://traffic.libsyn.com/secure/treasurycast/Amundi-webinar-Oct-26.mp3?dest-id=1534493",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "provider": "TMI - Treasury Management International",
+      "priority": 2,
+      "tags": [
+        "Tokenization",
+        "MMF",
+        "USD",
+        "EUR",
+        "Liquidity",
+        "Carry",
+        "Credit",
+        "Fed"
+      ],
+      "summary": "**Summary**\nA TMI webinar with Amundi (Head of Money Market Patrick Simion, Amundi Asia CEO Eddie Wong) and Ant International (SVP Kelvin Lee) discusses tokenized money market funds (MMFs) and tokenized bank deposits as treasury tools for 24/7 cross-border liquidity management. This is a corporate treasury/fintech infrastructure topic, not a direct FX or rates market story, so relevance to EM trading desks is limited and mostly about plumbing/settlement innovation.\n\n**Key points**\n- Ant International moved $1.1 trillion on blockchain across ~20 banks and 17 currencies in the last 12 months, representing 60% of its global treasury activity, cutting working capital needs by ~60% and FX costs/risk by 30-60%.\n- Credit Agricole Assurance made a $100 million investment into Amundi's tokenized money market fund; Amundi and Ant launched tokenized share classes in EUR and USD.\n- Tokenization replaces parts of transfer-agent/custody workflows with blockchain-based record-keeping, enabling near-instant settlement and 24/7 transferability, but dealing cutoffs, KYC/AML checks and jurisdictional settlement cycles still apply.\n- Bank de France's Pythagoras project aims to tokenize the commercial paper market, linking eventually to the ECB's wholesale CBDC settlement project (Pontes).\n- Regulators in Singapore, Hong Kong, Malaysia and Thailand are cited as supportive of tokenization pilots; Ant is expanding tokenized deposits into FX-regulated markets like Malaysia and Thailand.\n\n**FX / rates implications**\n- Tokenized deposits/MMFs targeting FX-regulated markets (Malaysia, Thailand) could, if scaled, marginally ease onshore liquidity frictions and FX settlement costs for corporates operating MYR/THB, but this is an operational/infrastructure development rather than a near-term price driver.\n- Broader adoption of instant, 24/7 cash-like tokenized instruments could incrementally affect short-term money market and commercial paper demand dynamics in EUR/USD, but no direct read-through to EM rates or spot FX levels is discussed.\n\n**Watch list**\n- Expansion of Ant's tokenized bank deposit platform into Malaysia and Thailand this year.\n- Development of the Bank de France Pythagoras project and its linkage to the ECB's Pontes wholesale CBDC settlement initiative.\n- Further regulatory pilots in Singapore, Hong Kong and broader Asia enabling tokenized fund adoption by corporate treasurers.",
+      "summarized_at": "2026-11-06T17:02:22.994680+00:00"
+    },
+    {
+      "title": "FICC Focus Special: Seeking Alpha in Global Securitized With TCW",
+      "published": "Fri, 06 Nov 2026 11:30:00 -0000",
+      "url": "https://traffic.megaphone.fm/BLM4672970275.mp3",
+      "feed": "Bloomberg FICC Focus",
+      "provider": "Bloomberg Intelligence",
+      "priority": 3,
+      "tags": [
+        "Credit",
+        "CLO",
+        "CRE CLO",
+        "ABS",
+        "MBS",
+        "Fed",
+        "Inflation",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nTCW's co-heads of global securitized, Peter van Gelderen and Liza Crawford, discuss the $14 trillion+ securitized credit market (agency MBS, CLOs, CRE CLOs, ABS, asset-backed finance) and how they are positioning portfolios for carry and short spread duration amid ongoing rate volatility. While not EM-specific, the discussion offers a read on credit market health, rate-hiking cycle fallout, and AI/data-center financing risk relevant to broader macro credit conditions.\n\n**Key points**\n- Securitized market is 14+ trillion globally; agency MBS alone is 9+ trillion; CLO ETF space has more than doubled in a year to over 60 billion.\n- Thesis has been higher income, shorter spread duration given rate volatility from the hiking cycle; CLOs (floating rate, zero historical losses) are the biggest beneficiary.\n- Data center/digital infrastructure financing is a growing theme; CNBS triple-B data center spreads have widened into the 400s, double-Bs into the 500s.\n- US midterm results (described as a \"blue wave\") raise uncertainty for data center development pipelines in states like Nevada, Texas, Georgia due to regulatory/power approval risk; existing built/leased/powered assets seen as insulated or even benefiting.\n- Underwriting standards flagged as deteriorating in parts of the 4(a)(2) private securitized market; credit spreads called resilient year-to-date but showed some widening in September.\n- 2021-22 vintage CRE CLO and multifamily loans remain stressed from high leverage/cap rates and expense growth outstripping rent growth.\n\n**FX / rates implications**\n- Credit spread resilience and stable securitized demand signal continued risk-on tolerance in broader fixed income, a mild positive backdrop for EM carry trades reliant on global risk appetite.\n- Commentary on an evolving Fed inflation picture and midterm-driven policy uncertainty is a watch item for US rates direction, which indirectly affects USD and EM rate differentials.\n- AI/data-center capex-driven credit issuance and potential spread widening, if a broader \"AI bubble\" repricing occurs, could trigger a wider risk-off credit event with knock-on effects for EM spreads and capital flows.\n\n**Watch list**\n- Potential 2027 credit market dislocation if AI-related capex financing or CRE CLO office/multifamily vintages from 2021-22 unwind.\n- Fed policy path amid \"evolving inflation picture\" and post-midterm regulatory shifts affecting AI/data-center infrastructure financing.",
+      "summarized_at": "2026-11-06T17:32:23.565452+00:00"
+    },
+    {
+      "title": "Through the Noise: Increasing signs of a bottom",
+      "published": "Fri, 06 Nov 2026 16:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/20082891-through-the-noise-increasing-signs-of-a-bottom.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Fed",
+        "BoE",
+        "GBP",
+        "ECB",
+        "EUR",
+        "INR",
+        "Gold",
+        "S&P 500",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nStanChart's North Asia CIO Raymond Cheng unpacks the market fallout from a Democratic sweep in the US midterms (Senate, House, and a majority of governorships), arguing it creates mixed but tradeable implications for equities, bonds, USD and commodities, while also flagging fresh central-bank moves at the BoE and ECB.\n\n**Key points**\n- Democrats flipped six governorships, giving them a majority of US state governorships for the first time since 2010; reduced odds of prolonged Middle East conflict should ease oil prices and inflation pressure.\n- Policy gridlock likely caps fiscal expansion and new trade tariffs, seen as bond-friendly; Democratic governors in Texas/Georgia may slow AI data-center buildout, easing AI-related bond supply.\n- VIX near 28 (above the 24.6 threshold) historically signals a market bottom, with 12-month forward returns averaging +4.4% over 26 years; Q3 earnings beat was a modest 4.5%, suggesting a maturing bull market with leadership broadening from tech to financials, healthcare, materials.\n- US job openings surprised higher at 7.5mn, jobless claims near 3-month lows; market now prices two more 25bp Fed hikes by H1 2027 (down from three), matching StanChart's house view.\n- BoE hiked 25bp to 4%; ECB held deposit rate at 2.5% but flagged a hawkish tightening bias amid elevated inflation.\n\n**FX / rates implications**\n- Fading US exceptionalism underpins a call for DXY to moderate toward 98.5 and gold to strengthen toward $4,700/oz over 12 months, a broadly EM-FX-supportive backdrop.\n- Two-year UST yield (forecast 4.25-4.5%) already reflects priced hikes; 10-year (4.75-5%) seen less sensitive to a single payrolls print given long-run disinflation and fiscal uncertainty, relevant for EM rate differentials and carry trades.\n- Peak-USD view favors reallocation into non-US-dollar assets, with Asia-ex-Japan equities favored and India upgraded to overweight on narrowing EM valuation premium and resilient earnings, directly supportive of INR-linked flows.\n- EUR/GBP seen recovering toward 0.845 as ECB's hawkish bias contrasts with a vulnerable sterling under limited further BoE tightening.\n\n**Watch list**\n- US payrolls release this week as a swing factor for a potential third Fed hike.\n- DXY path toward 98.5 and gold toward $4,700/oz over the next 12 months.\n- EUR/GBP toward 0.845 as ECB/BoE policy divergence plays out.",
+      "summarized_at": "2026-11-06T17:34:31.958645+00:00"
+    },
+    {
+      "title": "Caution: Men NOT at Work",
+      "published": "Fri, 06 Nov 2026 15:35:42 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/16ca5482-bc0a-4011-95dd-9b9b3efb32e6/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=16ca5482-bc0a-4011-95dd-9b9b3efb32e6&feed=IFy3imsg&t=podcast&e=nx-s1-6032597&p=510325&d=557&size=8928114",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "NFP",
+        "Unemployment rate",
+        "Labor force participation",
+        "US economy",
+        "Fed",
+        "USD"
+      ],
+      "summary": "**Summary**\nThis Jobs Friday episode from The Indicator opens with the October US jobs report before pivoting to a structural labor-market story: a growing share of prime-age men are detaching from the workforce entirely, a trend with modest implications for US wage growth and consumer demand.\n\n**Key points**\n- October payrolls rose 165,000, beating expectations; August and September were revised up by a combined 84,000 jobs; unemployment ticked down to 4.1%.\n- For the first time in a sustained stretch outside the Great Recession and pre-pandemic period, women now outnumber men in the labor force.\n- Male labor force participation has fallen from roughly 87% in the 1940s to about 67% today, while female participation rose from 32% to 57% over the same period, driven by civil rights law, education access, and economic shifts post-WWII.\n- Young men (late teens to early 20s) saw a 13% decline in labor force participation since 2000, the steepest drop of any age cohort, linked to manufacturing decline, the opioid crisis, the Great Recession's hit to construction, and even rising video-game quality per a Journal of Political Economy study.\n- Economists cite the \"lump of labor fallacy\": more women working has historically grown household income and overall demand rather than displacing men.\n- Analysts propose steering men toward growing fields like nursing (median pay ~$132,000, 40%+ demand growth) and vocational/apprenticeship paths instead of a college-only track.\n\n**FX / rates implications**\n- Headline beat (165k jobs, lower unemployment) is modestly USD-supportive at the margin and reinforces a resilient-labor-market narrative relevant to Fed policy expectations, though the episode offers no market reaction or Fed commentary.\n- The structural participation story has no near-term FX/rates transmission; relevant only as a slow-moving input to US potential wage growth and consumer spending trends.\n\n**Watch list**\n- Subsequent BLS revisions and participation-rate trends in future jobs reports for confirmation of the male labor-force detachment trend.",
+      "summarized_at": "2026-11-06T17:35:36.082894+00:00"
+    },
+    {
+      "title": "Midterm upset, rate cycles split",
+      "published": "Fri, 06 Nov 2026 13:01:52 +0000",
+      "url": "https://media.transistor.fm/c8de6df9/94f4343a.mp3",
+      "feed": "Capital Economics Weekly Briefing",
+      "provider": "Capital Economics",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "GBP",
+        "JPY",
+        "AUD",
+        "NZD",
+        "Fed",
+        "BoE",
+        "BoJ",
+        "RBA",
+        "RBNZ",
+        "Oil",
+        "Inflation",
+        "Tariffs",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nCapital Economics' weekly briefing covers the US midterm fallout, a hawkish-leaning BoE hike, diverging Antipodean central bank paths, and an accelerating BoJ tightening cycle — a dense set of DM policy signals with indirect but real spillover into EM carry and risk sentiment.\n\n**Key points**\n- US midterms gave Democrats both House and Senate; big fiscal stimulus (tax cuts/spending) is now off the table, limiting near-term US growth impact, but recurring debt-ceiling/fiscal-cliff standoffs are likely over the next two years, which can spill into bond and equity markets.\n- Trump is expected to pivot toward foreign policy (Iran, Cuba, China/Taiwan, Russia-Ukraine) to cement his legacy; tariffs seen as structurally entrenched (US fiscal deficit at 6% of GDP needs the revenue), even as tone toward allies may soften.\n- BoE hiked 25bp with an 8-1 MPC vote (one dissent for 50bp, none for hold) — more hawkish than expected; UK gilts sold off. Capital Economics still forecasts just one more hike, citing UK inflation set to top 4%.\n- RBA hiked to an 18-year high (125bp YTD) on a 6-3 vote amid excess demand and higher-than-expected inflation; RBNZ held rates (4-3 vote) despite a weak labour market, pushing AUD sharply higher vs NZD.\n- BoJ accelerating tightening after reaching its 2% inflation target; policy rate seen hitting 2% by mid-next year, with risk of overshoot toward 3%.\n- Oil fell from ~$115 to the mid-$90s, easing inflation risk for energy importers like the UK and New Zealand.\n\n**FX / rates implications**\n- Divergent DM rate paths (BoJ and BoE still hiking, RBA hawkish, RBNZ pausing) support broad USD softness relative to higher-yielders, a dynamic that typically underpins EM carry trades; JPY repricing higher toward 2-3% policy rates is a key global funding-cost signal for EM positioning.\n- Falling oil prices ease EM Asia import-bill/inflation pressure (positive for INR, PHP, IDR); AUD/NZD divergence underscores how energy-shock exposure differentiates EM commodity exporters vs importers.\n- US fiscal gridlock reduces near-term Treasury supply risk from stimulus, modestly capping UST yield upside — a mild tailwind for EM local-currency debt.\n\n**Watch list**\n- BoJ path toward 2% by mid-2026 and potential overshoot to 3%.\n- Next BoE decision for confirmation of \"one more hike\" view vs hawkish dissent risk.\n- US debt-ceiling/fiscal-cliff negotiations under divided government.\n- Oil price trajectory (currently mid-$90s) as a swing factor for inflation forecasts globally.",
+      "summarized_at": "2026-11-06T17:41:57.774160+00:00"
     }
   ],
   "last_digest_date": "2026-11-06"
