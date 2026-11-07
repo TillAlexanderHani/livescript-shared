@@ -19956,8 +19956,29 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "processed": "2026-11-06T23:22:44.570288+00:00",
       "episode_id": "d6725e9618a13297"
+    },
+    "4322cf9704f1218c": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d05f73c6-af77-4c65-909f-f871c3317241/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d05f73c6-af77-4c65-909f-f871c3317241&feed=tc4zxWgX",
+      "title": "Mary Daly on Rate Hikes, AI Sell-Off and Jobs Friday 11/6/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-07T01:35:34.344874+00:00",
+      "episode_id": "4322cf9704f1218c"
+    },
+    "739bd4a12e5d94c3": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV7961596302.mp3",
+      "title": "AI Selloff: Technical or Macro?",
+      "feed": "Macro Trading Floor",
+      "processed": "2026-11-07T01:45:07.053477+00:00",
+      "episode_id": "739bd4a12e5d94c3"
+    },
+    "7500b4d59f3ff3c8": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/20079730-maria-corina-machado-is-back-now-what.mp3",
+      "title": "María Corina Machado is Back. Now what?",
+      "feed": "The Americas Quarterly Podcast",
+      "processed": "2026-11-07T01:49:07.669237+00:00",
+      "episode_id": "7500b4d59f3ff3c8"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-06T23:22:44.570332+00:00"
+  "last_updated": "2026-11-07T01:49:07.669279+00:00"
 }

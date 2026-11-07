@@ -1,4 +1,69 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Mary Daly on Rate Hikes, AI Sell-Off and Jobs Friday 11/6/26",
+      "published": "Fri, 6 Nov 2026 20:01:23 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d05f73c6-af77-4c65-909f-f871c3317241/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d05f73c6-af77-4c65-909f-f871c3317241&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "Rate hikes",
+        "Inflation",
+        "Jobs report",
+        "S&P 500",
+        "Risk sentiment",
+        "Carry",
+        "Tariffs",
+        "Elections",
+        "Credit"
+      ],
+      "summary": "**Summary**\nSan Francisco Fed President Mary Daly, speaking on Jobs Friday after a 2.5 trillion dollar tech sell-off, signaled the Fed still needs to tighten further despite a stronger-than-expected 165,000 payrolls print, keeping December hike odds elevated near 80-83%. For an EM trader, this reinforces a hawkish Fed narrative layered on top of an AI-driven equity de-rating and fresh US political uncertainty from Tuesday's midterm results, a combination that typically tightens USD liquidity and dents risk appetite for EM carry.\n\n**Key points**\n- October payrolls came in at 165,000, about 100,000 above estimates; unemployment at 4.1%, signaling a still-solid but not booming labor market.\n- Daly said underlying/services-ex-housing inflation remains stubborn and \"more is likely to be needed\" on rate hikes; she called policy only slightly restrictive to neutral.\n- December hike probability jumped from the 70s to ~80-83% intraday; strategist Ron Temple noted markets have trimmed ~12bps of hike expectations through mid-2027 on AI-driven growth worries.\n- Tech stocks (Nasdaq, semis) staged a partial rebound after the worst day since April 2025; Daly called the AI repricing \"orderly\" so far and downplayed systemic risk, noting private-sector investors are re-pricing debt loads and ROI timelines.\n- Panelists flagged tariffs, war, and AI/election-driven policy uncertainty as compounding inflation risks; one strategist favors emerging markets and Japan as relatively cheap, diversifying plays versus a de-rated but still expensive US tech sector.\n\n**FX / rates implications**\n- A reinforced high-for-longer Fed stance plus elevated December hike odds is USD-supportive and UST-yield-supportive at the margin, a headwind for EM Asia and LATAM carry trades (INR, IDR, PHP, MXN, BRL) if US real rates stay firm.\n- Continued AI-equity volatility and risk-off spillover (Nasdaq/semis, neoclouds, CoreWeave credit concerns) argue for monitoring EM FX vol and widening EM credit spreads as a transmission channel from US tech leverage stress.\n- Strategist calls favoring EM and Japan as de-rated, structurally attractive markets could support inflows into EM equities/FX on dips if the AI sell-off stabilizes.\n\n**Watch list**\n- December FOMC decision and dot-plot guidance, with market pricing an ~80% hike probability.\n- Further AI-sector earnings (CoreWeave reports Tuesday) and financing/leverage stress as a gauge of systemic risk spillover into broader risk sentiment.\n- Tariff and geopolitical policy uncertainty cited by Daly as compounding inflation risk, relevant for EM trade-sensitive currencies.",
+      "summarized_at": "2026-11-07T01:35:34.344874+00:00"
+    },
+    {
+      "title": "AI Selloff: Technical or Macro?",
+      "published": "Fri, 06 Nov 2026 17:01:00 -0000",
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV7961596302.mp3",
+      "feed": "Macro Trading Floor",
+      "provider": "At Any Rate",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "Fed",
+        "JPY",
+        "UST 10y",
+        "Gold",
+        "Silver",
+        "KRW",
+        "Risk sentiment",
+        "Carry"
+      ],
+      "summary": "**Summary**\nMacro Trading Floor dissects the sharp AI/tech-momentum selloff (Nasdaq down ~7% in a day, high-beta momentum basket down 20% YTD after being up 60% in June) and concludes the move has been overwhelmingly technical/positioning-driven rather than a genuine macro shift — a key read for traders deciding how much cross-asset contagion to expect into EM.\n\n**Key points**\n- EUR/USD unchanged around 1.12, JPY flat, EM FX barely moved over the prior 10-12 days despite the equity rout; UST front-end has only shaved ~16-20bp off December Fed pricing.\n- Reflexive USD dynamics are split: liquidity-driven deleveraging mechanically buys USD, while the deeper bear case (AI capex slowdown dragging 2027 growth/inflation) argues for a weaker dollar — net effect has been a wash, with dollar surprisingly resilient even against defensive currencies like JPY.\n- Market still prices Fed hikes in 2026, not cuts, implying the selloff isn't yet read as a growth shock; AUD was the exception (large long unwind post dovish RBA).\n- Discussion of Korea's SK Hynix/Samsung trading at ~3.5x forward PE, framed as a 2018 memory-cycle echo where cheap multiples mask capex-inflated earnings that could reverse 30-40% post-peak capex.\n- Anthropic's planned Nov 16-18 IPO pricing/trading window flagged as a key test of risk appetite; a postponement would be read negatively short-term but could mark a capitulation/clearing bottom.\n- Japan thesis building: Shunto wage talks pointing to 6%+ nominal wage demand, core CPI drifting toward 2.5-3%, alongside a ~160 USDJPY ceiling enforced by MOF/BOJ verbal intervention — but realized vol too low and carry costs too high to express cheaply right now.\n- Gold holding ~$3,900-4,000, silver near $50-52, resilient despite stronger USD and crypto/tech liquidation (Binance hack cited); seen as a 15-20% rally candidate if Fed pauses hikes amid slowing nominal growth.\n\n**FX / rates implications**\n- Broken equity-to-FX transmission mechanism is itself a signal: USD strength persisting through a tech crash suggests EM FX beta to US risk-off has temporarily decoupled; don't assume automatic EM FX weakness from further Nasdaq downside.\n- JPY: structurally asymmetric trade — upside capped near 160 by MOF, wage/inflation catalysts stacking up, but positioning and carry costs argue for patience over outright longs.\n- Gold/silver offer diversification if Fed pauses hikes on slowing US nominal growth; relevant for EM reserve-manager and carry-portfolio hedging overlays.\n- KRW-linked tech earnings (SK Hynix, Samsung) capex-cycle unwind risk is a read-through for North Asia tech-exporter currencies broadly.\n\n**Watch list**\n- Anthropic IPO pricing (~Nov 16) and trading debut (~Nov 18) as a risk-appetite litmus test.\n- USDJPY price action around 158.30-160 resistance/MOF intervention zone.\n- December FOMC meeting — currently pricing a hike, watch for repricing if equity drawdown deepens.\n- Gold support at $3,900; a break or impulsive reclaim will shape positioning into year-end.",
+      "summarized_at": "2026-11-07T01:45:07.053477+00:00"
+    },
+    {
+      "title": "María Corina Machado is Back. Now what?",
+      "published": "Thu, 05 Nov 2026 12:00:00 -0500",
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/20079730-maria-corina-machado-is-back-now-what.mp3",
+      "feed": "The Americas Quarterly Podcast",
+      "provider": "Americas Quarterly",
+      "priority": 3,
+      "tags": [
+        "Venezuela",
+        "VES",
+        "Geopolitics",
+        "Elections",
+        "Oil",
+        "Sanctions",
+        "Trump administration",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nThe podcast examines Venezuela's political trajectory after opposition leader María Corina Machado's return to Caracas on October 25, following Nicolás Maduro's capture in January and the installation of an interim government under Delcy Rodríguez. Human rights lawyer Alfredo Romero (Foro Penal) argues the country is only \"creating the platform\" for transition, not yet transitioning, since the repressive judicial and security apparatus remains intact — a key risk marker for investors eyeing Venezuela's oil sector and broader regional stability.\n\n**Key points**\n- At least 322 political prisoners remain detained, though more than 1,000 have been released since the US began pressuring the interim government.\n- A new foreign minister, Edmundo/Oliver Blanco, was received swiftly by Secretary of State Marco Rubio, signaling US engagement with the transition process.\n- No date has been set for presidential elections; the current electoral council is seen as illegitimate due to its role in the disputed 2024 election.\n- Reform priorities cited: a new Supreme Court, overhaul of the judicial system, and a credible new national electoral council before elections can occur.\n- Trump's approval among Venezuelans fell from 53% in February to 28% in September polling, reflecting impatience with the pace of change.\n- Romero expects possible elections and leadership change before January 2029, but cautions transitional justice (truth commission, victim reparations) could take years, citing Chile and Argentina precedents.\n\n**FX / rates implications**\n- Direct relevance is narrow for liquid EM books (Venezuela/VES is not actively traded), but the trajectory matters for regional risk sentiment and US-Latin America policy, particularly given US oil deals with the Rodríguez government that could affect global crude supply narratives (Brent/WTI).\n- A smoother, faster transition would be modestly risk-positive for broader LatAm sentiment (MXN, BRL, COP); continued political uncertainty or stalled elections is a mild drag on regional risk appetite but unlikely to move core books materially.\n\n**Watch list**\n- Formation of a new, credibly independent national electoral council — seen as the trigger for eventual elections.\n- Progress on Supreme Court and judicial system overhaul.\n- Further US-Venezuela negotiations tied to oil deals and political-prisoner releases, which could affect sanctions/oil-supply headlines.\n- Trajectory of Venezuelan public approval of the Trump administration as a proxy for transition momentum.",
+      "summarized_at": "2026-11-07T01:49:07.669237+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-07"
 }
