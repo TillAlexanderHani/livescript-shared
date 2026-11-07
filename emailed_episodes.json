@@ -19977,8 +19977,15 @@
       "feed": "The Americas Quarterly Podcast",
       "processed": "2026-11-07T01:49:07.669237+00:00",
       "episode_id": "7500b4d59f3ff3c8"
+    },
+    "ce5f6a5e1b5ec95d": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261106_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead - The Great Unwind",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-11-07T06:53:46.723137+00:00",
+      "episode_id": "ce5f6a5e1b5ec95d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-07T01:49:07.669279+00:00"
+  "last_updated": "2026-11-07T06:53:46.723172+00:00"
 }
