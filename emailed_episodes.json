@@ -20026,8 +20026,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-11-10T17:21:47.845530+00:00",
       "episode_id": "3cf7deeae5c02d69"
+    },
+    "ee71168e64e259fe": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/0e9e4452-f741-4718-b8d6-002983ef2f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=0e9e4452-f741-4718-b8d6-002983ef2f42&feed=tc4zxWgX",
+      "title": "Nvidia Selloff, Fed Hike Odds and AI IPOs Rattle Markets",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-10T22:43:01.486449+00:00",
+      "episode_id": "ee71168e64e259fe"
+    },
+    "04431ef82777d7e9": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6af36aeaee158fb9382f1b92/media.mp3",
+      "title": "Nvidia shares down as Huang affair scandal deepens",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-11-10T22:57:48.477235+00:00",
+      "episode_id": "04431ef82777d7e9"
+    },
+    "00098f177ac2bfc6": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC8873760472.mp3",
+      "title": "The Credit Market Lens: Where to Seek Diversification From the AI Investment Theme",
+      "feed": "PIMCO Pod",
+      "processed": "2026-11-10T22:59:22.961007+00:00",
+      "episode_id": "00098f177ac2bfc6"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-10T17:21:47.845571+00:00"
+  "last_updated": "2026-11-10T22:59:22.961043+00:00"
 }
