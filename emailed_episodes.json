@@ -20089,8 +20089,29 @@
       "feed": "Financial Times Behind the Money (Macro)",
       "processed": "2026-11-11T07:17:48.510704+00:00",
       "episode_id": "524e578b50492907"
+    },
+    "da339627ecefab7e": {
+      "url": "https://traffic.megaphone.fm/CLS9826691790.mp3",
+      "title": "Zach Reitano - Building Ro and Why Healthcare Should Be 50% of GDP - [Invest Like the Best, EP.500]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-11-11T17:36:36.000505+00:00",
+      "episode_id": "da339627ecefab7e"
+    },
+    "75da27997ee7ef00": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985",
+      "title": "How bodegas led to the Yemeni coffeehouse explosion",
+      "feed": "Planet Money",
+      "processed": "2026-11-11T17:40:07.311169+00:00",
+      "episode_id": "75da27997ee7ef00"
+    },
+    "c38d0ab419e7063a": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/e5bf7c5b-d982-4d6a-ad30-47bd21c60b54/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=e5bf7c5b-d982-4d6a-ad30-47bd21c60b54&feed=IFy3imsg&t=podcast&e=nx-s1-6035794&p=510325&d=520&size=8335864",
+      "title": "So … is the stock market the economy now?",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-11-11T18:01:25.349801+00:00",
+      "episode_id": "c38d0ab419e7063a"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-11T07:17:48.510751+00:00"
+  "last_updated": "2026-11-11T18:01:25.349847+00:00"
 }
