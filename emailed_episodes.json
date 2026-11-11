@@ -20075,8 +20075,22 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "processed": "2026-11-11T01:38:17.904510+00:00",
       "episode_id": "3c45dbd50934fd15"
+    },
+    "29dca228467ae121": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD8882478019.mp3",
+      "title": "Playing for Scale: The Future of Sports Investing",
+      "feed": "Goldman Sachs Exchanges",
+      "processed": "2026-11-11T07:12:57.042138+00:00",
+      "episode_id": "29dca228467ae121"
+    },
+    "524e578b50492907": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6aedfdb55c441e828890aad6/media.mp3",
+      "title": "A forgotten wallet and the surprising origin story of the credit card",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-11-11T07:17:48.510704+00:00",
+      "episode_id": "524e578b50492907"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-11T01:38:17.904547+00:00"
+  "last_updated": "2026-11-11T07:17:48.510751+00:00"
 }
