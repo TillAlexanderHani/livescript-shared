@@ -1,4 +1,97 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "US Rates: CPI - No Shelter from Our Inflationary Sins",
+      "published": "Tue, 10 Nov 2026 19:45:36 -0500",
+      "url": "https://mcdn.podbean.com/mf/web/9jzjj3m8u2vqf7xf/AAR_Rates111026_KAL-1-NSQOUUT.mp3",
+      "feed": "At Any Rate Podcast",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "CPI",
+        "Inflation",
+        "USD",
+        "UST 10y",
+        "Risk sentiment",
+        "Oil",
+        "Carry",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nUS October core CPI rose 30bp m/m, well above the 23bp consensus and 21bp swaps pricing — the largest upside surprise vs. market pricing since January 2024 and, combined with September's beat, the biggest two-month surprise since February 2023. Headline CPI beat swaps pricing by 12bp. This resets Fed hike pricing higher and matters for EM via the USD/UST channel.\n\n**Key points**\n- Inflation was broad-based: services ex-shelter up 40bp m/m, OER firm again, goods up 0.2% but following a string of firmer prints (tech price pass-through, Middle East-driven energy costs, fading tariff rebates).\n- Core PCE preliminary forecast 35bp m/m, lifting y/y to 3.3% (biggest acceleration since 2023); 3-month annualized core PCE seen at 3.8%.\n- Fed's Waller said a 30bp+ core CPI print would make him open to discussing a 50bp hike; Dallas Fed's Logan wants at least two more 25bp hikes. Market now prices more than 25bp of hikes by December (some 50bp risk) and nearly one more hike through end-2027.\n- Strong October payrolls (165k vs 70k consensus, 3-month average up to 137k) reinforce the firmer inflation narrative.\n- Market-implied CPI path still sees disinflation to ~2.4-2.5% by mid-2027; JPM's house forecast is higher, near 2.7% y/y by Q3 2027.\n\n**FX / rates implications**\n- Firmer US inflation and a more hawkish Fed repricing (higher terminal rate, 50bp tail risk) support USD and higher UST yields, a headwind for EM Asia and LATAM carry trades and a trigger for EM rates curves to cheapen in sympathy.\n- Narrower EM-US rate differentials would pressure high-beta EM FX (IDR, COP, BRL) and reduce appetite for EM local-currency carry positions broadly.\n- Oil/Middle East de-escalation risk (flagged by JD Vance comments) could offer a disinflationary offset later, a swing factor for energy-sensitive EM importers.\n\n**Watch list**\n- US PPI release later this week, to refine the core PCE forecast.\n- December FOMC meeting — size of hike (25bp vs 50bp risk) now in focus after Waller/Logan comments.\n- Further Fed speak, including Governor Waller later the same day as this recording.",
+      "summarized_at": "2026-11-11T01:31:31.286295+00:00"
+    },
+    {
+      "title": "Big Political Shift, Narrow Economic Impact",
+      "published": "Tue, 10 Nov 2026 21:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/9af2bf20-f31b-4f1b-bd26-aedc8f50cc1a.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "TWD",
+        "KRW",
+        "MXN",
+        "JPY",
+        "EUR",
+        "Trade",
+        "Tariffs",
+        "Fiscal",
+        "Elections",
+        "AI capex"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's Arunama Sinha argues the US midterm elections, while a significant political shift (Democrats swept Congress and several governorships), carry a narrower near-term macro impact than the political headlines suggest, since the White House retains authority over tariffs, immigration and most of the deregulatory agenda. The more market-relevant takeaway is how AI data-center investment geography is evolving and what that means for Asian and Mexican trade flows.\n\n**Key points**\n- Legislative change under a Democratic Congress is likely only a marginal adjustment to domestic spending, not a key macro driver.\n- In Texas and Ohio, executive branches flipped to Democrats partly on anti-data-center platforms, raising permitting risk for some AI projects (possible slippage from 2028 to 2029), but Morgan Stanley stays constructive on the overall AI buildout.\n- The buildout is becoming more conditional/geographically differentiated: capacity migrates toward regions with supportive power, permitting and local politics, and away from where approvals get harder.\n- Trade composition is broadening: Taiwan and Korea remain central for chips/memory, Mexico is gaining importance for server assembly, Southeast Asia for networking/optical equipment, and Japan/Europe for semiconductor equipment and power infrastructure (turbines, transformers).\n- A larger US power shortfall could push AI-related demand to spill over into Asia and EMEA.\n- Fiscal impact is limited: even a full reversal of SNAP/Medicaid cuts set for January 2027 would add less than 0.5pp to real spending growth, with deficits staying near 6% of GDP; five-year debt sustainability looks improved versus a year ago due to upside nominal growth surprises.\n\n**FX / rates implications**\n- US AI-import demand remains a key support for Asian export growth, making Asian trade data (Taiwan, Korea) a leading indicator for the investment cycle and a watch item for TWD/KRW.\n- Mexico's rising role in server assembly is a structural positive for MXN-linked trade flows and nearshoring narratives.\n- Broader-based (less concentrated) trade flows next year could spread AI-capex tailwinds to Southeast Asia, Japan and Europe, with modest implications for JPY and EUR via capex/trade channels.\n- No material deficit or UST narrative shift expected near-term, limiting USD/rate impact from the fiscal angle.\n\n**Watch list**\n- Asian export/trade data (Taiwan, Korea) as a lead indicator for AI investment cycle momentum.\n- Permitting and local political developments in Texas, Ohio and other data-center hubs.\n- Scheduled SNAP/Medicaid cuts set to take effect January 2027 and any legislative reversal attempts.",
+      "summarized_at": "2026-11-11T01:32:30.013550+00:00"
+    },
+    {
+      "title": "Ep96 Asia's Power Crisis: Can Batteries Keep Up with AI? with Mark Hutchinson, FESSIA",
+      "published": "Wed, 11 Nov 2026 06:00:00 +0800",
+      "url": "https://op3.dev/e/https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/20105509-ep96-asia-s-power-crisis-can-batteries-keep-up-with-ai-with-mark-hutchinson-fessia.mp3",
+      "feed": "Asia Climate Finance Podcast",
+      "provider": "Asia Climate Finance",
+      "priority": 2,
+      "tags": [
+        "Vietnam",
+        "Philippines",
+        "FDI",
+        "Energy storage",
+        "Batteries",
+        "AI data centers",
+        "China",
+        "Power demand",
+        "Supply chains"
+      ],
+      "summary": "**Summary**\nMark Hutchinson of FESIA (Future Energy Storage and System Integration Alliance) discusses why Southeast Asia's grids are struggling to absorb rapid solar/wind buildout and surging AI data-center demand without battery energy storage systems (BESS), a structural infrastructure story relevant to EM Asia growth and investment narratives rather than a direct FX/rates driver.\n\n**Key points**\n- No ASEAN country's renewable additions currently meet demand growth, so fossil generation keeps expanding every year despite the energy transition rhetoric.\n- Vietnam added 21 GW of solar and wind in three years (peak demand was only upper-30s GW), causing curtailment, voltage and frequency instability without storage to balance it.\n- Vietnam's power demand is growing ~10% year-to-date; Peninsula Malaysia has 21 GW peak demand against an 8 GW data-center project queue — a scale mismatch versus grid build-out timelines (3-5+ years).\n- 90%+ of battery cells still sourced from China, with local Asian supply chains underdeveloped; localization via regulation risks raising transition costs.\n- Philippines shut its ancillary reserve market due to regional price separation; Thailand, Malaysia, Vietnam still lack explicit pricing for flexibility/frequency services.\n- New US-based AI Energy Management Alliance (Google, Nvidia, Emerald AI, ~18 others) is pushing non-firm grid connections for data centers to ease interconnection queues.\n\n**FX / rates implications**\n- Indirect read for INR/IDR/PHP/VND-complex: rising power-sector capex and FDI tied to data-center buildout (cited $10bn/year inflows from hyperscalers into Vietnam) underscores capital-flow and infrastructure-investment themes supporting EM Asia growth stories, though not a direct rates/currency catalyst.\n- China's dominance in battery cell/raw material supply chains keeps a structural link between ASEAN industrial policy and Chinese manufacturing exports, tangential to CNY-linked trade flows.\n- No explicit Fed, USD, oil, or central bank linkage discussed.\n\n**Watch list**\n- Philippines ancillary services/reserve market design changes following its reserve-market suspension.\n- Vietnam and Philippines policy moves on battery storage procurement and revenue-stacking regulation.\n- Scale and pace of hyperscaler/data-center capex commitments into Vietnam, Malaysia, Philippines as a proxy for FDI-driven capital inflows.",
+      "summarized_at": "2026-11-11T01:35:40.750810+00:00"
+    },
+    {
+      "title": "November WASDE: Holy volatility!",
+      "published": "Tue, 10 Nov 2026 15:01:13 -0600",
+      "url": "https://mcdn.podbean.com/mf/web/72m3whbegqj92k6d/Podcast_11-10-26b.mp3",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "provider": "McKeany-Flavell",
+      "priority": 3,
+      "tags": [
+        "Corn",
+        "Soybeans",
+        "Wheat",
+        "Sugar",
+        "Soybean Oil",
+        "Palm Oil",
+        "WASDE",
+        "Brazil",
+        "Argentina",
+        "Mexico",
+        "Indonesia",
+        "Malaysia",
+        "Agri",
+        "Commodities"
+      ],
+      "summary": "**Summary**\nMcKeany-Flavell's analysts dissect the November WASDE report, a volatile release that whipsawed corn, soybean, wheat and sugar balance sheets. While primarily an agri-commodity report, the figures carry terms-of-trade and export-revenue implications for several EM producers in the trader's book, notably Brazil, Argentina, Mexico, Indonesia and Malaysia.\n\n**Key points**\n- US corn yield cut to 179.6 bu/acre (from 181.2 in October), production now 15.89bn bushels; ending stocks 1.758bn bushels, stocks/use ratio 10.8%; average farm price lowered 10 cents to $4.60/bu despite tighter stocks.\n- Global corn ending stocks for 2026/27 projected near 282mn tons, down 26mn y/y; USDA raised Brazil (+2mn tons to 141mn) and Argentina (+2mn tons to 57mn) corn production, cut South Africa, EU and Mexico.\n- Soybean ending stocks cut to 300mn bushels (stocks/use ratio down to 6.5% from 6.8%) on stronger export pace; Chinese soybean imports held at 115mn tons; Brazil (186mn tons) and Argentina (50mn tons) crop forecasts unchanged.\n- Soybean oil biofuel use for 2025/26 raised to 14.9bn lbs; palm oil dynamics diverging — Malaysia stocks building on weak exports, Indonesia (the main US supply source) weather-hit with September/October data still pending.\n- Sugar: US beet crop cut 190,000 tons on poor Red River Valley/American Crystal yields (27.3 tons/acre); Florida cane cut 62,000 tons; Mexico high-tier tariff import allocation (currently 1.188mn short tons) set to rise sharply in coming months, tightening the stocks/use outlook.\n- Wheat largely steady in the US, but global stocks rose 4mn tons on improved Argentina and Australia crop estimates; Russia/Ukraine export projections trimmed again amid ongoing Black Sea conflict and India-hosted peace talks.\n\n**FX / rates implications**\n- Tighter global corn/soy stocks and firmer Brazilian/Argentine production support agri export receipts for BRL and ARS, a modest terms-of-trade tailwind.\n- Mexico's rising high-tier sugar tariff quota and cuts to Mexican corn production are a watch item for MXN-relevant trade flows.\n- Indonesia/Malaysia palm oil divergence (IDR, MYR) — Indonesian weather-driven supply tightness vs Malaysian stock-building — could move export revenues and local currency crosses once September/October Indonesian data lands.\n\n**Watch list**\n- December and January WASDE reports for soybean oil/biofuel fine-tuning and further yield revisions.\n- Indonesia's delayed September/October palm oil production and export data.\n- Mexico's monthly sugar high-tier tariff adjustments, which could push the import quota above 1mn tons.\n- Black Sea conflict developments and India-hosted Russia-US-Ukraine talks affecting wheat export flows.",
+      "summarized_at": "2026-11-11T01:38:17.904510+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-11"
 }

@@ -20047,8 +20047,36 @@
       "feed": "PIMCO Pod",
       "processed": "2026-11-10T22:59:22.961007+00:00",
       "episode_id": "00098f177ac2bfc6"
+    },
+    "8657df675d13abdf": {
+      "url": "https://mcdn.podbean.com/mf/web/9jzjj3m8u2vqf7xf/AAR_Rates111026_KAL-1-NSQOUUT.mp3",
+      "title": "US Rates: CPI - No Shelter from Our Inflationary Sins",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-11-11T01:31:31.286295+00:00",
+      "episode_id": "8657df675d13abdf"
+    },
+    "e361f888bd9b2f47": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/9af2bf20-f31b-4f1b-bd26-aedc8f50cc1a.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Big Political Shift, Narrow Economic Impact",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-11-11T01:32:30.013550+00:00",
+      "episode_id": "e361f888bd9b2f47"
+    },
+    "23ed19e6e6fbdad2": {
+      "url": "https://op3.dev/e/https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/20105509-ep96-asia-s-power-crisis-can-batteries-keep-up-with-ai-with-mark-hutchinson-fessia.mp3",
+      "title": "Ep96 Asia's Power Crisis: Can Batteries Keep Up with AI? with Mark Hutchinson, FESSIA",
+      "feed": "Asia Climate Finance Podcast",
+      "processed": "2026-11-11T01:35:40.750810+00:00",
+      "episode_id": "23ed19e6e6fbdad2"
+    },
+    "3c45dbd50934fd15": {
+      "url": "https://mcdn.podbean.com/mf/web/72m3whbegqj92k6d/Podcast_11-10-26b.mp3",
+      "title": "November WASDE: Holy volatility!",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-11-11T01:38:17.904510+00:00",
+      "episode_id": "3c45dbd50934fd15"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-10T22:59:22.961043+00:00"
+  "last_updated": "2026-11-11T01:38:17.904547+00:00"
 }
