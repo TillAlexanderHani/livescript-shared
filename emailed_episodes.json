@@ -20131,8 +20131,15 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-11-12T00:07:44.418067+00:00",
       "episode_id": "62c596d536a703da"
+    },
+    "0427cbb1f926c211": {
+      "url": "https://traffic.megaphone.fm/BLM9317034580.mp3",
+      "title": "State of Distressed: UBS’ Chaisanguanthum on Coops, LMEs, and AI",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-11-12T02:53:08.309014+00:00",
+      "episode_id": "0427cbb1f926c211"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-12T00:07:44.418109+00:00"
+  "last_updated": "2026-11-12T02:53:08.309052+00:00"
 }
