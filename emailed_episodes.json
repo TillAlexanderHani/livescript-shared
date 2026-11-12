@@ -20159,8 +20159,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-11-12T18:00:34.658473+00:00",
       "episode_id": "2d9c044742064ea7"
+    },
+    "0dd9e49778608e56": {
+      "url": "https://mcdn.podbean.com/mf/web/jkw8nm87pncxpt3b/AAREM121126_KAL-1-Q3BXMQ2E.mp3",
+      "title": "EM Fixed Income:  EM stays sturdy as the hawkish stars align",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-11-12T21:10:26.810855+00:00",
+      "episode_id": "0dd9e49778608e56"
+    },
+    "8a7bfd73d714902f": {
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6af613ed9dce432809911d43/media.mp3",
+      "title": "Bonds, inflation and the Fed. Plus, Nvidia in turmoil",
+      "feed": "Financial Times Unhedged",
+      "processed": "2026-11-12T21:37:57.169922+00:00",
+      "episode_id": "8a7bfd73d714902f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-12T18:00:34.658521+00:00"
+  "last_updated": "2026-11-12T21:37:57.169967+00:00"
 }
