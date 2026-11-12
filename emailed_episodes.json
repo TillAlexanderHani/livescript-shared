@@ -20173,8 +20173,36 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-11-12T21:37:57.169922+00:00",
       "episode_id": "8a7bfd73d714902f"
+    },
+    "f1eb5b44df0cbe4a": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/79b63c13-3373-41ab-bc87-b8668ed4d29c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=79b63c13-3373-41ab-bc87-b8668ed4d29c&feed=tc4zxWgX",
+      "title": "NVIDIA CEO Exit, China Scrutiny and the AI Chip Stock Fallout",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-12T23:02:02.334494+00:00",
+      "episode_id": "f1eb5b44df0cbe4a"
+    },
+    "af635b31d7f3c968": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/qhkcdnzei8jn3xry/Macrovoices-2026-11-12-Mike-Alkin.mp3",
+      "title": "MacroVoices #558 Mike Alkin: Uranium at a Crossroads",
+      "feed": "Macro Voices",
+      "processed": "2026-11-12T23:10:55.614727+00:00",
+      "episode_id": "af635b31d7f3c968"
+    },
+    "4405c2fe2acd175e": {
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/20117328-daniel-noboa-s-ecuador-crime-protests-and-a-contested-vote.mp3",
+      "title": "Daniel Noboa’s Ecuador: Crime, Protests and a Contested Vote",
+      "feed": "The Americas Quarterly Podcast",
+      "processed": "2026-11-12T23:22:04.703524+00:00",
+      "episode_id": "4405c2fe2acd175e"
+    },
+    "d4aa089cea6d2e76": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC6926312036.mp3",
+      "title": "Inflation Is Sticky, But This Isn’t 2022 All Over Again",
+      "feed": "PIMCO Pod",
+      "processed": "2026-11-12T23:29:13.246315+00:00",
+      "episode_id": "d4aa089cea6d2e76"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-12T21:37:57.169967+00:00"
+  "last_updated": "2026-11-12T23:29:13.246363+00:00"
 }
