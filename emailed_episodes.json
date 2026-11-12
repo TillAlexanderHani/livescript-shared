@@ -20110,8 +20110,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-11-11T18:01:25.349801+00:00",
       "episode_id": "c38d0ab419e7063a"
+    },
+    "c05d11a3c90f52fb": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a7997b49-7eee-4cd7-b00d-2ef97fd1ddcb.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Midterms Could Delay the AI Buildout, Not Derail It",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-11-11T23:45:48.637007+00:00",
+      "episode_id": "c05d11a3c90f52fb"
+    },
+    "34b87542ad7caf91": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/61b1caac-357e-4da8-82b5-9fd6f6a75def/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=61b1caac-357e-4da8-82b5-9fd6f6a75def&feed=tc4zxWgX",
+      "title": "AI Data Center Risks, Fed Rate Hikes & Energy Plays",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-11T23:51:45.268460+00:00",
+      "episode_id": "34b87542ad7caf91"
+    },
+    "62c596d536a703da": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/d50c15fb-6c5a-4836-89a2-b4fe0174107c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "The Perfect Storm That Clobbered Hedge Funds",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-11-12T00:07:44.418067+00:00",
+      "episode_id": "62c596d536a703da"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-11T18:01:25.349847+00:00"
+  "last_updated": "2026-11-12T00:07:44.418109+00:00"
 }

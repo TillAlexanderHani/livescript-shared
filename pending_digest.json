@@ -109,6 +109,69 @@
       ],
       "summary": "**Summary**\nThe episode examines whether the US stock market has become a more accurate proxy for the real economy, pointing to extreme bifurcation between AI/tech-driven growth and a stagnant \"old-era\" economy, plus rising concentration risk in equity indices — both relevant to a macro trader's read on US risk sentiment and credit conditions.\n\n**Key points**\n- Economist Jim Paulson finds \"new-era\" GDP (AI, software, IP) grew ~13% annually over two years vs just 1% for \"old-era\" sectors (industrials, traditional consumer spending) — the most extreme bifurcation he's seen in post-war history.\n- Paulson's \"Walmart Recession Signal\" (Walmart stock vs. luxury-retail stocks) has \"blown out\" since 2024, historically a reliable recession indicator (correctly flagged downturns in early/late 1990s, 2008, pre-pandemic); Walmart is outperforming the broad S&P 500 this year as cash-strapped consumers trade down.\n- Top 10 S&P 500 companies now represent 40% of total market value (vs. 16% a decade ago), almost entirely tech names (Nvidia, Alphabet, Amazon, Meta).\n- A report from Open Markets Institute and Americans for Financial Reform Education Fund warns of an AI bubble, citing tech concentration and circular financing deals (e.g., Oracle, CoreWeave) among AI infrastructure firms as contagion risk.\n\n**FX / rates implications**\n- No direct EM Asia/LATAM read-through, but a US equity concentration unwind or AI-bubble correction would be a classic risk-off trigger — historically supportive of USD/DXY and UST duration, pressuring EM FX (INR, IDR, MXN, BRL) and widening EM credit spreads via the wealth-effect/contagion channel described (reduced high-end US consumer spending, potential labor-market spillover).\n- Weakening US consumer breadth (Walmart signal) alongside narrow equity leadership could presage softer US growth data, a dovish tilt risk for the Fed, and lower UST yields if recession fears intensify — a mixed but watch-worthy carry-trade input.\n\n**Watch list**\n- Further AI-bubble commentary/reports and any stress in circular-financing arrangements among AI infrastructure firms (Oracle, CoreWeave and peers).\n- US consumer spending/retail data (Walmart earnings trends) as a leading recession indicator.\n- S&P 500 concentration metrics for signs of broadening or further narrowing.",
       "summarized_at": "2026-11-11T18:01:25.349801+00:00"
+    },
+    {
+      "title": "Midterms Could Delay the AI Buildout, Not Derail It",
+      "published": "Wed, 11 Nov 2026 21:00:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a7997b49-7eee-4cd7-b00d-2ef97fd1ddcb.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 2,
+      "tags": [
+        "AI CapEx",
+        "Data centers",
+        "Elections",
+        "Credit",
+        "Power",
+        "Hyperscalers",
+        "Tech sector"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's public policy team assesses how last week's US midterm election results affect the AI data-center build-out, concluding the shift is about timing, location and cost rather than a reduction in overall investment.\n\n**Key points**\n- Political opposition to data centers (electricity bills, water use, limited local economic benefit) proved decisive in several state races; Texas, Ohio and Georgia governors-elect have proposed pauses or conditional moratoria on new approvals.\n- Federal posture remains accommodative given AI's national-security framing and veto risk on restrictive legislation, so friction stays state/project-level.\n- Roughly 5GW of US data-center projects (~28% of the 2028 pipeline) are expected to shift into 2029; 2027 construction is largely unaffected since already permitted.\n- US data-center capacity growth projected roughly flat in 2028, then up nearly 40% in 2029; hyperscaler capex seen steady at ~$1.6tn (2026) and $1.8tn (2028).\n- A 44GW US power shortfall through 2028 (~38% of projected demand) makes electricity access, not compute, the binding constraint.\n- Large, well-capitalized hyperscalers (25-50% ROI visibility) best positioned; supply-chain risk (equipment orders, inventory, margins) rises for a slower 2028 ramp; financing scrutiny increases for new construction while existing cash-flow-generating data centers could see stronger lease pricing.\n\n**FX / rates implications**\n- Primarily a US domestic equity/credit and capex story with no direct EM Asia/LATAM FX or rates linkage discussed; relevant to the trader mainly as a read on US corporate credit issuance (continued heavy hyperscaler borrowing expected in 2027) and risk sentiment around AI-linked equities, which can spill into broader USD and global risk appetite.\n- No commentary on Fed policy, DXY, UST yields, or EM central banks.\n\n**Watch list**\n- State-level policy decisions in Texas, Ohio and Georgia on data-center permitting/moratoria.\n- Hyperscaler capex guidance and AI-related credit issuance through 2027.\n- Power-supply bottleneck data (44GW shortfall) as a gating factor for 2028-2029 capacity growth.",
+      "summarized_at": "2026-11-11T23:45:48.637007+00:00"
+    },
+    {
+      "title": "AI Data Center Risks, Fed Rate Hikes & Energy Plays",
+      "published": "Wed, 11 Nov 2026 20:15:00 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/61b1caac-357e-4da8-82b5-9fd6f6a75def/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=61b1caac-357e-4da8-82b5-9fd6f6a75def&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 2,
+      "tags": [
+        "Nvidia",
+        "AI",
+        "Fed",
+        "UST 10y",
+        "Risk sentiment",
+        "Oil",
+        "WTI",
+        "Natural gas",
+        "Inflation",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nThis CNBC segment centers on US tech/AI-capex jitters (Nvidia's worst stretch in years amid the Jensen Huang \"spy affair\" scandal and data-center overbuild fears) and a notable hawkish shift in Fed rhetoric, plus a bearish turn on oil equities. Relevance to EM FX/rates is indirect but real via the USD/risk-sentiment and Fed-rate channel.\n\n**Key points**\n- Chicago Fed's Goolsbee called the latest inflation report \"borderline disturbing\"; Fed governor Waller flagged a possible 50bp hike at the December 9 FOMC meeting; Goldman Sachs now sees more hikes ahead, and markets are pricing a near-lock 25bp hike (some economists, e.g. Michael Darda of Roth Capital, argue for 50bp).\n- Darda argues nominal GDP growth is tracking into the high-single-digits for Q4, inflation has run above target for 67 months, and the Fed should reverse last year's 75bp of \"insurance cuts.\"\n- AI capex jitters: SoftBank cancelled turbine orders with GE Vernova; CoreWeave beat estimates and said demand is 10x oversubscribed through 2028; Nvidia down ~6% on the week on the Huang scandal, risking its longest losing streak in 14 years.\n- Oil: Bernstein downgrades Conoco, Diamondback, Devon (cyclical oil-linked equities), prefers ExxonMobil (defensive, Qatari LNG exposure) and gas-levered Expand Energy; US gasoline posted its largest one-day drop in 18 years; crack spreads at historic highs.\n\n**FX / rates implications**\n- A more hawkish Fed (50bp hike risk, reversal of insurance cuts) would support USD/DXY broadly and pressure UST yields higher, a headwind for EM Asia and LATAM carry trades (INR, IDR, MXN, BRL) if confirmed at the December 9 FOMC.\n- Renewed AI-capex/tech risk-off (Nvidia selloff, data-center order cancellations) is a broad risk-sentiment negative that could weigh on high-beta EM FX and widen credit spreads if it spreads to equities more broadly.\n- Softer oil/WTI and falling gasoline prices are a tailwind for commodity-importing EM (India, Philippines, Turkey-type dynamics) but a headwind for commodity exporters (Mexico, Colombia via oil revenue).\n\n**Watch list**\n- FOMC meeting December 9: size of any rate move (25bp vs 50bp) and forward guidance.\n- Nvidia/Huang scandal developments (potential Congressional subpoena, Commerce Dept export-control scrutiny) as a risk-sentiment driver.\n- Oil price trajectory and crack spreads amid Strait of Hormuz-related LNG volume dynamics.",
+      "summarized_at": "2026-11-11T23:51:45.268460+00:00"
+    },
+    {
+      "title": "The Perfect Storm That Clobbered Hedge Funds",
+      "published": "Wed, 11 Nov 2026 09:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/d50c15fb-6c5a-4836-89a2-b4fe0174107c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "UST 10y",
+        "CPI",
+        "Oil",
+        "Brent",
+        "BRL",
+        "Credit",
+        "Risk sentiment",
+        "S&P 500"
+      ],
+      "summary": "**Summary**\nOdd Lots covers the historic October-into-November wipeout for multi-strategy hedge funds (Millennium, Point72, ExodusPoint, Citadel) driven by a crowded, highly leveraged AI trade unwinding alongside a Brazil election bond shock and a French bond selloff, then pivots to Bloomberg's Michael Ball explaining the mechanical dynamics (negative gamma, structured products, CTAs, leveraged ETFs) behind the post-midterm Thursday equity crash. For an EM/macro trader, this is a risk-sentiment and positioning story with direct spillover into cross-asset vol, oil, and rates.\n\n**Key points**\n- Millennium down 2.3%, Kirkoswald -6.4% (worst month ever), Brevan Howard-style macro funds also hurt; Vara (AI-adjacent fund) lost 33% in October.\n- Pivotal Path: top 10 multi-strat firms control ~$2.2tn including leverage against ~$350bn capital, evidencing massive crowding in AI-adjacent trades.\n- Brazil's surprise election outcome and a UK/French bond selloff were cited as compounding shocks alongside the AI drawdown.\n- Post-midterm Thursday saw the biggest single-stock retail puke since COVID, driven by negative gamma, dealer hedging, CTA selling and leveraged-ETF deleveraging, not a fresh macro catalyst.\n- Fed's Waller gave hawkish-leaning forward guidance around the December meeting after a CPI print; oil/Brent fell ~$10-15 as Iran de-escalation hopes grew, easing crack spreads and pulling European gas/stocks lower too.\n\n**FX / rates implications**\n- Broad risk-off/de-grossing episodes like this typically support USD/DXY defensively and widen EM credit spreads; a reversal (CTAs/vol-control re-leveraging) would be USD-negative and EM-carry positive.\n- Falling oil (Brent) is disinflationary globally and modestly dollar-negative via terms-of-trade for oil importers (positive for INR, PHP); Fed's hawkish CPI-era guidance keeps UST 10y/2y volatility elevated, a key swing factor for EM Asia and LATAM rates.\n- Brazil's post-election bond selloff is a direct BRL/local-rates risk flag for the LATAM book.\n\n**Watch list**\n- CoreWeave earnings (reported after this recording) as the next AI-leverage stress test.\n- Fed December meeting following Waller's guidance and the CPI print.\n- Anthropic IPO pricing (~$1.4tn, down from prior expectations) as a supply/absorption test for AI-related risk appetite.\n- Further hedge-fund deleveraging/releveraging signals into year-end, which could amplify cross-asset and EM volatility.",
+      "summarized_at": "2026-11-12T00:07:44.418067+00:00"
     }
   ],
   "last_digest_date": "2026-11-11"
