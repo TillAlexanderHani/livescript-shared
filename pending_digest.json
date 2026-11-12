@@ -1,4 +1,28 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "What Nvidia's Megaspeed Scandal Is Really All About",
+      "published": "Thu, 12 Nov 2026 09:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9390c1d9-8076-46f9-89ef-b500001b8ce0/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 4,
+      "tags": [
+        "China",
+        "CNY",
+        "MYR",
+        "SGD",
+        "IDR",
+        "THB",
+        "Trade",
+        "Export controls",
+        "Risk sentiment",
+        "Capital flows",
+        "S&P 500"
+      ],
+      "summary": "**Summary**\nOdd Lots interviews Bloomberg's Mackenzie Hawkins on the Nvidia/Megaspeed chip-smuggling scandal, now entangled with revelations that Nvidia CEO Jensen Huang had an affair with a Megaspeed-linked executive under US/Singapore investigation. The story matters for EM because it exposes how Southeast Asia (Malaysia, Singapore, Indonesia, Thailand) has become the hub for billions of dollars in Nvidia GPU flows, much of it ultimately serving Chinese AI demand via \"remote access\" cloud loopholes, and because US export-control policy toward the region is highly unstable.\n\n**Key points**\n- Megaspeed, Southeast Asia's largest Nvidia buyer ($4.6bn of hardware), rents GPU capacity to Alibaba; a Bloomberg probe found ~50,000 Blackwell/GPU chips unaccounted for versus Malaysian/Indonesian trade records.\n- Nvidia's general counsel reportedly intervened with the Commerce Department's export-enforcement arm (BIS) on Megaspeed's probe, prompting the case to shift to DOJ.\n- US has repeatedly drafted then scrapped region-specific export licensing rules (the Biden-era AI Diffusion Rule, a Malaysia/Thailand-specific rule, a global rule) amid diplomatic pushback, creating policy whiplash for Southeast Asian data-center investment.\n- Huawei is making opportunistic export pushes (e.g., Egypt, Malaysia considering earlier-gen Ascend chips) as a hedge against US chip-supply uncertainty, though production capacity remains far below Nvidia's.\n- Congress (incl. incoming Democratic House) and China hawks are pushing to tighten cloud-compute/export rules via the annual defense bill.\n\n**FX / rates implications**\n- Headline/legal risk for Nvidia and the broader AI capex trade is a swing factor for US equities (S&P 500) and risk sentiment, a key beta driver for EM Asia FX (IDR, MYR, SGD, THB, KRW, TWD) given regional tech/data-center capital inflows.\n- Any US tightening of export controls or remote-access rules would directly hit capital flows and FDI into Malaysia, Singapore, Indonesia and Thailand's data-center buildout, a THB/MYR/IDR/SGD flow risk.\n- Escalating US-China tech/trade friction reinforces CNY/CNH downside and broader China-proxy EM Asia risk premium.\n\n**Watch list**\n- DOJ's next move on the Megaspeed case and Nvidia board/Jensen Huang fallout.\n- Upcoming annual defense authorization package where Congress may legislate stricter export/cloud-access rules.\n- Potential new US restrictions on remote GPU access from Southeast Asia, which would be a direct shock to Malaysia/Singapore/Thailand/Indonesia data-center investment flows.",
+      "summarized_at": "2026-11-12T17:58:53.453079+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-12"
 }
