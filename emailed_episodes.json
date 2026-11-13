@@ -20264,8 +20264,22 @@
       "feed": "Capital Economics Weekly Briefing",
       "processed": "2026-11-13T17:52:59.438067+00:00",
       "episode_id": "2fc089260e3197f3"
+    },
+    "7571dc33f4a98f76": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d7b0f7be-c875-4fe0-bf8a-90e000a4a86a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d7b0f7be-c875-4fe0-bf8a-90e000a4a86a&feed=tc4zxWgX",
+      "title": "NVIDIA Succession Crisis, Anthropic IPO and AI Chip Scrutiny 11/13/26",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-13T20:52:29.715120+00:00",
+      "episode_id": "7571dc33f4a98f76"
+    },
+    "3fe78aa5cf05355f": {
+      "url": "https://mcdn.podbean.com/mf/web/6stqwn5w7br8cifi/Podcast_11-13-26.mp3",
+      "title": "Beet & cane sugar update: How are the crops doing?",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-11-13T21:01:59.639365+00:00",
+      "episode_id": "3fe78aa5cf05355f"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-13T17:52:59.438112+00:00"
+  "last_updated": "2026-11-13T21:01:59.639409+00:00"
 }
