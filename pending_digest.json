@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Europe’s AI story. With Philip Lane",
+      "published": "Fri, 13 Nov 2026 05:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6af5ddad93fae55e3b416f43/media.mp3",
+      "feed": "The Economics Show",
+      "provider": "The Economist",
+      "priority": 3,
+      "tags": [
+        "EUR",
+        "ECB",
+        "Bund",
+        "Inflation",
+        "Credit",
+        "Trade",
+        "Fiscal",
+        "CNY",
+        "KRW",
+        "TWD"
+      ],
+      "summary": "**Summary**\nECB Chief Economist Philip Lane rates AI's current impact on the euro-area economy a 4/10 today but an 8/10 over five-to-ten years, detailing how AI is already showing up in euro-area trade, inflation, investment, credit, wages and long-term rates. For a macro trader, this is a window into how the ECB itself is framing a structural theme that is reshaping the transatlantic investment and capital-flow balance.\n\n**Key points**\n- Europe lags the US/China in frontier AI models and compute (data centers), but leads in AI-related equipment exports (ASML, Zeiss, Schneider), with export prices surprising to the upside this year.\n- Europe's current account surplus has narrowed visibly as firms import AI software/IP licenses from US hyperscalers' European affiliates.\n- Goods inflation has risen from ~0.5% to the low 1%s, with roughly 0.3pp of that attributed to electronics/chip competition from the global AI boom.\n- A digital-investment proxy is up ~70% in real terms since 2014, accelerating; AI-linked demand is adding about 1pp to euro-area credit growth (actual ~4% vs. an estimated ~3% ex-AI).\n- Markets are pricing higher real long-term rates into the early 2030s on AI productivity expectations, tightening financing conditions for non-hyperscaler European firms even though Europe's own AI capex boom is far more modest than the US's.\n- Labor markets show little AI-driven job cuts so far, but multi-year European wage bargains are increasingly factoring in future automation risk, capping wage demands.\n\n**FX / rates implications**\n- AI-driven US investment inflows (Europeans funding US hyperscaler equity/debt) are a structural support for USD and a widening US external deficit mirrored by European surplus erosion — a theme global macro desks should track alongside Fed/Treasury flows.\n- Rising long-end UST/Bund yields priced off AI-productivity optimism into the early 2030s is a global term-premium story relevant to EM local-currency rates and carry trades, since EM curves often take direction from core-market term premia.\n- European import bill for AI/energy is a drag on EUR current account support, a modest negative for EUR versus a narrative of US exceptionalism.\n\n**Watch list**\n- ECB leadership transition from Lagarde to either Pablo Hernández de Cos or Klaas Knot — continuity in strategy expected, but watch for shifts in how the new president frames AI/productivity in policy guidance.\n- Early-2030s real-rate repricing path as a slow-moving but structural input into global term premia.\n- European data-center buildout pace versus any US slowdown post-midterms, which could reallocate global AI capex and related equipment trade flows.",
+      "summarized_at": "2026-11-13T07:29:15.259903+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-13"
 }
