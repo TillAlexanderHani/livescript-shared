@@ -20278,8 +20278,29 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "processed": "2026-11-13T21:01:59.639365+00:00",
       "episode_id": "3fe78aa5cf05355f"
+    },
+    "66e240f040047fe4": {
+      "url": "https://mcdn.podbean.com/mf/web/6mkphrfpw2j55ibw/261113AARGFIMS_KAL-1-XPVRNV4I.mp3",
+      "title": "Global Rates: Front end EUR and UK rates, cross-market duration and intra-EMU spreads",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-11-13T23:00:17.421373+00:00",
+      "episode_id": "66e240f040047fe4"
+    },
+    "80380050239dfd71": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/20119426-clo-2-woe-as-junior-slices-sour-but-bond-bonanza-beckons-for-credit.mp3",
+      "title": "CLO 2.woe as junior slices sour but bond bonanza beckons for credit",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-11-13T23:11:26.236962+00:00",
+      "episode_id": "80380050239dfd71"
+    },
+    "5ddc418154caff33": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261113_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead – Our new Fed call",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-11-13T23:25:05.415276+00:00",
+      "episode_id": "5ddc418154caff33"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-13T21:01:59.639409+00:00"
+  "last_updated": "2026-11-13T23:25:05.415317+00:00"
 }
