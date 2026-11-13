@@ -20215,8 +20215,57 @@
       "feed": "The Economics Show",
       "processed": "2026-11-13T07:29:15.259903+00:00",
       "episode_id": "a7d96d0010129d5d"
+    },
+    "1f82e4c56bbea3b2": {
+      "url": "https://mcdn.podbean.com/mf/web/kcc59ga3shmwtvqq/AARFX261113_KAL-1-VSDYS9SZ.mp3",
+      "title": "Global FX: unpacking CPI, euro bloc divergence, CNH resistance",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-11-13T17:25:55.458763+00:00",
+      "episode_id": "1f82e4c56bbea3b2"
+    },
+    "4316195277c3010f": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6af6e19128531eda45d3086c/media.mp3",
+      "title": "Asia beyond the headlines",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-11-13T17:27:47.807618+00:00",
+      "episode_id": "4316195277c3010f"
+    },
+    "1d2ec7060ef2918b": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/1325bc72-8ba1-4485-a3ae-15569cd66748.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "From AI to Air-Conditioning: The Power Boom in Asia",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-11-13T17:28:57.930204+00:00",
+      "episode_id": "1d2ec7060ef2918b"
+    },
+    "da7d665da88a38b1": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/6c3646fe-afa0-45cf-8682-b500015998ac/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Why a $2 Billion Law Firm Suddenly Collapsed",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-11-13T17:44:25.182939+00:00",
+      "episode_id": "da7d665da88a38b1"
+    },
+    "68df35072cc6dae8": {
+      "url": "https://traffic.megaphone.fm/BLM6902330172.mp3",
+      "title": "EM Lens: BancAtlantic’s Tonelli Takes Investors to the Frontier",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-11-13T17:46:05.833725+00:00",
+      "episode_id": "68df35072cc6dae8"
+    },
+    "8e78236f29a224f5": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/4513547c-5843-494d-bdc6-023a020ea17d/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=4513547c-5843-494d-bdc6-023a020ea17d&feed=IFy3imsg&t=podcast&e=nx-s1-6039338&p=510325&d=546&size=8744608",
+      "title": "An inflation scare, workers get their fair share, and Nvidia’s billion-dollar affairs",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-11-13T17:48:48.395238+00:00",
+      "episode_id": "8e78236f29a224f5"
+    },
+    "2fc089260e3197f3": {
+      "url": "https://media.transistor.fm/24557e30/e9ff342e.mp3",
+      "title": "Up and down week for markets and a general strike in Spain",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-11-13T17:52:59.438067+00:00",
+      "episode_id": "2fc089260e3197f3"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-13T07:29:15.259946+00:00"
+  "last_updated": "2026-11-13T17:52:59.438112+00:00"
 }
