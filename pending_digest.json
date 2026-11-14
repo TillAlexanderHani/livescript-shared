@@ -1,4 +1,89 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How Will Higher-than-Expected Inflation Data Impact the Fed's Next Rate Decisions?",
+      "published": "Fri, 13 Nov 2026 21:04:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD7615870516.mp3",
+      "feed": "Goldman Sachs The Markets",
+      "provider": "Goldman Sachs",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "CPI",
+        "Inflation",
+        "UST 10y",
+        "DXY",
+        "Oil",
+        "Brent",
+        "WTI",
+        "Risk sentiment",
+        "Credit"
+      ],
+      "summary": "**Summary**\nGoldman Sachs' Mohammed Kubaj breaks down how a hotter-than-expected October CPI print (0.3% m/m, third straight month of broad-based strength) reshaped Fed rate expectations and rippled through rates, credit and equities. For an EM trader, this is a core read on the Fed reaction function that drives USD and UST yields, the dominant external anchor for EM Asia and LATAM FX/rates.\n\n**Key points**\n- CPI printed 0.3% for a third consecutive month, stronger across categories, deemed an unacceptable number by the Fed.\n- A Fed speech (under new leadership referenced as Worsh) had already floated 50bp hikes contingent on a 0.3 CPI print — raising the hawkish distribution before the data even landed.\n- Markets had compressed ~50bp of priced hikes over the prior month; part of the post-CPI move is a reversal/give-back of that positioning.\n- Oil fell ~15% in November (October data lag), partially offsetting CPI via feed-through to core inflation, but the broader rates sell-off also reflected term premium, bond/AI-capex supply, and convexity-driven selling, not oil alone.\n- Midterm election effects on rates were modest versus the CPI-driven move (rates moved roughly 3x more on CPI morning than over the entire midterms week); midterms mainly transmit via oil/geopolitics, not Fed policy directly.\n- 10-year yields pulled back to 5% from a recent peak near 5.3%; Kubaj sees a reflexive self-balancing mechanism (higher rates slowing AI-capex financing) capping a retest of highs absent a growth/earnings reassertion.\n\n**FX / rates implications**\n- A hawkish Fed reaction function (50bp hikes back on the table) supports USD strength broadly, a headwind for EM Asia and LATAM carry trades and a case for EM central banks staying defensive on FX.\n- UST yield volatility (5% vs 5.3% peak) remains a key external anchor for EM local rates and sovereign spreads; watch term premium, bond supply, and AI-capex financing dynamics for re-steepening risk.\n- Lower oil (-15% in November) is a partial relief valve for EM energy importers (India, Philippines) via improved terms of trade and inflation prints.\n\n**Watch list**\n- Upcoming Fed speak and FOMC minutes for clarity on hike size/timing.\n- Oil price trajectory amid geopolitical developments.\n- Corporate earnings and AI-capex financing data as the next swing factor for yields and risk appetite.",
+      "summarized_at": "2026-11-14T01:54:40.425986+00:00"
+    },
+    {
+      "title": "Global Data Pod Weekender: Woulda, shoulda, coulda",
+      "published": "Fri, 13 Nov 2026 16:10:59 -0500",
+      "url": "https://mcdn.podbean.com/mf/web/pnjtsb4hkt2y4rpc/Weekender_KAL-1-SFR5HA1X_Nov1326.mp3",
+      "feed": "Global Data Pod",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "CPI",
+        "PPI",
+        "Inflation",
+        "UST 10y",
+        "ECB",
+        "DXY",
+        "USD",
+        "Risk sentiment",
+        "Trade"
+      ],
+      "summary": "**Summary**\nJPMorgan economists Bruce Kasman and Joe Lupton debate a hawkish pivot at the Fed following an upside CPI surprise and persistent PPI pressures, alongside a broad shift in Fed speak (led by Waller) toward acknowledging inflation persistence and labor-market tightening risk. They also compare the Fed's path to the ECB's, and run through Q4 growth risks across the US, Euro area, Japan and China.\n\n**Key points**\n- Upside CPI surprise plus continued PPI pressure is driving a broader hawkish shift among Fed speakers this week.\n- Market/economists expect hikes at both the December and January FOMC meetings, pushing the policy rate toward/above 450bp, with Taylor-rule estimates implying the Fed could be 100-150bp behind the curve into mid-2027.\n- December FOMC dot plot expected to show multiple hikes penciled into 2027 forecasts.\n- ECB view: core inflation (services-driven, not goods) has surprised to the upside; economists expect one more ECB hike in December, contingent on Q4 growth resilience (October PMIs still constructive).\n- Q4 growth debate: US consumption seen slowing (consensus ~1.8% GDP, with downside risk if consumer growth drops to ~1%); Euro area and Japan GDP also expected to undershoot (~1.3% consensus) after a strong H1; China trade data show exports strong but import/domestic demand picture weak, reinforcing China as a net demand drag rather than engine.\n- Fed minutes (October meeting) and US retail sales due next week are key near-term catalysts.\n\n**FX / rates implications**\n- A more hawkish Fed path (back-to-back Dec/Jan hikes, higher 2027 dot plot) argues for USD/DXY and UST yields firmer near-term, tightening financial conditions globally and pressuring EM carry trades and EM FX funded via USD.\n- Divergence risk: Fed tightening further while ECB, BoE and other DM central banks are seen closer to done, supports USD strength vs EUR/GBP, with spillover risk to EM Asia and LATAM funding costs.\n- Discussion flags a non-trivial probability of a financial-stress event once markets price the Fed above 5%, a risk-off trigger relevant to EM risk sentiment and capital flows.\n- Soft China import/domestic demand data reinforce a weak China demand backdrop, a headwind for commodity-linked and regional EM Asia currencies.\n\n**Watch list**\n- US retail sales (next week) and FOMC October minutes for signals on whether December/January hikes are locked in.\n- December FOMC meeting and dot plot for confirmation of a more hawkish 2027 rate path.\n- ECB December meeting and Q4 Euro area growth data as the swing factor for a possible additional ECB hike.",
+      "summarized_at": "2026-11-14T02:02:11.460205+00:00"
+    },
+    {
+      "title": "Are wildfires making the future uninsurable?",
+      "published": "Fri, 13 Nov 2026 23:49:12 +0000",
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
+      "feed": "Planet Money",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Insurance",
+        "Climate risk",
+        "California",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nThis Planet Money episode examines the collapse of the private home-insurance market in wildfire-prone California, using the town of Paradise (destroyed by the 2018 Camp Fire) as a case study. While framed around US homeowners insurance, it is a useful proxy for how climate-driven catastrophe losses are repricing insurance and reinsurance globally — a theme with second-order relevance to sovereign risk and disaster-exposed EM economies.\n\n**Key points**\n- Wildfire losses, once ~2% of annual US insured natural-disaster losses, surged after 2016; 2017-2018 California fires caused over $20bn in damages.\n- California capped rate increases above 7% without a public hearing and historically barred insurers from using forward-looking climate catastrophe models, compressing insurer margins.\n- Insurers have responded by non-renewing policies, pushing homeowners onto the California FAIR Plan (insurer of last resort), and using granular, property-level risk pricing (aerial imagery, etc.).\n- Premiums for affected homeowners rose 3x-10x (e.g., $800 to $8,000/year); home-hardening investments (e.g., $17,000 spent) yielded minimal discounts (as low as $42).\n- A 2024 California regulatory deal now lets insurers use climate models for pricing in exchange for writing more policies in high-risk zones; Mercury Insurance began re-entering Paradise.\n\n**FX / rates implications**\n- No direct EM FX/rates read-through; this is a US state-level, sector-specific regulatory and insurance-market story, not a macro driver.\n- Tangential relevance: illustrates how climate catastrophe losses are structurally repricing insurance/reinsurance capacity, a dynamic relevant to catastrophe bond markets and disaster-exposed sovereigns (e.g., Philippines, Caribbean) that rely on parametric insurance or multilateral disaster financing.\n\n**Watch list**\n- California's new climate-model-based rate-setting regime and whether it stabilizes the FAIR Plan, a template other wildfire/hurricane-exposed states or countries may watch.",
+      "summarized_at": "2026-11-14T02:08:25.823910+00:00"
+    },
+    {
+      "title": "Through the noise: Tactical plays within a diversified allocation",
+      "published": "Fri, 13 Nov 2026 18:00:00 +0800",
+      "url": "https://www.buzzsprout.com/1662247/episodes/20119079-through-the-noise-tactical-plays-within-a-diversified-allocation.mp3",
+      "feed": "Standard Chartered Money Insights",
+      "provider": "Standard Chartered",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "UST 10y",
+        "Inflation",
+        "CPI",
+        "Credit",
+        "Risk sentiment",
+        "Oil",
+        "INR",
+        "Elections",
+        "Carry"
+      ],
+      "summary": "**Summary**\nStandard Chartered's CIO Office reviews recent US equity volatility following the Democratic midterm election sweep, the resulting rotation within tech, and strong October US jobs/inflation data that cements Fed tightening expectations. Relevant to EM traders mainly via the Fed-rate-hike and USD/UST transmission channel, plus a direct India equity call.\n\n**Key points**\n- SC cut semiconductor exposure five weeks ago on narrowing breadth, moved equities from overweight to core two weeks ago, then added a tactical US IT position as the VIX surged above 25 post-election.\n- October US payrolls added ~165,000 jobs (vs 70,000 consensus), unemployment fell to 4.1%; headline and core CPI rose 0.4% and 0.3% m/m, both above expectations, driven by fuel prices, tech inflation and tariff pass-through.\n- Firm flags a December Fed rate hike as cemented, with rising odds of a follow-through hike in Q1 2027; US 10y yield seen staying within a 5–5.25% range.\n- SC closed its US inflation-protected bond (TIPS) trade, locking in ~4.5% return, on expectations of disinflation as oil/energy costs fall and AI-driven tech inflation cools.\n- India's equity market is framed as an \"anti-AI trade\" diversifier: narrow valuation premium vs EM, low foreign positioning, ~15% expected 2027 earnings growth; Switzerland also flagged as a defensive, healthcare-heavy diversifier.\n\n**FX / rates implications**\n- A December Fed hike plus a possible Q1 2027 follow-through signals continued USD support and a less dovish near-term Fed path, a headwind for broad EM carry trades and EM FX.\n- UST 10y anchored at 5–5.25% keeps US real yields elevated, pressuring EM local-currency bonds and favoring income/carry over duration bets.\n- Falling oil prices and one-year inflation swaps easing are a modest tailwind for EM disinflation trades and central banks with easing room, though tighter Fed policy offsets this for EM FX broadly.\n- Flagged India equity inflows (low foreign positioning, attractive growth) could be a marginal positive for INR-related portfolio flows if the diversifier thesis gains traction.\n\n**Watch list**\n- December FOMC decision and signals on a potential Q1 2027 follow-through hike.\n- US 10y Treasury yield behavior within the 5–5.25% range as a gauge for EM rate/FX pressure.\n- Oil price trajectory and inflation swaps as indicators for the broader disinflation narrative.\n- Pace of AI data-center build-out and Nvidia-related volatility as a risk-sentiment catalyst.",
+      "summarized_at": "2026-11-14T02:17:04.560625+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-14"
 }

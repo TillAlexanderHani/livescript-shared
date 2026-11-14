@@ -20299,8 +20299,36 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-11-13T23:25:05.415276+00:00",
       "episode_id": "5ddc418154caff33"
+    },
+    "1f01af466eb9bdcb": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD7615870516.mp3",
+      "title": "How Will Higher-than-Expected Inflation Data Impact the Fed's Next Rate Decisions?",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-11-14T01:54:40.425986+00:00",
+      "episode_id": "1f01af466eb9bdcb"
+    },
+    "a65c25c2842f2952": {
+      "url": "https://mcdn.podbean.com/mf/web/pnjtsb4hkt2y4rpc/Weekender_KAL-1-SFR5HA1X_Nov1326.mp3",
+      "title": "Global Data Pod Weekender: Woulda, shoulda, coulda",
+      "feed": "Global Data Pod",
+      "processed": "2026-11-14T02:02:11.460205+00:00",
+      "episode_id": "a65c25c2842f2952"
+    },
+    "fa457dee2f789225": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
+      "title": "Are wildfires making the future uninsurable?",
+      "feed": "Planet Money",
+      "processed": "2026-11-14T02:08:25.823910+00:00",
+      "episode_id": "fa457dee2f789225"
+    },
+    "842967c5b1097214": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/20119079-through-the-noise-tactical-plays-within-a-diversified-allocation.mp3",
+      "title": "Through the noise: Tactical plays within a diversified allocation",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-11-14T02:17:04.560625+00:00",
+      "episode_id": "842967c5b1097214"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-13T23:25:05.415317+00:00"
+  "last_updated": "2026-11-14T02:17:04.560668+00:00"
 }
