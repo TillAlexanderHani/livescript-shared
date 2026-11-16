@@ -1,4 +1,27 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Could Huang Return,  AI Trade Turmoil and New China Chip Rules",
+      "published": "Mon, 16 Nov 2026 19:49:15 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/65e9bdf9-cb9d-47dc-b768-cb6032fc438e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=65e9bdf9-cb9d-47dc-b768-cb6032fc438e&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "UST 10y",
+        "USD",
+        "Risk sentiment",
+        "Oil",
+        "CPI",
+        "Trade",
+        "Tariffs",
+        "China",
+        "S&P 500"
+      ],
+      "summary": "**Summary**\nA sharp AI-trade sell-off (Nasdaq 100 -2.5%, S&P -1.5%, Nvidia -4-4.5%) coincides with Commerce Department chip export rules closing a China loophole, landing on the eve of Trump's Beijing-area summit with Xi and Putin. JPMorgan's David Kelly also makes a contrarian dovish Fed call, with implications for USD, UST yields and broad risk appetite that matter to EM carry trades.\n\n**Key points**\n- Nvidia CEO Jensen Huang's board is not considering reinstating him despite a petition signed by hundreds of thousands (incl. Elon Musk); investigation led by Wachtell Lipton's June Kim, no timeline, no search firm hired yet.\n- Broad AI/semis/data-center complex down 6-7% (ARM, SanDisk, Dell); Nvidia testing last week's 148 intraday low.\n- Commerce closed an export-control loophole letting Chinese firms rent AI compute via third countries (Malaysia, Singapore); rule explicitly drafted \"at the direction of\" Treasury/NSC, reportedly overriding a reluctant Commerce Secretary Lutnik.\n- 10-year UST yield eased to ~5.12-5.14%.\n- David Kelly (JPM): expects only one more Fed hike, citing soft vehicle sales, weak housing, no wage inflation, 10y breakeven at 2.22%, and falling Nov oil/gas prices (~0.3ppt off YoY CPI) — sees inflation past its second 2026 peak.\n- Anthropic IPO set for Thursday at ~$1.4tn valuation; narrative of capital rotating from AI infrastructure to AI application layer.\n- JPMorgan Chase/other major US banks (BofA, Wells Fargo, US Bank) and Zelle hit by a technical outage, described as a bug not a cyberattack.\n\n**FX / rates implications**\n- A less-hawkish Fed path (Kelly's one-hike call, falling oil feeding into CPI) would be USD-negative and supportive of EM carry (INR, IDR, PHP, MXN, BRL) if consensus shifts; watch this week's Fed speakers for confirmation.\n- Sustained US equity/AI-trade risk-off is a classic EM headwind, pressuring high-beta EM FX and widening credit spreads if it persists beyond a single-sector unwind.\n- Escalating US-China tech/export friction right before the Trump-Xi meeting raises retaliation risk via China's rare-earths lever, a tail risk for CNY/CNH and broader EM Asia FX sentiment.\n- Sharply lower oil/gas prices are disinflationary and currency-supportive for EM oil importers (India, Philippines, Thailand) but a drag for oil-linked LATAM credits (Mexico, Colombia).\n\n**Watch list**\n- Nvidia earnings call (day after this taping) for China/export exposure and CEO-succession updates.\n- Anthropic's Thursday IPO as a gauge of AI-trade risk appetite.\n- Trump's China trip and any rare-earths retaliation signal.\n- This week's heavy Fed-speaker slate for pushback on, or confirmation of, Kelly's dovish one-hike view.",
+      "summarized_at": "2026-11-16T19:56:48.587657+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-16"
 }
