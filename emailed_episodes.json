@@ -20404,8 +20404,29 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-11-17T08:42:33.315854+00:00",
       "episode_id": "1201369e108aa371"
+    },
+    "3e59c6664774a4bd": {
+      "url": "https://traffic.libsyn.com/secure/treasurycast/SCB-pod-oct-w-music_1.mp3?dest-id=1534493",
+      "title": "Siemens Getting Focused and Intelligent with Data",
+      "feed": "TMI TreasuryCast (HSBC Treasury Beyond Borders inside)",
+      "processed": "2026-11-17T18:48:55.177683+00:00",
+      "episode_id": "3e59c6664774a4bd"
+    },
+    "3c51f42ebc87fea9": {
+      "url": "https://traffic.megaphone.fm/CLS6783435309.mp3",
+      "title": "Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-11-17T19:00:45.391957+00:00",
+      "episode_id": "3c51f42ebc87fea9"
+    },
+    "0f02baab146e4481": {
+      "url": "https://www.buzzsprout.com/2374938/episodes/20138451-latin-america-s-right-wing-surge-is-the-tide-turning.mp3",
+      "title": "Latin America's Right-Wing Surge: Is the Tide Turning?",
+      "feed": "Horizontes de Latinoamérica (S&P Global)",
+      "processed": "2026-11-17T19:05:39.796854+00:00",
+      "episode_id": "0f02baab146e4481"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-17T08:42:33.315897+00:00"
+  "last_updated": "2026-11-17T19:05:39.796896+00:00"
 }
