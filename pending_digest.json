@@ -1,4 +1,32 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "2027 Global Outlook: Powered by AI, Tested by Oil",
+      "published": "Mon, 16 Nov 2026 21:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/693d1ab6-a2e4-4d8d-baca-2979fc4a564e.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "USD",
+        "Oil",
+        "Brent",
+        "China",
+        "CNY",
+        "KRW",
+        "TWD",
+        "ECB",
+        "EUR",
+        "Inflation",
+        "CPI",
+        "Growth",
+        "Risk sentiment",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nMorgan Stanley's 2027 Global Outlook (part 1 of 2) frames the world economy as \"powered by AI, tested by oil\": AI capex build-out is sustaining global growth even as an oil price shock from the US-Iran conflict stokes inflation. For an EM trader, the key transmission channels are the Fed's hiking path, oil-driven inflation, and China/Asia export dynamics tied to the AI supply chain.\n\n**Key points**\n- Global real GDP tracking ~3.5% in 2026, seen dipping to 3.3% in 2027 before rebounding to 3.4% in 2028 — a lull, not a slowdown.\n- US growth ~2.5% in 2026, driven by AI capex; inflation expected to peak in Q1 2027 then trend down.\n- Eurozone growth ~1.3%, supported by German fiscal policy and exports to the US; ECB expected to hike once more before the Fed.\n- China growth tepid at ~4.3% next year amid an ongoing debt-deflation cycle; Korea and Taiwan seen as key AI-supply-chain exporters with strong export levels but decelerating growth rates.\n- Fed expected to hike in December and again in March 2027, then pause — contingent on inflation peaking in Q1.\n- Four alternate scenarios flagged: demand-driven overheating (more hikes), productivity-driven faster growth (higher neutral rates but less inflation), a renewed oil shock, and an AI capex shortfall (slowdown risk via direct spending and wealth-effect channels).\n\n**FX / rates implications**\n- Fed's December/March hike path and Q1 2027 inflation peak are the key UST/DXY catalysts; a slip toward a January hike or further hikes into June would be USD-bullish and pressure EM Asia/LATAM carry.\n- China's soft, deflationary growth path is a headwind for CNY and regional trade-linked currencies (KRW, TWD, and broader EM Asia exporters).\n- Renewed oil-shock risk is an upside risk to EM inflation and current-account-sensitive currencies (INR, PHP, IDR).\n\n**Watch list**\n- Fed December and March 2027 meetings; US Q1 2027 CPI trajectory for confirmation of the inflation peak call.\n- ECB's next hike decision; Iran/oil supply developments and refined-product crack spreads.",
+      "summarized_at": "2026-11-17T01:08:53.833813+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-17"
 }

@@ -20376,8 +20376,15 @@
       "feed": "PIMCO Pod",
       "processed": "2026-11-16T23:25:02.075192+00:00",
       "episode_id": "1c1eea19e2fff704"
+    },
+    "bad1fd00d3715cfc": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/693d1ab6-a2e4-4d8d-baca-2979fc4a564e.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "2027 Global Outlook: Powered by AI, Tested by Oil",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-11-17T01:08:53.833813+00:00",
+      "episode_id": "bad1fd00d3715cfc"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-16T23:25:02.075228+00:00"
+  "last_updated": "2026-11-17T01:08:53.833860+00:00"
 }
