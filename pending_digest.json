@@ -1,4 +1,71 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Steady Global Economic Growth in 2027 Outlook But Risks Tilted to Downside",
+      "published": "Tue, 17 Nov 2026 20:39:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD1012556925.mp3",
+      "feed": "Goldman Sachs Exchanges",
+      "provider": "Goldman Sachs",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "USD",
+        "DXY",
+        "UST 10y",
+        "Oil",
+        "Brent",
+        "CNY",
+        "JPY",
+        "EUR",
+        "Inflation",
+        "CPI",
+        "Risk sentiment",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nGoldman Sachs' chief economist Jan Hatzius and senior markets advisor Dominic Wilson lay out the 2027 global outlook: steady ~2.8% growth, fading fiscal/AI tailwinds, but risks skewed to the downside from energy, fiscal sustainability, and an AI investment peak. For an EM trader, the Fed's hawkish pivot and the dollar/oil trajectory are the key transmission channels.\n\n**Key points**\n- 2026 global growth ~2.7%, resilient despite Middle East war, tariffs, and higher rates; AI investment added ~0.5% to global GDP, concentrated in Taiwan/Korea.\n- 2027 baseline 2.8% growth; fiscal impulse turns neutral, financial conditions boost fades, but AI capex (front-loaded) and falling oil (GS sees Brent toward $80) support income.\n- US core PCE inflation elevated in low-3% range on tariff pass-through (~40bp) and energy; seen falling to 2.4% by end-2027.\n- Fed hiked in September, near-certain 25bp hike in December, one more hike expected in Q1 2027 (March more likely than January); GS sees less tightening than market pricing. ECB seen hiking once in December with risk of one more in 2027; BoE one hike early 2027; outlier is BoJ, GS expects three hikes to 2% terminal, above market pricing.\n- AI-driven labor market softening starting to show — frictional unemployment rise of ~0.5pp expected by 2028-30.\n- French fiscal/political risk (April-May presidential election) cited as a bond-yield risk alongside US and UK fiscal paths.\n\n**FX / rates implications**\n- Dollar seen modestly softening through 2027 as energy/Fed risk premia fade, particularly against undervalued JPY (BoJ hikes, policy divergence) and CNY/CNH (large trade surplus); EUR viewed as a funding currency near-term given French election risk.\n- Government bonds set up for a friendlier 2027 (higher starting yields plus gradual yield declines) versus 2026's risk-additive, yields-up/equities-down dynamic — relevant for EM rates carry trades.\n- Oil risk premium has collapsed toward zero, leaving markets vulnerable to renewed Middle East escalation — a key swing factor for EM Asia importers (INR, IDR, PHP) via terms-of-trade/inflation.\n\n**Watch list**\n- December FOMC meeting: size of hike (25bp expected) and updated dot plot for 2027 guidance.\n- Middle East escalation/de-escalation and its oil price impact.\n- French presidential election (April-May 2027) and sovereign bond yield stress in France/euro area.\n- AI capex trajectory and labor market data for signs of investment slowdown.",
+      "summarized_at": "2026-11-18T00:04:32.425081+00:00"
+    },
+    {
+      "title": "The Exchange: NVIDIA Legal Overhang, AI Sell-Off and Outage Risks",
+      "published": "Tue, 17 Nov 2026 21:49:34 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/1cd9ebe0-f019-4971-98ea-370ff5ffe3aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=1cd9ebe0-f019-4971-98ea-370ff5ffe3aa&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "UST 10y",
+        "Risk sentiment",
+        "Credit",
+        "S&P 500",
+        "Copper",
+        "China",
+        "Trade"
+      ],
+      "summary": "**Summary**\nCNBC's The Exchange covers the rare joint DOJ/Commerce investigation into Nvidia customer Megaspeed over alleged chip-export-control violations, an AI-trade sell-off pushing much of the Nasdaq/S&P into bear-market territory, a wave of tech-sector outages, and early signs of a broader risk-off rotation (credit spreads widening, flows into Treasuries) against hawkish Fed commentary. For an EM trader the value is mainly as a read on global risk appetite and credit conditions rather than direct EM exposure.\n\n**Key points**\n- DOJ/Commerce joint statement confirms a criminal probe into Megaspeed for suspected chip-diversion/export-control violations; DOJ now leading, implying possible willful conduct carrying penalties up to 20 years; questions over what Nvidia/Jensen Wang knew.\n- Wang (resigned CEO) signaled willingness to return; board reportedly won't rush succession until the independent investigation concludes; closed-door Congressional testimony next week raises the stakes.\n- 61% of Nasdaq 100 and 35% of S&P 500 names are in bear-market territory; Fear & Greed index at 25/100 (extreme fear), concentrated in semis.\n- Despite hawkish Fed speak, the 10-year Treasury yield slipped, suggesting bonds aren't fully buying the hawkish tone.\n- Fairlead's Katie Stockton flags widening credit spreads and rotation out of equities into Treasuries as early signs of a tougher equity backdrop into next year.\n- Druckenmiller reportedly short copper, a potential China-property/AI-capex-slowdown signal.\n- String of outages (Salesforce -10%, Apple, NSA, Microsoft, United, banks) attributed to aging/concentrated infrastructure, not a confirmed cyberattack.\n- Nvidia reports Q3 earnings after today's close; focus likely on succession/legal disclosures over guidance.\n\n**FX / rates implications**\n- A broadening equity risk-off with widening credit spreads is a classic EM carry-unwind trigger; extension would likely support USD and pressure high-beta EM Asia (KRW, TWD) and LATAM carry (BRL, MXN) tied to the AI/semis capex cycle.\n- Treasury yields easing despite hawkish Fed rhetoric points to a growth-risk premium creeping in — supportive for EM local rates but a headwind for EM FX if equities keep sliding.\n- A copper short flags downside risk to China/industrial demand, relevant for CLP, PEN and indirectly CNY sentiment.\n- Renewed US export-control enforcement on China-bound chips is a reminder that US-China tech/trade tension remains a live tail risk for CNY/CNH and tech-exporter EM Asia FX (TWD, KRW).\n\n**Watch list**\n- Nvidia Q3 earnings tonight: guidance, succession and DOJ commentary.\n- Jensen Wang's closed-door Congressional testimony next week.\n- Credit-spread and Treasury/equity rotation signals flagged by Stockton as an early-2027 risk indicator.\n- Progress/timeline of the DOJ-Commerce probe into Megaspeed and Nvidia export controls.",
+      "summarized_at": "2026-11-18T00:11:12.269369+00:00"
+    },
+    {
+      "title": "The Nvidious tech CEO",
+      "published": "Tue, 17 Nov 2026 21:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6afcabec853da57052b46b67/media.mp3",
+      "feed": "Financial Times Unhedged",
+      "provider": "Financial Times",
+      "priority": 4,
+      "tags": [
+        "Risk sentiment",
+        "S&P 500",
+        "UST 10y",
+        "USD",
+        "Credit",
+        "Inflation",
+        "Carry",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nNvidia has lost roughly $2 trillion in market value since October (stock down from ~$236 to ~$155) amid fallout from CEO Jensen Huang's resignation over a relationship tied to alleged Chinese espionage and export-control concerns. The episode frames this as a healthy, contained repricing of the AI trade rather than a systemic risk event, with implications for broader equity positioning and the bond-vs-tech rotation that matters for global risk appetite feeding into EM.\n\n**Key points**\n- Nvidia fell from ~$236 (Oct 6) to ~$155; chip index and AI-adjacent names (data-center suppliers like Caterpillar) also repriced sharply.\n- S&P 500 has traded sideways since May, down from highs but not in freefall; FTSE 100 has outperformed the S&P 500 YTD as a \"boring,\" non-tech haven.\n- Bank of America fund manager survey: largest pullout of tech allocation since 2006, alongside a meaningful rotation into bonds (investors remain underweight bonds but are closing the gap).\n- 5-year UST yields ~4.96%, framed as attractive real yield (~2% after assumed 3% inflation) with limited duration risk versus the 10-year.\n- Anthropic's IPO prices this week (trades Thursday) — seen as a major confidence test for AI/tech market appetite; a bad debut could trigger broader \"I'm out of tech\" sentiment.\n\n**FX / rates implications**\n- This is a global risk-sentiment story, not an EM-specific one: an orderly AI-sector derating (vs. a disorderly, contagious one) supports continued risk-on carry positioning in EM FX/rates; a disorderly outcome (e.g., a botched Anthropic IPO) would be the trigger to watch for broad risk-off that pressures EM Asia and LatAm currencies via USD safe-haven flows and UST demand.\n- Rotation into bonds (5y UST yields near 5%) modestly supports the front-end-anchored carry backdrop EM rates traders price off of; no direct Fed/dollar-policy view is discussed.\n\n**Watch list**\n- Nvidia's first post-Jensen earnings release (same day as this episode) for guidance/governance signals.\n- Anthropic IPO: prices Wednesday, trades Thursday — outcome will be read as a referendum on AI-sector risk appetite.\n- Further Bank of America fund manager survey data on tech vs. bond allocation shifts.",
+      "summarized_at": "2026-11-18T00:23:22.455618+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-18"
 }
