@@ -20544,8 +20544,15 @@
       "feed": "PIMCO Pod",
       "processed": "2026-11-18T21:51:42.557377+00:00",
       "episode_id": "3a3b912add3e9306"
+    },
+    "8969b6a7026fa617": {
+      "url": "https://traffic.megaphone.fm/BLM1690995706.mp3",
+      "title": "Masters of the Muniverse: Franklin Templeton Charts Muni Rebuild",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-11-18T23:52:37.364853+00:00",
+      "episode_id": "8969b6a7026fa617"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-18T21:51:42.557423+00:00"
+  "last_updated": "2026-11-18T23:52:37.364896+00:00"
 }
