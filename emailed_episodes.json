@@ -20523,8 +20523,29 @@
       "feed": "Reuters Econ World",
       "processed": "2026-11-18T19:03:38.873928+00:00",
       "episode_id": "a99156ff9dd3a99d"
+    },
+    "61fff9f85d605250": {
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/c83da58e-a83c-4009-8837-8c00ed73be63.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "2027 Equities Outlook: Why the Correction Isn't the End of the Bull Market",
+      "feed": "Thoughts on the Market",
+      "processed": "2026-11-18T21:38:36.925580+00:00",
+      "episode_id": "61fff9f85d605250"
+    },
+    "d8c35b3aee5546a5": {
+      "url": "https://www.buzzsprout.com/1825833/episodes/20137660-china-is-changing-the-world-s-pharma-landscape-with-ruby-wang-and-alexander-brown.mp3",
+      "title": "China is changing the world's pharma landscape, with Ruby Wang and Alexander Brown",
+      "feed": "MERICS China Podcast",
+      "processed": "2026-11-18T21:49:28.063784+00:00",
+      "episode_id": "d8c35b3aee5546a5"
+    },
+    "3a3b912add3e9306": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC4319806268.mp3",
+      "title": "Charting the Year Ahead: Investment Ideas for 2027",
+      "feed": "PIMCO Pod",
+      "processed": "2026-11-18T21:51:42.557377+00:00",
+      "episode_id": "3a3b912add3e9306"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-18T19:03:38.873976+00:00"
+  "last_updated": "2026-11-18T21:51:42.557423+00:00"
 }
