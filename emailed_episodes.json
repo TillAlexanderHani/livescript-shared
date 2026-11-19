@@ -20572,8 +20572,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-11-19T18:59:16.692791+00:00",
       "episode_id": "d977b74f89c1a113"
+    },
+    "af60eac9d9618b6f": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/058276a0-c26e-4174-9d9f-935456d9e648/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=058276a0-c26e-4174-9d9f-935456d9e648&feed=tc4zxWgX",
+      "title": "Anthropic Debuts",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-19T21:56:45.029083+00:00",
+      "episode_id": "af60eac9d9618b6f"
+    },
+    "2ac6f8f3c083b67d": {
+      "url": "https://traffic.libsyn.com/secure/franklintempletontalkingmarkets/FT_AOR_TalkingMarkets_Nov2026_v4.mp3?dest-id=584964",
+      "title": "Anatomy of a Recession: Midterms and the Economy",
+      "feed": "Talking Markets with Franklin Templeton",
+      "processed": "2026-11-19T22:25:49.334469+00:00",
+      "episode_id": "2ac6f8f3c083b67d"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-19T18:59:16.692848+00:00"
+  "last_updated": "2026-11-19T22:25:49.334512+00:00"
 }
