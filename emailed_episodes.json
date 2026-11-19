@@ -20551,8 +20551,15 @@
       "feed": "Bloomberg FICC Focus",
       "processed": "2026-11-18T23:52:37.364853+00:00",
       "episode_id": "8969b6a7026fa617"
+    },
+    "688848f386801c35": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/0098c5b7-c870-468c-b242-cae2e3fcbf73/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=0098c5b7-c870-468c-b242-cae2e3fcbf73&feed=tc4zxWgX",
+      "title": "Anthropic IPO Frenzy, Nvidia Turmoil and Fed Shock Risk",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-19T02:57:56.894556+00:00",
+      "episode_id": "688848f386801c35"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-18T23:52:37.364896+00:00"
+  "last_updated": "2026-11-19T02:57:56.894596+00:00"
 }

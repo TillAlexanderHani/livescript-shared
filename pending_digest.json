@@ -1,4 +1,30 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Anthropic IPO Frenzy, Nvidia Turmoil and Fed Shock Risk",
+      "published": "Wed, 18 Nov 2026 22:03:49 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/0098c5b7-c870-468c-b242-cae2e3fcbf73/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=0098c5b7-c870-468c-b242-cae2e3fcbf73&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "USD",
+        "DXY",
+        "Fed",
+        "UST 10y",
+        "Gold",
+        "Copper",
+        "WTI",
+        "CNY",
+        "Tariffs",
+        "Trade",
+        "Risk sentiment",
+        "Inflation",
+        "S&P 500"
+      ],
+      "summary": "**Summary**\nMarkets were whipsawed by hawkish Fed commentary, a commodities rout, Nvidia leadership turmoil, and the blockbuster Anthropic IPO, all set against a historic Trump-Xi-Putin trilateral summit in China. For a macro trader, the Fed's shock-hike talk and the broad risk-off in commodities and the dollar are the most transmissible threads into EM.\n\n**Key points**\n- Fed Governor Christopher Waller said inflation is \"spreading out\" and the Fed may need to \"shock\" markets, fueling talk of a 75-125bp move; FOMC minutes due shortly after this taping.\n- DXY hit a 52-week high; UST 10y yield near 505 (4.05%-style level implied); gold fell to $3700, silver and copper both down 5%, WTI down 4% to ~$82.\n- Copper (Dr. Copper) fell 5% to April levels and is now negative YTD after a record high three months ago; Druckenmiller reportedly shorted the metal.\n- Trump met Xi and Putin at the APEX summit in China; Canadian PM Carney said US-China trade talks are going well with tariffs cut on \"over 90% of trade irritants\"; Brookings' O'Hanlon expects only incremental extensions on tariffs/chips/rare earths, not a breakthrough.\n- Nvidia stock fell despite raising its FY28 sales growth outlook to 70-75%, on CEO succession uncertainty after Jensen Huang's exit; multiple sell-side downgrades (Bernstein, Evercore, Mizuho) and Bill Ackman criticizing the board.\n- Anthropic's IPO drew ~$500bn demand (incl. retail) against a $64bn offering plus $26bn private placement, pricing discussions near $86-97/share with possible upsizing — framed as a clearing event for AI sentiment.\n\n**FX / rates implications**\n- A stronger DXY (52-week high) on hawkish Fed repricing is a headwind for EM Asia and LATAM carry currencies broadly; a 75-125bp \"shock\" scenario would tighten global USD liquidity and pressure high-beta EM FX (IDR, COP, BRL) most.\n- Falling copper and broader base-metal weakness is a negative terms-of-trade signal for commodity-linked LATAM currencies (CLP, PEN, COP); WTI down to $82 eases inflation pass-through but also reflects demand/risk concerns relevant to MXN and COP.\n- China-US trade de-escalation rhetoric (tariffs cut on 90% of irritants per Carney) is modestly supportive for CNY/CNH and regional Asia FX sentiment, though no concrete breakthrough confirmed.\n- Risk-off equity/AI-sector volatility (Nvidia, Dow -400+pts) historically spills into EM risk sentiment and credit spreads even without EM-specific news.\n\n**Watch list**\n- FOMC minutes released 2pm ET same day, and next month's Fed rate decision for confirmation of Waller's shock-hike rhetoric.\n- Outcome of Trump-Xi-Putin trilateral and any US-China tariff/rare earths/chip export-control announcements.\n- Anthropic IPO pricing and open tomorrow — a read on AI-trade risk appetite that could ripple into global risk sentiment.\n- Copper and oil price action for signs of a deeper growth scare versus AI-slowdown-specific positioning.",
+      "summarized_at": "2026-11-19T02:57:56.894556+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-19"
 }
