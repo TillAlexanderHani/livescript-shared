@@ -20712,8 +20712,22 @@
       "feed": "IMF Podcasts",
       "processed": "2026-11-20T22:13:32.615721+00:00",
       "episode_id": "0a7646eb6052da54"
+    },
+    "02e3d38050222c4b": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/b8b22406-fb6c-4845-a77f-5bf8e3c13559/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=b8b22406-fb6c-4845-a77f-5bf8e3c13559&feed=tc4zxWgX",
+      "title": "Market Sell-Off Hits AI Stocks, Anthropic IPO and Nvidia Risks",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-20T23:33:16.801550+00:00",
+      "episode_id": "02e3d38050222c4b"
+    },
+    "2207d80732302c6c": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
+      "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+      "feed": "Planet Money",
+      "processed": "2026-11-20T23:37:24.219881+00:00",
+      "episode_id": "2207d80732302c6c"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-20T22:13:32.615764+00:00"
+  "last_updated": "2026-11-20T23:37:24.219925+00:00"
 }

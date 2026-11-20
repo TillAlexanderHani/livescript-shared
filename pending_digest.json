@@ -1,4 +1,51 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Market Sell-Off Hits AI Stocks, Anthropic IPO and Nvidia Risks",
+      "published": "Fri, 20 Nov 2026 20:10:20 +0000",
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/b8b22406-fb6c-4845-a77f-5bf8e3c13559/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=b8b22406-fb6c-4845-a77f-5bf8e3c13559&feed=tc4zxWgX",
+      "feed": "CNBC - The Exchange",
+      "provider": "CNBC",
+      "priority": 4,
+      "tags": [
+        "Risk sentiment",
+        "S&P 500",
+        "VIX",
+        "Gold",
+        "Silver",
+        "Copper",
+        "Bitcoin",
+        "UST 10y",
+        "Fed",
+        "USD",
+        "DXY",
+        "China",
+        "Trade",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nA sharp, broad market sell-off hit tech and AI stocks, with the NASDAQ down 3.6% erasing its 2026 gains, Anthropic's IPO trading near its $83 offer price, and Nvidia logging its seventh straight weekly decline (-44% from October highs, -$800bn market cap). The move is accompanied by a hard risk-off tape — gold down 4%, silver down 8% (-65% from highs), copper lower, Bitcoin sub-$60,000, and the VIX spiking above 32, its highest close since the April 2025 tariff-driven selloff — all relevant to global risk appetite that typically spills into EM.\n\n**Key points**\n- All three major US equity averages down 10%+ from highs; Russell 2000 having its worst week since April 2025.\n- Catalysts cited: profit-taking after years of AI outperformance, a Fed seen as \"decidedly hawkish\" (market now debating the size, not likelihood, of a December cut) after a hot CPI print pushed rates higher, and legal/regulatory risk around Nvidia (CA AG investigation, pending China-related export-control bills: MATCH Act, AI Overwatch Act, Chip Security Act).\n- Trump threatened tariffs/taxes on US tech firms building data centers abroad (Finland, Middle East) and pushed for lower Fed rates, calling the Fed \"too political.\"\n- Commerce Dept issued a new rule requiring licenses for China remote access to offshore data centers — flagged as a risk to GPU demand across Southeast Asia.\n- One fund manager is rotating toward non-US developed equities (Europe, Japan) and EM equities on dollar-strength exhaustion, calling USD \"a little overextended to the upside.\"\n\n**FX / rates implications**\n- Broad risk-off (VIX>32, commodity and crypto liquidation) is a classic USD-supportive, EM-negative impulse; a hawkish Fed repricing (CPI-driven) argues for continued UST yield/DXY firmness near-term, a headwind for EM Asia and LATAM carry trades.\n- Commentary that USD is \"overextended\" and a view that EM equities/FX could rebound if US rates ease — a signal worth tracking for EM Asia (INR, IDR, PHP, KRW) and LATAM (MXN, BRL) carry re-entry.\n- Export-control escalation (China tech/data-center restrictions) raises risk of Chinese retaliation via rare-earth/critical mineral curbs, a tail risk for CNY and regional Asia FX.\n\n**Watch list**\n- December FOMC decision/size of cut amid hawkish repricing.\n- Nvidia CEO succession timeline and Jensen Huang's Dec 1 House subcommittee testimony.\n- Passage of MATCH Act/AI Overwatch Act/Chip Security Act and China's retaliatory response.\n- Options expiry and S&P 7,000 technical support level as near-term risk-sentiment gauge.",
+      "summarized_at": "2026-11-20T23:33:16.801550+00:00"
+    },
+    {
+      "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+      "published": "Fri, 20 Nov 2026 22:00:00 +0000",
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
+      "feed": "Planet Money",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "Oil",
+        "Iran",
+        "Venezuela",
+        "Geopolitics",
+        "Sanctions",
+        "Crude oil",
+        "Shipping",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nThe Trump administration is reviving 18th-century \"prize law\" — the legal framework privateers once used to seize and auction enemy ships — as a faster alternative to civil asset forfeiture for disposing of oil tankers seized from Iran and Venezuela. The story matters mainly as a geopolitical/sanctions-enforcement signal rather than a market-moving data point, but it touches the mechanics of how sanctioned oil cargoes get processed.\n\n**Key points**\n- The US Navy has seized oil tankers carrying Venezuelan and Iranian crude this year as part of efforts to disrupt \"illicit networks.\"\n- Civil asset forfeiture, the current legal route, is slow: the tanker Majestic X was seized in the Indian Ocean, and after nearly seven months the case was still unresolved; the US spent $42 million on custody/maintenance in the first six weeks versus a reported street value under $3 million for the ship.\n- The DOJ and Navy are working with the Southern District of Texas (home to the nation's largest big-oil port) to draft modern 30-page prize-court rules, including provisions allowing immediate sale of perishable/hazardous cargo like crude oil without waiting for a court ruling.\n- A key legal dispute: prize law traditionally requires a declared state of war; Congress has not declared war on Iran or Venezuela, and the court-appointed team declined DOJ's request to broaden the standard to \"conflict,\" setting up likely litigation.\n- Seized tankers, including the Majestic X, are reportedly staged in the Caribbean near Texas awaiting the new process.\n\n**FX / rates implications**\n- Faster legal mechanisms to seize and liquidate sanctioned Iranian and Venezuelan oil cargoes could marginally tighten enforcement of sanctions on those exports, a modest factor for global crude supply and thus Brent/WTI, with second-order effects on EM oil importers (INR, IDR, PHP, INR current-account sensitivity) versus oil exporters (COP, MXN via Pemex-adjacent sentiment).\n- Broader signal of US willingness to escalate maritime enforcement against Iran/Venezuela is a geopolitical risk factor worth monitoring for episodic risk-off moves affecting EM carry trades.\n\n**Watch list**\n- Outcome of litigation over whether non-declared conflicts with Iran/Venezuela qualify for prize law.\n- Disposition of the Majestic X and other staged tankers once moved to Texas prize-court jurisdiction.\n- Any escalation in US-Iran or US-Venezuela tensions tied to tanker seizures that could move oil prices.",
+      "summarized_at": "2026-11-20T23:37:24.219881+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-21"
 }
