@@ -1,4 +1,71 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Europe's AI Moment",
+      "published": "Thu, 19 Nov 2026 21:30:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/473b5727-f23e-42c2-b56a-a7afd73cfff7.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "Data centers",
+        "Capex",
+        "Power",
+        "Telecoms",
+        "Semiconductors",
+        "Inflation",
+        "INR",
+        "KRW"
+      ],
+      "summary": "**Summary**\nThis is a sector-focused dispatch from Morgan Stanley's European TMT conference in Barcelona, covering data center buildout economics, sovereign AI, agentic AI, and power constraints. It's primarily a corporate/tech-sector theme piece rather than a macro or EM FX/rates story, though capex and power-cost dynamics have tangential relevance.\n\n**Key points**\n- Data center build costs are up 12% y/y, with inflation expected to accelerate to 15% in 2027 and 2028.\n- New constraints beyond power and planning now include US politics (post-midterm elections) and financing/capital access.\n- US data center capacity growth expected strong in 2027, but a slowdown possible in 2028-2029 amid regulatory consultation (planning, unionized labor, water use, renewables).\n- Mobile capital: builders may shift projects to friendlier US states or spill over into Europe and Asia, with South Korea and India flagged as potential beneficiaries of greater-than-expected data center investment.\n- Europe pushing sovereign AI/data sovereignty across banking, government, pharma, defense; telcos beginning to build their own data center infrastructure despite rising costs.\n- Agentic AI theme: compute orchestration shifting from GPU to CPU; telcos with best networks seen as better positioned to capture churn-driven market share.\n- Power remains the binding constraint: Ireland's data centers now consume 25% of national grid capacity; UK grid connections can take 5-8 years; France and Finland cited as ahead on power provisioning.\n\n**FX / rates implications**\n- No direct FX or rates linkage discussed; this is a corporate capex/sector theme episode.\n- Tangential read: potential data center investment flows into South Korea and India could support longer-term capex/FDI narratives in KRW and INR, but no near-term currency implication is drawn.\n- Rising data center cost inflation (12%→15% y/y) is a sector-specific input cost trend, not a broad inflation signal for rates markets.\n\n**Watch list**\n- US regulatory consultation process on data center planning/labor/water/renewables through 2027-2028.\n- Potential spillover of data center investment into Asia (South Korea, India) and Europe as a capacity-location theme.\n- Power/grid connection timelines (UK 5-8 years) as a bottleneck to watch for sector capex pacing.",
+      "summarized_at": "2026-11-19T23:59:18.596698+00:00"
+    },
+    {
+      "title": "MacroVoices #559 Ole Hansen: What’s Next After The spec Washout in Commodities",
+      "published": "Thu, 19 Nov 2026 14:02:47 -0500",
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/wguym9jufbfwn3uj/Macrovoices-11-19-2026-ole-hansen.mp3",
+      "feed": "Macro Voices",
+      "provider": "Macro Voices",
+      "priority": 4,
+      "tags": [
+        "Brent",
+        "WTI",
+        "Gold",
+        "Silver",
+        "Copper",
+        "DXY",
+        "Fed",
+        "UST 10y",
+        "S&P 500",
+        "Inflation",
+        "Carry",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nSaxo Bank's Ole Hansen argues the commodity complex just suffered a speculative washout (positioning down 77% while the index retraced only ~10%) that sets up a potential rebound, even as the AI capex selloff, Iran war tail risk, and a resurgent US dollar dominate macro headlines. The trade desk segment layers in a hawkish Fed signal (10% odds of a 50bp December hike), DXY breakout, and risk-off equity backdrop that matter directly for EM funding conditions and carry trades.\n\n**Key points**\n- Hedge fund net longs across 25 commodity futures collapsed 77% in two months while the index fell only ~10% — a classic positioning washout, not a fundamentals break.\n- Copper broke its 200-day MA on AI-capex-bust fears tied to Nvidia earnings and the Anthropic IPO reaction; commodity YTD return is ~25%, led by energy backwardation.\n- Gold off ~14% from highs, silver down a third, both seen as needing capitulation before a durable low; Brent new-normal range seen at $70-90 post-war vs $67 pre-war.\n- DXY broke out toward 104, handle targets 105; EUR broke below 1.10, GBP at multi-month lows, JPY and AUD/CAD at cycle lows — broad-based dollar strength, a funding-stress signal.\n- S&P 500 in a distribution/correction phase, below 50-day MA, VIX at 25-28%; Fed still leaning toward tightening/hiking into December despite AI credit-cycle stress.\n\n**FX / rates implications**\n- Broad USD strength (DXY toward 104-105) against G10 and a Fed still biased toward 50bp hike risk in December is a headwind for EM carry trades and argues for cautious EM FX positioning into year-end.\n- Elevated UST 10y/30y yields alongside dollar strength signal tightening financial conditions globally, a drag on EM local-rates and credit spreads.\n- Oil/commodity price normalization path (Brent $70-90) and refined-product tightness keep inflation stickier, delaying EM central bank easing cycles tied to imported energy costs.\n\n**Watch list**\n- December FOMC meeting and probability of a 50bp hike.\n- Nvidia earnings follow-through and Anthropic IPO reception as AI-capex sentiment catalysts for copper/metals.\n- Iran/Middle East peace talks and refined product (diesel, gas) supply normalization for oil's risk premium.\n- Gold support near $3,600 (50% retracement) and $3,200; copper tactical zone $5.25-5.75/lb.",
+      "summarized_at": "2026-11-20T00:03:54.556265+00:00"
+    },
+    {
+      "title": "What a Democratic U.S. Congress Means for the Donroe Doctrine",
+      "published": "Thu, 19 Nov 2026 12:00:00 -0500",
+      "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2066030/episodes/20151136-what-a-democratic-u-s-congress-means-for-the-donroe-doctrine.mp3",
+      "feed": "The Americas Quarterly Podcast",
+      "provider": "Americas Quarterly",
+      "priority": 2,
+      "tags": [
+        "Venezuela",
+        "Mexico",
+        "Cuba",
+        "Colombia",
+        "Trade",
+        "Tariffs",
+        "USMCA",
+        "Elections",
+        "Fiscal"
+      ],
+      "summary": "**Summary**\nThis is a US politics/foreign-policy podcast on how the newly Democratic Congress will check (or fail to check) President Trump's Latin America policy — Venezuela oil deals, Cuba, Mexico drone strikes, the Panama Canal, and USMCA/tariffs. It is primarily geopolitical analysis with only indirect bearing on markets, mainly via tariff policy and Venezuela investment risk.\n\n**Key points**\n- Divided government (Democratic House/Senate, Republican executive) from January creates competing power centers on Latin America policy; Democrats lack veto-proof majorities.\n- Congress (Castro, Meeks, Kaine, Coons) will push oversight on Venezuela oil deals, Colombia security funding, and El Salvador/CECOT financing, but with limited ability to force policy change.\n- Trump administration unlikely to push Venezuela elections before 2028, preferring status quo of oil-deal stability with Maduro-aligned Rodriguez government; analysts flag rising investor risk around Venezuela deals given political volatility and future administration uncertainty.\n- USMCA under annual review after US declined extension in July; Ways and Means chair-designate Richard Neal says priority is preserving USMCA with Mexico/Canada via the six-year review clause.\n- Democrats plan legislation to roll back Trump's global tariffs and reassert congressional trade authority, but lack votes to override a veto (need 10 extra Senate GOP votes, two-thirds in House) — tariffs likely persist, with Trump continuing to use alternative legal authorities after Supreme Court setbacks.\n- Discussion of possible Trump moves on Cuba, Mexico drone strikes, and Panama Canal.\n\n**FX / rates implications**\n- Limited direct read-through; main channel is tariff-policy continuity (bearish for clean US-Mexico trade friction resolution, modest ongoing USMCA/tariff uncertainty) and elevated political-risk premium for Venezuela-linked oil investment.\n- No direct signal for core EM Asia or broader LATAM (MXN, BRL, COP) beyond general US-Latin America policy uncertainty.\n\n**Watch list**\n- Annual USMCA review process and Richard Neal's Ways & Means trade agenda.\n- Potential new tariff legislation/override attempts in Congress.\n- Congressional oversight/subpoenas on Venezuela oil deals and any shift in Venezuela election timeline (2027 vs 2028).",
+      "summarized_at": "2026-11-20T00:12:58.559723+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-20"
 }
