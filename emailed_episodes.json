@@ -20621,8 +20621,64 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-11-20T08:04:09.610537+00:00",
       "episode_id": "10fb023549cad5e6"
+    },
+    "cee30b3698039785": {
+      "url": "https://sphinx.acast.com/p/open/s/6476e27317ed970011e62580/e/6b000ec58cc2ad58c75e7e3d/media.mp3",
+      "title": "The 2027 markets watchlist",
+      "feed": "The Macro Brief (HSBC Global Research)",
+      "processed": "2026-11-20T18:04:03.681192+00:00",
+      "episode_id": "cee30b3698039785"
+    },
+    "ce06bb4be0ab0b9e": {
+      "url": "https://traffic.megaphone.fm/ALFINVESTMENTSTRATEGYBV6780116764.mp3",
+      "title": "Macro Doomerism - Right or Wrong?",
+      "feed": "Macro Trading Floor",
+      "processed": "2026-11-20T18:12:08.107203+00:00",
+      "episode_id": "ce06bb4be0ab0b9e"
+    },
+    "f39ce71122b77ae4": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_CARVER_.mp3?dest-id=1929056",
+      "title": "Ep. 385: Robert Carver on The Art and Science of Trading, Portfolio Diversification, and AI in Finance",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-11-20T18:19:31.746256+00:00",
+      "episode_id": "f39ce71122b77ae4"
+    },
+    "a460e3115eff420a": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4364f8cd-e957-44ef-9795-b5070115b19e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "How an American AI Company Uses Chinese Open-Weight Models",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-11-20T18:26:53.165041+00:00",
+      "episode_id": "a460e3115eff420a"
+    },
+    "de1569f961f68474": {
+      "url": "https://rss.art19.com/episodes/cb534e0c-c99b-4607-b3a0-61ce02e378b3.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "title": "Joe Studwell on How Africa Works, and What It Tells Us About China",
+      "feed": "Sinica Podcast (China)",
+      "processed": "2026-11-20T18:36:43.863240+00:00",
+      "episode_id": "de1569f961f68474"
+    },
+    "68d6c93b9e1b395e": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/20154736-through-the-noise-staying-diversified-adding-us-mega-caps.mp3",
+      "title": "Through the noise: Staying diversified, adding US mega caps",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-11-20T18:38:09.414786+00:00",
+      "episode_id": "68d6c93b9e1b395e"
+    },
+    "405a034fe9336ee9": {
+      "url": "https://traffic.libsyn.com/secure/nomurapodcasts/20261120_WeekAhead_192kbps.mp3?dest-id=2089145",
+      "title": "The Week Ahead – Tracking the Risks",
+      "feed": "Nomura - The Week Ahead",
+      "processed": "2026-11-20T18:40:58.249735+00:00",
+      "episode_id": "405a034fe9336ee9"
+    },
+    "15e9125ec055c815": {
+      "url": "https://media.transistor.fm/48905019/be64581b.mp3",
+      "title": "Trump’s summit and AI risk",
+      "feed": "Capital Economics Weekly Briefing",
+      "processed": "2026-11-20T18:43:38.499222+00:00",
+      "episode_id": "15e9125ec055c815"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-20T08:04:09.610589+00:00"
+  "last_updated": "2026-11-20T18:43:38.499264+00:00"
 }
