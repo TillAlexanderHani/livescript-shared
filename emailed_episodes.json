@@ -20677,8 +20677,43 @@
       "feed": "Capital Economics Weekly Briefing",
       "processed": "2026-11-20T18:43:38.499222+00:00",
       "episode_id": "15e9125ec055c815"
+    },
+    "5c2696bce2c5095e": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD7851843506.mp3",
+      "title": "The Outlook for Retail Stocks as Black Friday Approaches",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-11-20T21:35:44.831122+00:00",
+      "episode_id": "5c2696bce2c5095e"
+    },
+    "b62901d09d3de6a5": {
+      "url": "https://mcdn.podbean.com/mf/web/nsptcivvvfz2axs5/Weekender_KAL-1-V4TR166E_112026.mp3",
+      "title": "Global Data Pod Weekender: Puff the magic dragon sadly slipped into his cave",
+      "feed": "Global Data Pod",
+      "processed": "2026-11-20T21:43:09.223413+00:00",
+      "episode_id": "b62901d09d3de6a5"
+    },
+    "610c8ad1bcd38bfa": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/20157443-hyperscalers-versus-emerging-markets.mp3",
+      "title": "Hyperscalers versus emerging markets",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-11-20T21:55:36.975585+00:00",
+      "episode_id": "610c8ad1bcd38bfa"
+    },
+    "256436239b2ee1a9": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC7722402355.mp3",
+      "title": "The Rent ‘Catch-Up’ Is Over – What’s Next for Shelter Inflation?",
+      "feed": "PIMCO Pod",
+      "processed": "2026-11-20T22:11:00.539024+00:00",
+      "episode_id": "256436239b2ee1a9"
+    },
+    "0a7646eb6052da54": {
+      "url": "https://traffic.libsyn.com/secure/imfpodcast/Jack_Clark-MIX_2.mp3?dest-id=355221",
+      "title": "Anthropic Cofounder Jack Clark Keeps It Human",
+      "feed": "IMF Podcasts",
+      "processed": "2026-11-20T22:13:32.615721+00:00",
+      "episode_id": "0a7646eb6052da54"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-20T18:43:38.499264+00:00"
+  "last_updated": "2026-11-20T22:13:32.615764+00:00"
 }
