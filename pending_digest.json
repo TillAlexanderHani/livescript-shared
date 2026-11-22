@@ -1,27 +1,4 @@
 {
-  "episodes": [
-    {
-      "title": "Hypothesis: Can crude oil prices stay lower without additional Gulf oil?",
-      "published": "Fri, 20 Nov 2026 14:22:32 -0600",
-      "url": "https://mcdn.podbean.com/mf/web/gwp3jd4yjjc7yqyx/Podcast_11-20-26.mp3",
-      "feed": "McKeany-Flavell Hot Commodity Podcast",
-      "provider": "McKeany-Flavell",
-      "priority": 4,
-      "tags": [
-        "Brent",
-        "WTI",
-        "Crude oil",
-        "Oil supply",
-        "Strait of Hormuz",
-        "SPR",
-        "Fed",
-        "Inflation",
-        "Risk sentiment",
-        "Diesel"
-      ],
-      "summary": "**Summary**\nMcKeany-Flavell's commodity risk team tests whether crude oil can stay in the low $80s even if flow through the Strait of Hormuz does not recover further, concluding that supply/demand fundamentals outside the Gulf are enough to keep prices range-bound near $75-85 over the next two to three quarters. This matters for EM traders via the oil-import-bill/inflation channel and the Fed rate path, both key drivers of EM FX and rates.\n\n**Key points**\n- Vortexa tanker tracking shows Gulf-area crude flow rose from about 5.7 million b/d in August to 8.5 million b/d in October, versus a pre-disruption baseline of 12-15 million b/d; recent tanker traffic has since declined.\n- Global crude supply is projected to outpace demand by up to 2 million b/d as early as Q4, with rising US crude inventories (+3.4 million barrels) and product builds (gasoline +5.2m, diesel +1.6m barrels).\n- Non-Gulf production (US, Canada, others) is rising; refining utilization is near-capacity (~95%+), limiting near-term diesel supply catch-up; US diesel stocks remain ~8% below the five-year average, down from ~14-15% earlier.\n- Fed seen at very high probability of a 25bp hike with a non-trivial chance of 50bp, which would further dampen fuel demand via weaker consumer spending power.\n- Forward curve points to lower, not higher, crude prices; markets have normalized lower Gulf flow as the new baseline, reducing shock premium.\n\n**FX / rates implications**\n- A stable, lower oil price range (~$75-85) is disinflationary for oil-importing EM Asia (India, Philippines, Thailand), supportive of INR, PHP, THB via improved terms of trade and lower current-account/fiscal subsidy pressure.\n- Lower-for-longer crude caps US CPI upside, reinforcing a measured Fed hike path (25bp base case) rather than aggressive tightening, a moderate USD/DXY and UST yield backdrop generally favorable for EM carry trades.\n- Oil exporters (COP-linked Colombia, MXN to a lesser extent) face a softer terms-of-trade tailwind if crude stays capped near $80 rather than reverting to $100+.\n\n**Watch list**\n- Strait of Hormuz tanker flow data (Vortexa) for any renewed disruption or further normalization.\n- Upcoming Fed meeting (Dec/Q1) decision: 25bp vs 50bp hike.\n- US SPR and China reserve release pace, continuation vs halt is a key swing factor for the bearish oil thesis.\n- US diesel/distillate stock rebuild progress and refinery utilization rates.",
-      "summarized_at": "2026-11-22T07:33:09.825795+00:00"
-    }
-  ],
-  "last_digest_date": "2026-11-22"
+  "episodes": [],
+  "last_digest_date": "2026-11-23"
 }
