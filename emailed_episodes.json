@@ -20761,8 +20761,15 @@
       "feed": "MERICS China Podcast",
       "processed": "2026-11-21T17:13:26.065470+00:00",
       "episode_id": "ddf0cf8e0ced7912"
+    },
+    "940e80423315d6fd": {
+      "url": "https://mcdn.podbean.com/mf/web/gwp3jd4yjjc7yqyx/Podcast_11-20-26.mp3",
+      "title": "Hypothesis: Can crude oil prices stay lower without additional Gulf oil?",
+      "feed": "McKeany-Flavell Hot Commodity Podcast",
+      "processed": "2026-11-22T07:33:09.825795+00:00",
+      "episode_id": "940e80423315d6fd"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-21T17:13:26.065514+00:00"
+  "last_updated": "2026-11-22T07:33:09.825836+00:00"
 }
