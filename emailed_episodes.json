@@ -20775,8 +20775,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-11-23T08:20:44.824476+00:00",
       "episode_id": "ea769e848fa2c58e"
+    },
+    "ac0435eedb7d796f": {
+      "url": "https://traffic.megaphone.fm/BLM7306244551.mp3",
+      "title": "Credit Crunch: TPG’s Mollett Talks Credit Solutions and Scale",
+      "feed": "Bloomberg FICC Focus",
+      "processed": "2026-11-23T22:04:24.642361+00:00",
+      "episode_id": "ac0435eedb7d796f"
+    },
+    "9e3a2b8ff450517b": {
+      "url": "https://traffic.megaphone.fm/PACIFICINVESTMENTMANAGEMENTCOMPANYLLC2160701335.mp3",
+      "title": "The Credit Market Lens: Making Sense of Diverging Signals in Investment Grade and High Yield Credit",
+      "feed": "PIMCO Pod",
+      "processed": "2026-11-23T22:06:28.801493+00:00",
+      "episode_id": "9e3a2b8ff450517b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-23T08:20:44.824517+00:00"
+  "last_updated": "2026-11-23T22:06:28.801538+00:00"
 }
