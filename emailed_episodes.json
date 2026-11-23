@@ -20768,8 +20768,15 @@
       "feed": "McKeany-Flavell Hot Commodity Podcast",
       "processed": "2026-11-22T07:33:09.825795+00:00",
       "episode_id": "940e80423315d6fd"
+    },
+    "ea769e848fa2c58e": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/684789e8-f22c-4d22-b71b-2e4288fcdc59/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=684789e8-f22c-4d22-b71b-2e4288fcdc59&feed=IFy3imsg&t=podcast&e=nx-s1-6048592&p=510325&d=548&size=8776811",
+      "title": "How American money is changing Europe's defense strategy",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-11-23T08:20:44.824476+00:00",
+      "episode_id": "ea769e848fa2c58e"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-22T07:33:09.825836+00:00"
+  "last_updated": "2026-11-23T08:20:44.824517+00:00"
 }

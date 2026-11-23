@@ -1,4 +1,22 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "How American money is changing Europe's defense strategy",
+      "published": "Mon, 23 Nov 2026 08:00:00 +0000",
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/684789e8-f22c-4d22-b71b-2e4288fcdc59/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=684789e8-f22c-4d22-b71b-2e4288fcdc59&feed=IFy3imsg&t=podcast&e=nx-s1-6048592&p=510325&d=548&size=8776811",
+      "feed": "The Indicator (Planet Money)",
+      "provider": "NPR",
+      "priority": 2,
+      "tags": [
+        "EUR",
+        "Fiscal",
+        "Geopolitics",
+        "Trade",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nThis episode examines the surge in European defense spending—EU countries are set to spend $500 billion on defense this year (over double a decade ago; $600 billion including UK and Norway)—driven by Russia's invasion of Ukraine and pressure from the Trump administration. While the spending boom is a boon for defense firms, structural problems mean money isn't translating efficiently into capability, a dynamic relevant mainly as a European fiscal/geopolitical backdrop rather than a direct EM FX driver.\n\n**Key points**\n- EU defense spending has more than doubled over the past decade to roughly $500bn this year; adding UK and Norway brings the total to $600bn.\n- Fragmentation across 27 EU member states causes duplicated production (e.g., separate national tank programs) and wasted spending, since systems built in parallel often aren't interoperable.\n- Top 10 defense firms capture ~80% of EU procurement value versus ~60% in the US, giving large incumbents pricing power amid surging demand.\n- Big European arms firms favor large-ticket items (tanks, planes, submarines) over smaller systems like drones, leaving a gap often filled by venture capital.\n- Europe lacks a robust venture capital culture compared to the US; as much as 50% of VC funding into European defense startups originates from American investors, raising sovereignty concerns about control, relocation, or technology access restrictions.\n\n**FX / rates implications**\n- Limited direct EM Asia/LATAM transmission; this is primarily a European fiscal and defense-industrial story. Higher sustained EU defense outlays support a broader European fiscal expansion narrative, a modest EUR-relevant theme via growth/deficit dynamics rather than a near-term rates catalyst.\n- Indirect channel: continued large-scale US capital flows into European defense/VC underscore ongoing US-Europe capital interdependence, a soft data point for global risk sentiment and capital flow narratives that occasionally spill into broader DM/EM positioning.\n\n**Watch list**\n- EU fiscal trajectory and any coordinated EU-wide defense procurement/pooling initiatives that could affect sovereign issuance and deficits.\n- Shifts in US policy stance (Trump administration) toward NATO/Europe that could alter the urgency and scale of European defense spending.\n- Trends in US VC allocation to European defense startups as a proxy for broader transatlantic capital flow sentiment.",
+      "summarized_at": "2026-11-23T08:20:44.824476+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-23"
 }
