@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "From EVs to Robots: China’s Edge in Physical AI",
+      "published": "Mon, 23 Nov 2026 22:00:00 -0000",
+      "url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/95396c5c-dac9-4205-895b-bb966af09d3a.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+      "feed": "Thoughts on the Market",
+      "provider": "Morgan Stanley",
+      "priority": 2,
+      "tags": [
+        "China",
+        "EV",
+        "Robotics",
+        "Physical AI",
+        "Manufacturing",
+        "Supply chain",
+        "Exports",
+        "Technology"
+      ],
+      "summary": "**Summary**\nMorgan Stanley equity strategists discuss China's structural edge in \"physical AI\" — the fusion of AI with robotics and electric vehicles — leveraging its manufacturing supply chain and vast real-world data generation. This is sector/equity research rather than FX or rates focused, but it bears on China's industrial competitiveness and export growth trajectory, which has broader macro relevance.\n\n**Key points**\n- China's advantage lies less in frontier AI models and more in its manufacturing supply chain built from smartphones, EVs and renewables, which can be redeployed for robotics.\n- Smart-feature penetration in Chinese EVs has risen from 10-15% three years ago to over 90% now; smart EV penetration forecast to reach 50% by 2030.\n- China's vehicle exports are tracking 9-10 million units this year, up roughly 50-60% year-over-year.\n- Robot-taxi fleet projected at 46,000 units in China by 2028, scaling toward one million by 2035.\n- China still faces constraints in advanced chips and frontier AI models versus global competitors.\n- Hardware/component suppliers (sensors, lidar, computing units) seen as early beneficiaries; software/service monetization (robot-as-a-service, token fees) seen as mid-to-long-term profit pools.\n\n**FX / rates implications**\n- No direct FX or rates read-through discussed; this is a China equity/industrial sector narrative rather than a PBoC, CNY/CNH or UST-relevant theme.\n- Longer-term, sustained strong Chinese EV/robotics export growth (50-60% y/y vehicle export growth cited) supports China's trade surplus and could be a modest tailwind for CNY and regional Asia FX via supply-chain linkages (Korea, Taiwan components), though not quantified here.\n\n**Watch list**\n- China EV export volumes and overseas expansion as a driver of trade balance.\n- Robot-taxi fleet scaling milestones (46,000 by 2028) as a proxy for physical AI commercialization pace.\n- Chip/frontier-model constraints as a potential bottleneck to watch for China tech policy and supply-chain investment flows.",
+      "summarized_at": "2026-11-24T01:15:52.196630+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-24"
 }
