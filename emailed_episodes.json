@@ -20817,8 +20817,22 @@
       "feed": "The Indicator (Planet Money)",
       "processed": "2026-11-24T10:38:09.881299+00:00",
       "episode_id": "56da3a1e3d66494a"
+    },
+    "2b3cdb4cd1ae7408": {
+      "url": "https://mcdn.podbean.com/mf/web/wenbcuv89ywderye/261124AARGLOBALFX_Outlook_KAL-1-TIS2QUUP.mp3",
+      "title": "Global FX Outlook 2027: ‘Tis the season",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-11-24T20:27:09.304552+00:00",
+      "episode_id": "2b3cdb4cd1ae7408"
+    },
+    "d469cd485c0bdfbe": {
+      "url": "https://traffic.megaphone.fm/CLS5759445410.mp3",
+      "title": "Scott Wu on Cybersecurity, Compute, and the Future of Engineering - [Invest Like the Best, EP.502]",
+      "feed": "Invest Like the Best",
+      "processed": "2026-11-24T20:45:53.962422+00:00",
+      "episode_id": "d469cd485c0bdfbe"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-24T10:38:09.881346+00:00"
+  "last_updated": "2026-11-24T20:45:53.962462+00:00"
 }
