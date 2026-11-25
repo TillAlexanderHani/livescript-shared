@@ -1,4 +1,28 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "What Jensen Huang's Stunning Return Means for the AI Trade",
+      "published": "Tue, 24 Nov 2026 09:00:00 +0000",
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/e1cd0e3e-9e03-40db-bc4b-b50b0165eab4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "feed": "Odd Lots (Bloomberg)",
+      "provider": "Bloomberg",
+      "priority": 4,
+      "tags": [
+        "S&P 500",
+        "Nasdaq 100",
+        "Risk sentiment",
+        "Fed",
+        "VIX",
+        "USD",
+        "UST 10y",
+        "Credit",
+        "Oil",
+        "WTI",
+        "Carry"
+      ],
+      "summary": "**Summary**\nOdd Lots runs an emergency pod on the whiplash AI trade: S&P 500 entered a correction Friday (worst week since COVID, -7%), then Nvidia's Jensen Huang was reinstated and stocks ripped higher Monday (Nasdaq 100 +6.9%). Barclays' Alexander Altmann argues this is less dead-cat-bounce and more a high-vol regime where both up and down moves are amplified, with the Fed's financial-conditions tightening as the key forward risk.\n\n**Key points**\n- VIX hit 40 intraday Friday, still around 30 Monday — consistent with ~2% daily S&P swings continuing.\n- Fastest one-month tightening of financial conditions since Dec 2018, comparable to March 2020; roughly 3.5 Fed hikes now priced over the next year, with Dec 9 meeting seen as near-certain (odds eased slightly from >100% to 91% late last week).\n- Friday's selloff was technical: ~$35bn levered ETF selling, 58th-worst S&P liquidity day in 10 years, dealer short-gamma around the 7100 strike amplifying the slide; no safe-haven bid (Bitcoin, gold, Treasuries all weak).\n- Semiconductor valuations reset sharply (30-40% cut to forward capex expectations); credit spreads on hyperscaler/data-center/neocloud debt have not tightened, signaling a higher AI financing cost environment.\n- Oil below $80 and largely ignored despite Iran/Strait-of-Hormuz risk; Anthropic's Rimann-hypothesis claim also dismissed as not yet monetizable.\n\n**FX / rates implications**\n- A Fed pivot toward 50bp-style hawkishness or continued financial-conditions tightening (per Waller/Barr/Hammack commentary) would pressure global risk assets and could support USD/DXY broadly, a headwind for EM Asia and LatAm carry trades.\n- Credit spread widening in US hyperscaler/data-center debt is an early-warning indicator for broader risk-off spillover into EM credit and FX.\n- No direct EM Asia/LatAm currency commentary, but the risk-on/risk-off whiplash in US equities and vol (VIX) is a key global risk-sentiment driver for EM FX positioning.\n\n**Watch list**\n- FOMC meeting December 9 — hike probability and messaging on further tightening.\n- Credit spreads on data-center/neocloud/hyperscaler bonds for AI financing stress signals.\n- VIX level as a proxy for continued large bidirectional swings in global risk assets.",
+      "summarized_at": "2026-11-25T01:55:16.553428+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-25"
 }
