@@ -20852,8 +20852,50 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-11-25T01:58:54.183664+00:00",
       "episode_id": "e1348ba0f1190011"
+    },
+    "3b5eb9ef162ca1b0": {
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD4117722841.mp3",
+      "title": "How Hedge Funds Are Navigating Stock Market Volatility",
+      "feed": "Goldman Sachs The Markets",
+      "processed": "2026-11-25T09:13:20.320012+00:00",
+      "episode_id": "3b5eb9ef162ca1b0"
+    },
+    "381b759cf7ff0e5b": {
+      "url": "https://mcdn.podbean.com/mf/web/kp5mfqapuhmabzp8/261124AARGFIMS_Outlook_KAL-1-TOD5SL7C.mp3",
+      "title": "Global Rates : 2027 Outlook Themes for European Rates",
+      "feed": "At Any Rate Podcast",
+      "processed": "2026-11-25T09:16:50.854712+00:00",
+      "episode_id": "381b759cf7ff0e5b"
+    },
+    "51ef5d1d7d5566ab": {
+      "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/4c1099ce-f37c-45a7-9ee4-0b1bc09d674a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=4c1099ce-f37c-45a7-9ee4-0b1bc09d674a&feed=tc4zxWgX",
+      "title": "NVIDIA Reversal, AI Risks and Retail Resilience",
+      "feed": "CNBC - The Exchange",
+      "processed": "2026-11-25T09:26:50.227658+00:00",
+      "episode_id": "51ef5d1d7d5566ab"
+    },
+    "fc2075c3e3e3572d": {
+      "url": "https://sphinx.acast.com/p/acast/s/behindthemoney/e/6aff0ad7c838fad86f16f7b2/media.mp3",
+      "title": "The most famous economist you've never heard of",
+      "feed": "Financial Times Behind the Money (Macro)",
+      "processed": "2026-11-25T09:33:56.483884+00:00",
+      "episode_id": "fc2075c3e3e3572d"
+    },
+    "c9ada963441f4013": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b55b392-98fa-4963-9641-41942cc6d7f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b55b392-98fa-4963-9641-41942cc6d7f6&feed=hvWWWzRv&t=podcast&e=nx-s1-6053008&p=510289&d=1590&size=25451273",
+      "title": "How to steal a truckload of bourbon and not get caught",
+      "feed": "Planet Money",
+      "processed": "2026-11-25T09:37:47.743577+00:00",
+      "episode_id": "c9ada963441f4013"
+    },
+    "b80768c3ce578f46": {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/708e74fd-2bbd-4840-8e8d-97da6ea423f9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=708e74fd-2bbd-4840-8e8d-97da6ea423f9&feed=IFy3imsg&t=podcast&e=nx-s1-6053235&p=510325&d=508&size=8129393",
+      "title": "Sorry, even store brands are expensive now",
+      "feed": "The Indicator (Planet Money)",
+      "processed": "2026-11-25T09:39:49.693216+00:00",
+      "episode_id": "b80768c3ce578f46"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-25T01:58:54.183708+00:00"
+  "last_updated": "2026-11-25T09:39:49.693258+00:00"
 }
