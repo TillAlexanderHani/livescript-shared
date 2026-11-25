@@ -98,6 +98,35 @@
       ],
       "summary": "**Summary**\nThis Planet Money/Indicator episode introduces \"cheapflation,\" a phenomenon where cheaper, budget-brand groceries have risen in price faster than premium brands during the COVID-era inflation surge. The finding, based on a 2024 academic paper, has implications for how inflation inequality is measured and understood, but is a US consumer-economics story with no direct market or EM transmission.\n\n**Key points**\n- Harvard Business School economist Alberto Cavallo and a Bank of Canada co-author studied price data for over 2 million products across 10 countries (including US, Netherlands, Argentina) from 2018 to May 2024.\n- In the US, cheap food/beverage prices rose 30% from January 2020 to May 2024, versus 22% for premium versions; in Italy, cheap goods rose almost 30% versus 15% for premium.\n- They found no meaningful evidence of \"shrinkflation\" (smaller packages, same price) in the dataset, pivoting instead to this price-tier divergence.\n- Drivers: demand-side shift by shoppers toward cheaper brands pushes those prices up, while thin profit margins on budget products mean producers pass through cost increases (including tariffs) faster than premium-brand makers.\n- Cavallo argues cheapflation may have eroded the real benefit of COVID-era government stimulus payments for low-income households, a consideration for policymakers assessing subsidy adequacy.\n- Anecdotal detail: a can of corn that once cost 33 cents now costs close to $1; egg prices have recently come down.\n\n**FX / rates implications**\nNone directly — this is a microeconomic/consumer-inflation-measurement story about US and other DM grocery pricing, not a driver of EM FX, rates, or global risk sentiment.\n\n**Watch list**\n- US CPI/PCE components for food-at-home disaggregated by price tier, if available, to track cheapflation dynamics.\n- Broader narrative on US affordability as a political issue following recent midterm elections, which could feed into fiscal/subsidy policy debates relevant to consumption-driven growth forecasts.",
       "summarized_at": "2026-11-25T09:39:49.693216+00:00"
+    },
+    {
+      "title": "Global Rates: DM inflation - Rinse and repeat",
+      "published": "Wed, 25 Nov 2026 11:01:59 -0500",
+      "url": "https://mcdn.podbean.com/mf/web/fe9jnb8gu68tdhf4/261125AARMIO_KAL-1-S2ACU9YU.mp3",
+      "feed": "At Any Rate Podcast",
+      "provider": "J.P. Morgan",
+      "priority": 4,
+      "tags": [
+        "Fed",
+        "FOMC",
+        "ECB",
+        "BoE",
+        "USD",
+        "EUR",
+        "GBP",
+        "UST 10y",
+        "Bund",
+        "Gilt",
+        "Inflation",
+        "CPI",
+        "HICP",
+        "RPI",
+        "Brent",
+        "Carry",
+        "Tariffs"
+      ],
+      "summary": "**Summary**\nJPMorgan's Global Rates team lays out a 2027 DM inflation outlook titled \"rinse and repeat,\" arguing next year looks like this year: front-end breakevens track energy, five-year-five-year inflation stays range-bound, and real yields rise with policy tightening. The standout call is a Fed seen hiking three times (December, January, March) because core PCE has run 88bp above core CPI — the widest gap since the Fed began PCE targeting — even as core CPI fell to 2.4%.\n\n**Key points**\n- Market-implied Fed terminal rate rose ~125bp this year; US 10y and 1y1y real yields up 70-150bp as Fed/ECB hiked.\n- Commodity prices explain 44% of 2026 breakeven variation but under 8% of forward (3-month-lag-adjusted) inflation pricing — a historical break, reflecting energy backwardation and a Fed leaning against pass-through.\n- Tariffs seen adding 0.1-0.2 to core CPI, mostly in the first six months; JPM's commodity desk expects crude near/below $70 in 2027.\n- 46% of institutional clients now expect core CPI below 2.5% over 2-5 years, up from 28% last year.\n- Eurozone headline HICP seen peaking 4.1% in December, falling to 1.6% by end-2027; core sticky 2.7-2.8%; assumes Brent to $75 and TTF gas to ~€45/MWh by spring.\n- UK: October headline CPI 3.6%, core 2.8%, services 3.7%; BoE's next 25bp hike pushed to February from December; headline seen peaking 4.2% in February, RPI peaking 6%.\n- French OAT-Bund spread widened ~90bp in late October on political risk; linker supply rising to €65bn in 2027.\n\n**FX / rates implications**\n- A Fed hiking three more times through March is a direct USD-positive, UST-yield-positive signal that tightens global financial conditions and pressures EM carry trades, FX and local rates broadly — watch EM Asia/LATAM central banks' reaction function if DXY and UST yields extend higher.\n- Narrowing inflation risk premium and fairly-valued US breakevens suggest less upside surprise risk for US real yields, a moderating but still-firm USD backdrop for EM.\n- Lower Brent ($70-75 base case) is a tailwind for EM oil importers (India, Philippines, Indonesia) but a headwind for LATAM oil exporters (Mexico, Colombia).\n- ECB/BoE policy paths staying inflation-anchored but cautious keep EUR/GBP rate differentials versus USD in focus for broad risk sentiment.\n\n**Watch list**\n- FOMC meetings: December, January, March — key for USD/UST trajectory.\n- Crude oil path toward JPM's ~$70 2027 forecast.\n- French political/fiscal headlines and OAT-Bund spread, French elections next year.\n- BoE February meeting (next hike) and UK CPI/RPI trajectory toward 4%+ in H1 2027.",
+      "summarized_at": "2026-11-25T19:39:15.503698+00:00"
     }
   ],
   "last_digest_date": "2026-11-25"
