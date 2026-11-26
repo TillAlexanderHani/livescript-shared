@@ -20957,8 +20957,22 @@
       "feed": "Odd Lots (Bloomberg)",
       "processed": "2026-11-26T09:12:09.636949+00:00",
       "episode_id": "1f5be539ff039284"
+    },
+    "ad15ed04c8ad8b94": {
+      "url": "https://sphinx.acast.com/p/open/s/64db93c01796c400110e0ce3/e/6b088ca2c356f28bdbe8b8a6/media.mp3",
+      "title": "More AI volatility to come?",
+      "feed": "Under the Banyan Tree (HSBC Global Research)",
+      "processed": "2026-11-26T22:40:38.789532+00:00",
+      "episode_id": "ad15ed04c8ad8b94"
+    },
+    "b1255813ae67e08b": {
+      "url": "https://op3.dev/e/https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/1951932/episodes/20146978-ep97-beyond-coal-powering-asean-s-just-energy-transition-with-supawan-saelim-tatiana-lanshina-agora.mp3",
+      "title": "Ep97 Beyond Coal: Powering ASEAN's Just Energy Transition with Supawan Saelim & Tatiana Lanshina, Agora",
+      "feed": "Asia Climate Finance Podcast",
+      "processed": "2026-11-26T22:46:40.350954+00:00",
+      "episode_id": "b1255813ae67e08b"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-26T09:12:09.636989+00:00"
+  "last_updated": "2026-11-26T22:46:40.350997+00:00"
 }
