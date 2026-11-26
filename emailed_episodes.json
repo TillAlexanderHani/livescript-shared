@@ -20929,8 +20929,22 @@
       "feed": "Goldman Sachs Exchanges",
       "processed": "2026-11-26T01:15:19.384009+00:00",
       "episode_id": "5790f40da3763731"
+    },
+    "2f02eb80cd82fa80": {
+      "url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/453uwimkeczm6d9q/Macrovoices-2026-11-25-Daniel-Lacalle.mp3",
+      "title": "MacroVoices #560 Daniel Lacalle: “The European ER AH Situation…”",
+      "feed": "Macro Voices",
+      "processed": "2026-11-26T04:01:44.633278+00:00",
+      "episode_id": "2f02eb80cd82fa80"
+    },
+    "c1b737d80a0217fa": {
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/THRH5215019737.mp3",
+      "title": "America's spending paradox",
+      "feed": "Reuters Econ World",
+      "processed": "2026-11-26T04:08:33.489084+00:00",
+      "episode_id": "c1b737d80a0217fa"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-26T01:15:19.384059+00:00"
+  "last_updated": "2026-11-26T04:08:33.489126+00:00"
 }
