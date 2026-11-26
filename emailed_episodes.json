@@ -20943,8 +20943,22 @@
       "feed": "Reuters Econ World",
       "processed": "2026-11-26T04:08:33.489084+00:00",
       "episode_id": "c1b737d80a0217fa"
+    },
+    "9a6b09b25046f9ee": {
+      "url": "https://sphinx.acast.com/p/open/s/664394a442f6710013618119/e/6b07225af82f6a279c07246e/media.mp3",
+      "title": "Will AI put economists out of work? With Jason Furman",
+      "feed": "The Economics Show",
+      "processed": "2026-11-26T09:05:14.793240+00:00",
+      "episode_id": "9a6b09b25046f9ee"
+    },
+    "1f5be539ff039284": {
+      "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/84bd57a3-7784-4f39-9716-b50d01106c9e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "title": "Marc Levinson on How UPS Created Modern Logistics",
+      "feed": "Odd Lots (Bloomberg)",
+      "processed": "2026-11-26T09:12:09.636949+00:00",
+      "episode_id": "1f5be539ff039284"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-26T04:08:33.489126+00:00"
+  "last_updated": "2026-11-26T09:12:09.636989+00:00"
 }
