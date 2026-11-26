@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "What Will Determine the Durability of the AI Investment Cycle?",
+      "published": "Tue, 24 Nov 2026 19:16:00 -0000",
+      "url": "https://mgln.ai/e/1720/traffic.megaphone.fm/GLD3836292455.mp3",
+      "feed": "Goldman Sachs Exchanges",
+      "provider": "Goldman Sachs",
+      "priority": 3,
+      "tags": [
+        "AI",
+        "NeoClouds",
+        "Credit",
+        "Risk sentiment",
+        "S&P 500",
+        "CapEx",
+        "Hyperscalers",
+        "Tech sell-off"
+      ],
+      "summary": "**Summary**\nGoldman Sachs' Allison Nathan discusses the durability of the AI investment cycle with Social Capital's Chamath Palihapitiya and GS analyst Eric Sheridan, following recent AI-related stress in equity and credit markets and post-midterm regulatory uncertainty. The debate centers on whether hyperscaler AI capex will generate adequate ROI before investor patience runs out — a key swing factor for broad risk sentiment and credit spreads.\n\n**Key points**\n- Palihapitiya flags NeoClouds (AI infrastructure financiers) as structurally mismatched: short-dated, speculative revenue against long-dated, fixed obligations, likened to airlines needing 80-85% utilization to break even versus current ~70-75%.\n- Credit markets have already \"sniffed out\" the risk — spreads and CDS on NeoCloud-related debt have widened.\n- Binding constraint has shifted from chips to power/land; actual AI ROI remains elusive despite surging token/agent consumption — EPS gains are rarely attributable to AI versus buybacks or pricing power.\n- Sheridan notes hyperscalers (Microsoft, Amazon, Alphabet, Meta) have shown credible ROIC and backlog conversion, and would need only ~50% of backlog monetized to clear a 15%+ return hurdle; memory-price inflation is a cost surprise.\n- Both agree hyperscalers (pristine balance sheets, cash flow) are insulated; risk is concentrated in NeoClouds and non-hyperscaler AI-levered names trading at depressed single/low-double-digit EPS multiples.\n\n**FX / rates implications**\n- Primarily a US tech/credit-market story; limited direct EM read-through, but a disorderly AI-credit unwind (NeoCloud defaults, spread widening) would be a classic risk-off trigger — pressuring EM Asia and LATAM FX (INR, IDR, MXN, BRL) via global risk appetite and credit-spread contagion channels, and could pull UST yields lower on flight-to-quality.\n- Continued hyperscaler capex/equity resilience would keep broader risk sentiment supportive for carry trades.\n\n**Watch list**\n- NeoCloud utilization rates and CDS/credit spreads as an early-warning signal.\n- Hyperscaler capex guidance and ROIC disclosures in upcoming earnings (following Microsoft, Amazon, Alphabet, Meta commentary already cited).\n- Power/land supply constraints and any further equity/credit drawdowns tied to the AI theme into 2027-2028.",
+      "summarized_at": "2026-11-26T01:15:19.384009+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-26"
 }
