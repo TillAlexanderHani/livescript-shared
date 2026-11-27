@@ -20978,8 +20978,15 @@
       "feed": "Financial Times Unhedged",
       "processed": "2026-11-27T01:15:44.295056+00:00",
       "episode_id": "1a3f54be31d3a64b"
+    },
+    "df7096628e793856": {
+      "url": "https://www.buzzsprout.com/1662247/episodes/20187546-through-the-noise-upgrading-equities-downgrading-gold.mp3",
+      "title": "Through the noise: Upgrading equities, downgrading gold",
+      "feed": "Standard Chartered Money Insights",
+      "processed": "2026-11-27T09:19:11.896818+00:00",
+      "episode_id": "df7096628e793856"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-27T01:15:44.295103+00:00"
+  "last_updated": "2026-11-27T09:19:11.896852+00:00"
 }
