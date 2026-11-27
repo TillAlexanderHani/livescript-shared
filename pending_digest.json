@@ -1,4 +1,25 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "What's a fund manager to do?",
+      "published": "Thu, 26 Nov 2026 21:00:00 GMT",
+      "url": "https://sphinx.acast.com/p/open/s/6478a825654260001190a7cb/e/6b08925e28826f4c5b6186ae/media.mp3",
+      "feed": "Financial Times Unhedged",
+      "provider": "Financial Times",
+      "priority": 3,
+      "tags": [
+        "Gold",
+        "S&P 500",
+        "Risk sentiment",
+        "Tech stocks",
+        "Equities",
+        "UK",
+        "Bitcoin",
+        "Diversification"
+      ],
+      "summary": "**Summary**\nFT's Unhedged discusses the unwind of the dominant US tech/AI trade and what it means for fund managers navigating volatility, with UK equities (defensives, banks, energy) outperforming the US for the first time in years. The conversation also covers a striking regulatory story about pension trustees firing managers for being underweight US tech, plus the puzzling breakdown of gold and Bitcoin as diversifiers.\n\n**Key points**\n- Nasdaq is up only ~3% YTD while the equal-weight S&P 500 is up ~16%, and the FTSE 100 is up ~6.7%, both beating cap-weighted US tech-heavy indices.\n- UK's outperformance is driven by banks (helped by rates), pharma, and energy/oil stocks — essentially a concentration in \"boring\" non-tech sectors.\n- FCA has received complaints from UK fund managers sacked by pension trustees for not being overweight US tech stocks despite following agreed benchmarks (story by Emma Dunkley, Martin Arnold, Callum Keown).\n- Gold has fallen roughly a third from its January peak to ~$3,500/oz, confounding its traditional role as a hedge against bad macro outcomes.\n- Bitcoin is down more than half from its peak; guest likens it to \"the original meme coin,\" raising concerns about pension consultants who recommended 1-5% allocations.\n\n**FX / rates implications**\n- Gold's failure to rally despite risk-off equity conditions signals that traditional safe-haven/diversification correlations are breaking down — a caution flag for EM reserve managers and carry trades that lean on gold as a hedge.\n- Broad de-rating of US mega-cap tech and AI-linked risk appetite is a background risk-sentiment input for EM FX, though no direct EM Asia/LATAM read-through is given here.\n- Weakening USD-linked risk-on narrative (tech wobble) could marginally support rotation into non-US/defensive equities, a theme global allocators may extend toward EM.\n\n**Watch list**\n- Further AI/Nvidia-driven volatility in US mega-cap tech as a risk-sentiment catalyst.\n- Gold price action below $3,500/oz as a signal on whether safe-haven demand is structurally shifting.\n- Pension/fund mandate disputes over tech concentration, a governance theme with asset-allocation implications.",
+      "summarized_at": "2026-11-27T01:15:44.295056+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-27"
 }
