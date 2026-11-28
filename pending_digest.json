@@ -1,4 +1,24 @@
 {
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Specialist lenders facing greater scrutiny",
+      "published": "Fri, 27 Nov 2026 16:00:00 +0000",
+      "url": "https://www.buzzsprout.com/1811593/episodes/20187945-specialist-lenders-facing-greater-scrutiny.mp3",
+      "feed": "The GlobalCapital Podcast",
+      "provider": "GlobalCapital",
+      "priority": 2,
+      "tags": [
+        "EUR",
+        "ECB",
+        "Credit",
+        "Securitization",
+        "Fiscal",
+        "Elections",
+        "Risk sentiment"
+      ],
+      "summary": "**Summary**\nThis GlobalCapital Podcast episode covers European primary debt markets: fallout from the February collapse of UK bridging lender Market Financial Solutions (MFS) in securitization, hyperscaler tech-company bond issuance crowding the SSA market, and the 2027 outlook for euro covered bonds. Relevance to EM FX/rates is indirect, mainly via European credit conditions, ECB rate path and risk sentiment.\n\n**Key points**\n- MFS, a UK buy-to-let bridging lender with a loan book that peaked above £2bn, collapsed into administration in February amid allegations (denied) of fraud and \"double pledging\" of collateral; warehouse funding pricing has risen and banks now favor larger, better-sponsored lenders with deeper collateral audits.\n- Hyperscalers (Alphabet, Amazon, Meta, Microsoft, Oracle, plus SpaceX, Nvidia, Intel) are forecast by ING to issue €60bn, $190bn and $25bn-equivalent in other currencies of bonds in 2027, pulling demand from the SSA market as they offer ~100bp higher spreads than SSA paper.\n- Euro covered bond issuance is forecast at ~€200bn in 2027 (+15% y/y, busiest since 2022), driven by ~€180bn of redemptions rather than net new supply (only €10-20bn net); new issue premiums have normalized to 4-5bp after spiking to 7-10bp in October.\n- ECB rate expectations: market pricing the last hike at the March 2027 meeting, with cuts expected from mid-2027; issuers are eyeing diversification into GBP, USD, AUD and CHF covered bonds.\n\n**FX / rates implications**\n- EUR rates: ECB priced for a final hike in March 2027 before cuts from mid-year — a data point for EUR rates/curve positioning and a marginal cross-check for global policy-divergence trades relevant to EM carry.\n- French political risk (presidential election spring 2027, possible snap parliamentary election in June) is flagged as a source of OAT/French credit volatility that issuers are actively routing around — a reminder of EU periphery/political risk that can spill into broader risk sentiment.\n- Hyperscaler supply pulling investment-grade demand from SSA/sovereign paper is a crowding-out dynamic worth monitoring for broader credit spread and safe-haven flow dynamics, though no direct EM linkage was discussed.\n\n**Watch list**\n- French presidential election (spring 2027, second round early May) and potential snap parliamentary election (June) as volatility catalysts for European sovereign/covered bond issuance windows.\n- ECB March 2027 meeting, seen by traders as the last hike before cuts begin mid-year.\n- GlobalCapital's Review 2026/Outlook 2027 special report due out mid next month, covering SSA, covered bonds, securitization and more.",
+      "summarized_at": "2026-11-28T00:47:43.656573+00:00"
+    }
+  ],
   "last_digest_date": "2026-11-28"
 }

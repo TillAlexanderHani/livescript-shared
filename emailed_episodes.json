@@ -21048,8 +21048,29 @@
       "feed": "Nomura - The Week Ahead",
       "processed": "2026-11-27T22:50:00.436494+00:00",
       "episode_id": "43cb211a641af0fd"
+    },
+    "b8aa201e44900a6e": {
+      "url": "https://www.buzzsprout.com/1811593/episodes/20187945-specialist-lenders-facing-greater-scrutiny.mp3",
+      "title": "Specialist lenders facing greater scrutiny",
+      "feed": "The GlobalCapital Podcast",
+      "processed": "2026-11-28T00:47:43.656573+00:00",
+      "episode_id": "b8aa201e44900a6e"
+    },
+    "a75c5b022c8fa24f": {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0e664c82-59be-42a0-a5df-6a001ae5216e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0e664c82-59be-42a0-a5df-6a001ae5216e&feed=hvWWWzRv&t=podcast&e=nx-s1-6053171&p=510289&d=1451&size=23220602",
+      "title": "The economics of podcasting and NPR+",
+      "feed": "Planet Money",
+      "processed": "2026-11-28T00:51:26.269151+00:00",
+      "episode_id": "a75c5b022c8fa24f"
+    },
+    "cfdc24c455af9a78": {
+      "url": "https://traffic.libsyn.com/secure/macrohive/MH_w_JARVIS_.mp3?dest-id=1929056",
+      "title": "Ep. 386: James Jarvis on Bloomberg BQuant, AI-Powered Coding, and Financial Data Science",
+      "feed": "Macro Hive Conversations",
+      "processed": "2026-11-28T00:58:44.335504+00:00",
+      "episode_id": "cfdc24c455af9a78"
     }
   },
   "version": "4.0",
-  "last_updated": "2026-11-27T22:50:00.436529+00:00"
+  "last_updated": "2026-11-28T00:58:44.335546+00:00"
 }
